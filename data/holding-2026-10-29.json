@@ -555,8 +555,10 @@
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "Dreamlines",
-      "checked_at": "2026-10-29T19:47:39.416170+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:49:29.271679+00:00"
     },
     "24": {
       "status": "checked",
