@@ -286,6 +286,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Get That Cruise",
       "checked_at": "2026-10-29T19:50:22.145241+00:00"
+    },
+    "31": {
+      "status": "checked",
+      "url": "https://www.havilavoyages.com/en",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Havila Voyages",
+      "checked_at": "2026-10-29T19:50:44.113204+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
