@@ -741,6 +741,14 @@
       "lead_count": 0,
       "source_name": "Reddit r/NCL",
       "checked_at": "2026-10-29T20:08:11.379835+00:00"
+    },
+    "79": {
+      "status": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Reddit r/solotravel",
+      "checked_at": "2026-10-29T20:08:33.690018+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
