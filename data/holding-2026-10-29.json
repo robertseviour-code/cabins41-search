@@ -757,6 +757,15 @@
       "lead_count": 0,
       "source_name": "Reddit r/VirginVoyages",
       "checked_at": "2026-10-29T20:08:55.111708+00:00"
+    },
+    "81": {
+      "status": "checked",
+      "url": "https://www.facebook.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Solo Cruise Deals: NCL, Royal Caribbean, Carnival, MSC and more",
+      "checked_at": "2026-10-29T20:09:16.760100+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
