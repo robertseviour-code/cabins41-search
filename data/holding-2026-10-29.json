@@ -238,6 +238,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Emerald Cruises",
       "checked_at": "2026-10-29T19:48:27.878201+00:00"
+    },
+    "26": {
+      "status": "checked",
+      "url": "https://explorajourneys.com/us/en",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Explora Journeys",
+      "checked_at": "2026-10-29T19:48:49.946401+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
