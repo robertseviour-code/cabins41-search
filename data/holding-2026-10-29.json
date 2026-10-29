@@ -725,6 +725,14 @@
       "lead_count": 0,
       "source_name": "Reddit r/CruiseDeals",
       "checked_at": "2026-10-29T20:07:27.668269+00:00"
+    },
+    "77": {
+      "status": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Reddit r/Cruises",
+      "checked_at": "2026-10-29T20:07:49.992992+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
