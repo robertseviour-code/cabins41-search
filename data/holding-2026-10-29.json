@@ -6,8 +6,10 @@
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "AffordableTours",
-      "checked_at": "2026-10-29T19:39:23.534438+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:40:20.424388+00:00"
     },
     "2": {
       "status": "failed",
