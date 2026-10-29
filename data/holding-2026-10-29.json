@@ -434,6 +434,14 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Odysia Cruise",
       "checked_at": "2026-10-29T19:56:15.811008+00:00"
+    },
+    "47": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "P and O Cruises",
+      "checked_at": "2026-10-29T19:56:37.542397+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
