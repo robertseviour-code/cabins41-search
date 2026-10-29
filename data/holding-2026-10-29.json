@@ -1339,9 +1339,31 @@
         "alitätsstandards haben bei uns oberste Priorität. Und für Singles gibt es stark ermäßigte Einzelkabinen. Sie werden feststellen, dass die meisten Leistungen bei unseren Kreuzfahrten schon enthalten sind. Das erleichtert Ihre Urlaubsplanung und Sie können sich au"
       ],
       "lead_count": 3,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.phoenixreisen.com/asien-kreuzfahrt-gesucht-jetzt-viele-angebote-bei-phoenix-reisen.html",
+          "label": "Asien",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.phoenixreisen.com/phoenix-kreuzfahrtschiffe-alle-schiffe-und-angebote-im-ueberblick-.html",
+          "label": "Kreuzfahrtschiffe Überblick",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.phoenixreisen.com/fjorde-kreuzfahrt-in-norwegen-dem-land-der-trolle-jetzt-buchen.html",
+          "label": "Alle Angebote",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 7,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Phoenix Reisen",
-      "checked_at": "2026-10-29T19:58:32.170186+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:01:07.392480+00:00"
     },
     "53": {
       "status": "checked",
