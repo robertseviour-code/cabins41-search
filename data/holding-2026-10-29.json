@@ -582,6 +582,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Travel Dealz",
       "checked_at": "2026-10-29T20:01:53.435831+00:00"
+    },
+    "62": {
+      "status": "checked",
+      "url": "https://www.uniworld.com:443/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Uniworld",
+      "checked_at": "2026-10-29T20:02:15.197111+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
