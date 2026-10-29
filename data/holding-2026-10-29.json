@@ -191,6 +191,14 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Crystal Cruises",
       "checked_at": "2026-10-29T19:46:32.705794+00:00"
+    },
+    "21": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Cunard",
+      "checked_at": "2026-10-29T19:46:54.617375+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
