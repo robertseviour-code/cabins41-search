@@ -16,6 +16,15 @@
       "lead_count": 0,
       "source_name": "AIDA Cruises",
       "checked_at": "2026-10-29T19:39:45.247642+00:00"
+    },
+    "3": {
+      "status": "checked",
+      "url": "https://www.amawaterways.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "AmaWaterways",
+      "checked_at": "2026-10-29T19:40:07.635656+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
