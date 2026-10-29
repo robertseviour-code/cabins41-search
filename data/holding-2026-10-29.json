@@ -637,6 +637,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Viva Holidays",
       "checked_at": "2026-10-29T20:04:10.346524+00:00"
+    },
+    "68": {
+      "status": "checked",
+      "url": "https://windstarcruises.com",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Windstar Cruises",
+      "checked_at": "2026-10-29T20:04:31.923842+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
