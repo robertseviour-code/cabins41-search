@@ -529,6 +529,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "ROL Cruise",
       "checked_at": "2026-10-29T20:00:00.774437+00:00"
+    },
+    "57": {
+      "status": "checked",
+      "url": "https://www.royalcaribbean.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Royal Caribbean",
+      "checked_at": "2026-10-29T20:00:22.729521+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
