@@ -2087,9 +2087,12 @@
       "url": "https://www.facebook.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Solo Cruise Deals: NCL, Royal Caribbean, Carnival, MSC and more",
-      "checked_at": "2026-10-29T20:09:16.760100+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:14:19.194251+00:00"
     },
     "82": {
       "status": "checked",
