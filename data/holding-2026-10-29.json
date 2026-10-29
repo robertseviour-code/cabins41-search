@@ -1102,8 +1102,10 @@
       "error": "HTTP Error 401: Unauthorized",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "MSC Cruises",
-      "checked_at": "2026-10-29T19:54:47.770258+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:57:08.350201+00:00"
     },
     "43": {
       "status": "checked",
