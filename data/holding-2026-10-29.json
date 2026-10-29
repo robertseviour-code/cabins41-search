@@ -1922,9 +1922,31 @@
       "url": "https://checkmydeal.es",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://checkmydeal.es/cruises/ofertas",
+          "label": "⁠ Nueva oferta de crucero:   Celebrity Edge  desde  1.792 € ⁠",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://checkmydeal.es/company/travel/cruises/compare-cruises",
+          "label": "Comparar cruceros 0",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://checkmydeal.es/cruises/comparar",
+          "label": "Comparar cruceros",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 3,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "CheckMyDeal",
-      "checked_at": "2026-10-29T20:05:37.628899+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:10:34.406613+00:00"
     },
     "72": {
       "status": "failed",
