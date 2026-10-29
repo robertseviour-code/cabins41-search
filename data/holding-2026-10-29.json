@@ -2175,9 +2175,40 @@
         "e hustle and bustle of everyday life to unwind and reconnect with themselves. For others, solo cruising offers a sense of freedom and independence, allowing them to explore new destinations at their own pace and on their own terms without having to compromise"
       ],
       "lead_count": 22,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://thesolocruise.com/solo-adventures",
+          "label": "Solo Adventures",
+          "keyword_count": 6,
+          "snippets": [
+            "Solo Cruise Reviews - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Sol",
+            "Solo Cruise Reviews - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo Adventures New Solo Crui",
+            "Solo Cruise Reviews - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo Adventures New Solo Cruise Book Reach Out Los Angeles, CA, US solocruiserconta",
+            "ruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo Adventures New Solo Cruise Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo C",
+            "RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo Adventures New Solo Cruise Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo Cruise Reports from Journalist Wade Heath Sitemap Follow us",
+            "se Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo Cruise Reports from Journalist Wade Heath Sitemap Follow us"
+          ]
+        },
+        {
+          "url": "https://thesolocruise.com/new-solo-cruise-book",
+          "label": "New Solo Cruise Book",
+          "keyword_count": 7,
+          "snippets": [
+            "500 Reasons to Solo Cruise Book - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS A New eBook by Wade Heath Discover confidence, clarity, and hi",
+            "500 Reasons to Solo Cruise Book - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS A New eBook by Wade Heath Discover confidence, clarity, and hidden solo cruise secret",
+            "0 Reasons to Solo Cruise Book - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS A New eBook by Wade Heath Discover confidence, clarity, and hidden solo cruise secrets in this inspiring guide for anyone ready to sail alo",
+            "ise Book RECENT VIDEOS A New eBook by Wade Heath Discover confidence, clarity, and hidden solo cruise secrets in this inspiring guide for anyone ready to sail alone with purpose. Whether it’s your first solo sailing or your fifteenth, this book helps you navig",
+            ". Inside, you’ll find practical strategies to maximize your vacation time, uncover hidden solo cruise secrets, and create meaningful moments that stick with you long after disembarkation. You’ll also hear real stories from fellow solo travelers who found inspi",
+            "and excited for your next adventure. LEARN MORE Welcome About Contact Solo Adventures New Solo Cruise Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo Cruise Reports from Journalist Wade Heath Sitemap Follow us",
+            "se Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo Cruise Reports from Journalist Wade Heath Sitemap Follow us"
+          ]
+        }
+      ],
+      "candidate_links_found": 2,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "The Solo Cruise",
-      "checked_at": "2026-10-29T20:10:00.523741+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:15:04.617627+00:00"
     },
     "84": {
       "status": "checked",
