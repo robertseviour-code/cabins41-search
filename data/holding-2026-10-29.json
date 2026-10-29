@@ -689,6 +689,17 @@
       "lead_count": 0,
       "source_name": "CruisePlum",
       "checked_at": "2026-10-29T20:05:59.258953+00:00"
+    },
+    "73": {
+      "status": "checked",
+      "url": "https://www.cruisingforone.com/",
+      "lead_snippets": [
+        "--> Solo Cruising Tips & Guides | Cruisingforone.com Travel Blog ._internalContainerRoot_1xyyz_1{position:relative;width:100%;height:100%;--borderTopWidth: 0px;--borderTopSty"
+      ],
+      "lead_count": 1,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Cruising for One",
+      "checked_at": "2026-10-29T20:06:21.163022+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
