@@ -811,6 +811,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Truly Sherry",
       "checked_at": "2026-10-29T20:10:23.642880+00:00"
+    },
+    "85": {
+      "status": "checked",
+      "url": "https://www.facebook.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Zero or LOW Single Supplement Cruises",
+      "checked_at": "2026-10-29T20:10:45.537173+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
