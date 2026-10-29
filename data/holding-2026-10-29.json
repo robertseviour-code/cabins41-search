@@ -26,9 +26,12 @@
       "url": "https://www.amawaterways.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "AmaWaterways",
-      "checked_at": "2026-10-29T19:40:07.635656+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:41:04.134945+00:00"
     },
     "4": {
       "status": "checked",
