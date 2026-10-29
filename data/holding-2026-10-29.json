@@ -469,6 +469,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Passion for Cruises",
       "checked_at": "2026-10-29T19:57:44.676023+00:00"
+    },
+    "51": {
+      "status": "checked",
+      "url": "https://www.pgcruises.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Paul Gauguin Cruises",
+      "checked_at": "2026-10-29T19:58:08.480696+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
