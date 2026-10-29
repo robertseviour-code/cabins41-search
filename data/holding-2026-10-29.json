@@ -389,6 +389,14 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Morr and Meer",
       "checked_at": "2026-10-29T19:54:26.061704+00:00"
+    },
+    "42": {
+      "status": "failed",
+      "error": "HTTP Error 401: Unauthorized",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "MSC Cruises",
+      "checked_at": "2026-10-29T19:54:47.770258+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
