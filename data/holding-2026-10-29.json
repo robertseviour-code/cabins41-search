@@ -60,6 +60,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checked_at": "2026-10-29T19:41:18.380397+00:00"
+    },
+    "7": {
+      "status": "checked",
+      "url": "https://www.azamara.com/home",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Azamara",
+      "checked_at": "2026-10-29T19:41:40.626064+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
