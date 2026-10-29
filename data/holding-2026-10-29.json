@@ -637,9 +637,19 @@
       "url": "https://explorajourneys.com/us/en",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://explorajourneys.com/us/en/info/special-offers/solo-travellers",
+          "label": "A Journey of One",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 1,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Explora Journeys",
-      "checked_at": "2026-10-29T19:48:49.946401+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:50:56.306546+00:00"
     },
     "27": {
       "status": "checked",
