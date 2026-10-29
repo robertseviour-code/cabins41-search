@@ -1232,12 +1232,29 @@
       "checked_at": "2026-10-29T20:58:43.744570+00:00"
     },
     "47": {
-      "status": "failed",
-      "error": "HTTP Error 403: Forbidden",
+      "status": "checked",
+      "url": "https://www.pocruises.com/",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.pocruises.com/deals/cruise-deals",
+          "label": "Explore great savings",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.pocruises.com/deals/promotion-terms-and-conditions",
+          "label": "here",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 2,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "P and O Cruises",
-      "checked_at": "2026-10-29T19:56:37.542397+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:59:07.938252+00:00"
     },
     "48": {
       "status": "checked",
