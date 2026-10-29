@@ -1090,9 +1090,12 @@
       "url": "https://morr.de",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Morr and Meer",
-      "checked_at": "2026-10-29T19:54:26.061704+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:56:46.253829+00:00"
     },
     "42": {
       "status": "failed",
