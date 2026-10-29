@@ -227,6 +227,17 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "e-hoi",
       "checked_at": "2026-10-29T19:48:03.455288+00:00"
+    },
+    "25": {
+      "status": "checked",
+      "url": "https://emerald.cruises/US/en-US",
+      "lead_snippets": [
+        "modern exploration, pairing authentic adventures with inimitable luxury, with options for solo cruises featuring specially designed accommodations and activities for independent travelers. Experience a great tapestry of culture cruising the rivers of Europe an"
+      ],
+      "lead_count": 1,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Emerald Cruises",
+      "checked_at": "2026-10-29T19:48:27.878201+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
