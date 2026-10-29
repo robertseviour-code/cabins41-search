@@ -144,6 +144,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Cruise Specialists",
       "checked_at": "2026-10-29T19:44:41.095405+00:00"
+    },
+    "16": {
+      "status": "checked",
+      "url": "https://www.cruisetravel.nl/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Cruise Travel Netherlands",
+      "checked_at": "2026-10-29T19:45:04.599963+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
