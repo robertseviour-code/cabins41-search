@@ -700,6 +700,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Cruising for One",
       "checked_at": "2026-10-29T20:06:21.163022+00:00"
+    },
+    "74": {
+      "status": "checked",
+      "url": "https://www.digitalroamads.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Digital Roamads",
+      "checked_at": "2026-10-29T20:06:44.792173+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
