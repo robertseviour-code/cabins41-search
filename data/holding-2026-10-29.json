@@ -345,6 +345,17 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Journey Latin America",
       "checked_at": "2026-10-29T19:52:36.494277+00:00"
+    },
+    "37": {
+      "status": "checked",
+      "url": "https://www.kreuzfahrtberater.de/",
+      "lead_snippets": [
+        "\",85,\"AIDAbella\",\"27.12.2026\",\"ab Bridgetown bis Montego Bay\",2799,\"Attraktive Preise für Alleinreisende\",\"https:\\u002F\\u002Fcdn.krfb.de\\u002Flibrary\\u002Foriginal\\u002Faidabella-schiffsansicht.cvt5bau5.jpg\",\"AIDAbella Schiffsansicht\",{\"path\":1815,\"title\":1816,\"s"
+      ],
+      "lead_count": 1,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Kreuzfahrtberater",
+      "checked_at": "2026-10-29T19:52:59.306113+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
