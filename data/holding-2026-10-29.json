@@ -405,9 +405,40 @@
         "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only UK Only Cruises from the UK Cruises from Southampton Cruises"
       ],
       "lead_count": 2,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.cruise118.com/cruise-deals",
+          "label": "Cruise Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Li",
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only UK Only Cruises from the UK Cruises from Southampton Cruises"
+          ]
+        },
+        {
+          "url": "https://www.cruise118.com/cruise-deals/cancellations",
+          "label": "Cruise Cancellation Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Li",
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only UK Only Cruises from the UK Cruises from Southampton Cruises"
+          ]
+        },
+        {
+          "url": "https://www.cruise118.com/cruise-deals/exclusive",
+          "label": "Exclusive Cruise Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Li",
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only UK Only Cruises from the UK Cruises from Southampton Cruises"
+          ]
+        }
+      ],
+      "candidate_links_found": 69,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Cruise118",
-      "checked_at": "2026-10-29T19:45:27.399500+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:47:13.740004+00:00"
     },
     "18": {
       "status": "checked",
