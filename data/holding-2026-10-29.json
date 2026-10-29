@@ -1731,9 +1731,29 @@
       "url": "https://www.virginvoyages.com:443/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals",
+          "error": "HTTP Error 500: Internal Server Error"
+        },
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals/flight-hotel-cruise-packages",
+          "label": "Fly & Stay",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals/cruise-add-on-options",
+          "label": "Cruise Packages",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 4,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Virgin Voyages",
-      "checked_at": "2026-10-29T20:03:22.562367+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:08:14.728611+00:00"
     },
     "66": {
       "status": "checked",
