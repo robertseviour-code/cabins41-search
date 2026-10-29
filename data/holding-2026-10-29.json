@@ -8,6 +8,14 @@
       "lead_count": 0,
       "source_name": "AffordableTours",
       "checked_at": "2026-10-29T19:39:23.534438+00:00"
+    },
+    "2": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "AIDA Cruises",
+      "checked_at": "2026-10-29T19:39:45.247642+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
