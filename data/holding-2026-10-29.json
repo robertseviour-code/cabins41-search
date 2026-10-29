@@ -229,9 +229,12 @@
       "url": "https://www.bea-kreuzfahrten.de/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "BEA Kreuzfahrten",
-      "checked_at": "2026-10-29T19:42:24.634163+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:43:52.060646+00:00"
     },
     "10": {
       "status": "checked",
