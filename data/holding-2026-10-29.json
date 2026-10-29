@@ -364,6 +364,14 @@
       "lead_count": 0,
       "source_name": "Limitless Travel",
       "checked_at": "2026-10-29T19:53:21.074581+00:00"
+    },
+    "39": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Logitravel",
+      "checked_at": "2026-10-29T19:53:42.726433+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
