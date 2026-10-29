@@ -1542,9 +1542,19 @@
       "url": "https://www.seabourn.com/en/us",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.seabourn.com/en/us/find-a-cruise?dealId=SBNSOLO_101724&csvFileName=SBNSOLO_101724",
+          "label": "Solo Travelers",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 1,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Seabourn",
-      "checked_at": "2026-10-29T20:01:08.030964+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:04:49.966645+00:00"
     },
     "60": {
       "status": "checked",
