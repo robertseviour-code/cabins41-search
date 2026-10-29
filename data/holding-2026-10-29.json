@@ -247,6 +247,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Explora Journeys",
       "checked_at": "2026-10-29T19:48:49.946401+00:00"
+    },
+    "27": {
+      "status": "checked",
+      "url": "https://fjordline.com/en",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Fjord Line",
+      "checked_at": "2026-10-29T19:49:13.259237+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
