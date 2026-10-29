@@ -663,6 +663,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "AlleinAufKreuzfahrt",
       "checked_at": "2026-10-29T20:04:53.986949+00:00"
+    },
+    "70": {
+      "status": "checked",
+      "url": "https://carryontravelsolo.com",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Carry On Travel Solo",
+      "checked_at": "2026-10-29T20:05:15.668940+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
