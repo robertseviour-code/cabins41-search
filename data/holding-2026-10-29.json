@@ -165,6 +165,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Cruise118",
       "checked_at": "2026-10-29T19:45:27.399500+00:00"
+    },
+    "18": {
+      "status": "checked",
+      "url": "https://www.cruisebooking.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "CruiseBooking",
+      "checked_at": "2026-10-29T19:45:49.078163+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
