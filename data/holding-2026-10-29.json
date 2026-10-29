@@ -172,9 +172,26 @@
       "url": "https://www.azamara.com/home",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.azamara.com/deals",
+          "label": "View All Deals",
+          "keyword_count": 6,
+          "snippets": [
+            "with Azamara’s general marketplace offers, back-to-back offer, Early Booking Benefit and single supplement savings. Offer may not be combined with certain restricted fares including Interline, travel agent and travel agent rates, family & friends, employee rates or",
+            "night of the cruise. Single occupancy bookings will receive a pro-rated OBC based on the single supplement rate paid for the cruise. Offer is subject to change without notice, capacity controlled and may be withdrawn at any time. OPEN BOOKINGS: Open bookings have no",
+            "ed at time of booking. ©2023 Azamara® Ships registered in Malta Solo Travelers Solo Rates Solo cruisers pay special low rates for select sailings. Book Now Learn More Terms & Conditions Terms & Conditions CLOSE *Single Supplement is available on select sailing",
+            "tes for select sailings. Book Now Learn More Terms & Conditions Terms & Conditions CLOSE *Single Supplement is available on select sailings. Offer is capacity controlled, subject to availability and can be withdrawn at any time without notice. Single Supplement is no",
+            "city controlled, subject to availability and can be withdrawn at any time without notice. Single Supplement is not applicable to discounted rates including, but not limited to Interline, Travel Agent discounts and net rates. Port fees and taxes are additional. Rates",
+            "nd change without notice and may be withdrawn at any time. Single occupancy guests paying single supplement cruise fare are eligible for the full amount of the offer; single occupancy guests paying less than 200% cruise fare are eligible for a prorated amount of the"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Azamara",
-      "checked_at": "2026-10-29T19:41:40.626064+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:43:01.389129+00:00"
     },
     "8": {
       "status": "checked",
