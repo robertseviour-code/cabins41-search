@@ -1471,9 +1471,31 @@
       "url": "https://www.royalcaribbean.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals/holiday-cruises",
+          "label": "Holiday cruises",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals",
+          "label": "Cruise deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals/last-minute-cruises",
+          "label": "Last minute deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 4,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Royal Caribbean",
-      "checked_at": "2026-10-29T20:00:22.729521+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:04:01.580117+00:00"
     },
     "58": {
       "status": "checked",
