@@ -445,9 +445,33 @@
       "url": "https://www.cruisebooking.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/halloween",
+          "label": "Halloween Cruise Deals!",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/top-10-cruise-deals",
+          "label": "Top 10 Deals",
+          "keyword_count": 1,
+          "snippets": [
+            "cursions; they may be added at extra cost. 15. Are solo traveler deals available? Certain single cruise lines have reduced solo supplements or solo cabins. * Terms & Conditions and Disclaimer Itinerary Terms and Conditions Interior Oceanview Balcony Suite Specia"
+          ]
+        },
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/top-10-sailings-by-destinations",
+          "label": "View all",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 43,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "CruiseBooking",
-      "checked_at": "2026-10-29T19:45:49.078163+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:47:35.859377+00:00"
     },
     "19": {
       "status": "failed",
