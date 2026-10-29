@@ -835,9 +835,31 @@
       "url": "https://www.hollandamerica.com/en/us",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals",
+          "label": "Exclusive Offers",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals/have-it-all?ICID=INTHWEB20240502MYZ78LYX6X",
+          "label": "Have It All Package",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals?ICID=INTHWEB20240809Z99ZZ5BERK",
+          "label": "All Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 14,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Holland America Line",
-      "checked_at": "2026-10-29T19:51:05.799061+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:53:19.679045+00:00"
     },
     "33": {
       "status": "checked",
