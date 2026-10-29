@@ -488,9 +488,12 @@
       "url": "https://www.crystalcruises.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Crystal Cruises",
-      "checked_at": "2026-10-29T19:46:32.705794+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:48:19.078903+00:00"
     },
     "21": {
       "status": "failed",
