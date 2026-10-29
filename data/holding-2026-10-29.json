@@ -316,6 +316,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Hurtigruten",
       "checked_at": "2026-10-29T19:51:27.430054+00:00"
+    },
+    "34": {
+      "status": "checked",
+      "url": "https://www.travelhx.com/en-us/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "HX Expeditions",
+      "checked_at": "2026-10-29T19:51:49.275898+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
