@@ -408,6 +408,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Norwegian Cruise Line",
       "checked_at": "2026-10-29T19:55:09.584948+00:00"
+    },
+    "44": {
+      "status": "checked",
+      "url": "https://www.oceanworldtravel.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Ocean World Travel",
+      "checked_at": "2026-10-29T19:55:31.478448+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
