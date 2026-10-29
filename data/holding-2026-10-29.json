@@ -1996,9 +1996,31 @@
       "url": "https://www.digitalroamads.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.digitalroamads.com/black-friday-and-travel-tuesday-deals-are-landing-now/",
+          "label": "Black Friday and Travel Tuesday Deals are Landing Now",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.digitalroamads.com/deals-at-top-resorts/",
+          "label": "Affordable Luxury: Finding Deals at Top Resorts and Hotels",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.digitalroamads.com/cruise-deals/",
+          "label": "Cruise Deals: How We Get the Best Price",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 3,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Digital Roamads",
-      "checked_at": "2026-10-29T20:06:44.792173+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:11:49.409911+00:00"
     },
     "75": {
       "status": "failed",
