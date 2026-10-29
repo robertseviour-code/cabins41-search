@@ -372,6 +372,14 @@
       "lead_count": 0,
       "source_name": "Logitravel",
       "checked_at": "2026-10-29T19:53:42.726433+00:00"
+    },
+    "40": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Marella Cruises",
+      "checked_at": "2026-10-29T19:54:04.153002+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
