@@ -208,6 +208,14 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Deluxe Cruises",
       "checked_at": "2026-10-29T19:47:17.858978+00:00"
+    },
+    "23": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Dreamlines",
+      "checked_at": "2026-10-29T19:47:39.416170+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
