@@ -496,12 +496,31 @@
       "checked_at": "2026-10-29T20:48:19.078903+00:00"
     },
     "21": {
-      "status": "failed",
-      "error": "HTTP Error 403: Forbidden",
+      "status": "checked",
+      "url": "https://www.cunard.com/en-us",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.cunard.com/en-us/cruise-deals/fall-savings-event",
+          "label": "",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.cunard.com/en-us/cruise-deals/black-friday-sale/black-friday-register",
+          "label": "Plus, extra savings",
+          "keyword_count": 1,
+          "snippets": [
+            "S$50 per person). Offer applies to first and second guests only. Single guests paying the single supplement in a double occupancy stateroom will receive the per stateroom savings amount. Offer available on a space-available basis at time of booking, on select categor"
+          ]
+        }
+      ],
+      "candidate_links_found": 2,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Cunard",
-      "checked_at": "2026-10-29T19:46:54.617375+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:48:44.532681+00:00"
     },
     "22": {
       "status": "checked",
