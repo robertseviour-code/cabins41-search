@@ -397,6 +397,17 @@
       "lead_count": 0,
       "source_name": "MSC Cruises",
       "checked_at": "2026-10-29T19:54:47.770258+00:00"
+    },
+    "43": {
+      "status": "checked",
+      "url": "https://www.ncl.com:443/",
+      "lead_snippets": [
+        "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount First Resp"
+      ],
+      "lead_count": 1,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Norwegian Cruise Line",
+      "checked_at": "2026-10-29T19:55:09.584948+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
