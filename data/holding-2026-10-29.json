@@ -87,6 +87,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "BEA Kreuzfahrten",
       "checked_at": "2026-10-29T19:42:24.634163+00:00"
+    },
+    "10": {
+      "status": "checked",
+      "url": "https://www.celebritycruises.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Celebrity Cruises",
+      "checked_at": "2026-10-29T19:42:47.900735+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
