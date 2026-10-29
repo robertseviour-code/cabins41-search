@@ -442,6 +442,15 @@
       "lead_count": 0,
       "source_name": "P and O Cruises",
       "checked_at": "2026-10-29T19:56:37.542397+00:00"
+    },
+    "48": {
+      "status": "checked",
+      "url": "https://www.panachecruises.com/en-us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Panache Cruises",
+      "checked_at": "2026-10-29T19:56:59.965175+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
