@@ -1721,8 +1721,10 @@
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "Viajes El Corte Ingles",
-      "checked_at": "2026-10-29T20:03:00.020297+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:06:50.266689+00:00"
     },
     "65": {
       "status": "checked",
