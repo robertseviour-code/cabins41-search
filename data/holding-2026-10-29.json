@@ -304,6 +304,18 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Holland America Line",
       "checked_at": "2026-10-29T19:51:05.799061+00:00"
+    },
+    "33": {
+      "status": "checked",
+      "url": "https://www.hurtigruten.com/en-us",
+      "lead_snippets": [
+        "ffers Spring in Norway | Up to 30% off Ongoing offers Our Northern Lights Promise Reduced single supplement Ships Explore our fleet Find my ship Sailing plan for Original Cabins and suites Our ships MS Trollfjord MS Midnatsol MS Kong Harald MS Nordkapp MS Nordlys MS",
+        "t your onboard team Cruise types Northern Lights cruises Fjord cruises Small ship cruises Solo cruises Svalbard cruises Norway cruises in 2027 Norway cruises in 2028 Explore Norway Explore Norway Northern Lights Midnight Sun Polar Night Norwegian coastal ports"
+      ],
+      "lead_count": 2,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Hurtigruten",
+      "checked_at": "2026-10-29T19:51:27.430054+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
