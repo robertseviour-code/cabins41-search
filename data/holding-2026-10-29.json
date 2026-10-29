@@ -1080,8 +1080,10 @@
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "Marella Cruises",
-      "checked_at": "2026-10-29T19:54:04.153002+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:56:24.672654+00:00"
     },
     "41": {
       "status": "checked",
