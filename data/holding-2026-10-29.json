@@ -199,6 +199,15 @@
       "lead_count": 0,
       "source_name": "Cunard",
       "checked_at": "2026-10-29T19:46:54.617375+00:00"
+    },
+    "22": {
+      "status": "checked",
+      "url": "https://deluxecruises.co.uk",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Deluxe Cruises",
+      "checked_at": "2026-10-29T19:47:17.858978+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
