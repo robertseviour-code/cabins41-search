@@ -749,6 +749,14 @@
       "lead_count": 0,
       "source_name": "Reddit r/solotravel",
       "checked_at": "2026-10-29T20:08:33.690018+00:00"
+    },
+    "80": {
+      "status": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Reddit r/VirginVoyages",
+      "checked_at": "2026-10-29T20:08:55.111708+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
