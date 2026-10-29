@@ -78,6 +78,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Barrhead Travel",
       "checked_at": "2026-10-29T19:42:02.926856+00:00"
+    },
+    "9": {
+      "status": "checked",
+      "url": "https://www.bea-kreuzfahrten.de/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "BEA Kreuzfahrten",
+      "checked_at": "2026-10-29T19:42:24.634163+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
