@@ -323,9 +323,25 @@
       "url": "https://www.croisieurope.co.uk/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.croisieurope.co.uk/destination/no-solo-supplement",
+          "label": "No Solo Supplement",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.croisieurope.co.uk/destination/river-cruises-europe",
+          "label": "Find My Ideal Cruise",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 2,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "CroisiEurope",
-      "checked_at": "2026-10-29T19:43:56.075049+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:45:27.936978+00:00"
     },
     "14": {
       "status": "failed",
