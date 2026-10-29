@@ -131,6 +131,19 @@
       "lead_count": 0,
       "source_name": "Cruise Club UK",
       "checked_at": "2026-10-29T19:44:18.467645+00:00"
+    },
+    "15": {
+      "status": "checked",
+      "url": "https://www.cruisespecialists.com/",
+      "lead_snippets": [
+        "ions Travel Interests Expedition Cruising Hosted Cruises River Cruises Small Ship Cruises Solo Cruising Resources Blog Our Cruise Experts Home Our Cruise Experts About Us Contact Us (800) 544-2469 (800) 544-2469 Toggle navigation Menu World Cruises Destination",
+        "ions Travel Interests Expedition Cruising Hosted Cruises River Cruises Small Ship Cruises Solo Cruising Resources Blog Our Cruise Experts MORE DETAILS \"> Previous Next Aman At Sea French Riviera Aman At Sea introduces their luxury motorized yacht, Amangati, wh",
+        "r Specialties World Cruises Grand Voyages River Cruises Expedition Cruises Hosted Cruises Solo Cruising Popular Destinations Alaska Caribbean Canada/New England Europe Mexico Northern Europe/Scandinavia Panama Canal Transatlantic Africa Amazon Arctic Antarctic"
+      ],
+      "lead_count": 3,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Cruise Specialists",
+      "checked_at": "2026-10-29T19:44:41.095405+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
