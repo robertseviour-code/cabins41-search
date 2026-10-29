@@ -336,6 +336,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Iglu Cruise",
       "checked_at": "2026-10-29T19:52:12.306225+00:00"
+    },
+    "36": {
+      "status": "checked",
+      "url": "https://www.journeylatinamerica.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Journey Latin America",
+      "checked_at": "2026-10-29T19:52:36.494277+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
