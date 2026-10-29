@@ -277,6 +277,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Friendship Travel",
       "checked_at": "2026-10-29T19:50:00.498364+00:00"
+    },
+    "30": {
+      "status": "checked",
+      "url": "https://www.getthatcruise.co.uk/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Get That Cruise",
+      "checked_at": "2026-10-29T19:50:22.145241+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
