@@ -500,6 +500,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "PONANT",
       "checked_at": "2026-10-29T19:58:54.787296+00:00"
+    },
+    "54": {
+      "status": "checked",
+      "url": "https://www.princess.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Princess Cruises",
+      "checked_at": "2026-10-29T19:59:16.341769+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
