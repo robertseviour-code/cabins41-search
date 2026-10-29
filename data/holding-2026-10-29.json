@@ -1070,8 +1070,10 @@
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "Logitravel",
-      "checked_at": "2026-10-29T19:53:42.726433+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:56:02.862717+00:00"
     },
     "40": {
       "status": "failed",
