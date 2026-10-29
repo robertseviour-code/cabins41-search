@@ -216,6 +216,17 @@
       "lead_count": 0,
       "source_name": "Dreamlines",
       "checked_at": "2026-10-29T19:47:39.416170+00:00"
+    },
+    "24": {
+      "status": "checked",
+      "url": "https://www.e-hoi.de/",
+      "lead_snippets": [
+        "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +"
+      ],
+      "lead_count": 2,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "e-hoi",
+      "checked_at": "2026-10-29T19:48:03.455288+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
