@@ -1205,9 +1205,31 @@
       "url": "https://www.odysiacruise.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals",
+          "label": "Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals/last-minute-cruises",
+          "label": "Last-minute Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals/mini-cruises",
+          "label": "Mini Cruises & Short Breaks",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 28,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Odysia Cruise",
-      "checked_at": "2026-10-29T19:56:15.811008+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:58:43.744570+00:00"
     },
     "47": {
       "status": "failed",
