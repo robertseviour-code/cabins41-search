@@ -1114,9 +1114,38 @@
         "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount First Resp"
       ],
       "lead_count": 1,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.ncl.com/cruise-deals",
+          "label": "Cruise Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "More Group Cruise Discount Learn More CruiseFirst Learn More Past Guest Offer Learn More Solo Cruising Learn More Land or Sea, We've Got you Covered. Enjoy an effortless vacation from beginning to end when we plan your hotel stays for you. With NCL’s Hotel Pr",
+            "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount First Resp"
+          ]
+        },
+        {
+          "url": "https://www.ncl.com/cruise-deals/promotion-terms",
+          "label": "full terms and conditions.",
+          "keyword_count": 1,
+          "snippets": [
+            "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount First Resp"
+          ]
+        },
+        {
+          "url": "https://www.ncl.com:443/cruise-deals/last-minute-cruise-deals",
+          "label": "Last Minute Cruise Deals from $179",
+          "keyword_count": 1,
+          "snippets": [
+            "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount First Resp"
+          ]
+        }
+      ],
+      "candidate_links_found": 11,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Norwegian Cruise Line",
-      "checked_at": "2026-10-29T19:55:09.584948+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:57:30.367465+00:00"
     },
     "44": {
       "status": "checked",
