@@ -2067,8 +2067,10 @@
       "error": "HTTP Error 403: Blocked",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "Reddit r/solotravel",
-      "checked_at": "2026-10-29T20:08:33.690018+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:13:36.241923+00:00"
     },
     "80": {
       "status": "failed",
