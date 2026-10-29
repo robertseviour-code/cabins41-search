@@ -126,13 +126,46 @@
     "6": {
       "status": "checked",
       "url": "https://www.seereisen.de/",
-      "lead_snippets": [
-        "62717\",9,{\"oneliner\":605},[606,608],{\"content\":607},\"\\u002Fkreuzfahrt-themen\\u002Fsingles-alleinreisende\",{\"content\":609},\"Singles\",{\"uniqueId\":611,\"position\":196,\"type\":541,\"active\":11,\"elementTitle\":9,\"elementAnchor\":9,\"updatedAt\":556,\"cText\":12,\"cImage\":12,\"cO"
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.seereisen.de/kreuzfahrt-angebote-seereisen-special",
+          "label": "Deals",
+          "keyword_count": 1,
+          "snippets": [
+            "S Junker Joerg Weihnachtlicher Zauber 7 Nächte 19.12.2026 - 26.12.2026 ab / bis Stralsund Einzelkabinen-Special zu Weihnachten nur 50% Zuschlag! p.P. ab 990 € seereisen.de exklusiv MS Junker Joerg Silvesterkreuzfahrt 7 Nächte 26.12.2026 - 02.01.2027 ab / bis Str"
+          ]
+        },
+        {
+          "url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "label": "Singles",
+          "keyword_count": 15,
+          "snippets": [
+            "n Cloudflare Turnstile und unsere Datenschutzerklärung . Home Kreuzfahrt Themen Singles & Alleinreisende Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrte",
+            "utzerklärung . Home Kreuzfahrt Themen Singles & Alleinreisende Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten buchen Solo-Kreuzfahrten buchen Allein z",
+            "rten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten buchen Solo-Kreuzfahrten buchen Allein zu reisen bedeutet maximale Freiheit Sie gestalten jeden Moment genau na",
+            "en. Alleine reisen, gemeinsam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transpar",
+            "insam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transparent: Welche Kabinen verfü",
+            "ng Wir machen für Sie transparent: Welche Kabinen verfügbar sind - speziell für Singles & Alleinreisende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen S",
+            "isende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen Sie auf einen Blick, welche Angebote wirklich attraktiv sind, ohne versteckte Kosten oder aufwendi",
+            "ruises TUI Cruises VIVA Cruises Royal Caribbean Internat… Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Egal max. 50% max. 40% max. 30% max. 20% max. 10% 0% Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Re"
+          ]
+        },
+        {
+          "url": "https://www.seereisen.de/aida-winter-2028-29",
+          "label": "AIDA Winter 2028/29 Sonne, exotische Ziele und große Abenteuer warten auf Sie. \r\nSichern Sie sich jetzt die ersten Routen! Alle Angebote",
+          "keyword_count": 1,
+          "snippets": [
+            "lusskreuzfahr… Sea Cloud Cruises TUI Cruises VIVA Cruises Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Reisethemen Inklusivleistungen Preis pro Person Bordspr"
+          ]
+        }
       ],
-      "lead_count": 1,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_links_found": 8,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Atlantis Reisen and Seereisen",
-      "checked_at": "2026-10-29T19:41:18.380397+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:42:39.166462+00:00"
     },
     "7": {
       "status": "checked",
