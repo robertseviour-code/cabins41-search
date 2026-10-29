@@ -1413,8 +1413,10 @@
       "error": "<urlopen error [Errno -5] No address associated with hostname>",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "Riviera Travel",
-      "checked_at": "2026-10-29T19:59:37.722986+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:03:13.732980+00:00"
     },
     "56": {
       "status": "checked",
