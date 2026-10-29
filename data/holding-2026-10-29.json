@@ -1502,9 +1502,40 @@
       "url": "https://travel.saga.co.uk/cruises",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers.aspx",
+          "label": "Singles ocean cruises",
+          "keyword_count": 12,
+          "snippets": [
+            "Singles Cruises | 2026/2027 Singles Cruises for Over 50s Skip to navigation Skip to content Skip to content Insurance Holidays Cruises Money Magazine MySaga All products and",
+            "Singles Cruises | 2026/2027 Singles Cruises for Over 50s Skip to navigation Skip to content Skip to content Insurance Holidays Cruises Money Magazine MySaga All products and services All Insurance Moto",
+            "7 nights 8 - 13 nights 14 - 28 nights 28 or more nights Our smaller ships are ideal for a singles cruise Thinking about a singles cruise? You’ll experience the warmest of welcomes on our boutique ships. Both Spirit of Adventure and Spirit of Discovery are smaller",
+            "ights 28 or more nights Our smaller ships are ideal for a singles cruise Thinking about a singles cruise? You’ll experience the warmest of welcomes on our boutique ships. Both Spirit of Adventure and Spirit of Discovery are smaller, making it so easy to find your",
+            "you do not love it, we will happily refund you. Find out more Look forward to a sociable solo cruise Cruising on our ships is always a friendly experience, whether you’re going solo, or travelling with friends and want a single cabin to enjoy your own space.",
+            "s a friendly experience, whether you’re going solo, or travelling with friends and want a single cabin to enjoy your own space. You’re free to join in with as much or as little as you like on board. There’s a wide range of activities , and you’ll be invited to a",
+            "single balcony cabin On our cruises for singles, you can choose from a huge selection of single cabins. When we designed Spirit of Adventure and Spirit of Discovery , we filled them with 109 single balcony cabins each. That’s more than 20% of the accommodation r",
+            "cabins each. That’s more than 20% of the accommodation reserved just for solo guests. But single cabins are popular, so booking early is always a good bet. Previous Next Standard Single with Balcony Aboard Spirit of Adventure Standard Single with Balcony Aboard S"
+          ]
+        },
+        {
+          "url": "https://travel.saga.co.uk/cruises/river/find-your-cruise/solo-river-cruises.aspx",
+          "label": "Singles river cruises",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://travel.saga.co.uk/cruises/ocean/ocean-cruise-deals.aspx",
+          "label": "Ocean cruise offers",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 3,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Saga Cruises",
-      "checked_at": "2026-10-29T20:00:46.289012+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:04:28.339201+00:00"
     },
     "59": {
       "status": "checked",
