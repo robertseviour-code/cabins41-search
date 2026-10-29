@@ -509,6 +509,14 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Princess Cruises",
       "checked_at": "2026-10-29T19:59:16.341769+00:00"
+    },
+    "55": {
+      "status": "failed",
+      "error": "<urlopen error [Errno -5] No address associated with hostname>",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Riviera Travel",
+      "checked_at": "2026-10-29T19:59:37.722986+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
