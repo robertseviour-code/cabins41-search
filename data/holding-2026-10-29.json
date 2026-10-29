@@ -2047,8 +2047,10 @@
       "error": "HTTP Error 403: Blocked",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "Reddit r/Cruises",
-      "checked_at": "2026-10-29T20:07:49.992992+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:12:53.747010+00:00"
     },
     "78": {
       "status": "failed",
