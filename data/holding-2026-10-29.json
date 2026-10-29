@@ -816,9 +816,19 @@
       "url": "https://www.havilavoyages.com/en",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.havilavoyages.com/en/offers/solo",
+          "label": "Read more :  Up to 40% solo discount",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 1,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Havila Voyages",
-      "checked_at": "2026-10-29T19:50:44.113204+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:52:57.490867+00:00"
     },
     "32": {
       "status": "checked",
