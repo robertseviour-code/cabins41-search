@@ -49,6 +49,17 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Aquotic",
       "checked_at": "2026-10-29T19:40:54.356128+00:00"
+    },
+    "6": {
+      "status": "checked",
+      "url": "https://www.seereisen.de/",
+      "lead_snippets": [
+        "62717\",9,{\"oneliner\":605},[606,608],{\"content\":607},\"\\u002Fkreuzfahrt-themen\\u002Fsingles-alleinreisende\",{\"content\":609},\"Singles\",{\"uniqueId\":611,\"position\":196,\"type\":541,\"active\":11,\"elementTitle\":9,\"elementAnchor\":9,\"updatedAt\":556,\"cText\":12,\"cImage\":12,\"cO"
+      ],
+      "lead_count": 1,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Atlantis Reisen and Seereisen",
+      "checked_at": "2026-10-29T19:41:18.380397+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
