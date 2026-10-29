@@ -451,6 +451,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Panache Cruises",
       "checked_at": "2026-10-29T19:56:59.965175+00:00"
+    },
+    "49": {
+      "status": "checked",
+      "url": "https://www.paramountcruises.com:443/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Paramount Cruises",
+      "checked_at": "2026-10-29T19:57:23.009551+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
