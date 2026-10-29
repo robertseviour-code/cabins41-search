@@ -105,6 +105,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Celestyal Cruises",
       "checked_at": "2026-10-29T19:43:09.427189+00:00"
+    },
+    "12": {
+      "status": "checked",
+      "url": "https://www.costacruises.eu/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Costa Cruises",
+      "checked_at": "2026-10-29T19:43:32.607064+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
