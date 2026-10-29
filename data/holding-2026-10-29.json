@@ -1261,9 +1261,31 @@
       "url": "https://www.panachecruises.com/en-us",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.panachecruises.com/en-us/explora-journeys/deals",
+          "label": "",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.panachecruises.com/en-us/regent-seven-seas/deals",
+          "label": "",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.panachecruises.com/en-us/silversea/deals",
+          "label": "",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 7,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Panache Cruises",
-      "checked_at": "2026-10-29T19:56:59.965175+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:59:30.456021+00:00"
     },
     "49": {
       "status": "checked",
