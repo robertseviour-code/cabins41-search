@@ -1018,13 +1018,42 @@
     "37": {
       "status": "checked",
       "url": "https://www.kreuzfahrtberater.de/",
-      "lead_snippets": [
-        "\",85,\"AIDAbella\",\"27.12.2026\",\"ab Bridgetown bis Montego Bay\",2799,\"Attraktive Preise für Alleinreisende\",\"https:\\u002F\\u002Fcdn.krfb.de\\u002Flibrary\\u002Foriginal\\u002Faidabella-schiffsansicht.cvt5bau5.jpg\",\"AIDAbella Schiffsansicht\",{\"path\":1815,\"title\":1816,\"s"
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.kreuzfahrtberater.de/single-kreuzfahrt",
+          "label": "Single-Kreuzfahrten",
+          "keyword_count": 11,
+          "snippets": [
+            "Single-Kreuzfahrt Angebote 2026-2027 | Günstige Einzelkabinen Zum Hauptinhalt springen 0 +49 40 524748 0 Erreichbar: Mo-Fr 09-20 Uhr, Sa/So/Feiertage 09-16 Uhr. Reedereien AIDA Cruises TUI Cruises - Mein Schiff MSC Cruis",
+            "gle Kreuzfahrten. Wir zeigen Ihnen die besten Reedereien ohne oder mit möglichst geringem Einzelkabinenzuschlag. Single Kreuzfahrten entdecken TOP Angebote für Alleinreisende Als Single sind Sie auf Kreuzfahrt vollkommen frei von den Wünschen und Vorlieben ander",
+            "möglichst geringem Einzelkabinenzuschlag. Single Kreuzfahrten entdecken TOP Angebote für Alleinreisende Als Single sind Sie auf Kreuzfahrt vollkommen frei von den Wünschen und Vorlieben anderer Mitreisender. Sie können unabhängig entscheiden, wie Ihre Kreuzfahrt",
+            "mmengefasst: Mittelmeer Preisknaller Unter 800 € p.P. Norwegen Kreuzfahrten Mit niedrigem Einzelkabinenzuschlag Karibik Schnapper für Singles Unter 1.000 € p.P. Kanaren Kreuzfahrten Günstige Einzelkabinen entdecken Jetzt Single Kreuzfahrt buchen Unterhaltung an",
+            "enzuschlag Karibik Schnapper für Singles Unter 1.000 € p.P. Kanaren Kreuzfahrten Günstige Einzelkabinen entdecken Jetzt Single Kreuzfahrt buchen Unterhaltung an Bord für Soloreisende Auf Kreuzfahrtschiffen gibt es ein umfangreiches Angebot an Aktivitäten und spe",
+            "meist zu Beginn einer Schiffsreise ein sogenanntes Single-Treffen statt. Ziel ist es, die Alleinreisenden gleich am ersten Tag miteinander bekannt zu machen – wenn sie es mögen. Bei NCL gibt es Bar-Touren, die von Besatzungsmitgliedern durchgeführt werden. Währen",
+            "ord schnell Anschluss finden. TOP Reedereien für Singlekreuzfahrten Da die Nachfrage nach Einzelkabinen stetig steigt, gibt es mittlerweile bei vielen Reedereien attraktive Angebote für Singles. Wenn auch Sie nach einem Single Kreuzfahrt Angebot suchen, empfehle",
+            "Reedereien arbeiten mit Gentleman Hosts. Dabei handelt es sich um eine Art Gastgeber für Alleinreisende. Sie stellen unter anderem sicher, dass alleinreisende Damen abends einen Tanzpartner haben. Spiele-Angebote wie Boccia, Dart oder Minigolf sind zudem für jed"
+          ]
+        },
+        {
+          "url": "https://www.kreuzfahrtberater.de/kreuzfahrt-angebote",
+          "label": "Kreuzfahrtangebote",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.kreuzfahrtberater.de/fruehbucher",
+          "label": "Die besten Deals ab Frühling 2027! Buchen Sie Ihre nächste Kreuzfahrt zum vorteilhaften Frühbucher-Preis mehr erfahren",
+          "keyword_count": 0,
+          "snippets": []
+        }
       ],
-      "lead_count": 1,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_links_found": 6,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Kreuzfahrtberater",
-      "checked_at": "2026-10-29T19:52:59.306113+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:55:19.599337+00:00"
     },
     "38": {
       "status": "failed",
