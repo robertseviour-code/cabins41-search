@@ -610,6 +610,15 @@
       "lead_count": 0,
       "source_name": "Viajes El Corte Ingles",
       "checked_at": "2026-10-29T20:03:00.020297+00:00"
+    },
+    "65": {
+      "status": "checked",
+      "url": "https://www.virginvoyages.com:443/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Virgin Voyages",
+      "checked_at": "2026-10-29T20:03:22.562367+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
