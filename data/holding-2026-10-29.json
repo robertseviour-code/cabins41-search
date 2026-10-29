@@ -556,6 +556,19 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Seabourn",
       "checked_at": "2026-10-29T20:01:08.030964+00:00"
+    },
+    "60": {
+      "status": "checked",
+      "url": "https://www.seereisedienst.de/",
+      "lead_snippets": [
+        "ienst Vorteil: Inkl. EXTRA-Rabatt! Bordsprache Deutsch! VERFÜGBARKEIT & PREISE Sparen für Alleinreisende Entdecken Sie ausgewählte Kreuzfahrten, bei denen Alleinreisende von einem besonders niedrigen oder teilweise sogar ganz entfallenden Einzelbelegungszuschlag",
+        "KEIT & PREISE Sparen für Alleinreisende Entdecken Sie ausgewählte Kreuzfahrten, bei denen Alleinreisende von einem besonders niedrigen oder teilweise sogar ganz entfallenden Einzelbelegungszuschlag profitieren. Kreuzfahrten mit geringem Zuschlag Außergewöhnliche",
+        "in den wechselnden Angebotshinweisen sind im Fotoverzeichnis des Impressums genannt. Foto Alleinreisende: © MSC Cruises Foto Nordkap mit Nordlicht: © Tor Even Mathisen / Gettyimages --> TÜV-Zertifikat Qualität durch umfassende Prüfkriterien --> Auszeichnungen Ber"
+      ],
+      "lead_count": 3,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Seereisedienst",
+      "checked_at": "2026-10-29T20:01:31.182659+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
