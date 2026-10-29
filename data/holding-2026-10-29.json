@@ -380,6 +380,15 @@
       "lead_count": 0,
       "source_name": "Marella Cruises",
       "checked_at": "2026-10-29T19:54:04.153002+00:00"
+    },
+    "41": {
+      "status": "checked",
+      "url": "https://morr.de",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Morr and Meer",
+      "checked_at": "2026-10-29T19:54:26.061704+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
