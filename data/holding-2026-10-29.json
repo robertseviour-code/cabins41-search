@@ -619,6 +619,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Virgin Voyages",
       "checked_at": "2026-10-29T20:03:22.562367+00:00"
+    },
+    "66": {
+      "status": "checked",
+      "url": "https://www.viva-cruises.com/en-us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "VIVA Cruises",
+      "checked_at": "2026-10-29T20:03:47.996043+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
