@@ -999,9 +999,21 @@
       "url": "https://www.journeylatinamerica.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.journeylatinamerica.com/holiday-styles/solo-traveller/",
+          "label": "Solo Travel in Latin America",
+          "keyword_count": 1,
+          "snippets": [
+            "rs, in fact over 40% of our annual group tour clients are solos. What’s more, there is no single supplement to pay if you’re willing to share a room with a member of the same sex (even if final numbers mean you end up with a room of your own!) If you prefer tailor-ma"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Journey Latin America",
-      "checked_at": "2026-10-29T19:52:36.494277+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T20:54:54.480090+00:00"
     },
     "37": {
       "status": "checked",
