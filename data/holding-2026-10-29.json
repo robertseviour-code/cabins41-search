@@ -123,6 +123,14 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "CroisiEurope",
       "checked_at": "2026-10-29T19:43:56.075049+00:00"
+    },
+    "14": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Cruise Club UK",
+      "checked_at": "2026-10-29T19:44:18.467645+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
