@@ -1953,8 +1953,10 @@
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
+      "candidate_pages": [],
       "source_name": "CruisePlum",
-      "checked_at": "2026-10-29T20:05:59.258953+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:10:55.750113+00:00"
     },
     "73": {
       "status": "checked",
