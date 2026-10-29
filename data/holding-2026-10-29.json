@@ -547,6 +547,15 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Saga Cruises",
       "checked_at": "2026-10-29T20:00:46.289012+00:00"
+    },
+    "59": {
+      "status": "checked",
+      "url": "https://www.seabourn.com/en/us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "source_name": "Seabourn",
+      "checked_at": "2026-10-29T20:01:08.030964+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
