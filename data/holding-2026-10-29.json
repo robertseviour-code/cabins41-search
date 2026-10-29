@@ -356,6 +356,14 @@
       "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
       "source_name": "Kreuzfahrtberater",
       "checked_at": "2026-10-29T19:52:59.306113+00:00"
+    },
+    "38": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "source_name": "Limitless Travel",
+      "checked_at": "2026-10-29T19:53:21.074581+00:00"
     }
   },
   "description": "Source-level keyword discovery; not verified cruise offers"
