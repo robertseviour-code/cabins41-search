@@ -1382,9 +1382,31 @@
       "url": "https://www.princess.com/",
       "lead_snippets": [],
       "lead_count": 0,
-      "note": "Keyword leads only; individual dated solo cruise offers NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions/compare-cruise-packages",
+          "label": "Compare Cruise Packages",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions",
+          "label": "All Deals & Offers",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions/limited-time-offer",
+          "label": "Fall Savings Sale | 45% Off + $450 Savings",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 10,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
       "source_name": "Princess Cruises",
-      "checked_at": "2026-10-29T19:59:16.341769+00:00"
+      "checker_version": 2,
+      "checked_at": "2026-10-29T21:01:52.277337+00:00"
     },
     "55": {
       "status": "failed",
