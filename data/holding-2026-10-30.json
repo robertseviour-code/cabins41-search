@@ -1308,15 +1308,17 @@
       "checked_at": "2026-10-30T07:40:17.311540+00:00"
     },
     "40": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Marella Cruises",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:33:17.806042+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:40:38.931285+00:00"
     },
     "41": {
       "status": "checked",
