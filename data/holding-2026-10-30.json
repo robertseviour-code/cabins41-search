@@ -1763,6 +1763,31 @@
       "source_name": "VIVA Cruises",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:40:23.344002+00:00"
+    },
+    "67": {
+      "status": "checked",
+      "url": "https://viva-holidays.co.uk",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://viva-holidays.co.uk/type/multi-centre-holiday/",
+          "label": "Multi Centre Holidays Explore more places with a single holiday",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://viva-holidays.co.uk/type/solo-traveller/",
+          "label": "Solo Traveller",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 2,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Viva Holidays",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:40:47.499111+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
