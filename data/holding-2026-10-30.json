@@ -1788,6 +1788,16 @@
       "source_name": "Viva Holidays",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:40:47.499111+00:00"
+    },
+    "68": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Windstar Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:41:08.868205+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
