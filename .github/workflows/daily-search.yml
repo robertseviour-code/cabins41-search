@@ -16,6 +16,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
           ref: codex/strict-solo-sailing-dedupe
       - uses: actions/setup-python@v5
         with:
@@ -29,13 +30,30 @@ jobs:
         continue-on-error: true
         shell: bash
         run: |
+          save_results() {
+            git commit -m "$1" || return 1
+            for attempt in 1 2 3; do
+              if git pull --rebase origin codex/strict-solo-sailing-dedupe &&
+                 git push origin HEAD:codex/strict-solo-sailing-dedupe; then
+                return 0
+              fi
+              if [ -d .git/rebase-merge ] || [ -d .git/rebase-apply ]; then
+                git rebase --abort
+                echo "::error::Results need reconciliation; preserved in the run artifact."
+                return 1
+              fi
+              if [ "$attempt" -lt 3 ]; then sleep "$((attempt * 5))"; fi
+            done
+            echo "::error::Could not save results after three attempts; preserved in the run artifact."
+            return 1
+          }
           git config user.name 'Cabins41 Search Bot'
           git config user.email 'actions@users.noreply.github.com'
           for n in $(seq 1 85); do
             CABINS41_FORCE_RECHECK=1 python search.py --one "$n" --no-wait
             git add data/
             if ! git diff --cached --quiet; then
-              git commit -m "Save source $n results" && git pull --rebase origin codex/strict-solo-sailing-dedupe && git push origin HEAD:codex/strict-solo-sailing-dedupe || exit 1
+              save_results "Save source $n results" || exit 1
             fi
             if [ "$n" -lt 85 ]; then sleep 20; fi
           done
@@ -53,11 +71,33 @@ jobs:
           if [ "${{ steps.search.outcome }}" != "success" ]; then code=1; fi
           python report_test.py --since "${{ steps.started.outputs.time }}" --search-exit "$code" --output data/latest-test-report.md
           cat data/latest-test-report.md >> "$GITHUB_STEP_SUMMARY"
+          save_results() {
+            git commit -m "$1" || return 1
+            for attempt in 1 2 3; do
+              if git pull --rebase origin codex/strict-solo-sailing-dedupe &&
+                 git push origin HEAD:codex/strict-solo-sailing-dedupe; then
+                return 0
+              fi
+              if [ -d .git/rebase-merge ] || [ -d .git/rebase-apply ]; then
+                git rebase --abort
+                echo "::error::Results need reconciliation; preserved in the run artifact."
+                return 1
+              fi
+              if [ "$attempt" -lt 3 ]; then sleep "$((attempt * 5))"; fi
+            done
+            echo "::error::Could not save results after three attempts; preserved in the run artifact."
+            return 1
+          }
           git config user.name 'Cabins41 Search Bot'
           git config user.email 'actions@users.noreply.github.com'
           git add data/latest-test-report.md
           if ! git diff --cached --quiet; then
-            git commit -m "Save test report for run $GITHUB_RUN_ID"
-            git pull --rebase origin codex/strict-solo-sailing-dedupe
-            git push origin HEAD:codex/strict-solo-sailing-dedupe
+            save_results "Save test report for run $GITHUB_RUN_ID" || exit 1
           fi
+      - name: Preserve results even if repository saving fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cabins41-results-${{ github.run_id }}-${{ github.run_attempt }}
+          path: data/
+          if-no-files-found: warn
