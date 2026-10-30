@@ -4423,10 +4423,11 @@
         }
       ],
       "candidate_links_found": 4,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Royal Caribbean",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:36:48.555279+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:41:01.054643+00:00"
     },
     "58": {
       "status": "checked",
