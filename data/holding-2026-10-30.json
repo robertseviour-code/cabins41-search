@@ -3290,8 +3290,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "PONANT",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:45:55.654987+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:37:40.501269+00:00"
     },
     "54": {
       "status": "checked",
