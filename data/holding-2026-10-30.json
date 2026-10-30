@@ -2028,6 +2028,16 @@
       "source_name": "Reddit r/Cruise",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:43:48.101386+00:00"
+    },
+    "76": {
+      "status": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Reddit r/CruiseDeals",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:44:09.276119+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
