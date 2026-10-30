@@ -1944,6 +1944,16 @@
       "source_name": "CheckMyDeal",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:42:16.154327+00:00"
+    },
+    "72": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "CruisePlum",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:42:37.466510+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
