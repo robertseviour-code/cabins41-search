@@ -208,6 +208,37 @@
       "source_name": "Azamara",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:15:05.426034+00:00"
+    },
+    "8": {
+      "status": "checked",
+      "url": "https://barrheadtravel.co.uk",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://barrheadtravel.co.uk/cruise/last-minute-cruise-deals",
+          "label": "Last Minute Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://barrheadtravel.co.uk/flightdeals",
+          "label": "Flights",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://barrheadtravel.co.uk/deals/",
+          "label": "View Our Top Deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 9,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Barrhead Travel",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:15:29.673561+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
