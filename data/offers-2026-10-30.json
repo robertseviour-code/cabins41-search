@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 63,
   "sources_failed": 22,
-  "possible_leads": 34,
+  "possible_leads": 38,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -563,6 +563,70 @@
       "durations_mentioned": [],
       "ships_mentioned": [],
       "solo_evidence": "solo cruisers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/",
+      "evidence": "Cancellation Deals Cruise Deals Exclusive Cruise Deals 2026 Cruises 2027 Cruises 2028 Cruises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liverpool Cruises From Dover Cruises from Scotland Cruises From London Cruises from Newcastle Cruises from Rosyth Deal by M",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "7 Night"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Cruise",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals",
+      "evidence": "Cancellation Deals Cruise Deals Exclusive Cruise Deals 2026 Cruises 2027 Cruises 2028 Cruises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liverpool Cruises From Dover Cruises from Scotland Cruises From London Cruises from Newcastle Cruises from Rosyth Deal by M",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "7 Night"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Cruise",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/cancellations",
+      "evidence": "Cancellation Deals Cruise Deals Exclusive Cruise Deals 2026 Cruises 2027 Cruises 2028 Cruises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liverpool Cruises From Dover Cruises from Scotland Cruises From London Cruises from Newcastle Cruises from Rosyth Deal by M",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "7 Night"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Cruise",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "evidence": "Solo Cruise Deals | Solo Cruise Deals UK | Cruise118.com Freephone 9am - 9pm 08081234118 Our sales team are here to help 7 days a week. For international Callers call 02072064176 Cruise Deals Popular Cruise Cancellation Deals Cruise Deals Exclusive Cruise Deals 2026 Cruises 2027 Cruises 202",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "7 days"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Cruise",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
