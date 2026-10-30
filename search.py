@@ -425,7 +425,7 @@ def main():
             continue
         key = str(source['id'])
         previous = ledger['results'].get(key, {})
-        if previous.get('status') in ('checked', 'blocked', 'failed') and previous.get('checker_version') == VERSION:
+        if os.environ.get('CABINS41_FORCE_RECHECK') != '1' and previous.get('status') in ('checked', 'blocked', 'failed') and previous.get('checker_version') == VERSION:
             continue
         result = check(source, existing, dedupe_ready)
         result.update({'source_name': source['name'], 'checker_version': VERSION,
