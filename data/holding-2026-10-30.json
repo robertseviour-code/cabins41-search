@@ -575,6 +575,48 @@
       "source_name": "Dreamlines",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:21:18.631966+00:00"
+    },
+    "24": {
+      "status": "checked",
+      "url": "https://www.e-hoi.de/",
+      "lead_snippets": [
+        "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.e-hoi.de/kreuzfahrt-angebote/top-angebote-specials.html",
+          "label": "Top-Angebote",
+          "keyword_count": 3,
+          "snippets": [
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
+            ".000 € - 2.999 € 970 1.000 € - 1.999 € 923 500 € - 999 € 551 weniger als 500 € 197 Themen Alleinreisende 371 Bordsprache Deutsch 207 e-hoi Kombipaket 23 Familien 345 LNG-Antrieb 103 Luxuskreuzfahrten 52 Neues Schiff 64 Schnupperkreuzfahrten 125 Themenkreuzfahrten"
+          ]
+        },
+        {
+          "url": "https://www.e-hoi.de/fruehbucher/",
+          "label": "Frühbucher-Angebote",
+          "keyword_count": 3,
+          "snippets": [
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
+            "- 2.999 € 6.221 1.000 € - 1.999 € 5.239 500 € - 999 € 2.371 weniger als 500 € 512 Themen Alleinreisende 2.782 Bordsprache Deutsch 2.156 e-hoi Kombipaket 65 Expeditionskreuzfahrten 467 Familien 3.059 Golfkreuzfahrten 16 LNG-Antrieb 899 Luxuskreuzfahrten 3.301 Neu"
+          ]
+        },
+        {
+          "url": "https://www.e-hoi.de/topseller-kreuzfahrten/",
+          "label": "Topseller-Angebote",
+          "keyword_count": 3,
+          "snippets": [
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
+            "27 2.000 € - 2.999 € 50 1.000 € - 1.999 € 80 500 € - 999 € 77 weniger als 500 € 31 Themen Alleinreisende 38 Bordsprache Deutsch 79 Familien 56 LNG-Antrieb 19 Neues Schiff 8 Schnupperkreuzfahrten 36 Themenkreuzfahrten 10 Top-Angebote 38 Topseller 99 Inklusivleistu"
+          ]
+        }
+      ],
+      "candidate_links_found": 5,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "e-hoi",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:21:50.861120+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
