@@ -5,9 +5,9 @@ report=Path("data/latest-test-report.md")
 s=report.read_text()
 def number(label):
  import re
- m=re.search(label+r":\\*\\* (\\d+)",s)
+ m=re.search(label+r":\*\* (\d+)",s)
  return int(m.group(1)) if m else 0
-current={"run":os.getenv("GITHUB_RUN_ID","unknown"),"attempted":number("Sources freshly attempted"),"checked":number("Checked"),"blocked":number("blocked"),"failed":number("other failures"),"potential":number("Potential solo sailings \\(unverified\\)")}
+current={"run":os.getenv("GITHUB_RUN_ID","unknown"),"attempted":number("Sources freshly attempted"),"checked":number("Checked"),"blocked":number("blocked"),"failed":number("other failures"),"potential":number("Potential solo sailings \(unverified\)")}
 previous_files=sorted(p.glob("*.json"))
 previous=json.loads(previous_files[-1].read_text()) if previous_files else None
 # Baseline recognises the 21 known inaccessible sources, without hiding new failures.
@@ -25,5 +25,5 @@ if previous:
   lines.append(f"- {key}: {current[key]} (previous {previous[key]}, change {current[key]-previous[key]:+d})")
 else:lines.append("First snapshot; comparison begins next test.")
 lines.append("Baseline excludes the known 20 blocked sources and one DNS failure. This does not verify offer accuracy.")
-report.write_text(s+"\\n"+"\\n".join(lines)+"\\n")
+report.write_text(s+"\n"+"\n".join(lines)+"\n")
 (p/(current["run"]+".json")).write_text(json.dumps(current,indent=2))
