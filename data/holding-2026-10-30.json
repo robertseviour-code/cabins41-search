@@ -2352,8 +2352,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "CheckMyDeal",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:56:08.201829+00:00"
+      "checker_version": 5,
+      "checked_at": "2026-10-30T08:52:12.536003+00:00"
     },
     "72": {
       "status": "blocked",
