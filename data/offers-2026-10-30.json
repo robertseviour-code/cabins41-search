@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 62,
   "sources_failed": 23,
-  "possible_leads": 55,
+  "possible_leads": 72,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -875,6 +875,275 @@
       "durations_mentioned": [],
       "ships_mentioned": [],
       "solo_evidence": "solo travellers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/",
+      "evidence": "05:00pm Sunday 10:00am - 04:00pm | Help & FAQs Saved My Cruises Toggle Main Navigation Menu Menu Close Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departure Ports Cruise from England Cruise from Southampton Cruise from Liverpool Cruise from Portsmouth Cruise from Rosyth (",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/",
+      "evidence": "s Read More Cruise Deals Discover our Cruise Deals Cruise of the week Discover More On board credit Discover our on board credit deals Find out more Fly Cruise Deals Discover More Solo Traveller Offers Find out more Explore our 2026 cruises Mediterranean & Canary Islands Warmth, prices from £2,289pp Autumn Warmth in the Canary Islands, prices from £CALL Islands of the Mediterranean with Croatia, prices from £CALL German Christmas Markets, prices from £999pp Caribbea",
+      "prices_mentioned": [
+        "£999"
+      ],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/",
+      "evidence": "Offers: Cabin Upgrade Available 1 more offer ATOL Protected From £1,799 pp Wonders of the Mediterranean L263738 Sail from Limassol Balmoral 09 Nov 2026 21 nights Available Offers: Solo traveller offer available ATOL Protected From £2,499 pp Mediterranean Icons L263739 Sail from Limassol Balmoral 09 Nov 2026 31 nights Available Offers: Solo traveller offer available ATOL Protected From £3,389 pp Fleet Fiesta in Gran Canaria Country-Hopping from Greece to Tenerife L26",
+      "prices_mentioned": [],
+      "dates_mentioned": [
+        "09 Nov 2026"
+      ],
+      "durations_mentioned": [
+        "21 nights",
+        "31 nights"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/",
+      "evidence": "ghts Available Offers: Solo traveller offer available ATOL Protected From £2,499 pp Mediterranean Icons L263739 Sail from Limassol Balmoral 09 Nov 2026 31 nights Available Offers: Solo traveller offer available ATOL Protected From £3,389 pp Fleet Fiesta in Gran Canaria Country-Hopping from Greece to Tenerife L2638 Sail from Piraeus (for Athens) Balmoral 19 Nov 2026 11 nights Available Offers: Cabin Upgrade Available 1 more offer ATOL Protected From £1,699 pp Mediter",
+      "prices_mentioned": [],
+      "dates_mentioned": [
+        "09 Nov 2026",
+        "19 Nov 2026"
+      ],
+      "durations_mentioned": [
+        "31 nights",
+        "11 nights"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/",
+      "evidence": "Available 1 more offer ATOL Protected From £1,699 pp Mediterranean & Canary Islands Warmth L263839 Sail from Piraeus (for Athens) Balmoral 19 Nov 2026 21 nights Available Offers: Solo traveller offer available 1 more offer ATOL Protected From £2,289 pp Fleet Fiesta in Gran Canaria Canaries Escape with the Fleet Fiesta L2639 Sail from Santa Cruz de Tenerife Balmoral 30 Nov 2026 10 nights Available Offers: Cabin Upgrade Available 2 more offers ATOL Protected From £1,2",
+      "prices_mentioned": [],
+      "dates_mentioned": [
+        "19 Nov 2026",
+        "30 Nov 2026"
+      ],
+      "durations_mentioned": [
+        "21 nights",
+        "10 nights"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/",
+      "evidence": "Available 1 more offer ATOL Protected From £1,699 pp Mediterranean & Canary Islands Warmth L263839 Sail from Piraeus (for Athens) Balmoral 19 Nov 2026 21 nights Available Offers: Solo traveller offer available 1 more offer ATOL Protected From £2,289 pp Fleet Fiesta in Gran Canaria Spain & Morocco Fleet Fiesta T2628 Sail from Liverpool Bolette 21 Nov 2026 16 nights From £1,999 pp Fleet Fiesta in Gran Canaria Canary Islands Fleet Fiesta S2630 Sail from Southampton Bor",
+      "prices_mentioned": [],
+      "dates_mentioned": [
+        "19 Nov 2026",
+        "21 Nov 2026"
+      ],
+      "durations_mentioned": [
+        "21 nights",
+        "16 nights"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruise-deals",
+      "evidence": "05:00pm Sunday 10:00am - 04:00pm | Help & FAQs Saved My Cruises Toggle Main Navigation Menu Menu Close Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departure Ports Cruise from England Cruise from Southampton Cruise from Liverpool Cruise from Portsmouth Cruise from Rosyth (",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruise-deals",
+      "evidence": "s Read More Cruise Deals Discover our Cruise Deals Cruise of the week Discover More On board credit Discover our on board credit deals Find out more Fly Cruise Deals Discover More Solo Traveller Offers Find out more Explore our 2026 cruises Mediterranean & Canary Islands Warmth, prices from £2,289pp Autumn Warmth in the Canary Islands, prices from £CALL Islands of the Mediterranean with Croatia, prices from £CALL German Christmas Markets, prices from £999pp Caribbea",
+      "prices_mentioned": [
+        "£999"
+      ],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruise-deals/singles",
+      "evidence": "05:00pm Sunday 10:00am - 04:00pm | Help & FAQs Saved My Cruises Toggle Main Navigation Menu Menu Close Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departure Ports Cruise from England Cruise from Southampton Cruise from Liverpool Cruise from Portsmouth Cruise from Rosyth (",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruise-deals/singles",
+      "evidence": "s Read More Cruise Deals Discover our Cruise Deals Cruise of the week Discover More On board credit Discover our on board credit deals Find out more Fly Cruise Deals Discover More Solo Traveller Offers Find out more Explore our 2026 cruises Mediterranean & Canary Islands Warmth, prices from £2,289pp Autumn Warmth in the Canary Islands, prices from £CALL Islands of the Mediterranean with Croatia, prices from £CALL German Christmas Markets, prices from £999pp Caribbea",
+      "prices_mentioned": [
+        "£999"
+      ],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruise-deals/singles",
+      "evidence": "’s known for their personal touch, you’ll enjoy the freedom to explore and grow while feeling part of a friendly onboard community. Each of the itineraries below benefits from our solo cruise deals, giving you the full Fred. Olsen experience with a reduced single supplement. [ReadMoreDesk][ReadMoreMob] With dedicated welcome drinks parties, social dining tables, solo traveller meet-ups, Dance Hosts and a wide range of solo cabins, we’re committed to ensuring those t",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "solo cruise",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruise-deals/singles",
+      "evidence": "ow while feeling part of a friendly onboard community. Each of the itineraries below benefits from our solo cruise deals, giving you the full Fred. Olsen experience with a reduced single supplement. [ReadMoreDesk][ReadMoreMob] With dedicated welcome drinks parties, social dining tables, solo traveller meet-ups, Dance Hosts and a wide range of solo cabins, we’re committed to ensuring those travelling alone always feel supported. Our three smaller ships - Bolette , Bo",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "single supplement",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruise-deals/singles",
+      "evidence": "s Our solo traveller offers are only available on selected cabin grades, with offers varying between cruises. For full Terms & Conditions please click here. More Information About Solo Cruising Can You Solo Cruise? Discover More Cruise Deals Back To Top Contact us? Opening Hours: Mon-Fri 08:30am - 06:00pm Saturday 09:00am - 05:00pm Sunday 10:00am - 04:00pm Contact us? Opening Hours: Mon-Fri 08:30am - 06:00pm Saturday 09:00am - 05:00pm Sunday 10:00am - 04:00pm Call n",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Cruising",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruising-information/cruising-solo",
+      "evidence": "05:00pm Sunday 10:00am - 04:00pm | Help & FAQs Saved My Cruises Toggle Main Navigation Menu Menu Close Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departure Ports Cruise from England Cruise from Southampton Cruise from Liverpool Cruise from Portsmouth Cruise from Rosyth (",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruising-information/cruising-solo",
+      "evidence": "s Read More Cruise Deals Discover our Cruise Deals Cruise of the week Discover More On board credit Discover our on board credit deals Find out more Fly Cruise Deals Discover More Solo Traveller Offers Find out more Explore our 2026 cruises Mediterranean & Canary Islands Warmth, prices from £2,289pp Autumn Warmth in the Canary Islands, prices from £CALL Islands of the Mediterranean with Croatia, prices from £CALL German Christmas Markets, prices from £999pp Caribbea",
+      "prices_mentioned": [
+        "£999"
+      ],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruising-information/cruising-solo",
+      "evidence": "th a wide selection of solo cruise deals , dedicated solo cabins and a warm, welcoming atmosphere aboard our smaller ships, we’re proud to have been voted the Best Cruise Line for Solo Travellers. Whether it’s your first time travelling solo or your first time with Fred. Olsen, we understand you may have questions. That’s why we’ve created this guide – to show you what solo cruising with us is really like, and to help you feel confident from the moment you book. Tru",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Travellers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Fred Olsen Cruise Lines",
+      "source_id": 28,
+      "seller_url": "https://www.fredolsencruises.com/cruising-information/cruising-solo",
+      "evidence": "ers. Whether it’s your first time travelling solo or your first time with Fred. Olsen, we understand you may have questions. That’s why we’ve created this guide – to show you what solo cruising with us is really like, and to help you feel confident from the moment you book. Trustpilot Trustpilot what's it like cruising solo? conversations at sea - what's it like to cruise solo × What's it like to cruise solo? Solo Traveller offers Read our solo traveller blog What c",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "solo cruising",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
