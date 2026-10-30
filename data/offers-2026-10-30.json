@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 62,
   "sources_failed": 23,
-  "possible_leads": 130,
+  "possible_leads": 133,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -2030,6 +2030,48 @@
         "Norwegian Cruise"
       ],
       "solo_evidence": "solo travellers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Journey Latin America",
+      "source_id": 36,
+      "seller_url": "https://www.journeylatinamerica.com/holiday-styles/solo-traveller/",
+      "evidence": "be uniquely open to everything your destination has to offer, throwing yourself into new experiences and forging a connection with the local culture. The freedom experienced as a single traveller is unparalleled and often exhilarating. In fact, Journey Latin America clients choose to go solo for all sorts of reasons. A great starting point for solo travellers in Latin America is to consider joining one of our escorted group tours – not only is this an economical cho",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "single traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Journey Latin America",
+      "source_id": 36,
+      "seller_url": "https://www.journeylatinamerica.com/holiday-styles/solo-traveller/",
+      "evidence": "rienced as a single traveller is unparalleled and often exhilarating. In fact, Journey Latin America clients choose to go solo for all sorts of reasons. A great starting point for solo travellers in Latin America is to consider joining one of our escorted group tours – not only is this an economical choice but it’s a chance to band together with other like-minded people in a friendly environment where there’s a real sense of camaraderie. Our selection of more than 3",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "solo travellers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Journey Latin America",
+      "source_id": 36,
+      "seller_url": "https://www.journeylatinamerica.com/holiday-styles/solo-traveller/",
+      "evidence": "araderie. Our selection of more than 30 group tours are a popular choice for solo travellers, in fact over 40% of our annual group tour clients are solos. What’s more, there is no single supplement to pay if you’re willing to share a room with a member of the same sex (even if final numbers mean you end up with a room of your own!) If you prefer tailor-made itineraries to Central and South America, we can help there too. With encyclopaedic knowledge of Latin America",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "single supplement",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
