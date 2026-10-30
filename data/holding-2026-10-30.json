@@ -107,6 +107,37 @@
       "source_name": "Ambassador Cruise Line",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:13:35.183199+00:00"
+    },
+    "5": {
+      "status": "checked",
+      "url": "https://www.aquotic.com/es-es/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.aquotic.com/es-es/cruceros-con-ninos.6.187",
+          "label": "Cruceros con Niños",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.aquotic.com/es-es/cruceros-para-familias.6.182",
+          "label": "Cruceros para Familias",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.aquotic.com/es-es/cruceros-con-vuelos.6.186",
+          "label": "Cruceros con Vuelos incluidos",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 88,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Aquotic",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:14:05.388982+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
