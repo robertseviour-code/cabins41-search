@@ -83,3 +83,5 @@ jobs:
           name: cabins41-results-${{ github.run_id }}-${{ github.run_attempt }}
           path: data/
           if-no-files-found: warn
+
+# Full search and reporting test requested
