@@ -19,16 +19,16 @@ from zoneinfo import ZoneInfo
 
 ROOT = pathlib.Path(__file__).parent
 SOURCES = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
-VERSION = 15
+VERSION = 16
 SOLO = re.compile(r'\b(?:solo\s+(?:cruis\w*|travel\w*|sail\w*|fare\w*|offer\w*|deal\w*|discount\w*|cabin\w*|price\w*|rate\w*)|single\s+(?:supplement|cabins?|occupancy|travell?ers?|cruis\w*)|singles?\s+cruis\w*|alleinreisend\w*|einzelkabine\w*|einzelzuschlag\w*|singlezuschlag\w*|suplemento\s+individual|cruceros?\s+para\s+(?:una|uno|solos?))\b', re.I)
-CLEAR_SOLO_OFFER = re.compile(r'\b(?:solo\s+(?:(?:cruise\s+)?(?:offer|deal|discount|fare|price|rate)s?|cruis\w*\s+(?:offer|deal|discount|fare|price|rate)s?)|(?:offer|deal|discount|fare|price|rate)s?\s+for\s+(?:solo|single)\s+(?:cruis\w*|travell?ers?|occupan\w*)|(?:no|without|waived|free|reduced)\s+single\s+supplement|single\s+supplement\s+(?:waived|free|reduced|from|of|\d{1,3}\s*%)|single\s+supplement.{0,35}(?:\d{1,3}\s*%|[£€$]\s*\d)|alleinreisenden[- ]angebot|einzelkabinenzuschlag.{0,35}\d|einzelzuschlag.{0,35}\d|singlezuschlag.{0,35}\d|suplemento\s+individual.{0,35}\d|oferta\s+para\s+(?:viajeros?\s+)?solos?)', re.I)
+CLEAR_SOLO_OFFER = re.compile(r'\b(?:zuschlag\s+nur\s+\d{1,3}\s*%|solo\s+(?:(?:cruise\s+)?(?:offer|deal|discount|fare|price|rate)s?|cruis\w*\s+(?:offer|deal|discount|fare|price|rate)s?)|(?:offer|deal|discount|fare|price|rate)s?\s+for\s+(?:solo|single)\s+(?:cruis\w*|travell?ers?|occupan\w*)|(?:no|without|waived|free|reduced)\s+single\s+supplement|single\s+supplement\s+(?:waived|free|reduced|from|of|\d{1,3}\s*%)|single\s+supplement.{0,35}(?:\d{1,3}\s*%|[£€$]\s*\d)|alleinreisenden[- ]angebot|einzelkabinenzuschlag.{0,35}\d|einzelzuschlag.{0,35}\d|singlezuschlag.{0,35}\d|suplemento\s+individual.{0,35}\d|oferta\s+para\s+(?:viajeros?\s+)?solos?)', re.I)
 OFFER = re.compile(r'\b(?:from|starting\s+at|only|per\s+person|pp|p\s*/\s*p|ab|desde|solo\s+fare|single\s+fare|no\s+single\s+supplement|waived\s+single\s+supplement|ohne\s+einzelzuschlag|kein\s+einzelzuschlag|single\s+supplement\s+(?:waived|free|reduced))\b', re.I)
 PRICE = re.compile(r'(?<!\w)(?:£|€|\$|GBP\s*|EUR\s*|USD\s*)\s*\d{2,5}(?:[.,]\d{2})?(?!\d)', re.I)
 DATE = re.compile(r'\b(?:\d{1,2}[\s./-]+(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?|\d{1,2})[\s,./-]+20\d{2}|(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)[\s]+\d{1,2}(?:,?\s+20\d{2})?|20\d{2}-\d{2}-\d{2})\b', re.I)
 NIGHTS = re.compile(r'\b\d{1,2}\s*(?:nights?|n[aä]chte|d[íi]as|days?)\b', re.I)
 LINK_WORDS = re.compile(r'solo|single|alleinreis|einzel|singles|supplement|zuschlag|ofertas?|deals?|angebote|cruceros|kreuzfahrt', re.I)
-SHIP = re.compile(r'\b(?:(?i:MSC|Costa|Norwegian|NCL|Celebrity|Virgin|Explora|Azamara|Ambassador|Fred\.?\s+Olsen|P&O|Princess|Regent|Royal Caribbean|Holland America|Seabourn|Silversea|Cunard|AIDA|Mein Schiff|Carnival|Disney|Oceania|TUI)\s+(?-i:(?:[A-Z][a-z0-9-]+|[A-Z]{2,})(?:\s+(?:[A-Z][a-z0-9-]+|[A-Z]{2,}|[0-9]))?)|Queen\s+(?:Mary\s*2|Victoria|Anne|Elizabeth)|(?:AIDA(?:bella|blu|cosma|diva|luna|mar|nova|perla|prima|sol|stella|vita)|Ambience|Ambition|Balmoral|Bolette|Borealis|Armonia|Bellissima|Divina|Euribia|Fantasia|Fascinosa|Grandiosa|Lirica|Magnifica|Meraviglia|Musica|Opera|Orchestra|Poesia|Preziosa|Seascape|Seashore|Seaside|Sinfonia|Splendida|Toscana|Smeralda|Fascinosa|Diadema|Favolosa|Deliziosa|Pacifica|Serena|Getaway|Breakaway|Bliss|Encore|Escape|Jade|Jewel|Prima|Viva|Ambition|Onward|Pursuit|Quest|Journey))\b', re.I)
-SHIP_GENERIC = {'cruise', 'cruises', 'kreuzfahrt', 'kreuzfahrten', 'offer', 'offers', 'deals', 'holidays', 'holiday', 'voyage', 'voyages', 'fjords', 'destinations', 'line', 'lines', 'departing', 'mediterranean', 'bahamas', 'caribbean', 'australasia', 'sanctuary', 'collection', 'premier', 'jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'sept', 'oct', 'nov', 'dec', 'dez', 'january', 'february', 'march', 'april', 'june', 'july', 'august', 'september', 'october', 'november', 'december'}
+SHIP = re.compile(r'\b(?:(?i:MSC|Costa|Norwegian|NCL|Celebrity|Virgin|Explora|Azamara|Ambassador|Fred\.?\s+Olsen|P&O|Princess|Regent|Royal Caribbean|Holland America|Seabourn|Silversea|Cunard|AIDA|Mein Schiff|Carnival|Disney|Oceania|TUI)\s+(?-i:(?:[A-Z][a-z0-9-]+|[A-Z]{2,})(?:\s+(?:[A-Z][a-z0-9-]+|[A-Z]{2,}|[0-9]))?)|Queen\s+(?:Mary\s*2|Victoria|Anne|Elizabeth)|(?:AIDA(?:bella|blu|cosma|diva|luna|mar|nova|perla|prima|sol|stella|vita)|Ambience|Ambition|Balmoral|Bolette|Borealis|Armonia|Bellissima|Divina|Euribia|Fantasia|Fascinosa|Grandiosa|Lirica|Magnifica|Meraviglia|Musica|Opera|Orchestra|Poesia|Preziosa|Seascape|Seashore|Seaside|Sinfonia|Splendida|Toscana|Smeralda|Fascinosa|Diadema|Favolosa|Deliziosa|Pacifica|Serena|Breakaway|Bliss|Encore|Jade|Prima|Onward|Pursuit))\b', re.I)
+SHIP_GENERIC = {'cruise', 'cruises', 'kreuzfahrt', 'kreuzfahrten', 'offer', 'offers', 'deal', 'deals', 'fare', 'fares', 'waived', 'multiple', 'from', 'hosts', 'experience', 'experiences', 'all-inclusive', 'date', 'dates', 'sailing', 'sailings', 'cruising', 'holidays', 'holiday', 'voyage', 'voyages', 'fjords', 'destinations', 'line', 'lines', 'departing', 'mediterranean', 'bahamas', 'caribbean', 'australasia', 'sanctuary', 'collection', 'premier', 'jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'sept', 'oct', 'nov', 'dec', 'dez', 'january', 'february', 'march', 'april', 'june', 'july', 'august', 'september', 'october', 'november', 'december'}
 CABINS41_URL = 'https://lovely-paletas-545789.netlify.app/'
 
 
@@ -139,8 +139,8 @@ def named_sailings(text):
         if re.search(r'\b(?:cruise|cruises|line|lines)\b', name, re.I):
             continue
         if name.casefold() in {'msc', 'costa', 'norwegian', 'ncl', 'celebrity', 'virgin',
-                               'explora', 'azamara', 'ambassador', 'princess', 'regent',
-                               'royal caribbean', 'holland america', 'seabourn', 'silversea',
+                               'virgin voyages', 'explora', 'explora journeys', 'azamara', 'ambassador', 'princess', 'regent', 'regent seven seas',
+                               'royal caribbean', 'holland america', 'seabourn', 'silversea', 'silversea voyages',
                                'cunard', 'aida', 'carnival', 'disney', 'oceania', 'tui'}:
             continue
         if re.search(r'\bCosta\s+Rica\b', name, re.I):
@@ -154,7 +154,7 @@ def named_sailings(text):
         if iso_date:
             before_date = text[max(0, match.start()-45):match.start()].casefold()
             if any(marker in before_date for marker in
-                   ('published', 'updated', 'posted', 'last modified',
+                   ('published', 'updated', 'posted', 'last modified', 'says', 'comments', 'commented',
                     'veröffentlicht', 'publicado', 'actualizado')):
                 continue
             date_spans.append((match.start(), match.end(), iso_date, match.group(0)))
@@ -188,7 +188,7 @@ def extract_leads(text, url, source, existing, dedupe_ready):
         date_at = sailing['date_start']
         sailing_at = (ship_at + date_at) // 2
         match = min(solo_matches, key=lambda m: abs(m.start() - sailing_at))
-        if not solo_page and abs(match.start() - sailing_at) > 500:
+        if abs(match.start() - sailing_at) > 500:
             continue
         evidence_start = max(0, min(ship_at, date_at) - 280)
         evidence_end = min(len(text), max(ship_at, date_at) + 500)
