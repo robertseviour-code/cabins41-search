@@ -1354,9 +1354,10 @@
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
+      "possible_offers": [],
       "source_name": "Dreamlines",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:21:18.631966+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:26:21.234019+00:00"
     },
     "24": {
       "status": "checked",
