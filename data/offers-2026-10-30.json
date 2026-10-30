@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 62,
   "sources_failed": 23,
-  "possible_leads": 108,
+  "possible_leads": 111,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -1682,6 +1682,54 @@
       "durations_mentioned": [],
       "ships_mentioned": [],
       "solo_evidence": "solo traveler",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "HX Expeditions",
+      "source_id": 34,
+      "seller_url": "https://www.travelhx.com/en-us/",
+      "evidence": ", with our Price Promise protecting you if the price drops. Explore as a Solo Traveller Enjoy the freedom of solo travel with a welcoming, like-minded community. Join thousands of solo travellers who explore with us each year Find low solo supplements on every single sailing* Travelling soon? Find selected departures with no solo supplement^ *applies except if the solo cabin allocation on a particular departure has been sold out. ^ Valid on new bookings only and val",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "solo travellers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "HX Expeditions",
+      "source_id": 34,
+      "seller_url": "https://www.travelhx.com/en-us/",
+      "evidence": "rtures We occasionally offer no solo supplement on selected expeditions departures. To find these savings, scroll to the departures section on any itinerary page and switch on the solo traveler toggle. See all offers Featured cruises No Solo Supplement + More offers Antarctica Highlights of Antarctica Expedition Cruise Departure Dates Oct 30, 26, Nov 9, 26 + 48 more departures Price from Unavailable Ships MS Roald Amundsen +1 MS Roald Amundsen MS Fridtjof Nansen Ann",
+      "prices_mentioned": [],
+      "dates_mentioned": [
+        "Oct 30",
+        "Nov 9"
+      ],
+      "durations_mentioned": [],
+      "ships_mentioned": [
+        "MS Roald Amundsen",
+        "MS Fridtjof Nansen"
+      ],
+      "solo_evidence": "solo traveler",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "HX Expeditions",
+      "source_id": 34,
+      "seller_url": "https://www.travelhx.com/en-us/stories/traveling-solo/",
+      "evidence": "ort of knowing you’re in expert hands. 1 mins read Traveling with HX Planning your trip Enjoy the freedom of solo travel with a welcoming, like-minded community. Join thousands of solo travellers who explore with us each year Find low solo supplements on every single sailing* Travelling soon? Find selected departures with no solo supplement^ *applies except if the solo cabin allocation on a particular departure has been sold out. ^ Valid on new bookings only and val",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "solo travellers",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
