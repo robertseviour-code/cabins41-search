@@ -4529,21 +4529,26 @@
     "59": {
       "status": "checked",
       "url": "https://www.seabourn.com/en/us",
-      "lead_snippets": [],
-      "lead_count": 0,
+      "lead_snippets": [
+        "RE Offers Back to main menu Offers Special Offers All Special Offers Explore Beyond Event Solo Travelers Finale Sail Combo Sailings Seabourn Club Members Explore the Mediterranean and beyond while receiving up to $2,000 USD Shipboard Credit per suite plus a 15% Re"
+      ],
+      "lead_count": 1,
       "candidate_pages": [
         {
           "url": "https://www.seabourn.com/en/us/find-a-cruise?dealId=SBNSOLO_101724&csvFileName=SBNSOLO_101724",
           "label": "Solo Travelers",
-          "keyword_count": 0,
-          "snippets": []
+          "keyword_count": 1,
+          "snippets": [
+            "RE Offers Back to main menu Offers Special Offers All Special Offers Explore Beyond Event Solo Travelers Finale Sail Combo Sailings Seabourn Club Members Explore the Mediterranean and beyond while receiving up to $2,000 USD Shipboard Credit per suite plus a 15% Re"
+          ]
         }
       ],
       "candidate_links_found": 1,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Seabourn",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:37:38.084413+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:41:52.455394+00:00"
     },
     "60": {
       "status": "checked",
