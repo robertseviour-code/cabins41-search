@@ -1246,6 +1246,31 @@
       "source_name": "Odysia Cruise",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:30:30.948860+00:00"
+    },
+    "47": {
+      "status": "checked",
+      "url": "https://www.pocruises.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.pocruises.com/deals/cruise-deals",
+          "label": "Explore great savings",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.pocruises.com/deals/promotion-terms-and-conditions",
+          "label": "here",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 2,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "P and O Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:30:54.816939+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
