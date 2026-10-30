@@ -786,8 +786,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Crystal Cruises",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:24:43.501102+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T14:10:36.341295+00:00"
     },
     "21": {
       "status": "checked",
