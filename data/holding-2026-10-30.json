@@ -1541,10 +1541,12 @@
       ],
       "candidate_links_found": 2,
       "possible_offers": [],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "P and O Cruises",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:36:01.324948+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:43:25.111974+00:00"
     },
     "48": {
       "status": "checked",
