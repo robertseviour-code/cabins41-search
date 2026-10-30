@@ -845,6 +845,37 @@
       "source_name": "Havila Voyages",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:24:39.359385+00:00"
+    },
+    "32": {
+      "status": "checked",
+      "url": "https://www.hollandamerica.com/en/us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals",
+          "label": "Exclusive Offers",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals/have-it-all?ICID=INTHWEB20240502MYZ78LYX6X",
+          "label": "Have It All Package",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals?ICID=INTHWEB20240809Z99ZZ5BERK",
+          "label": "All Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 14,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Holland America Line",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:25:01.983207+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
