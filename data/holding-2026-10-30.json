@@ -1654,15 +1654,35 @@
         {
           "url": "https://explorajourneys.com/us/en/info/special-offers/solo-travellers",
           "label": "A Journey of One",
-          "keyword_count": 0,
-          "snippets": []
+          "keyword_count": 3,
+          "snippets": [
+            "Solo Travellers Find a journey Destinations back Destinations All Destinations Mediterranean & Western Europe Caribbean & Central America Alaska Asia Northern Europe, Iceland",
+            "t any time. See full terms and conditions here . Your Journeys Await A natural choice for solo travellers, where a warm, welcoming atmosphere invites connection and ease. All Journeys Include Nine distinct culinary experiences, including In-Suite Dining Unlimited b",
+            ". Benefits Zero or Reduced Supplements Read More Explora Journeys is a natural choice for solo travellers. Enjoy your own suite without the full supplement cost - zero or reduced supplements for solo occupancy. All Oceanfront Suites Read More Your private Home at S"
+          ]
         }
       ],
       "candidate_links_found": 1,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [
+        {
+          "source_name": "Explora Journeys",
+          "source_id": 26,
+          "seller_url": "https://explorajourneys.com/us/en/info/special-offers/solo-travellers",
+          "evidence": "-OT3-OT4-GT) or Ocean Penthouse (PH-DP-PP-GP) suite category. The offer may be withdrawn at any time. See full terms and conditions here . Your Journeys Await A natural choice for solo travellers, where a warm, welcoming atmosphere invites connection and ease. All Journeys Include Nine distinct culinary experiences, including In-Suite Dining Unlimited beverages including fine wines, champagne, premium spirits, specialty coffees, teas and soft drinks, available anyti",
+          "prices_mentioned": [],
+          "dates_mentioned": [],
+          "durations_mentioned": [],
+          "ships_mentioned": [],
+          "solo_evidence": "solo travellers",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        }
+      ],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Explora Journeys",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:22:36.485180+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:27:39.256841+00:00"
     },
     "27": {
       "status": "checked",
