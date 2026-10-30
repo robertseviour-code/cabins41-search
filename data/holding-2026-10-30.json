@@ -2489,15 +2489,11 @@
         },
         {
           "url": "https://www.virginvoyages.com/cruise-deals/flight-hotel-cruise-packages",
-          "label": "Fly & Stay",
-          "keyword_count": 0,
-          "snippets": []
+          "error": "HTTP Error 500: Internal Server Error"
         },
         {
           "url": "https://www.virginvoyages.com/cruise-deals/cruise-add-on-options",
-          "label": "Cruise Packages",
-          "keyword_count": 0,
-          "snippets": []
+          "error": "HTTP Error 500: Internal Server Error"
         }
       ],
       "candidate_links_found": 4,
@@ -2507,7 +2503,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Virgin Voyages",
       "checker_version": 19,
-      "checked_at": "2026-10-30T17:26:11.889440+00:00"
+      "checked_at": "2026-10-30T19:43:42.975487+00:00"
     },
     "66": {
       "status": "checked",
