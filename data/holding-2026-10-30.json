@@ -2076,15 +2076,17 @@
       "checked_at": "2026-10-30T07:51:57.351793+00:00"
     },
     "64": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Viajes El Corte Ingles",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:43:48.868088+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:52:19.840182+00:00"
     },
     "65": {
       "status": "checked",
