@@ -1205,6 +1205,16 @@
       "source_name": "Ocean World Travel",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:29:39.930198+00:00"
+    },
+    "45": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Oceania Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:30:01.428868+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
