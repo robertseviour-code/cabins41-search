@@ -1411,91 +1411,13 @@
         }
       ],
       "candidate_links_found": 11,
-      "possible_offers": [
-        {
-          "source_name": "Norwegian Cruise Line",
-          "source_id": 43,
-          "seller_url": "https://www.ncl.com:443/",
-          "evidence": "only. See full disclosure for details. Prices are shown in USD unless otherwise noted. © 2026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount First Responder Cruise Discount CRUISES Cruise Ships Cruise Destinations Find a Cruise Dining Ports Staterooms The Haven VIP Exper",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [],
-          "ships_mentioned": [
-            "NCL Experience"
-          ],
-          "solo_evidence": "Solo Cruises",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Norwegian Cruise Line",
-          "source_id": 43,
-          "seller_url": "https://www.ncl.com/cruise-deals",
-          "evidence": "ed additional options for even more savings. Best of all? These special offers can be combined with our current promotions, so you never have to choose! From groups to military to solo travelers, be sure to check out our exclusive offers to maximize your savings and value on NCL. Military Appreciation Program Learn More Teacher Cruise Discount Learn More First Responder Cruise Discount Learn More Group Cruise Discount Learn More CruiseFirst Learn More Past Guest Off",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [],
-          "ships_mentioned": [],
-          "solo_evidence": "solo travelers",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Norwegian Cruise Line",
-          "source_id": 43,
-          "seller_url": "https://www.ncl.com/cruise-deals",
-          "evidence": "rogram Learn More Teacher Cruise Discount Learn More First Responder Cruise Discount Learn More Group Cruise Discount Learn More CruiseFirst Learn More Past Guest Offer Learn More Solo Cruising Learn More Land or Sea, We've Got you Covered. Enjoy an effortless vacation from beginning to end when we plan your hotel stays for you. With NCL’s Hotel Program we book your pre and post-cruise accomodations from a carefully selected list, curated by our travel experts. We s",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [],
-          "ships_mentioned": [],
-          "solo_evidence": "Solo Cruising",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Norwegian Cruise Line",
-          "source_id": 43,
-          "seller_url": "https://www.ncl.com/cruise-deals/promotion-terms",
-          "evidence": "ll promotional airfare amount Guests may request a one-way air itinerary; in which case they will be charged 50% of the applicable promotional air pricing for the selected gateway Solo traveling guests will receive 50% off Norwegian Cruise Line's promotional airfare pricing each way Land packages (hotels) must be added no later than 75 days prior to embarkation CruiseTours must be added no later than 66 days prior to embarkation o Air offer applies to economy, round",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [
-            "75 days",
-            "66 days"
-          ],
-          "ships_mentioned": [
-            "Norwegian Cruise"
-          ],
-          "solo_evidence": "Solo traveling",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Norwegian Cruise Line",
-          "source_id": 43,
-          "seller_url": "https://www.ncl.com/cruise-deals/promotion-terms",
-          "evidence": "is lower. Discount is applied when flights are added to the booking up to 80 days prior to sailing. Full discount applies to roundtrip airfare; one-way air gets half the discount. Solo travellers (singles) receive the entitled discount. Selected low fares are not eligible for the promotion, and reservations cannot be stored FIT Terms Offer is for new individual FIT reservations New qualifying individual FIT reservations can be moved into an existing Traditional or F",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [
-            "80 days"
-          ],
-          "ships_mentioned": [],
-          "solo_evidence": "Solo travellers",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        }
-      ],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Norwegian Cruise Line",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:34:25.145379+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:41:47.224402+00:00"
     },
     "44": {
       "status": "checked",
