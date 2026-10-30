@@ -6226,9 +6226,10 @@
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
+      "possible_offers": [],
       "source_name": "Reddit r/VirginVoyages",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:45:34.499305+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:50:53.865941+00:00"
     },
     "81": {
       "status": "checked",
