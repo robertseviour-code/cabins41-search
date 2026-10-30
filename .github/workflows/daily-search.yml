@@ -36,13 +36,24 @@ jobs:
         run: |
           git config user.name 'Cabins41 Search Bot'
           git config user.email 'actions@users.noreply.github.com'
-          for n in $(seq 1 85); do
+          commit_message="${{ github.event.head_commit.message }}"
+          if [ "${{ github.event_name }}" = "push" ]; then
+            case "$commit_message" in
+              "RUN FIVE SOURCES"*) source_ids="61 69 71 73 82" ;;
+              "RUN FULL SEARCH"*) source_ids="$(seq 1 85)" ;;
+              *) echo "No search requested by this change."; exit 0 ;;
+            esac
+          else
+            source_ids="$(seq 1 85)"
+          fi
+          last_id="$(printf '%s\n' "$source_ids" | awk '{print $NF}')"
+          for n in $source_ids; do
             python search.py --one "$n" --no-wait
             git add data/
             if ! git diff --cached --quiet; then
               git commit -m "Save source $n results" && git push || exit 1
             fi
-            if [ "$n" -lt 85 ]; then sleep 20; fi
+            if [ "$n" != "$last_id" ]; then sleep 20; fi
           done
           date="$(TZ=Europe/London date +%F)"
           cat "data/offers-${date}.md" >> "$GITHUB_STEP_SUMMARY"
