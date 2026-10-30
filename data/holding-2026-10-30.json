@@ -3327,8 +3327,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Princess Cruises",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:46:17.974821+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:38:03.500378+00:00"
     },
     "55": {
       "status": "failed",
