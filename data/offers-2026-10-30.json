@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "sources_attempted": 85,
   "sources_checked": 63,
-  "sources_blocked": 4,
-  "sources_failed": 18,
+  "sources_blocked": 5,
+  "sources_failed": 17,
   "qualified_candidates": 0,
   "duplicate_sailings_excluded": 0,
   "existing_listings_status": {
@@ -31,6 +31,10 @@
     {
       "source": "CruiseKings",
       "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Dreamlines",
+      "reason": "HTTP Error 403: Forbidden"
     }
   ],
   "blocked_candidate_pages": [],
@@ -38,10 +42,6 @@
     {
       "source": "Deluxe Cruises",
       "reason": "<urlopen error timed out>"
-    },
-    {
-      "source": "Dreamlines",
-      "reason": "HTTP Error 403: Forbidden"
     },
     {
       "source": "Limitless Travel",

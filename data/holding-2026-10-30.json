@@ -671,15 +671,17 @@
       "checked_at": "2026-10-30T07:33:16.799847+00:00"
     },
     "23": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Dreamlines",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:26:21.234019+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:33:38.627853+00:00"
     },
     "24": {
       "status": "checked",
