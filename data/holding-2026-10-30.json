@@ -5988,10 +5988,11 @@
         }
       ],
       "candidate_links_found": 3,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "CheckMyDeal",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:42:16.154327+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:47:34.609898+00:00"
     },
     "72": {
       "status": "failed",
