@@ -39,7 +39,7 @@ jobs:
           commit_message="${{ github.event.head_commit.message }}"
           if [ "${{ github.event_name }}" = "push" ]; then
             case "$commit_message" in
-              "RUN FIVE SOURCES"*) source_ids="61 69 71 73 82" ;;
+              "RUN FIVE SOURCES"*) source_ids="6 17 35 43 61" ;;
               "RUN FULL SEARCH"*) source_ids="$(seq 1 85)" ;;
               *) echo "No search requested by this change."; exit 0 ;;
             esac
