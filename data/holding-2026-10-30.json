@@ -1039,10 +1039,12 @@
       ],
       "candidate_links_found": 14,
       "possible_offers": [],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Holland America Line",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:30:07.529303+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:37:25.363132+00:00"
     },
     "33": {
       "status": "checked",
