@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "sources_attempted": 85,
   "sources_checked": 63,
-  "sources_blocked": 2,
-  "sources_failed": 20,
+  "sources_blocked": 3,
+  "sources_failed": 19,
   "qualified_candidates": 0,
   "duplicate_sailings_excluded": 0,
   "existing_listings_status": {
@@ -23,14 +23,14 @@
     {
       "source": "AIDA Cruises",
       "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Cruise Club UK",
+      "reason": "HTTP Error 403: Forbidden"
     }
   ],
   "blocked_candidate_pages": [],
   "failed_sources": [
-    {
-      "source": "Cruise Club UK",
-      "reason": "HTTP Error 403: Forbidden"
-    },
     {
       "source": "CruiseKings",
       "reason": "HTTP Error 403: Forbidden"

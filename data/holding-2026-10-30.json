@@ -441,15 +441,17 @@
       "checked_at": "2026-10-30T07:25:39.304727+00:00"
     },
     "14": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Cruise Club UK",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:18:53.381249+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:26:02.193152+00:00"
     },
     "15": {
       "status": "checked",
