@@ -1274,10 +1274,12 @@
       ],
       "candidate_links_found": 74,
       "possible_offers": [],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Kreuzfahrtberater",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:32:12.353310+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:39:33.418441+00:00"
     },
     "38": {
       "status": "failed",
