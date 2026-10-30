@@ -19,7 +19,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = pathlib.Path(__file__).parent
 SOURCES = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
-VERSION = 9
+VERSION = 10
 SOLO = re.compile(r'\b(?:solo\s+(?:cruis\w*|travel\w*|sail\w*|fare\w*|offer\w*|deal\w*|discount\w*|cabin\w*|price\w*|rate\w*)|single\s+(?:supplement|cabins?|occupancy|travell?ers?|cruis\w*)|singles?\s+cruis\w*|alleinreisend\w*|einzelkabine\w*|einzelzuschlag\w*|singlezuschlag\w*|suplemento\s+individual|cruceros?\s+para\s+(?:una|uno|solos?))\b', re.I)
 CLEAR_SOLO_OFFER = re.compile(r'\b(?:solo\s+(?:(?:cruise\s+)?(?:offer|deal|discount|fare|price|rate)s?|cruis\w*\s+(?:offer|deal|discount|fare|price|rate)s?)|(?:offer|deal|discount|fare|price|rate)s?\s+for\s+(?:solo|single)\s+(?:cruis\w*|travell?ers?|occupan\w*)|(?:no|without|waived|free|reduced)\s+single\s+supplement|single\s+supplement\s+(?:waived|free|reduced|from|of|\d{1,3}\s*%)|single\s+supplement.{0,35}(?:\d{1,3}\s*%|[£€$]\s*\d)|alleinreisenden[- ]angebot|einzelkabinenzuschlag.{0,35}\d|einzelzuschlag.{0,35}\d|singlezuschlag.{0,35}\d|suplemento\s+individual.{0,35}\d|oferta\s+para\s+(?:viajeros?\s+)?solos?)', re.I)
 OFFER = re.compile(r'\b(?:from|starting\s+at|only|per\s+person|pp|p\s*/\s*p|ab|desde|solo\s+fare|single\s+fare|no\s+single\s+supplement|waived\s+single\s+supplement|ohne\s+einzelzuschlag|kein\s+einzelzuschlag|single\s+supplement\s+(?:waived|free|reduced))\b', re.I)
@@ -28,7 +28,7 @@ DATE = re.compile(r'\b(?:\d{1,2}[\s./-]+(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?
 NIGHTS = re.compile(r'\b\d{1,2}\s*(?:nights?|n[aä]chte|d[íi]as|days?)\b', re.I)
 LINK_WORDS = re.compile(r'solo|single|alleinreis|einzel|singles|supplement|zuschlag|ofertas?|deals?|angebote|cruceros|kreuzfahrt', re.I)
 SHIP = re.compile(r'\b(?:(?i:MSC|Costa|Norwegian|NCL|Celebrity|Virgin|Explora|Azamara|Ambassador|Fred\.?\s+Olsen|P&O|Princess|Regent|Royal Caribbean|Holland America|Seabourn|Silversea|Cunard|AIDA|Mein Schiff|Carnival|Disney|Oceania|TUI)\s+(?-i:(?:[A-Z][a-z0-9-]+|[A-Z]{2,})(?:\s+(?:[A-Z][a-z0-9-]+|[A-Z]{2,}|[0-9]))?)|Queen\s+(?:Mary\s*2|Victoria|Anne|Elizabeth)|(?:AIDA(?:bella|blu|cosma|diva|luna|mar|nova|perla|prima|sol|stella|vita)|Ambience|Ambition|Balmoral|Bolette|Borealis|Armonia|Bellissima|Divina|Euribia|Fantasia|Fascinosa|Grandiosa|Lirica|Magnifica|Meraviglia|Musica|Opera|Orchestra|Poesia|Preziosa|Seascape|Seashore|Seaside|Sinfonia|Splendida|Toscana|Smeralda|Fascinosa|Diadema|Favolosa|Deliziosa|Pacifica|Serena|Getaway|Breakaway|Bliss|Encore|Escape|Jade|Jewel|Prima|Viva|Ambition|Onward|Pursuit|Quest|Journey))\b', re.I)
-SHIP_GENERIC = {'cruise', 'cruises', 'kreuzfahrt', 'kreuzfahrten', 'offer', 'offers', 'deals', 'holidays', 'holiday', 'voyage', 'voyages', 'fjords', 'destinations', 'line', 'lines'}
+SHIP_GENERIC = {'cruise', 'cruises', 'kreuzfahrt', 'kreuzfahrten', 'offer', 'offers', 'deals', 'holidays', 'holiday', 'voyage', 'voyages', 'fjords', 'destinations', 'line', 'lines', 'mediterranean', 'bahamas', 'caribbean', 'australasia', 'sanctuary', 'collection', 'premier', 'jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'sept', 'oct', 'nov', 'dec', 'january', 'february', 'march', 'april', 'june', 'july', 'august', 'september', 'october', 'november', 'december'}
 CABINS41_URL = 'https://lovely-paletas-545789.netlify.app/'
 
 
@@ -59,7 +59,7 @@ class PageParser(HTMLParser):
             self.href, self.anchor = None, []
 
 
-def fetch(url):
+def fetch(url, max_bytes=800000):
     request = urllib.request.Request(url, headers={
         'User-Agent': 'Cabins41Research/3.0 (public-page research)',
         'Accept': 'text/html,application/xhtml+xml'})
@@ -68,7 +68,7 @@ def fetch(url):
             with urllib.request.urlopen(request, timeout=60) as response:
                 if 'html' not in response.headers.get('Content-Type', '').lower():
                     raise ValueError('Not an HTML page')
-                return response.geturl(), response.read(800000).decode('utf-8', 'replace')
+                return response.geturl(), response.read(max_bytes).decode('utf-8', 'replace')
         except urllib.error.HTTPError as error:
             if error.code in (401, 403, 404, 410) or error.code not in (408, 429, 500, 502, 503, 504) or attempt == 2:
                 raise
@@ -132,8 +132,20 @@ def named_sailings(text):
     ship_spans = []
     for match in SHIP.finditer(text):
         name = re.sub(r'\s+', ' ', match.group(0)).strip()
-        if name.split()[-1].casefold() not in SHIP_GENERIC:
-            ship_spans.append((match.start(), match.end(), name))
+        words = name.split()
+        while len(words) > 1 and words[-1].strip('.,').casefold() in SHIP_GENERIC:
+            words.pop()
+        name = ' '.join(words)
+        if re.search(r'\b(?:cruise|cruises|line|lines)\b', name, re.I):
+            continue
+        if name.casefold() in {'msc', 'costa', 'norwegian', 'ncl', 'celebrity', 'virgin',
+                               'explora', 'azamara', 'ambassador', 'princess', 'regent',
+                               'royal caribbean', 'holland america', 'seabourn', 'silversea',
+                               'cunard', 'aida', 'carnival', 'disney', 'oceania', 'tui'}:
+            continue
+        if re.search(r'\bCosta\s+Rica\b', name, re.I):
+            continue
+        ship_spans.append((match.start(), match.start() + len(name), name))
     for match in re.finditer(r'\b(?:Ambience|Ambition|Balmoral|Bolette|Borealis|Sinfonia|Getaway)\b', text, re.I):
         ship_spans.append((match.start(), match.end(), match.group(0)))
     date_spans = []
@@ -226,7 +238,7 @@ def load_existing_sailings(date):
         except Exception:
             pass
     try:
-        url, raw = fetch(os.environ.get('CABINS41_LISTINGS_URL', CABINS41_URL))
+        url, raw = fetch(os.environ.get('CABINS41_LISTINGS_URL', CABINS41_URL), max_bytes=6000000)
         text, _ = page_data(raw)
         sailings = named_sailings(text)
         keys = {(normalize_ship(x['ship']), x['departure_date']) for x in sailings}
