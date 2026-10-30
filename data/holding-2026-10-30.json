@@ -6182,9 +6182,10 @@
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
+      "possible_offers": [],
       "source_name": "Reddit r/CruiseDeals",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:44:09.276119+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:49:28.287358+00:00"
     },
     "77": {
       "status": "failed",
