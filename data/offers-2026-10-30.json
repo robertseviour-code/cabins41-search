@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 62,
   "sources_failed": 23,
-  "possible_leads": 94,
+  "possible_leads": 95,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -1474,6 +1474,27 @@
         "7 nights"
       ],
       "ships_mentioned": [],
+      "solo_evidence": "solo travellers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Get That Cruise",
+      "source_id": 30,
+      "seller_url": "https://www.getthatcruise.co.uk/",
+      "evidence": "tish-run, adult-focused cruising from Tilbury and a growing list of regional ports, with prices published per cabin grade so you can see exactly what each grade costs. Couples and solo travellers who want a British-run, adult-only ship sailing from a regional port. See sailings MSC Cruises 104 sailings · from £189 · 6 November 2026 – 21 October 2028 Big, modern resort ships sailing from Southampton, with prices published per cabin grade and a long list of fares and ",
+      "prices_mentioned": [
+        "£189"
+      ],
+      "dates_mentioned": [
+        "6 November 2026",
+        "21 October 2028"
+      ],
+      "durations_mentioned": [],
+      "ships_mentioned": [
+        "MSC Cruises"
+      ],
       "solo_evidence": "solo travellers",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
