@@ -19,7 +19,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = pathlib.Path(__file__).parent
 SOURCES = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
-VERSION = 12
+VERSION = 13
 SOLO = re.compile(r'\b(?:solo\s+(?:cruis\w*|travel\w*|sail\w*|fare\w*|offer\w*|deal\w*|discount\w*|cabin\w*|price\w*|rate\w*)|single\s+(?:supplement|cabins?|occupancy|travell?ers?|cruis\w*)|singles?\s+cruis\w*|alleinreisend\w*|einzelkabine\w*|einzelzuschlag\w*|singlezuschlag\w*|suplemento\s+individual|cruceros?\s+para\s+(?:una|uno|solos?))\b', re.I)
 CLEAR_SOLO_OFFER = re.compile(r'\b(?:solo\s+(?:(?:cruise\s+)?(?:offer|deal|discount|fare|price|rate)s?|cruis\w*\s+(?:offer|deal|discount|fare|price|rate)s?)|(?:offer|deal|discount|fare|price|rate)s?\s+for\s+(?:solo|single)\s+(?:cruis\w*|travell?ers?|occupan\w*)|(?:no|without|waived|free|reduced)\s+single\s+supplement|single\s+supplement\s+(?:waived|free|reduced|from|of|\d{1,3}\s*%)|single\s+supplement.{0,35}(?:\d{1,3}\s*%|[£€$]\s*\d)|alleinreisenden[- ]angebot|einzelkabinenzuschlag.{0,35}\d|einzelzuschlag.{0,35}\d|singlezuschlag.{0,35}\d|suplemento\s+individual.{0,35}\d|oferta\s+para\s+(?:viajeros?\s+)?solos?)', re.I)
 OFFER = re.compile(r'\b(?:from|starting\s+at|only|per\s+person|pp|p\s*/\s*p|ab|desde|solo\s+fare|single\s+fare|no\s+single\s+supplement|waived\s+single\s+supplement|ohne\s+einzelzuschlag|kein\s+einzelzuschlag|single\s+supplement\s+(?:waived|free|reduced))\b', re.I)
@@ -175,10 +175,13 @@ def named_sailings(text):
 def extract_leads(text, url, source, existing, dedupe_ready):
     """Find clear solo-offer wording and dated sailings on the same page."""
     solo_matches = list(CLEAR_SOLO_OFFER.finditer(text))[:100]
+    solo_page = bool(re.search(r'solo|single|singles|alleinreis|einzel', url, re.I))
+    if not solo_page:
+        solo_matches = [m for m in solo_matches
+                        if m.group(0).strip().casefold() not in ('solo cruise deal', 'solo cruise deals', 'solo cruises deal', 'solo cruises deals')]
     sailings = named_sailings(text)
     if not solo_matches or not sailings:
         return [], []
-    solo_page = bool(re.search(r'solo|single|singles|alleinreis|einzel', url, re.I))
     leads, duplicates = [], []
     for sailing in sailings:
         ship_at = sailing['ship_start']
