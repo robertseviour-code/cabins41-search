@@ -4050,8 +4050,8 @@
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "source_name": "Reddit r/Cruise",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:57:42.900343+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:49:17.445716+00:00"
     },
     "76": {
       "status": "blocked",
