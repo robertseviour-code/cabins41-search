@@ -626,8 +626,10 @@
         {
           "url": "https://barrheadtravel.co.uk/flightdeals",
           "label": "Flights",
-          "keyword_count": 0,
-          "snippets": []
+          "keyword_count": 1,
+          "snippets": [
+            "uises Safari Sailing & Boating Shopping Singles Skiing & Winter Sports Small Ship Cruises Solo Travel Spa & Fitness Sporting Events Stag & Hen Breaks Student Groups Sustainable Travel Theatre & Music Theme Parks Transatlantic Universal Parks & Resort Vacations"
+          ]
         },
         {
           "url": "https://barrheadtravel.co.uk/deals/",
@@ -637,10 +639,11 @@
         }
       ],
       "candidate_links_found": 9,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Barrhead Travel",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:15:29.673561+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:16:27.464985+00:00"
     },
     "9": {
       "status": "checked",
