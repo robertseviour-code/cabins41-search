@@ -650,12 +650,32 @@
       "url": "https://www.bea-kreuzfahrten.de/",
       "lead_snippets": [],
       "lead_count": 0,
-      "candidate_pages": [],
-      "candidate_links_found": 0,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://www.bea-kreuzfahrten.de/minikreuzfahrt-kiel-oslo",
+          "label": "KIEL-OSLO",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.bea-kreuzfahrten.de/minikreuzfahrt-oslo-3-tage",
+          "label": "3 Tage Minikreuzfart Oslo",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.bea-kreuzfahrten.de/minikreuzfahrt-kiel-oslo-4-tage",
+          "label": "4 Tage Minikreuzfahrt & Stä...",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 4,
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "BEA Kreuzfahrten",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:15:51.568135+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:16:54.822334+00:00"
     },
     "10": {
       "status": "checked",
