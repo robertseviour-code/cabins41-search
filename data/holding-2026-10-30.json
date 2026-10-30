@@ -284,6 +284,43 @@
       "source_name": "Celebrity Cruises",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:16:14.900793+00:00"
+    },
+    "11": {
+      "status": "checked",
+      "url": "https://celestyal.com",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://celestyal.com/deals/mediterranean-cruises",
+          "label": "/content/celestyal/intl/en/deals/mediterranean-cruises",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://celestyal.com/solo-cruises",
+          "label": "/content/celestyal/intl/en/solo-cruises",
+          "keyword_count": 5,
+          "snippets": [
+            "Solo Cruise Vacations | Mediterranean Deals 2025 & 2026 image Solo Cruises Solo Cruises spacing-top none spacing-between none spacing-bottom none Do as you please. We're",
+            "Solo Cruise Vacations | Mediterranean Deals 2025 & 2026 image Solo Cruises Solo Cruises spacing-top none spacing-between none spacing-bottom none Do as you please. We're pleased that you do. There are not many destinations that spar",
+            "Solo Cruise Vacations | Mediterranean Deals 2025 & 2026 image Solo Cruises Solo Cruises spacing-top none spacing-between none spacing-bottom none Do as you please. We're pleased that you do. There are not many destinations that spark the imagina",
+            "-top none spacing-between none spacing-bottom sm Experience Our Award Winning Hospitality Solo Cruising The Celestyal Way A cruise holiday with Celestyal involves more than an adventure to dazzling destinations – we also treat our guests to a wide range of onb",
+            "ll port charges and gratuities included as standard. Our ‘Celestyal One' fare and reduced single supplement gives you simple flexibility and out-of-this-world value. It covers dining from a range of eateries, and selected drinks throughout the day. Plus you can add t"
+          ]
+        },
+        {
+          "url": "https://celestyal.com/re-usable-components/never-miss-a-cruise-deal",
+          "label": "/content/celestyal/intl/en/re-usable-components/never-miss-a-cruise-deal",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 3,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Celestyal Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:16:36.939986+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
