@@ -6159,10 +6159,11 @@
         }
       ],
       "candidate_links_found": 3,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Digital Roamads",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:43:26.762604+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:48:45.557294+00:00"
     },
     "75": {
       "status": "failed",
