@@ -2485,8 +2485,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Fred Olsen Cruise Lines",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:35:48.650318+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:27:53.791458+00:00"
     },
     "29": {
       "status": "checked",
