@@ -3391,9 +3391,10 @@
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
+      "possible_offers": [],
       "source_name": "Logitravel",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:27:47.439992+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:32:56.316460+00:00"
     },
     "40": {
       "status": "failed",
