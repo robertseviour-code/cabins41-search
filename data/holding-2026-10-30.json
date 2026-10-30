@@ -2326,8 +2326,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Seereisedienst",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:42:05.634965+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T16:24:53.956412+00:00"
     },
     "61": {
       "status": "checked",
