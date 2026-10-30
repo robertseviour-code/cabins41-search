@@ -1162,6 +1162,49 @@
       "source_name": "Norwegian Cruise Line",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:29:14.899655+00:00"
+    },
+    "44": {
+      "status": "checked",
+      "url": "https://www.oceanworldtravel.com/",
+      "lead_snippets": [
+        "avel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruise",
+        "upplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises from the UK The South Cruises fr"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.oceanworldtravel.com/cruise-deals/last-minute/",
+          "label": "Last Minute Cruise Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "avel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruise",
+            "upplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises from the UK The South Cruises fr"
+          ]
+        },
+        {
+          "url": "https://www.oceanworldtravel.com/cruise-deals/family/",
+          "label": "Family Cruise Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "avel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruise",
+            "upplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises from the UK The South Cruises fr"
+          ]
+        },
+        {
+          "url": "https://www.oceanworldtravel.com/cruise-deals/short-breaks/",
+          "label": "Short Break Cruise Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "avel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruise",
+            "upplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises from the UK The South Cruises fr"
+          ]
+        }
+      ],
+      "candidate_links_found": 13,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Ocean World Travel",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:29:39.930198+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
