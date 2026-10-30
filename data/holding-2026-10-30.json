@@ -2886,8 +2886,8 @@
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "source_name": "Reddit r/solotravel",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:50:42.486497+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T16:33:12.467354+00:00"
     },
     "80": {
       "status": "blocked",
