@@ -2024,8 +2024,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cunard",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:28:54.404911+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:25:08.071412+00:00"
     },
     "22": {
       "status": "failed",
