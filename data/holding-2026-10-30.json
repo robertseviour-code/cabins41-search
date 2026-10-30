@@ -1481,6 +1481,37 @@
       "source_name": "ROL Cruise",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:36:25.701603+00:00"
+    },
+    "57": {
+      "status": "checked",
+      "url": "https://www.royalcaribbean.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals/holiday-cruises",
+          "label": "Holiday cruises",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals",
+          "label": "Cruise deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals/last-minute-cruises",
+          "label": "Last minute deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 4,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Royal Caribbean",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:36:48.555279+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
