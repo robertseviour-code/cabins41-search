@@ -3562,7 +3562,7 @@
         {
           "url": "https://travel-dealz.de/deal/costa-smeralda-kanaren-alleinreisende/",
           "label": "",
-          "keyword_count": 7,
+          "keyword_count": 8,
           "snippets": [
             "Costa Smeralda: 7 Nächte Kreuzfahrt Kanaren und Madeira von Teneriffa ab 469€ (kein Einzelzuschlag) Flüge Economy Business First Prem. Eco Meilen Kreuzfahrten Hotels Kreditkarten Pauschal Bahn Zubehör Bewertungen Dealz Gutscheine Forum Tools Melden Startseit",
             "ten » Costa Smeralda: 7 Nächte Kreuzfahrt Kanaren und Madeira von Teneriffa ab 469€ (kein Einzelzuschlag) Costa Smeralda: 7 Nächte Kreuzfahrt Kanaren und Madeira von Teneriffa ab 469€ (kein Einzelzuschlag) gültig Okt. Nov. Dez. Jan. Feb. März Apr. Mai Juni Juli Au",
@@ -3570,7 +3570,8 @@
             "zu erschwinglichen Preisen sichern. Das Beste daran ist, dass alle Kategorien derzeit für Alleinreisende ohne Aufpreis buchbar sind. Info Habt ihr Fragen zu einem Angebot, zu der Buchung oder sucht ihr eine für euch passende Kreuzfahrt? Kontaktiert uns gerne über",
             "nde spezialisierte Kanäle bieten wir an: Alle Kreuzfahrtangebote: WhatsApp / Telegram Für Alleinreisende: WhatsApp / Telegram mit geringen oder keinen Zuschlägen Flusskreuzfahrten: WhatsApp / Telegram auf Rhein, Donau, Main… Luxuskreuzfahrten: WhatsApp / Telegram",
             "g ab 559€ p.P. MSC Sinfonia: 7 Nächte Mittelmeer-Kreuzfahrten von Barcelona ab 359€ p.P. (Alleinreisende ab 497€) 4 Nächte Flusskreuzfahrt zu den Weihnachtsmärkten an Rhein & Main ab 350€ p.P. ab/bis Düsseldorf Sonderpreis: 8 Nächte Karibik-Luxuskreuzfahrt ab/an M",
-            "rch keine Mehrkosten. Für das reine Setzen des Links erhalten wir kein Geld. Kreuzfahrten Alleinreisende Abreise von Teneriffa Ziele Funchal , Gran Canaria , La Palma , Madeira , Teneriffa Reedereien: Costa Smeralda Reisezeiträume: Dezember 30. Okt. 2026 Keine Kom"
+            "rch keine Mehrkosten. Für das reine Setzen des Links erhalten wir kein Geld. Kreuzfahrten Alleinreisende Abreise von Teneriffa Ziele Funchal , Gran Canaria , La Palma , Madeira , Teneriffa Reedereien: Costa Smeralda Reisezeiträume: Dezember 30. Okt. 2026 Ein Komme",
+            "hr Bei Abfahrt am 14.12. mit C Club Status nochmals günstiger, zB Silber ab € 399.- (auch Alleinreisende) Antworten Schreibe einen Kommentar Antwort abbrechen Pflichtfelder sind mit * markiert. Nachricht * Hinweis: Sollte dein Kommentar nicht umgehend auf der Seit"
           ]
         },
         {
@@ -3609,8 +3610,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Travel Dealz",
-      "checker_version": 14,
-      "checked_at": "2026-10-30T09:16:06.328529+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:42:28.162671+00:00"
     },
     "62": {
       "status": "blocked",
