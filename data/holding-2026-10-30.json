@@ -3144,8 +3144,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "P and O Cruises",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:43:25.111974+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:35:19.750470+00:00"
     },
     "48": {
       "status": "checked",
