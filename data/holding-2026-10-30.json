@@ -3110,14 +3110,14 @@
           "snippets": []
         }
       ],
-      "candidate_links_found": 28,
+      "candidate_links_found": 29,
       "possible_offers": [],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Odysia Cruise",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:43:01.496803+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:34:55.924387+00:00"
     },
     "47": {
       "status": "checked",
