@@ -565,6 +565,16 @@
       "source_name": "Deluxe Cruises",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:20:57.233211+00:00"
+    },
+    "23": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Dreamlines",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:21:18.631966+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
