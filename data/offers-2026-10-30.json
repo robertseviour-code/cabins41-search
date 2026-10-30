@@ -4,8 +4,8 @@
   "sources_checked": 63,
   "sources_blocked": 20,
   "sources_failed": 2,
-  "qualified_candidates": 13,
-  "candidate_sailings": 13,
+  "qualified_candidates": 12,
+  "candidate_sailings": 12,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 12,
   "existing_listings_status": {
@@ -241,24 +241,6 @@
       "durations_mentioned": [
         "10 Night",
         "10 Nights"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Iglu Cruise",
-      "source_id": 35,
-      "seller_url": "https://www.iglucruise.com:443/cruise-deals",
-      "ship": "Celebrity Edge",
-      "departure_date": "2028-02-05",
-      "solo_evidence": "Reduced Single Supplement",
-      "evidence": "sive cruises Grand Prix / F1 cruises Top 10 cruise deals New Year cruise Offers Low Deposit cruises Reduced Single Supplement cruises View more View less Why book with Iglu Sail with confidence We are ABTA and ATOL protected, so your booking is financially secure. Always here to help When the world changes, your trusted experts will help you n | Sailing: 5 Nights Arvia - P&O Cruises Inside cabin from £1,169 pp Rio de Janeiro, Iguazu Falls & Antarctica from Buenos Aires with Stays 21 Jan 2029 | 22 Nights Celebrity Equinox - Celebrity Cruises Inside cabin from £5,499 pp Auckland Stay, Fjords of New Zealand & Australia's Wine Route 05 Feb 2028 | 25 Nights Celebrity Edge - Celebrity Cruises Interior Stateroom cabin from £4,799 pp View all deals Cruise Types Cheap cruises Last minute cruises All inclusive cruises Adult only cruises Family friendly cruises Singles cruises Cruise & Stay Luxury ",
-      "prices_mentioned": [],
-      "durations_mentioned": [
-        "5 Nights",
-        "22 Nights",
-        "25 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
