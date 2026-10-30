@@ -785,26 +785,13 @@
         }
       ],
       "candidate_links_found": 1,
-      "possible_offers": [
-        {
-          "source_name": "Explora Journeys",
-          "source_id": 26,
-          "seller_url": "https://explorajourneys.com/us/en/info/special-offers/solo-travellers",
-          "evidence": "-OT3-OT4-GT) or Ocean Penthouse (PH-DP-PP-GP) suite category. The offer may be withdrawn at any time. See full terms and conditions here . Your Journeys Await A natural choice for solo travellers, where a warm, welcoming atmosphere invites connection and ease. All Journeys Include Nine distinct culinary experiences, including In-Suite Dining Unlimited beverages including fine wines, champagne, premium spirits, specialty coffees, teas and soft drinks, available anyti",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [],
-          "ships_mentioned": [],
-          "solo_evidence": "solo travellers",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        }
-      ],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Explora Journeys",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:27:39.256841+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:34:56.876541+00:00"
     },
     "27": {
       "status": "checked",
