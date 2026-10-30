@@ -598,15 +598,17 @@
       "checked_at": "2026-10-30T07:27:45.766971+00:00"
     },
     "19": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "CruiseKings",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:20:52.219409+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:28:07.633675+00:00"
     },
     "20": {
       "status": "checked",
