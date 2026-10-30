@@ -57,3 +57,5 @@ jobs:
           done
           date="$(TZ=Europe/London date +%F)"
           cat "data/offers-${date}.md" >> "$GITHUB_STEP_SUMMARY"
+
+# Small batch test requested 30 October 2026
