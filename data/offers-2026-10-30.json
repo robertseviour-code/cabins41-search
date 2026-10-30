@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 62,
   "sources_failed": 23,
-  "possible_leads": 171,
+  "possible_leads": 177,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -2674,6 +2674,122 @@
       "durations_mentioned": [],
       "ships_mentioned": [],
       "solo_evidence": "Alleinreisende",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de",
+      "evidence": "Status Challenge: Ohne Status zu Gold ab 8 oder Platinum ab 16 Nächten Meilen, Punkte & Status 29. Okt. MSC Sinfonia: 7 Nächte Mittelmeer-Kreuzfahrten von Barcelona ab 359€ p.P. (Alleinreisende ab 497€) Kreuzfahrten 29. Okt. Seaden Sea Planet, Side: 1 Woche All-inclusive Pauschalreise ab 504€ p.P. im Frühling 2027 von 18 deutschen Flughäfen Pauschalreisen 29. Okt. Letzte Chance: 225.000 Miles&More-Meilen, 150 Statuspunkte + 3 Lounge-Gutscheine für 2.650€ mit Bundle&",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "ships_mentioned": [
+        "MSC Sinfonia"
+      ],
+      "solo_evidence": "Alleinreisende",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/deal/",
+      "evidence": "Status Challenge: Ohne Status zu Gold ab 8 oder Platinum ab 16 Nächten Meilen, Punkte & Status 29. Okt. MSC Sinfonia: 7 Nächte Mittelmeer-Kreuzfahrten von Barcelona ab 359€ p.P. (Alleinreisende ab 497€) Kreuzfahrten 29. Okt. Seaden Sea Planet, Side: 1 Woche All-inclusive Pauschalreise ab 504€ p.P. im Frühling 2027 von 18 deutschen Flughäfen Pauschalreisen 29. Okt. Letzte Chance: 225.000 Miles&More-Meilen, 150 Statuspunkte + 3 Lounge-Gutscheine für 2.650€ mit Bundle&",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "ships_mentioned": [
+        "MSC Sinfonia"
+      ],
+      "solo_evidence": "Alleinreisende",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/kategorie/kreuzfahrten/",
+      "evidence": "29. Okt. Ticker Über Weihnachten: 11 Nächte MSC Mittelmeer Kreuzfahrt von Venedig ab 559€ p.P. 29. Okt. MSC Sinfonia: 7 Nächte Mittelmeer-Kreuzfahrten von Barcelona ab 359€ p.P. (Alleinreisende ab 497€) 29. Okt. 4 Nächte Flusskreuzfahrt zu den Weihnachtsmärkten an Rhein & Main ab 350€ p.P. ab/bis Düsseldorf 29. Okt. Sonderpreis: 8 Nächte Karibik-Luxuskreuzfahrt ab/an Miami mit der Explora I ab 2.475€ p.P. in einer Ocean Terrace Suite 28. Okt. Last Minute: 4 Nächte N",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "11 Nächte",
+        "7 Nächte",
+        "4 Nächte"
+      ],
+      "ships_mentioned": [
+        "MSC Mittelmeer",
+        "MSC Sinfonia"
+      ],
+      "solo_evidence": "Alleinreisende",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/thema/alleinreisende/",
+      "evidence": "ten und Pauschalreisen sind für zwei Personen, die sich ein Zimmer bzw. Kabine teilen, deutlich preiswerter als für Alleinreisende. Gelegentlich gibt es aber Ausnahmen, wo man als Alleinreisender keinen großen Aufpreis zahlen muss. Diese sammeln wir hier: Tipp : Abonniert unseren WhatsApp-Kanal speziell für Alleinreisende ! Filter Abreise von Reiseziele Reisezeiträume Airlines Derzeit 35 gültige Angebote Ticker Last Minute: 6 Nächte MSC World Europa im Mittelmeer ab",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "6 Nächte"
+      ],
+      "ships_mentioned": [
+        "MSC World"
+      ],
+      "solo_evidence": "Alleinreisender",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/thema/alleinreisende/",
+      "evidence": "e. Gelegentlich gibt es aber Ausnahmen, wo man als Alleinreisender keinen großen Aufpreis zahlen muss. Diese sammeln wir hier: Tipp : Abonniert unseren WhatsApp-Kanal speziell für Alleinreisende ! Filter Abreise von Reiseziele Reisezeiträume Airlines Derzeit 35 gültige Angebote Ticker Last Minute: 6 Nächte MSC World Europa im Mittelmeer ab/bis Genua ab 379€ p. P. in der Außenkabine 29. Okt. Sonderpreis: 8 Nächte Karibik-Luxuskreuzfahrt ab/an Miami mit der Explora I ",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "6 Nächte",
+        "8 Nächte"
+      ],
+      "ships_mentioned": [
+        "MSC World"
+      ],
+      "solo_evidence": "Alleinreisende",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/thema/alleinreisende/",
+      "evidence": "itglieder) 12. Okt. Explora II: 4 Nächte Luxuskreuzfahrt Bari → Santorin → Piräus ab 1.540€ p.P. 10. Okt. Costa Smeralda: 7 Nächte Mittelmeer-Kreuzfahrt von Barcelona ab 499€ ohne Einzelzuschlag (Balkonkabine ab 599€) 8. Okt. Mariner of the Seas: 14 Nächte Transatlantik von Barcelona nach New Orleans ab 526€ p.P. (Oktober 2027) 2. Okt. Costa Toscana: 7 Nächte Mittelmeer-Kreuzfahrt ab Barcelona ab 499€ ohne Einzelzuschlag (Balkonkabine 599€) 1. Okt. Ticker Costa Smer",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "4 Nächte",
+        "7 Nächte",
+        "14 Nächte"
+      ],
+      "ships_mentioned": [
+        "Explora II",
+        "Costa Smeralda",
+        "Costa Toscana"
+      ],
+      "solo_evidence": "Einzelzuschlag",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
