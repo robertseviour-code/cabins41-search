@@ -957,7 +957,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "CruiseBooking",
       "checker_version": 19,
-      "checked_at": "2026-10-30T14:09:52.818998+00:00"
+      "checked_at": "2026-10-30T16:06:16.767770+00:00"
     },
     "19": {
       "status": "blocked",
