@@ -1310,8 +1310,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Azamara",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:23:10.618571+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:19:29.753982+00:00"
     },
     "8": {
       "status": "checked",
