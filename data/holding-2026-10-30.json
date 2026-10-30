@@ -1426,8 +1426,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Journey Latin America",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:30:58.752411+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T14:17:10.749053+00:00"
     },
     "37": {
       "status": "checked",
