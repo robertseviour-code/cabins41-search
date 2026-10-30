@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "purpose": "Holding candidates for Cabins41 homepage; not approved for publication",
+  "publication_status": "HOLD — verify seller page and dates",
+  "candidates": [
+    {
+      "ship": "Celebrity Apex",
+      "departure_date": "2026-11-07",
+      "source": "Cruise118",
+      "url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "solo_wording": "Solo Prices",
+      "status": "verify ship, sailing and single occupancy price"
+    },
+    {
+      "ship": "Costa Smeralda",
+      "departure_date": null,
+      "source": "Seereisen",
+      "url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "solo_wording": "Zuschlag nur 0%",
+      "status": "date extraction incorrect: source excerpt shows 11 Nov–19 Nov and 14 Dec–21 Dec; verify actual departure and offer before publishing"
+    }
+  ]
+}
