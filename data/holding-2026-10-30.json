@@ -2593,28 +2593,13 @@
         }
       ],
       "candidate_links_found": 22,
-      "possible_offers": [
-        {
-          "source_name": "Solo Cruising UK",
-          "source_id": 82,
-          "seller_url": "https://solocruising.co.uk/getting-started/solo-cruise-guide-beginners/",
-          "ship": "Norwegian Cruise Line",
-          "departure_date": "2026-05-01",
-          "solo_evidence": "Solo Cabin",
-          "evidence": "se No Single Supplement Cruise Lines With No Single Supplement ★ How to Avoid the Single Supplement Solo Cabin Guide Cheap Solo Cruises UK Insurance Best Cruise Insurance for Over 55s ★ What Does Cruise Insurance Cover? Insurance for Solo Travellers Cover With Pre-Existing Conditions Annual vs Single-Trip Blog Skip to main conte | Sailing: or Beginners... Comprehensive guide Solo Cruise Guide for Beginners UK (2026) Your complete beginner’s guide to planning a first solo cruise from the UK — the single supplement explained, how to choose a cruise line, what dining alone is really like, and what it costs. Published 01 May 2026 Affiliate links notice: Some links in this guide are affiliate links. If you book through them I earn a small commission — at no extra cost to you. Full disclosure → Contents What Is a Solo Cruise? Why Go Solo at 55+? The Single Supplement: What It Is and How to Bea",
-          "prices_mentioned": [],
-          "durations_mentioned": [],
-          "classification": "qualified_for_manual_review",
-          "review_status": "duplicate_check_needed",
-          "warning": "Cabins41 listings could not be checked. Compare this ship and date with current listings before use."
-        }
-      ],
+      "possible_offers": [],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Solo Cruising UK",
-      "checker_version": 5,
-      "checked_at": "2026-10-30T08:52:57.895338+00:00"
+      "checker_version": 8,
+      "checked_at": "2026-10-30T08:58:35.831265+00:00"
     },
     "83": {
       "status": "checked",
