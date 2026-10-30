@@ -2452,15 +2452,17 @@
       "checked_at": "2026-10-30T07:57:42.900343+00:00"
     },
     "76": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Blocked",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Reddit r/CruiseDeals",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:49:28.287358+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:58:04.490982+00:00"
     },
     "77": {
       "status": "failed",

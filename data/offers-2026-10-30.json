@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "sources_attempted": 85,
   "sources_checked": 63,
-  "sources_blocked": 15,
-  "sources_failed": 7,
+  "sources_blocked": 16,
+  "sources_failed": 6,
   "qualified_candidates": 0,
   "duplicate_sailings_excluded": 0,
   "existing_listings_status": {
@@ -75,6 +75,10 @@
     {
       "source": "Reddit r/Cruise",
       "reason": "HTTP Error 403: Blocked"
+    },
+    {
+      "source": "Reddit r/CruiseDeals",
+      "reason": "HTTP Error 403: Blocked"
     }
   ],
   "blocked_candidate_pages": [],
@@ -86,10 +90,6 @@
     {
       "source": "Riviera Travel",
       "reason": "<urlopen error [Errno -5] No address associated with hostname>"
-    },
-    {
-      "source": "Reddit r/CruiseDeals",
-      "reason": "HTTP Error 403: Blocked"
     },
     {
       "source": "Reddit r/Cruises",
