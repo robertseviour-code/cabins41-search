@@ -97,16 +97,37 @@
         }
       ],
       "candidate_links_found": 8,
-      "possible_offers": [],
+      "possible_offers": [
+        {
+          "source_name": "Ambassador Cruise Line",
+          "source_id": 4,
+          "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/",
+          "ship": "Ambience",
+          "departure_date": "2026-11-13",
+          "solo_evidence": "solo offers",
+          "evidence": "ges and open-deck views, conversations happen naturally and quiet moments are easy to find. Current solo offers Look for solo-friendly benefits on selected sailings, including attractive single supplements and added-value perks. Availability is limited and may change. Check the latest offers when you search. Autumn Escape to the | Sailing: o look forward to Enjoy West-end style entertainment in the Palladium theatres each night or guest entertainers and live music. Prefer something gentler? Settle into a lounge with our duos and classical musicians with a nightcap or take a stroll under the stars. Find your rhythm Ambience, Ambition and Renaissance all feel welcoming, not overwhelming. With intimate lounges and open-deck views, conversations happen naturally and quiet moments are easy to find. Current solo offers Look for solo-friendly benefits on selected sailings, including attractive ",
+          "prices_mentioned": [
+            "£329"
+          ],
+          "durations_mentioned": [
+            "14 nights",
+            "4 nights",
+            "45 nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        }
+      ],
       "duplicates_excluded": [
         {
-          "ship": "Ambience",
-          "departure_date": "2026-11-11",
+          "ship": "Ambition",
+          "departure_date": "2026-11-13",
           "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/"
         },
         {
           "ship": "Ambition",
-          "departure_date": "2026-11-11",
+          "departure_date": "2026-11-27",
           "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/"
         },
         {
@@ -115,18 +136,8 @@
           "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/"
         },
         {
-          "ship": "Ambience",
-          "departure_date": "2026-11-11",
-          "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/"
-        },
-        {
           "ship": "Ambition",
-          "departure_date": "2026-11-11",
-          "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/"
-        },
-        {
-          "ship": "Ambition",
-          "departure_date": "2026-11-13",
+          "departure_date": "2026-11-27",
           "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/"
         }
       ],
@@ -134,7 +145,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Ambassador Cruise Line",
       "checker_version": 19,
-      "checked_at": "2026-10-30T14:03:57.856746+00:00"
+      "checked_at": "2026-10-30T16:59:43.858987+00:00"
     },
     "5": {
       "status": "checked",
