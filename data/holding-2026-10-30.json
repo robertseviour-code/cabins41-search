@@ -1433,6 +1433,54 @@
       "source_name": "Riviera Travel",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:35:00.339894+00:00"
+    },
+    "56": {
+      "status": "checked",
+      "url": "https://www.rolcruise.co.uk:443/",
+      "lead_snippets": [
+        "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife C",
+        "utmost importance to us. So, whether you are planning a last-minute, honeymoon, family or solo cruise, we look after your cruise holiday as if it were our own. We are proud to work alongside such reputable cruise lines, offering our customers the opportunity t"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.rolcruise.co.uk:443/cruise-deals",
+          "label": "Cruise Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife C",
+            "Exclusive Solo Travellers Sale From Only £229 | Exclusive Savings! | Incredible No & Low Single Supplements VIEW SOLO OFFERS ends 8pm 2nd november 2027 No-Fly Luxury Celebrity Apex Farewell Season SAVE up to 35% | From Only £1,129pp | BONUS SAVINGS of up to £550 | S"
+          ]
+        },
+        {
+          "url": "https://www.rolcruise.co.uk:443/types-of-cruise/last-minute-cruise-deals",
+          "label": "Last-Minute Cruise Deals",
+          "keyword_count": 1,
+          "snippets": [
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife C"
+          ]
+        },
+        {
+          "url": "https://www.rolcruise.co.uk:443/types-of-cruise/solo-travellers",
+          "label": "Solo Cruises",
+          "keyword_count": 21,
+          "snippets": [
+            "Solo Cruises: What to Expect & Why Choose One | ROL Cruise Enjoy a FREE M&S Gift Card worth up to £500 when you book by 8pm 31st October 2026 T&C's Apply Request a call b",
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife C",
+            "Exclusive Loyalty Programme UK's No. 1 Independent Cruise Specialist Home Types of Cruise Solo Cruises Solo Cruises On this page.. Overview Cruises Guide Request a callback Call us FREE 08082394989 Opening Hours - Office closed, we'll open at 8:30am Call us FR",
+            "alty Programme UK's No. 1 Independent Cruise Specialist Home Types of Cruise Solo Cruises Solo Cruises On this page.. Overview Cruises Guide Request a callback Call us FREE 08082394989 Opening Hours - Office closed, we'll open at 8:30am Call us FREE 0808239498",
+            "am Browse cruises Sail the seven seas solo There is nothing quite like travelling solo! A solo cruise is an ideal getaway for solo adventurers, offering a safe and secure environment in which to visit new destinations, experience different cultures and make li",
+            "estinations, experience different cultures and make lifelong friends. Learn more Featured Solo Cruises FREE SPEND UP TO $200 View Cruise 2027 No-Fly European Capitals Deal 2027 No-Fly European Capitals Majestic Princess 02 Jul 2027 10 nights No-Fly Cruise Sout",
+            "anger - Flam - Portsmouth, UK View Itinerary Outside from £1,449 View Cruise Deal See all Solo Cruises Popular Solo Cruise Destinations Bangkok Barcelona Sydney Vancouver Venice What is a solo cruise? A solo cruise is simply a voyage that one sets off on alone",
+            "outh, UK View Itinerary Outside from £1,449 View Cruise Deal See all Solo Cruises Popular Solo Cruise Destinations Bangkok Barcelona Sydney Vancouver Venice What is a solo cruise? A solo cruise is simply a voyage that one sets off on alone. As with every holid"
+          ]
+        }
+      ],
+      "candidate_links_found": 14,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "ROL Cruise",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:36:25.701603+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
