@@ -2497,10 +2497,11 @@
         }
       ],
       "candidate_links_found": 1,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Havila Voyages",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:24:39.359385+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:29:45.594694+00:00"
     },
     "32": {
       "status": "checked",
