@@ -238,7 +238,7 @@
           "source_name": "Atlantis Reisen and Seereisen",
           "source_id": 6,
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-          "ship": "Costa Toscana Dez",
+          "ship": "Costa Toscana",
           "departure_date": "2026-11-09",
           "solo_evidence": "Einzelkabinenzuschlag max. 10% Einzelkabinenzuschlag 0",
           "evidence": "x. 50% Einzelkabinenzuschlag max. 40% Einzelkabinenzuschlag max. 30% Einzelkabinenzuschlag max. 20% Einzelkabinenzuschlag max. 10% Einzelkabinenzuschlag 0% Eigenanreise mit Flug Kabinen 4 Wir haben 708 perfekte Kreuzfahrten für Sie gefunden: Wir suchen die passenden Reisen für Sie... Karibische Abenteuerwelten auf Wunsch mit Flug buchbar Zuschlag nur 16% 7 Nächte an Bord | Sailing: ona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 529 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise ab Barcelona Inklusive Servicegebühr mit Flug buchbar ab 1.029 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 02. Nov. 2026 – 09. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 499 € Balkonkabine ab 499 € Suite Nicht verfügbar Zum Angebot Mittelmeerzauber und Küstenschätze Inklusive Servicegebühr mit F",
@@ -365,8 +365,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
-      "checker_version": 11,
-      "checked_at": "2026-10-30T09:05:55.056052+00:00"
+      "checker_version": 12,
+      "checked_at": "2026-10-30T09:09:21.515410+00:00"
     },
     "7": {
       "status": "checked",
