@@ -697,6 +697,63 @@
       "source_name": "Fjord Line",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:23:01.870964+00:00"
+    },
+    "28": {
+      "status": "checked",
+      "url": "https://www.fredolsencruises.com/",
+      "lead_snippets": [
+        "we use your data. Cruises 2026 Cruises 2027 Cruises 2028 Cruises Fly Cruises Cruise Deals Solo Cruise Deals View All Destinations Group Travel Satisfaction Guarantee Sitemap Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Informatio",
+        "tisfaction Guarantee Sitemap Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs About us Our Ships Order Our Latest Brochure Careers Contact Us Travel Agents Centre Our Awards Ship Tracker About Us Media Press Releases Cr",
+        "vel Agents Centre Cruises 2026 Cruises 2027 Cruises 2028 Cruises Fly Cruises Cruise Deals Solo Cruise Deals View All Destinations Group Travel Satisfaction Guarantee Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs A",
+        "ravel Satisfaction Guarantee Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs About Us Our Ships Order Our Latest Brochure Careers Contact Us Travel Agents Centre Our Awards Ship Tracker About Us Cruise News Press Relea"
+      ],
+      "lead_count": 4,
+      "candidate_pages": [
+        {
+          "url": "https://www.fredolsencruises.com/cruise-deals/singles",
+          "label": "Solo Traveller Cruises",
+          "keyword_count": 16,
+          "snippets": [
+            "Singles Cruises | Solo Cruise Deals Access Key Information See details 0 Skip to Main content s Destination Key Homepage 1 Ocean Cruises p Destinations u Cruise Brochures r",
+            "Singles Cruises | Solo Cruise Deals Access Key Information See details 0 Skip to Main content s Destination Key Homepage 1 Ocean Cruises p Destinations u Cruise Brochures r Terms & Conditi",
+            "hures Read More Our People Read More Back Home Cruise Deals Solo Travellers Cruise Offers Solo Cruise Offers Set sail on award-winning singles cruises with Fred. Olsen – proudly voted Best Cruise Line for Solo Travellers for two consecutive years. Whether you’",
+            "e Cruise Deals Solo Travellers Cruise Offers Solo Cruise Offers Set sail on award-winning singles cruises with Fred. Olsen – proudly voted Best Cruise Line for Solo Travellers for two consecutive years. Whether you’re new to cruising or a seasoned solo adventurer",
+            "ing part of a friendly onboard community. Each of the itineraries below benefits from our solo cruise deals, giving you the full Fred. Olsen experience with a reduced single supplement. [ReadMoreDesk][ReadMoreMob] With dedicated welcome drinks parties, social",
+            "its from our solo cruise deals, giving you the full Fred. Olsen experience with a reduced single supplement. [ReadMoreDesk][ReadMoreMob] With dedicated welcome drinks parties, social dining tables, solo traveller meet-ups, Dance Hosts and a wide range of solo cabins,",
+            "unshine of the Canary Islands – you’ll be able to immerse yourself in the world’s beauty. Solo cruise Reviews from Our Guests Trustpilot Solo Cruise Reviews from our Guests Trustpilot All our Solo Cruise offers Loading results... Filter By Apply Filters Show S",
+            "to immerse yourself in the world’s beauty. Solo cruise Reviews from Our Guests Trustpilot Solo Cruise Reviews from our Guests Trustpilot All our Solo Cruise offers Loading results... Filter By Apply Filters Show Solo Prices Sort by Toggle Facets Menu Filters 0"
+          ]
+        },
+        {
+          "url": "https://www.fredolsencruises.com/cruise-deals",
+          "label": "Cruise Deals",
+          "keyword_count": 6,
+          "snippets": [
+            "More Cruise Deals Browse our latest cruise offers Last-Minute Cruise Deals Find out more Solo Cruise offers Find out more Fly Cruises Find out more Cruise deal of the week find out more Last-Minute Cruise Deals Find out more Solo Cruise offers Find out more F",
+            "ind out more Cruise deal of the week find out more Last-Minute Cruise Deals Find out more Solo Cruise offers Find out more Fly Cruises Find out more Cruise deal of the week Find out more Trustpilot Trustpilot Loading results... Filter By Apply Filters Show Sol",
+            "we use your data. Cruises 2026 Cruises 2027 Cruises 2028 Cruises Fly Cruises Cruise Deals Solo Cruise Deals View All Destinations Group Travel Satisfaction Guarantee Sitemap Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Informatio",
+            "tisfaction Guarantee Sitemap Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs About us Our Ships Order Our Latest Brochure Careers Contact Us Travel Agents Centre Our Awards Ship Tracker About Us Media Press Releases Cr",
+            "vel Agents Centre Cruises 2026 Cruises 2027 Cruises 2028 Cruises Fly Cruises Cruise Deals Solo Cruise Deals View All Destinations Group Travel Satisfaction Guarantee Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs A",
+            "ravel Satisfaction Guarantee Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs About Us Our Ships Order Our Latest Brochure Careers Contact Us Travel Agents Centre Our Awards Ship Tracker About Us Cruise News Press Relea"
+          ]
+        },
+        {
+          "url": "https://www.fredolsencruises.com/cruise-deals/on-board-credit",
+          "label": "On board credit Discover our on board credit deals Find out more",
+          "keyword_count": 4,
+          "snippets": [
+            "we use your data. Cruises 2026 Cruises 2027 Cruises 2028 Cruises Fly Cruises Cruise Deals Solo Cruise Deals View All Destinations Group Travel Satisfaction Guarantee Sitemap Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Informatio",
+            "tisfaction Guarantee Sitemap Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs About us Our Ships Order Our Latest Brochure Careers Contact Us Travel Agents Centre Our Awards Ship Tracker About Us Media Press Releases Cr",
+            "vel Agents Centre Cruises 2026 Cruises 2027 Cruises 2028 Cruises Fly Cruises Cruise Deals Solo Cruise Deals View All Destinations Group Travel Satisfaction Guarantee Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs A",
+            "ravel Satisfaction Guarantee Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information FAQs About Us Our Ships Order Our Latest Brochure Careers Contact Us Travel Agents Centre Our Awards Ship Tracker About Us Cruise News Press Relea"
+          ]
+        }
+      ],
+      "candidate_links_found": 5,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Fred Olsen Cruise Lines",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:23:27.003275+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
