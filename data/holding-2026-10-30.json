@@ -6000,9 +6000,10 @@
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
+      "possible_offers": [],
       "source_name": "CruisePlum",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:42:37.466510+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:47:56.038036+00:00"
     },
     "73": {
       "status": "checked",
