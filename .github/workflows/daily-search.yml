@@ -41,7 +41,7 @@ jobs:
             case "$commit_message" in
               "RUN FIVE SOURCES"*) source_ids="4 15 22 84" ;;
               "RUN FULL SEARCH"*) source_ids="$(seq 1 85)" ;;
-              "RUN REMAINING SOURCES"*) source_ids="$(seq 1 85 | grep -v -E '^(4|15|22|84)
+              "RUN REMAINING SOURCES"*) source_ids="$(seq 1 85 | grep -v -E '^(4|15|22|84)$')" ;;
               *) echo "No search requested by this change."; exit 0 ;;
             esac
           else
@@ -58,24 +58,3 @@ jobs:
           done
           date="$(TZ=Europe/London date +%F)"
           cat "data/offers-${date}.md" >> "$GITHUB_STEP_SUMMARY"
-
-# Small batch test requested 30 October 2026
-)" ;;
-              *) echo "No search requested by this change."; exit 0 ;;
-            esac
-          else
-            source_ids="$(seq 1 85)"
-          fi
-          last_id="$(printf '%s\n' "$source_ids" | awk '{print $NF}')"
-          for n in $source_ids; do
-            python search.py --one "$n" --no-wait
-            git add data/
-            if ! git diff --cached --quiet; then
-              git commit -m "Save source $n results" && git pull --rebase origin "$GITHUB_REF_NAME" && git push || exit 1
-            fi
-            if [ "$n" != "$last_id" ]; then sleep 20; fi
-          done
-          date="$(TZ=Europe/London date +%F)"
-          cat "data/offers-${date}.md" >> "$GITHUB_STEP_SUMMARY"
-
-# Small batch test requested 30 October 2026
