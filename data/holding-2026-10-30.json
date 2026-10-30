@@ -7353,10 +7353,11 @@
       "lead_count": 0,
       "candidate_pages": [],
       "candidate_links_found": 0,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Zero or LOW Single Supplement Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:47:28.006656+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:52:50.884108+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
