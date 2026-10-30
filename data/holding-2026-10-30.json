@@ -1225,8 +1225,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Holland America Line",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:29:24.920786+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T14:15:31.499982+00:00"
     },
     "33": {
       "status": "checked",
