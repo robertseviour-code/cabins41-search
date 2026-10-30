@@ -2018,6 +2018,16 @@
       "source_name": "Digital Roamads",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:43:26.762604+00:00"
+    },
+    "75": {
+      "status": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Reddit r/Cruise",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:43:48.101386+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
