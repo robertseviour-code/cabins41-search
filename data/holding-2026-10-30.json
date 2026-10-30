@@ -1622,6 +1622,47 @@
       "source_name": "Seereisedienst",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:38:06.904300+00:00"
+    },
+    "61": {
+      "status": "checked",
+      "url": "https://travel-dealz.de",
+      "lead_snippets": [
+        "tatus 29. Okt. MSC Sinfonia: 7 Nächte Mittelmeer-Kreuzfahrten von Barcelona ab 359€ p.P. (Alleinreisende ab 497€) Kreuzfahrten 29. Okt. Seaden Sea Planet, Side: 1 Woche All-inclusive Pauschalreise ab 504€ p.P. im Frühling 2027 von 18 deutschen Flughäfen Pauschalr",
+        "ast Minute: 4 Nächte Nicko Cruises Flusskreuzfahrt auf der Donau von Passau ab 299€ p.P. (Alleinreisende ab 379€) Kreuzfahrten 28. Okt. Bangkok: Business Class von Frankfurt ab 1.208€ mit Turkmenistan Airlines Business Class 28. Okt. Pickalbatros White Beach Reso",
+        "behör 29. Sep. Alle Gutscheine → Seitennummerierung der Beiträge 1 2 … 397 → Themen Accor Alleinreisende All inclusive American Express Basics Black Week Boeing 787 British Airways Club Coronavirus Deutsche Bahn Eilmeldungen Error Fares eSIM EuroBonus Exklusiv Fe"
+      ],
+      "lead_count": 3,
+      "candidate_pages": [
+        {
+          "url": "https://travel-dealz.de/deal/",
+          "label": "Dealz",
+          "keyword_count": 3,
+          "snippets": [
+            "hier vorbeizuschauen, denn dein nächster Urlaub ist nur ein Reiseangebot entfernt. Accor Alleinreisende All inclusive American Express Basics Black Week Boeing 787 British Airways Club Coronavirus Deutsche Bahn Eilmeldungen Error Fares eSIM EuroBonus Exklusiv Fe",
+            "tatus 29. Okt. MSC Sinfonia: 7 Nächte Mittelmeer-Kreuzfahrten von Barcelona ab 359€ p.P. (Alleinreisende ab 497€) Kreuzfahrten 29. Okt. Seaden Sea Planet, Side: 1 Woche All-inclusive Pauschalreise ab 504€ p.P. im Frühling 2027 von 18 deutschen Flughäfen Pauschalr",
+            "ast Minute: 4 Nächte Nicko Cruises Flusskreuzfahrt auf der Donau von Passau ab 299€ p.P. (Alleinreisende ab 379€) Kreuzfahrten 28. Okt. Bangkok: Business Class von Frankfurt ab 1.208€ mit Turkmenistan Airlines Business Class 28. Okt. Pickalbatros White Beach Reso"
+          ]
+        },
+        {
+          "url": "https://travel-dealz.de/deal-melden/",
+          "label": "Melden",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://travel-dealz.de/deal/china-eastern-gabelfluege-stockholm/",
+          "label": "",
+          "keyword_count": 1,
+          "snippets": [
+            "ss-Flüge: WhatsApp / Telegram Alle Kreuzfahrtangebote: WhatsApp / Telegram Kreuzfahrt für Alleinreisende: WhatsApp / Telegram Flusskreuzfahrten: WhatsApp / Telegram Luxuskreuzfahrten: WhatsApp / Telegram ✈️ Verpasse nie wieder einen guten Deal! Deals, Error Fares"
+          ]
+        }
+      ],
+      "candidate_links_found": 39,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Travel Dealz",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:38:29.834709+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
