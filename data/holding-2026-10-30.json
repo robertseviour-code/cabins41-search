@@ -2478,15 +2478,17 @@
       "checked_at": "2026-10-30T07:58:26.133285+00:00"
     },
     "78": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Blocked",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Reddit r/NCL",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:50:11.065620+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:58:47.702024+00:00"
     },
     "79": {
       "status": "failed",
