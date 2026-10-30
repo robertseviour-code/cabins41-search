@@ -1552,6 +1552,25 @@
       "source_name": "Saga Cruises",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:37:16.126872+00:00"
+    },
+    "59": {
+      "status": "checked",
+      "url": "https://www.seabourn.com/en/us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.seabourn.com/en/us/find-a-cruise?dealId=SBNSOLO_101724&csvFileName=SBNSOLO_101724",
+          "label": "Solo Travelers",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 1,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Seabourn",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:37:38.084413+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
