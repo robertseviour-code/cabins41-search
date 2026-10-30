@@ -4432,42 +4432,99 @@
     "58": {
       "status": "checked",
       "url": "https://travel.saga.co.uk/cruises",
-      "lead_snippets": [],
-      "lead_count": 0,
+      "lead_snippets": [
+        "tours Small ship cruising Safari holidays Stay & explore Hotel Holidays Saga hotel stays Solo travellers UK university and college holidays Other holidays All inclusive holidays Singles holidays Special interest holidays Winter sun holidays Christmas holidays Long",
+        "ravel Awards 2022 Winner Best Cruise Line for Luxury Holidays Cruise Critic 2024 Best for Solo Travellers in Rivers British Travel Awards 2024 Winner Favourite Company for Print Advertisements British Travel Awards 2024 Silver Favourite Company for Radio Advertisem"
+      ],
+      "lead_count": 2,
       "candidate_pages": [
         {
           "url": "https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers.aspx",
           "label": "Singles ocean cruises",
-          "keyword_count": 12,
+          "keyword_count": 17,
           "snippets": [
-            "Singles Cruises | 2026/2027 Singles Cruises for Over 50s Skip to navigation Skip to content Skip to content Insurance Holidays Cruises Money Magazine MySaga All products and",
-            "Singles Cruises | 2026/2027 Singles Cruises for Over 50s Skip to navigation Skip to content Skip to content Insurance Holidays Cruises Money Magazine MySaga All products and services All Insurance Moto",
-            "7 nights 8 - 13 nights 14 - 28 nights 28 or more nights Our smaller ships are ideal for a singles cruise Thinking about a singles cruise? You’ll experience the warmest of welcomes on our boutique ships. Both Spirit of Adventure and Spirit of Discovery are smaller",
+            "Singles Cruises | 2026/2027 Singles Cruises for Over 50s Skip to navigation Skip to content Skip to content Insurance Holidays Cruises Money Magazine MySaga All products and s",
+            "Singles Cruises | 2026/2027 Singles Cruises for Over 50s Skip to navigation Skip to content Skip to content Insurance Holidays Cruises Money Magazine MySaga All products and services All Insurance Motor",
+            "tours Small ship cruising Safari holidays Stay & explore Hotel Holidays Saga hotel stays Solo travellers UK university and college holidays Other holidays All inclusive holidays Singles holidays Special interest holidays Winter sun holidays Christmas holidays Long",
+            "& wellbeing Life Puzzles Travel Menu -- Cruises Ocean cruises The Saga Cruise Experience Solo travellers Call us on to book We are OPEN | We close at We are CLOSED | We open at 9am Friday Find your boutique cruise Search Solo Traveller Cruises Ocean cruise River c",
+            "OPEN | We close at We are CLOSED | We open at 9am Friday Find your boutique cruise Search Solo Traveller Cruises Ocean cruise River cruise All regions 2026 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2027 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 2028 Ja",
+            "7 nights 8 - 13 nights 14 - 28 nights 28 or more nights Our smaller ships are ideal for a singles cruise Thinking about a singles cruise? You’ll experience the warmest of welcomes on our boutique ships. Both Spirit of Adventure and Spirit of Discovery are smaller,",
             "ights 28 or more nights Our smaller ships are ideal for a singles cruise Thinking about a singles cruise? You’ll experience the warmest of welcomes on our boutique ships. Both Spirit of Adventure and Spirit of Discovery are smaller, making it so easy to find your",
-            "you do not love it, we will happily refund you. Find out more Look forward to a sociable solo cruise Cruising on our ships is always a friendly experience, whether you’re going solo, or travelling with friends and want a single cabin to enjoy your own space.",
-            "s a friendly experience, whether you’re going solo, or travelling with friends and want a single cabin to enjoy your own space. You’re free to join in with as much or as little as you like on board. There’s a wide range of activities , and you’ll be invited to a",
-            "single balcony cabin On our cruises for singles, you can choose from a huge selection of single cabins. When we designed Spirit of Adventure and Spirit of Discovery , we filled them with 109 single balcony cabins each. That’s more than 20% of the accommodation r",
-            "cabins each. That’s more than 20% of the accommodation reserved just for solo guests. But single cabins are popular, so booking early is always a good bet. Previous Next Standard Single with Balcony Aboard Spirit of Adventure Standard Single with Balcony Aboard S"
+            "you do not love it, we will happily refund you. Find out more Look forward to a sociable solo cruise Cruising on our ships is always a friendly experience, whether you’re going solo, or travelling with friends and want a single cabin to enjoy your own space. Y"
           ]
         },
         {
           "url": "https://travel.saga.co.uk/cruises/river/find-your-cruise/solo-river-cruises.aspx",
           "label": "Singles river cruises",
-          "keyword_count": 0,
-          "snippets": []
+          "keyword_count": 3,
+          "snippets": [
+            "tours Small ship cruising Safari holidays Stay & explore Hotel Holidays Saga hotel stays Solo travellers UK university and college holidays Other holidays All inclusive holidays Singles holidays Special interest holidays Winter sun holidays Christmas holidays Long",
+            "027 solo river cruises Looking ahead to 2027 ? We have availability for river cruises for solo travellers. So why not join us on a Saga River Cruise and discover the joys of solo travel without any compromise? See all 2027 solo river cruises A range of destinations",
+            "s for solo travellers. So why not join us on a Saga River Cruise and discover the joys of solo travel without any compromise? See all 2027 solo river cruises A range of destinations Our solo river cruises offer a range of destinations, including the Danube , Rh"
+          ]
         },
         {
           "url": "https://travel.saga.co.uk/cruises/ocean/ocean-cruise-deals.aspx",
           "label": "Ocean cruise offers",
-          "keyword_count": 0,
-          "snippets": []
+          "keyword_count": 1,
+          "snippets": [
+            "tours Small ship cruising Safari holidays Stay & explore Hotel Holidays Saga hotel stays Solo travellers UK university and college holidays Other holidays All inclusive holidays Singles holidays Special interest holidays Winter sun holidays Christmas holidays Long"
+          ]
         }
       ],
       "candidate_links_found": 3,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [
+        {
+          "source_name": "Saga Cruises",
+          "source_id": 58,
+          "seller_url": "https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers.aspx",
+          "evidence": "ct Nov Dec 2029 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Any date Any duration 1 - 7 nights 8 - 13 nights 14 - 28 nights 28 or more nights Our smaller ships are ideal for a singles cruise Thinking about a singles cruise? You’ll experience the warmest of welcomes on our boutique ships. Both Spirit of Adventure and Spirit of Discovery are smaller, making it so easy to find your way around and meet your fellow guests. Love your first cruise, or your money back W",
+          "prices_mentioned": [],
+          "dates_mentioned": [],
+          "durations_mentioned": [
+            "7 nights",
+            "13 nights",
+            "28 nights"
+          ],
+          "ships_mentioned": [],
+          "solo_evidence": "singles cruise",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        },
+        {
+          "source_name": "Saga Cruises",
+          "source_id": 58,
+          "seller_url": "https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers.aspx",
+          "evidence": "link you up with other solo guests to explore ashore and enjoy your excursions . Your own single balcony cabin On our cruises for singles, you can choose from a huge selection of single cabins. When we designed Spirit of Adventure and Spirit of Discovery , we filled them with 109 single balcony cabins each. That’s more than 20% of the accommodation reserved just for solo guests. But single cabins are popular, so booking early is always a good bet. Previous Next Stan",
+          "prices_mentioned": [],
+          "dates_mentioned": [],
+          "durations_mentioned": [],
+          "ships_mentioned": [],
+          "solo_evidence": "single cabins",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        },
+        {
+          "source_name": "Saga Cruises",
+          "source_id": 58,
+          "seller_url": "https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers.aspx",
+          "evidence": "required. Pre-departure cancellation cover (cancellation rights) is provided by Saga and is only available when taking out the included insurance. View all Saga Ocean Cruises for solo travellers Important Information § Travel Insurance is underwritten by Astrenska Insurance Limited, subject to medical screening. A price reduction will be applied if the included travel insurance is not required. Pre-departure cover (cancellation rights) is provided by Saga and is onl",
+          "prices_mentioned": [],
+          "dates_mentioned": [],
+          "durations_mentioned": [],
+          "ships_mentioned": [],
+          "solo_evidence": "solo travellers",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        }
+      ],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Saga Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:37:16.126872+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:41:30.577758+00:00"
     },
     "59": {
       "status": "checked",
