@@ -1857,9 +1857,10 @@
         {
           "url": "https://travel.saga.co.uk/cruises/river/find-your-cruise/solo-river-cruises.aspx",
           "label": "Singles river cruises",
-          "keyword_count": 3,
+          "keyword_count": 4,
           "snippets": [
             "tours Small ship cruising Safari holidays Stay & explore Hotel Holidays Saga hotel stays Solo travellers UK university and college holidays Other holidays All inclusive holidays Singles holidays Special interest holidays Winter sun holidays Christmas holidays Long",
+            "ec Any date Any duration 1 - 7 nights 8 - 13 nights 14 - 28 nights 28 or more nights More solo cabins available on our river cruises We understand that travelling solo can be daunting, but with our boutique ships and sociable atmosphere, we make sure that you w",
             "027 solo river cruises Looking ahead to 2027 ? We have availability for river cruises for solo travellers. So why not join us on a Saga River Cruise and discover the joys of solo travel without any compromise? See all 2027 solo river cruises A range of destinations",
             "s for solo travellers. So why not join us on a Saga River Cruise and discover the joys of solo travel without any compromise? See all 2027 solo river cruises A range of destinations Our solo river cruises offer a range of destinations, including the Danube , Rh"
           ]
@@ -1874,58 +1875,13 @@
         }
       ],
       "candidate_links_found": 3,
-      "possible_offers": [
-        {
-          "source_name": "Saga Cruises",
-          "source_id": 58,
-          "seller_url": "https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers.aspx",
-          "evidence": "ct Nov Dec 2029 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Any date Any duration 1 - 7 nights 8 - 13 nights 14 - 28 nights 28 or more nights Our smaller ships are ideal for a singles cruise Thinking about a singles cruise? You’ll experience the warmest of welcomes on our boutique ships. Both Spirit of Adventure and Spirit of Discovery are smaller, making it so easy to find your way around and meet your fellow guests. Love your first cruise, or your money back W",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [
-            "7 nights",
-            "13 nights",
-            "28 nights"
-          ],
-          "ships_mentioned": [],
-          "solo_evidence": "singles cruise",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Saga Cruises",
-          "source_id": 58,
-          "seller_url": "https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers.aspx",
-          "evidence": "link you up with other solo guests to explore ashore and enjoy your excursions . Your own single balcony cabin On our cruises for singles, you can choose from a huge selection of single cabins. When we designed Spirit of Adventure and Spirit of Discovery , we filled them with 109 single balcony cabins each. That’s more than 20% of the accommodation reserved just for solo guests. But single cabins are popular, so booking early is always a good bet. Previous Next Stan",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [],
-          "ships_mentioned": [],
-          "solo_evidence": "single cabins",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Saga Cruises",
-          "source_id": 58,
-          "seller_url": "https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers.aspx",
-          "evidence": "required. Pre-departure cancellation cover (cancellation rights) is provided by Saga and is only available when taking out the included insurance. View all Saga Ocean Cruises for solo travellers Important Information § Travel Insurance is underwritten by Astrenska Insurance Limited, subject to medical screening. A price reduction will be applied if the included travel insurance is not required. Pre-departure cover (cancellation rights) is provided by Saga and is onl",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [],
-          "ships_mentioned": [],
-          "solo_evidence": "solo travellers",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        }
-      ],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Saga Cruises",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:41:30.577758+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:49:59.815886+00:00"
     },
     "59": {
       "status": "checked",
