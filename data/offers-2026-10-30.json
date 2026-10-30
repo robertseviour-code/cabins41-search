@@ -3,10 +3,127 @@
   "sources_attempted": 85,
   "sources_checked": 63,
   "sources_failed": 22,
-  "possible_leads": 184,
+  "possible_leads": 191,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
+    {
+      "source_name": "AlleinAufKreuzfahrt",
+      "source_id": 69,
+      "seller_url": "https://alleinaufkreuzfahrt.de",
+      "evidence": "sletter abonnieren Nur für Alleinreisende Jeden Sonntag: 0900 Uhr kostenlos Keine Werbung. Keine Provisionen. Aus eigener Erfahrung an Bord Diese Woche Kreuzfahrten mit 0 bis 50 % Einzelkabinenzuschlag Handverlesen aus tausenden Angeboten. Was dein Reisebüro dir nicht zeigt, zeigen wir dir jeden Sonntag kostenlos. 0 % Einzelkabinenzuschlag AIDA AIDA COSMA Mittelmeer · 7 Nächte · ab Palma ab 599 € / Person 25 % Einzelkabinenzuschlag Costa Kreuzfahrten Costa Toscana M",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "ships_mentioned": [
+        "AIDA AIDA",
+        "Costa Kreuzfahrten",
+        "Costa Toscana"
+      ],
+      "solo_evidence": "Einzelkabinenzuschlag",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "AlleinAufKreuzfahrt",
+      "source_id": 69,
+      "seller_url": "https://alleinaufkreuzfahrt.de",
+      "evidence": "t konstanter Crew. Du bist nie wirklich allein, aber immer frei. Viele unserer Leserinnen und Leser berichten, dass sie sich an Bord sicherer fühlen als im Alltag. Was kostet eine Einzelkabine auf einer Kreuzfahrt? Das hängt stark von der Reederei ab. Viele Anbieter verlangen einen Einzelkabinenzuschlag von 50 bis 100 %. Es gibt aber Ausnahmen: Manche Reedereien bieten spezielle Einzelkabinen ohne Aufpreis an. Genau diese Angebote suchen wir jede Woche heraus und te",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Einzelkabine",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "AlleinAufKreuzfahrt",
+      "source_id": 69,
+      "seller_url": "https://alleinaufkreuzfahrt.de",
+      "evidence": "Kreuzfahrt? Das hängt stark von der Reederei ab. Viele Anbieter verlangen einen Einzelkabinenzuschlag von 50 bis 100 %. Es gibt aber Ausnahmen: Manche Reedereien bieten spezielle Einzelkabinen ohne Aufpreis an. Genau diese Angebote suchen wir jede Woche heraus und teilen sie kostenlos im Newsletter. Wie lernt man auf einer Kreuzfahrt andere Alleinreisende kennen? Kreuzfahrten sind sozial, ob du willst oder nicht. Gemeinsame Tische beim Abendessen, Ausflüge, Events a",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Einzelkabinen",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "AlleinAufKreuzfahrt",
+      "source_id": 69,
+      "seller_url": "https://alleinaufkreuzfahrt.de/aida-alleinreisende/",
+      "evidence": "ausgelegt. Fehlt die zweite Person, entgehen der Reederei kalkulierte Umsätze aus Getränken, Landausflügen, Wellness-Anwendungen und Casino-Besuchen. Dieses Defizit wird über den Einzelkabinenzuschlag kompensiert. Wie sich der Zuschlag für AIDA Alleinreisende zusammensetzt Bei AIDA ist dieser Zuschlag nicht starr, sondern extrem flexibel. Er hängt maßgeblich von der Auslastung des Schiffes, der gebuchten Reisezeit und dem gewählten Tarifmodell ab. Strukturierte Über",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [
+        "AIDA Alleinreisende"
+      ],
+      "solo_evidence": "Einzelkabinenzuschlag",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "AlleinAufKreuzfahrt",
+      "source_id": 69,
+      "seller_url": "https://alleinaufkreuzfahrt.de/aida-alleinreisende/",
+      "evidence": "erte Umsätze aus Getränken, Landausflügen, Wellness-Anwendungen und Casino-Besuchen. Dieses Defizit wird über den Einzelkabinenzuschlag kompensiert. Wie sich der Zuschlag für AIDA Alleinreisende zusammensetzt Bei AIDA ist dieser Zuschlag nicht starr, sondern extrem flexibel. Er hängt maßgeblich von der Auslastung des Schiffes, der gebuchten Reisezeit und dem gewählten Tarifmodell ab. Strukturierte Übersicht: Die Zuschlags-Stufen im Detail Situation Typischer Zuschla",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [
+        "AIDA Alleinreisende"
+      ],
+      "solo_evidence": "Alleinreisende",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "AlleinAufKreuzfahrt",
+      "source_id": 69,
+      "seller_url": "https://alleinaufkreuzfahrt.de/aida-alleinreisende/",
+      "evidence": "r Basispreis pro Person in der Doppelkabine liegt bei 800 Euro. Kostenpunkt Standard-Buchung (70 % Zuschlag) Aktions-Buchung (20 % Zuschlag) Basispreis (für 1. Person) 800 € 800 € Einzelkabinenzuschlag 560 € 160 € Gesamtpreis für dich 1.360 € 960 € Ersparnis 0 € 400 € Fazit zu den Kosten: Zeitliche Flexibilität ist dein bester Freund. Wer spontan bucht oder die Reisezeiten außerhalb der Schulferien wählt, spart bei einer Kreuzfahrt allein AIDA bares Geld. AIDA Einze",
+      "prices_mentioned": [
+        "€ 800",
+        "€ 160",
+        "€ 960",
+        "€ 400"
+      ],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [
+        "AIDA Einzelkabinen"
+      ],
+      "solo_evidence": "Einzelkabinenzuschlag",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "AlleinAufKreuzfahrt",
+      "source_id": 69,
+      "seller_url": "https://alleinaufkreuzfahrt.de/msc-alleinreisende/",
+      "evidence": "t in jedem Hafen ein massives Ausflugsprogramm an. Für Solos stellt sich die Frage nach Budget und Sicherheit. Ausflugsart Kosten Social-Faktor Sicherheit & Komfort Empfehlung für Alleinreisende Geführter MSC Ausflug Hoch (ab ca. 50 €) Hoch (man lernt schnell Leute kennen) Maximal (Schiff wartet bei Verspätung) Ideal für komplexe Ziele (z. B. Rom, Kairo) oder wenn du nicht gern selbst planst. Hop-on Hop-off Busse Mittel (ca. 25-35 €) Gering bis Mittel Hoch (gut stru",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [
+        "MSC Ausflug"
+      ],
+      "solo_evidence": "Alleinreisende",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
     {
       "source_name": "Ambassador Cruise Line",
       "source_id": 4,
