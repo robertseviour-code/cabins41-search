@@ -2434,8 +2434,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Travel Dealz",
-      "checker_version": 10,
-      "checked_at": "2026-10-30T09:04:59.972303+00:00"
+      "checker_version": 11,
+      "checked_at": "2026-10-30T09:07:34.711022+00:00"
     },
     "62": {
       "status": "blocked",
