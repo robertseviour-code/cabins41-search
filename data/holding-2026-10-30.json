@@ -351,10 +351,11 @@
         }
       ],
       "candidate_links_found": 88,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Aquotic",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:14:05.388982+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:14:52.424401+00:00"
     },
     "6": {
       "status": "checked",
