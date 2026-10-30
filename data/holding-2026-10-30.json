@@ -3117,57 +3117,14 @@
           ]
         }
       ],
-      "candidate_links_found": 3,
-      "possible_offers": [
-        {
-          "source_name": "Truly Sherry",
-          "source_id": 84,
-          "seller_url": "https://trulysherry.com/solo-cruise-tips/",
-          "ship": "Journey",
-          "departure_date": "2011-07-31",
-          "solo_evidence": "solo discounts",
-          "evidence": "fill their ships. Look for cruises with reduced single supplements. Even luxury cruise lines offer solo discounts. Many ships offer solo or studio staterooms that are purpose built for the solo passenger. Read about Norwegian Epic introduced Studio Staterooms , the first cruise line to cater to the solo passenger, on my other site: | Sailing: lso Like... 44 Important Lessons I’ve Learned Traveling Solo Best Solo Travel Tips for Women I Cruised Alaska’s Inside Passage During the Pandemic Welcome to Truly Sherry – Starting Over at 73 My Visit to Normandy Beaches Including Utah Beach on a Viking River Cruise Sentimental Journey Revisited on Princess Cruises Hawaiian Islands Cruise 4 Comments Scott says: July 31, 2011 at 1:49 pm Hi heard your talk on solo travel on the Travel show.going on NCL Epic studio cabin in 2012 great article for singles!! Cruise Maven says: July 31, 2011 at 3:25 pm H",
-          "prices_mentioned": [],
-          "durations_mentioned": [],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
-        },
-        {
-          "source_name": "Truly Sherry",
-          "source_id": 84,
-          "seller_url": "https://trulysherry.com/solo-cruise-tips/",
-          "ship": "NCL Epic",
-          "departure_date": "2011-07-31",
-          "solo_evidence": "solo discounts",
-          "evidence": "fill their ships. Look for cruises with reduced single supplements. Even luxury cruise lines offer solo discounts. Many ships offer solo or studio staterooms that are purpose built for the solo passenger. Read about Norwegian Epic introduced Studio Staterooms , the first cruise line to cater to the solo passenger, on my other site: | Sailing: Starting Over at 73 My Visit to Normandy Beaches Including Utah Beach on a Viking River Cruise Sentimental Journey Revisited on Princess Cruises Hawaiian Islands Cruise 4 Comments Scott says: July 31, 2011 at 1:49 pm Hi heard your talk on solo travel on the Travel show.going on NCL Epic studio cabin in 2012 great article for singles!! Cruise Maven says: July 31, 2011 at 3:25 pm Hi Scott, thank you for your comment. The Epic is a great ship as are the studio cabins. Also, if you like milkshakes and fries, O’Sheehan’s Pub has great milkshakes and fres",
-          "prices_mentioned": [],
-          "durations_mentioned": [],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
-        },
-        {
-          "source_name": "Truly Sherry",
-          "source_id": 84,
-          "seller_url": "https://trulysherry.com/solo-cruise-tips/",
-          "ship": "Poesia",
-          "departure_date": "2011-07-10",
-          "solo_evidence": "solo discounts",
-          "evidence": "fill their ships. Look for cruises with reduced single supplements. Even luxury cruise lines offer solo discounts. Many ships offer solo or studio staterooms that are purpose built for the solo passenger. Read about Norwegian Epic introduced Studio Staterooms , the first cruise line to cater to the solo passenger, on my other site: | Sailing: shakes and freshly-cooked french fries! Have a wonderful cruise. Larry and Desne Wills says: July 10, 2011 at 3:36 pm Another great article Sheri, enjoyed reading it, but still waiting for you come over to our side of florida for a visit. Larry and Desne Wills Cruise Maven says: July 10, 2011 at 4:51 pm I’m so glad we’ve stayed in touch since the Poesia crossing last April. I really do want to come over for a visit soon. Thanks again for your nice comment! Comments are closed. Welcome! I'm Sherry, an adventure-obsessed solo and slow traveler. Becaus",
-          "prices_mentioned": [],
-          "durations_mentioned": [],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
-        }
-      ],
+      "candidate_links_found": 4,
+      "possible_offers": [],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Truly Sherry",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:52:33.357633+00:00"
+      "checker_version": 17,
+      "checked_at": "2026-10-30T09:59:34.701501+00:00"
     },
     "85": {
       "status": "checked",
