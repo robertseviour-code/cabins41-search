@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 62,
   "sources_failed": 23,
-  "possible_leads": 150,
+  "possible_leads": 151,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -2331,6 +2331,22 @@
       "durations_mentioned": [],
       "ships_mentioned": [],
       "solo_evidence": "Solo Cruise",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "PONANT",
+      "source_id": 53,
+      "seller_url": "https://en.ponant.com",
+      "evidence": "ahiti Island (French Polynesia) To Papeete, Tahiti Island (French Polynesia) 7 nights aboard the ship Le Paul Gauguin Next departure 30/10/27 06/11/27 Offer(s) Back to back offer, Solo Traveller 0%, PONANT Bonus 25% From 4,410 € /person* Discover Fjords and glaciers of Spitsbergen Package included From Longyearbyen, Spitsbergen (Norway) To Longyearbyen, Spitsbergen (Norway) 7 nights aboard the ship Le Lyrial Next departure 03/07/27 10/07/27 Offer(s) Back to back off",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "7 nights"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "Solo Traveller",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
