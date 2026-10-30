@@ -2246,6 +2246,18 @@
       "source_name": "Truly Sherry",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:47:06.117301+00:00"
+    },
+    "85": {
+      "status": "checked",
+      "url": "https://www.facebook.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Zero or LOW Single Supplement Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:47:28.006656+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
