@@ -365,8 +365,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
-      "checker_version": 12,
-      "checked_at": "2026-10-30T09:09:21.515410+00:00"
+      "checker_version": 13,
+      "checked_at": "2026-10-30T09:12:09.089993+00:00"
     },
     "7": {
       "status": "checked",
