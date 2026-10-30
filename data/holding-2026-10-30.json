@@ -3908,10 +3908,11 @@
         }
       ],
       "candidate_links_found": 7,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Panache Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:31:17.871268+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:36:25.739958+00:00"
     },
     "49": {
       "status": "checked",
