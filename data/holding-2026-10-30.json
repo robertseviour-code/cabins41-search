@@ -18,9 +18,10 @@
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
+      "possible_offers": [],
       "source_name": "AIDA Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:12:49.372874+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:13:37.210182+00:00"
     },
     "3": {
       "status": "checked",
