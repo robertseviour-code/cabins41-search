@@ -1355,15 +1355,17 @@
       "checked_at": "2026-10-30T07:41:02.887881+00:00"
     },
     "42": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 401: Unauthorized",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "MSC Cruises",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:34:03.162938+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:41:24.873687+00:00"
     },
     "43": {
       "status": "checked",
