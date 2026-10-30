@@ -2058,6 +2058,16 @@
       "source_name": "Reddit r/NCL",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:44:51.946278+00:00"
+    },
+    "79": {
+      "status": "failed",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Reddit r/solotravel",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:45:13.271849+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
