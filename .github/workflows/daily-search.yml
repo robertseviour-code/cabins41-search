@@ -51,7 +51,7 @@ jobs:
             python search.py --one "$n" --no-wait
             git add data/
             if ! git diff --cached --quiet; then
-              git commit -m "Save source $n results" && git push || exit 1
+              git commit -m "Save source $n results" && git pull --rebase origin "$GITHUB_REF_NAME" && git push || exit 1
             fi
             if [ "$n" != "$last_id" ]; then sleep 20; fi
           done
