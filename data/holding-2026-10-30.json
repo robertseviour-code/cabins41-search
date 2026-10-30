@@ -649,26 +649,13 @@
         }
       ],
       "candidate_links_found": 2,
-      "possible_offers": [
-        {
-          "source_name": "Cunard",
-          "source_id": 21,
-          "seller_url": "https://www.cunard.com/en-us/cruise-deals/black-friday-sale/black-friday-register",
-          "evidence": "s. Bookings in Britannia Club Balcony and below receive savings of US$100 per stateroom (US$50 per person). Offer applies to first and second guests only. Single guests paying the single supplement in a double occupancy stateroom will receive the per stateroom savings amount. Offer available on a space-available basis at time of booking, on select categories and sailings. Offer is available to residents of the 50 United States/District of Columbia, Canada, Bermuda, ",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [],
-          "ships_mentioned": [],
-          "solo_evidence": "single supplement",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        }
-      ],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cunard",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:21:37.640393+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:28:54.404911+00:00"
     },
     "22": {
       "status": "failed",
