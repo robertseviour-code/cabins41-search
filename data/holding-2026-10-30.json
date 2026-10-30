@@ -517,7 +517,7 @@
         {
           "url": "https://www.cruise118.com/cruise-deals/single-passengers",
           "label": "Solo Cruise Deals",
-          "keyword_count": 8,
+          "keyword_count": 38,
           "snippets": [
             "Solo Cruise Deals | Solo Cruise Deals UK | Cruise118.com Freephone 9am - 9pm 08081234118 Our sales team are here to help 7 days a week. For international Callers call 0207",
             "Solo Cruise Deals | Solo Cruise Deals UK | Cruise118.com Freephone 9am - 9pm 08081234118 Our sales team are here to help 7 days a week. For international Callers call 02072064176 Cruise Deals",
@@ -526,7 +526,7 @@
             "ises River Cruises Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exp",
             "Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world o",
             "s Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals!",
-            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11607 cruises Per Person Total Price"
+            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11605 cruises Per Person Total Price"
           ]
         },
         {
@@ -549,76 +549,13 @@
         }
       ],
       "candidate_links_found": 69,
-      "possible_offers": [
-        {
-          "source_name": "Cruise118",
-          "source_id": 17,
-          "seller_url": "https://www.cruise118.com/",
-          "evidence": "Cancellation Deals Cruise Deals Exclusive Cruise Deals 2026 Cruises 2027 Cruises 2028 Cruises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liverpool Cruises From Dover Cruises from Scotland Cruises From London Cruises from Newcastle Cruises from Rosyth Deal by M",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [
-            "7 Night"
-          ],
-          "ships_mentioned": [],
-          "solo_evidence": "Solo Cruise",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Cruise118",
-          "source_id": 17,
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-          "evidence": "Solo Cruise Deals | Solo Cruise Deals UK | Cruise118.com Freephone 9am - 9pm 08081234118 Our sales team are here to help 7 days a week. For international Callers call 02072064176 Cruise Deals Popular Cruise Cancellation Deals Cruise Deals Exclusive Cruise Deals 2026 Cruises 2027 Cruises 202",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [
-            "7 days"
-          ],
-          "ships_mentioned": [],
-          "solo_evidence": "Solo Cruise",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Cruise118",
-          "source_id": 17,
-          "seller_url": "https://www.cruise118.com/cruise-deals",
-          "evidence": "Cancellation Deals Cruise Deals Exclusive Cruise Deals 2026 Cruises 2027 Cruises 2028 Cruises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liverpool Cruises From Dover Cruises from Scotland Cruises From London Cruises from Newcastle Cruises from Rosyth Deal by M",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [
-            "7 Night"
-          ],
-          "ships_mentioned": [],
-          "solo_evidence": "Solo Cruise",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        },
-        {
-          "source_name": "Cruise118",
-          "source_id": 17,
-          "seller_url": "https://www.cruise118.com/cruise-deals/cancellations",
-          "evidence": "Cancellation Deals Cruise Deals Exclusive Cruise Deals 2026 Cruises 2027 Cruises 2028 Cruises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liverpool Cruises From Dover Cruises from Scotland Cruises From London Cruises from Newcastle Cruises from Rosyth Deal by M",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [
-            "7 Night"
-          ],
-          "ships_mentioned": [],
-          "solo_evidence": "Solo Cruise",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        }
-      ],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise118",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:20:08.662725+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:27:23.534953+00:00"
     },
     "18": {
       "status": "checked",
