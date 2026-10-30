@@ -6193,9 +6193,10 @@
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
+      "possible_offers": [],
       "source_name": "Reddit r/Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:44:30.648506+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:49:49.672388+00:00"
     },
     "78": {
       "status": "failed",
