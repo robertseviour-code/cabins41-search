@@ -488,6 +488,16 @@
       "source_name": "CruiseBooking",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:19:26.259849+00:00"
+    },
+    "19": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "CruiseKings",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:19:47.611838+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
