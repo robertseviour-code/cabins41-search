@@ -686,14 +686,16 @@
         {
           "url": "https://www.celebritycruises.com/things-to-do-onboard/staterooms/single-stateroom",
           "label": "Single",
-          "keyword_count": 1,
+          "keyword_count": 3,
           "snippets": [
-            "g more responsibly. Available On Beyond Edge Apex Ascent Silhouette The Ultimate Guide to Solo Cruising Learn More *Please see all applicable Terms & Conditions for Promotions here . Cruise Types Top Destinations Featured Ports Plan Your Cruise Customer Suppor"
+            "t Previewing: Promo Dashboard Campaigns Loading date... × CLOSE Single Staterooms For the solo traveler Tabs Overview Suites AquaClass Concierge Class Verandas Ocean View Inside Single Home Things To Do Onboard Staterooms Single Staterooms Travel The World In Sin",
+            "s Travel The World In Singular Style Single Staterooms are perfectly proportioned for the solo traveler. Spacious. Stylish. Singular. These rooms offer all the same amenities and services as a double stateroom, including our exclusive eXhale® bedding, featuring a",
+            "g more responsibly. Available On Beyond Edge Apex Ascent Silhouette The Ultimate Guide to Solo Cruising Learn More *Please see all applicable Terms & Conditions for Promotions here . Cruise Types Top Destinations Featured Ports Plan Your Cruise Customer Support P"
           ]
         },
         {
           "url": "https://www.celebritycruises.com/cruise-deals/special-offers",
-          "label": "Fall Sale",
+          "label": "No Tricks All Treats Flash Sale",
           "keyword_count": 0,
           "snippets": []
         },
@@ -705,10 +707,28 @@
         }
       ],
       "candidate_links_found": 9,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [
+        {
+          "source_name": "Celebrity Cruises",
+          "source_id": 10,
+          "seller_url": "https://www.celebritycruises.com/things-to-do-onboard/staterooms/single-stateroom",
+          "evidence": "plus the added flexibility of choosing your preferred time of service -all while traveling more responsibly. Available On Beyond Edge Apex Ascent Silhouette The Ultimate Guide to Solo Cruising Learn More *Please see all applicable Terms & Conditions for Promotions here . Cruise Types Top Destinations Featured Ports Plan Your Cruise Customer Support Popular Cruises 2026 Cruises All Inclusive Cruises Last Minute Cruises 3 Day Cruises Holiday Cruises Christmas Cruises ",
+          "prices_mentioned": [],
+          "dates_mentioned": [],
+          "durations_mentioned": [
+            "3 Day"
+          ],
+          "ships_mentioned": [],
+          "solo_evidence": "Solo Cruising",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        }
+      ],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Celebrity Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:16:14.900793+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:17:17.888024+00:00"
     },
     "11": {
       "status": "checked",
