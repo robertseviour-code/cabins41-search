@@ -1,11 +1,11 @@
 {
   "date": "2026-10-30",
   "sources_attempted": 85,
-  "sources_checked": 63,
+  "sources_checked": 64,
   "sources_blocked": 20,
-  "sources_failed": 2,
-  "qualified_candidates": 45,
-  "candidate_sailings": 45,
+  "sources_failed": 1,
+  "qualified_candidates": 60,
+  "candidate_sailings": 60,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 40,
   "existing_listings_status": {
@@ -18,6 +18,146 @@
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
     {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Quest",
+      "departure_date": "2026-03-19",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: GEORGIA & ANTARCTICA P726 Seabourn Pursuit 07 Apr 2027 San Antonio – Papeete (Tahiti) 19 SOUTH PACIFIC 19-DAY EASTER & PITCAIRN ISLANDS: MAROONED, MOAI & MUTINEERS P730 Seabourn Pursuit 08 May 2027 Lautoka – Darwin 16 SOUTH PACIFIC 16-DAY REMOTE INDONESIA & PAPUA NEW GUINEA 6625 Seabourn Quest 19 Mar 2026 Papeete (Tahiti) – Long Beach 19 SOUTH PACIFIC 19-DAY POLYNESIA PACIFIC PASSAGE 5625 Seabourn Sojourn 25 Mar 2026 Boma – Hong Kong 10 WORLD VOYAGE 10-DAY WORLD CRUISE: INDONESIA & THE PHILIPPINES 5628A Seabourn Sojourn 04 ",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Sojourn",
+      "departure_date": "2026-03-25",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: STER & PITCAIRN ISLANDS: MAROONED, MOAI & MUTINEERS P730 Seabourn Pursuit 08 May 2027 Lautoka – Darwin 16 SOUTH PACIFIC 16-DAY REMOTE INDONESIA & PAPUA NEW GUINEA 6625 Seabourn Quest 19 Mar 2026 Papeete (Tahiti) – Long Beach 19 SOUTH PACIFIC 19-DAY POLYNESIA PACIFIC PASSAGE 5625 Seabourn Sojourn 25 Mar 2026 Boma – Hong Kong 10 WORLD VOYAGE 10-DAY WORLD CRUISE: INDONESIA & THE PHILIPPINES 5628A Seabourn Sojourn 04 Apr 2026 Hong Kong – Tokyo 20 WORLD VOYAGE 20-DAY WORLD CRUISE: SPRING CIRCUMNAVIGATION OF JAPAN 5631 Seabourn S",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Sojourn",
+      "departure_date": "2026-04-04",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: IC 16-DAY REMOTE INDONESIA & PAPUA NEW GUINEA 6625 Seabourn Quest 19 Mar 2026 Papeete (Tahiti) – Long Beach 19 SOUTH PACIFIC 19-DAY POLYNESIA PACIFIC PASSAGE 5625 Seabourn Sojourn 25 Mar 2026 Boma – Hong Kong 10 WORLD VOYAGE 10-DAY WORLD CRUISE: INDONESIA & THE PHILIPPINES 5628A Seabourn Sojourn 04 Apr 2026 Hong Kong – Tokyo 20 WORLD VOYAGE 20-DAY WORLD CRUISE: SPRING CIRCUMNAVIGATION OF JAPAN 5631 Seabourn Sojourn 14 Apr 2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Sin",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "journey",
+      "departure_date": "2026-04-14",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: IA PACIFIC PASSAGE 5625 Seabourn Sojourn 25 Mar 2026 Boma – Hong Kong 10 WORLD VOYAGE 10-DAY WORLD CRUISE: INDONESIA & THE PHILIPPINES 5628A Seabourn Sojourn 04 Apr 2026 Hong Kong – Tokyo 20 WORLD VOYAGE 20-DAY WORLD CRUISE: SPRING CIRCUMNAVIGATION OF JAPAN 5631 Seabourn Sojourn 14 Apr 2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Sojourn",
+      "departure_date": "2026-04-14",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: IC 19-DAY POLYNESIA PACIFIC PASSAGE 5625 Seabourn Sojourn 25 Mar 2026 Boma – Hong Kong 10 WORLD VOYAGE 10-DAY WORLD CRUISE: INDONESIA & THE PHILIPPINES 5628A Seabourn Sojourn 04 Apr 2026 Hong Kong – Tokyo 20 WORLD VOYAGE 20-DAY WORLD CRUISE: SPRING CIRCUMNAVIGATION OF JAPAN 5631 Seabourn Sojourn 14 Apr 2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Venture",
+      "departure_date": "2026-06-11",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: – Barbados 8 CARIBBEAN 8-DAY SOUTHERN CARIBBEAN YACHT HARBORS V653A Seabourn Venture 05 Oct 2026 Halifax – Rio de Janeiro 24 CARIBBEAN 24-DAY SOUTHERN CARIBBEAN YACHT HARBORS & COAST OF BRAZIL 6680 Seabourn Quest 10 Nov 2026 Lisbon – Miami 12 EUROPE 12-DAY ATLANTIC CROSSING V637 Seabourn Venture 11 Jun 2026 Barcelona – Graciosa Island 13 EUROPE 13-DAY SPANISH NIGHTS & STORIED COASTS P661 Seabourn Pursuit 04 Nov 2026 San Antonio – Ushuaia 18 SOUTH AMERICA 18-DAY CHILEAN FJORDS & ANTARCTICA V654 Seabourn Venture 09 Oct 2026 B",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Ambassador Hosts",
+      "departure_date": "2026-07-31",
+      "solo_evidence": "Reduced Single Supplement",
+      "evidence": "without the typical financial penalty of travelling alone. View applicable voyages Oceania Cruises: Reduced Single Supplement Oceania Cruises offers a range of options for solo travellers, primarily through dedicated “Single Supplement” promotions and the inclusion of purpose-built solo cabins. The key features of their solo offering for 2026 | Sailing: uding the Aquamarine Veranda and Sapphire Veranda suites. These suites include the services of a personal butler, walk-in wardrobes, and, in the case of Sapphire suites, separate living areas and complimentary dry cleaning. Solo-Friendly Experience: Guests have access to Crystal Ambassador Hosts, who act as dance partners or dinner companions to ensure solo travellers feel included in the ship’s social life. Eligible Destinations: The promotion covers a wide range of global itineraries, including Alaska, the Mediterranean, Northern Europe",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Silversea Voyages DATE",
+      "departure_date": "2026-07-31",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: uities. Intimate Ships: Smaller vessels foster a friendly, community-like atmosphere where it’s easy to make lifelong friends – or enjoy peaceful solitude. Featured Destinations 📍 Transoceanic Crossings 📍 Africa & Indian Ocean 📍 Asia 📍 French Polynesia 📍 Mediterranean Applicable Silversea Voyages DATE NIGHTS FROM TO SHIP 31 Jul 2026 6 Valletta Nice Silver Shadow 21 Oct 2026 20 Lisbon Cape Town Silver Muse 28 Nov 2026 13 Lisbon Miami Silver Ray 09 Dec 2026 12 Lisbon Bridgetown Silver Nova 14 Mar 2027 15 Singapore Tokyo Silve",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Venture",
+      "departure_date": "2026-10-05",
+      "solo_evidence": "reduced single supplement",
+      "evidence": "sea Regent Crystal Oceania Exceptional Value for Solo Travellers Seabourn is offering solo guests a reduced single supplement starting at only 25% above current fares on select voyages and in select suite categories. Whether you crave the icy wonders of Antarctica or the hidden gems of the Mediterranean , your dream journey is now within reach | Sailing: r expected. Complimentary Wi-Fi powered by Starlink. Featured Destinations 📍 Expedition Voyages (Antarctica & The Arctic) 📍 The Mediterranean 📍 Asia 📍 Transatlantic Crossings Applicable Seabourn Voyages Voyage Code Ship Sail Date From/To Duration Region/Type Itinerary Names V653 Seabourn Venture 05 Oct 2026 Halifax – Barbados 8 CARIBBEAN 8-DAY SOUTHERN CARIBBEAN YACHT HARBORS V653A Seabourn Venture 05 Oct 2026 Halifax – Rio de Janeiro 24 CARIBBEAN 24-DAY SOUTHERN CARIBBEAN YACHT HARBORS & COAST OF BRAZIL 6680 Seabourn Quest 10 Nov 2026 L",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Venture",
+      "departure_date": "2026-10-09",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: 2026 Lisbon – Miami 12 EUROPE 12-DAY ATLANTIC CROSSING V637 Seabourn Venture 11 Jun 2026 Barcelona – Graciosa Island 13 EUROPE 13-DAY SPANISH NIGHTS & STORIED COASTS P661 Seabourn Pursuit 04 Nov 2026 San Antonio – Ushuaia 18 SOUTH AMERICA 18-DAY CHILEAN FJORDS & ANTARCTICA V654 Seabourn Venture 09 Oct 2026 Barbados – Rio de Janeiro 16 SOUTH AMERICA 16-DAY TRINIDAD TO RIO: SOUTH AMERICAN EXPEDITION V654A Seabourn Venture 09 Oct 2026 Barbados – Ushuaia 41 SOUTH AMERICA 41-DAY BRAZIL COAST, FALKLANDS, SOUTH GEORGIA & ANTARCTIC",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
       "source_name": "Ambassador Cruise Line",
       "source_id": 4,
       "seller_url": "https://www.ambassadorcruiseline.com/",
@@ -25,6 +165,20 @@
       "departure_date": "2026-10-14",
       "solo_evidence": "Solo Deals",
       "evidence": "in December. Read article Offers Explore our latest solo cruise deals Enjoy Great-Value Fares View Solo Deals OUR SHIPS Here they are, the Ambassador fleet. Our first lady of the sea: Ambience. Derived from the French word for ‘surrounding’, our ambition at Ambassador is to create the optimum atmosphere onboard; one that brings | Sailing: meless cruise holiday that still makes you feel right at home. Ambassador Experience ► Ambassador Drinks Package ► Entertainment and Enrichment ► Solo Cruisers ► Upgrade Your Experience ► Look What's Included ► The Dining Experience ► Our Ships ► Blog How Does Wi-Fi Work at Sea? 14 October 2026 Ever wondered how Wi-Fi works on a cruise ship? Starlink has transformed internet at sea, ensuring you can stay connected to those who matter most. Read article The best places to cruise in December 7 October 2026 December itineraries are particularly magical. Wh",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Pursuit",
+      "departure_date": "2026-11-04",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: de Janeiro 24 CARIBBEAN 24-DAY SOUTHERN CARIBBEAN YACHT HARBORS & COAST OF BRAZIL 6680 Seabourn Quest 10 Nov 2026 Lisbon – Miami 12 EUROPE 12-DAY ATLANTIC CROSSING V637 Seabourn Venture 11 Jun 2026 Barcelona – Graciosa Island 13 EUROPE 13-DAY SPANISH NIGHTS & STORIED COASTS P661 Seabourn Pursuit 04 Nov 2026 San Antonio – Ushuaia 18 SOUTH AMERICA 18-DAY CHILEAN FJORDS & ANTARCTICA V654 Seabourn Venture 09 Oct 2026 Barbados – Rio de Janeiro 16 SOUTH AMERICA 16-DAY TRINIDAD TO RIO: SOUTH AMERICAN EXPEDITION V654A Seabourn Vent",
       "prices_mentioned": [],
       "durations_mentioned": [],
       "classification": "qualified_for_manual_review",
@@ -109,6 +263,20 @@
       "durations_mentioned": [
         "7 Nächte"
       ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Quest",
+      "departure_date": "2026-11-10",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: To Duration Region/Type Itinerary Names V653 Seabourn Venture 05 Oct 2026 Halifax – Barbados 8 CARIBBEAN 8-DAY SOUTHERN CARIBBEAN YACHT HARBORS V653A Seabourn Venture 05 Oct 2026 Halifax – Rio de Janeiro 24 CARIBBEAN 24-DAY SOUTHERN CARIBBEAN YACHT HARBORS & COAST OF BRAZIL 6680 Seabourn Quest 10 Nov 2026 Lisbon – Miami 12 EUROPE 12-DAY ATLANTIC CROSSING V637 Seabourn Venture 11 Jun 2026 Barcelona – Graciosa Island 13 EUROPE 13-DAY SPANISH NIGHTS & STORIED COASTS P661 Seabourn Pursuit 04 Nov 2026 San Antonio – Ushuaia 18 SO",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
       "warning": "Check the seller page and solo price before publishing."
@@ -495,6 +663,20 @@
       "warning": "Check the seller page and solo price before publishing."
     },
     {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Pursuit",
+      "departure_date": "2027-04-07",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: ORDS & ANTARCTICA V654 Seabourn Venture 09 Oct 2026 Barbados – Rio de Janeiro 16 SOUTH AMERICA 16-DAY TRINIDAD TO RIO: SOUTH AMERICAN EXPEDITION V654A Seabourn Venture 09 Oct 2026 Barbados – Ushuaia 41 SOUTH AMERICA 41-DAY BRAZIL COAST, FALKLANDS, SOUTH GEORGIA & ANTARCTICA P726 Seabourn Pursuit 07 Apr 2027 San Antonio – Papeete (Tahiti) 19 SOUTH PACIFIC 19-DAY EASTER & PITCAIRN ISLANDS: MAROONED, MOAI & MUTINEERS P730 Seabourn Pursuit 08 May 2027 Lautoka – Darwin 16 SOUTH PACIFIC 16-DAY REMOTE INDONESIA & PAPUA NEW GUINEA ",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
       "source_name": "Ambassador Cruise Line",
       "source_id": 4,
       "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/",
@@ -550,6 +732,20 @@
         "7 nights",
         "12 nights"
       ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Seabourn Pursuit",
+      "departure_date": "2027-05-08",
+      "solo_evidence": "Single Supplements starting at just 25%",
+      "evidence": "2026 Busan – Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Sol | Sailing: N V654A Seabourn Venture 09 Oct 2026 Barbados – Ushuaia 41 SOUTH AMERICA 41-DAY BRAZIL COAST, FALKLANDS, SOUTH GEORGIA & ANTARCTICA P726 Seabourn Pursuit 07 Apr 2027 San Antonio – Papeete (Tahiti) 19 SOUTH PACIFIC 19-DAY EASTER & PITCAIRN ISLANDS: MAROONED, MOAI & MUTINEERS P730 Seabourn Pursuit 08 May 2027 Lautoka – Darwin 16 SOUTH PACIFIC 16-DAY REMOTE INDONESIA & PAPUA NEW GUINEA 6625 Seabourn Quest 19 Mar 2026 Papeete (Tahiti) – Long Beach 19 SOUTH PACIFIC 19-DAY POLYNESIA PACIFIC PASSAGE 5625 Seabourn Sojourn 25 Mar 20",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
       "warning": "Check the seller page and solo price before publishing."
@@ -843,6 +1039,20 @@
       "warning": "Check the seller page and solo price before publishing."
     },
     {
+      "source_name": "Deluxe Cruises",
+      "source_id": 22,
+      "seller_url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+      "ship": "Regent Experience All-inclusive",
+      "departure_date": "2028-05-21",
+      "solo_evidence": "Reduced Single Supplement",
+      "evidence": "ay 21 May 2028 11 Honolulu Vancouver Silver Whisper Special Single Fares Single Supplement Specials Reduced Single Supplements (on select sailings) across a stunning array of global destinations. From the sun-drenched Mediterranean to the majestic glaciers of Alaska , luxury is now more accessible than ever for the independent traveller. Why C | Sailing: ay 04 Jan 2028 10 Singapore Singapore Silver Muse 04 Mar 2028 14 Miami Lisbon Silver Nova 06 Mar 2028 10 Puerto Williams Puerto Williams Silver Endeavour 18 Mar 2028 14 Bridgetown Lisbon Silver Spirit 25 Mar 2028 14 Miami Lisbon Silver Dawn 01 Apr 2028 14 Miami Lisbon Silver Ray 21 May 2028 11 Honolulu Vancouver Silver Whisper Special Single Fares Single Supplement Specials Reduced Single Supplements (on select sailings) across a stunning array of global destinations. From the sun-drenched Mediterranean to the majestic glaciers of Alaska",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
       "source_name": "Cruise Specialists",
       "source_id": 15,
       "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
@@ -945,10 +1155,6 @@
   ],
   "blocked_candidate_pages": [],
   "failed_sources": [
-    {
-      "source": "Deluxe Cruises",
-      "reason": "<urlopen error timed out>"
-    },
     {
       "source": "Riviera Travel",
       "reason": "<urlopen error [Errno -5] No address associated with hostname>"
