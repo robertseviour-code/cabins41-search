@@ -3954,10 +3954,11 @@
       "lead_count": 0,
       "candidate_pages": [],
       "candidate_links_found": 0,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Paul Gauguin Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:32:27.779294+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:37:35.527160+00:00"
     },
     "52": {
       "status": "checked",
