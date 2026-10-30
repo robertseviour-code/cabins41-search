@@ -389,26 +389,13 @@
         }
       ],
       "candidate_links_found": 3,
-      "possible_offers": [
-        {
-          "source_name": "Celestyal Cruises",
-          "source_id": 11,
-          "seller_url": "https://celestyal.com/solo-cruises",
-          "evidence": "to a wide range of onboard culinary delights, a full program of entertainment, WiFi, and all port charges and gratuities included as standard. Our ‘Celestyal One' fare and reduced single supplement gives you simple flexibility and out-of-this-world value. It covers dining from a range of eateries, and selected drinks throughout the day. Plus you can add to your experience with a prepaid wallet called ‘CelestyalPay’: use this to treat yourself to tasty extras, from i",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [],
-          "ships_mentioned": [],
-          "solo_evidence": "single supplement",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        }
-      ],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Celestyal Cruises",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:17:39.919621+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:24:45.645563+00:00"
     },
     "12": {
       "status": "checked",
