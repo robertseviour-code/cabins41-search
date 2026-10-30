@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 62,
   "sources_failed": 23,
-  "possible_leads": 170,
+  "possible_leads": 171,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -2660,6 +2660,20 @@
       "durations_mentioned": [],
       "ships_mentioned": [],
       "solo_evidence": "solo travellers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Seereisedienst",
+      "source_id": 60,
+      "seller_url": "https://www.seereisedienst.de/",
+      "evidence": "( Franz. Balkon ab 569 € p.P. ) Seereisedienst Vorteil: PKW-Stellplatz nur 10 €! Seereisedienst Vorteil: Inkl. EXTRA-Rabatt! Bordsprache Deutsch! VERFÜGBARKEIT & PREISE Sparen für Alleinreisende Entdecken Sie ausgewählte Kreuzfahrten, bei denen Alleinreisende von einem besonders niedrigen oder teilweise sogar ganz entfallenden Einzelbelegungszuschlag profitieren. Kreuzfahrten mit geringem Zuschlag Außergewöhnliche Reisen Seltene Routen, ungewöhnliche Reiseziele und ",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "Alleinreisende",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
