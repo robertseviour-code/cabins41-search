@@ -1321,6 +1321,18 @@
       "source_name": "Paramount Cruises",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:31:42.313614+00:00"
+    },
+    "50": {
+      "status": "checked",
+      "url": "https://www.facebook.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Passion for Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:32:04.395248+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
