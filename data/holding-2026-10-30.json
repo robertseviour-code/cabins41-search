@@ -252,7 +252,7 @@
           "ship": "Costa Smeralda",
           "departure_date": "2026-11-19",
           "solo_evidence": "Zuschlag nur 0%",
-          "evidence": "onkabine ab 559 € Suite Nicht verfügbar Zum Angebot Inselzauber im Atlantik Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 14. Dez. 2026 – 21. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 469 € Meerblickkabine ab 589 € Balkonkabine ab 739 € Suite N | Sailing: ehen Port Canaveral → Port Canaveral Innenkabine ab 329 € Meerblickkabine Nicht verfügbar Balkonkabine ab 709 € Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckung und Atlantikzauber Inklusive Servicegebühr Zuschlag nur 0% 8 Nächte an Bord der Costa Smeralda 11. Nov. 2026 – 19. Nov. 2026 Kanaren Routenverlauf ansehen Rom / Civitavecchia → Gran Canaria Innenkabine ab 409 € Meerblickkabine ab 489 € Balkonkabine ab 559 € Suite Nicht verfügbar Zum Angebot Inselzauber im Atlantik Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa S",
+          "evidence": "m Angebot Inselträume unter dunklem Sternenhimmel Inklusive Servicegebühr mit Flug buchbar ab 969 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 13. Dez. 2026 – 20. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 469 € Meerblickkabine ab 589 € Balkonkabine ab 739 € Suite N | Sailing: ehen Port Canaveral → Port Canaveral Innenkabine ab 329 € Meerblickkabine Nicht verfügbar Balkonkabine ab 709 € Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckung und Atlantikzauber Inklusive Servicegebühr Zuschlag nur 0% 8 Nächte an Bord der Costa Smeralda 11. Nov. 2026 – 19. Nov. 2026 Kanaren Routenverlauf ansehen Rom / Civitavecchia → Gran Canaria Innenkabine ab 409 € Meerblickkabine ab 489 € Balkonkabine ab 559 € Suite Nicht verfügbar Zum Angebot Inselträume unter dunklem Sternenhimmel Inklusive Servicegebühr mit Flug buchbar ab 969 € Zu",
           "prices_mentioned": [],
           "durations_mentioned": [
             "8 Nächte",
@@ -266,10 +266,26 @@
           "source_name": "Atlantis Reisen and Seereisen",
           "source_id": 6,
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-          "ship": "Norwegian Viva",
-          "departure_date": "2026-11-15",
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-24",
           "solo_evidence": "Zuschlag nur 0%",
-          "evidence": "Suite Nicht verfügbar Zum Angebot Karibische Küstenträume ab Galveston auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Viva Nov. 2026 - Dez. 2026 (5 Termine) Karibik Routenverlauf ansehen Galveston → Galveston Innenkabine ab 499 € Meerblickkabine ab 544 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar | Sailing: rcelona Innenkabine ab 489 € Meerblickkabine ab 539 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Angebot Mittelmeerimpressionen: Küstenstädte und Inselträume Inklusive Servicegebühr mit Flug buchbar ab 999 € Zuschlag nur 0% 7 Nächte an Bord der Costa Toscana 08. Nov. 2026 – 15. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 489 € Meerblickkabine ab 539 € Balkonkabine ab 589 € Suite Nicht verfügbar Zum Angebot Karibische Küstenträume ab Galveston auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der No",
+          "evidence": "Zum Angebot Mittelmeerzauber und Küstenschätze Inklusive Servicegebühr mit Flug buchbar ab 1.049 € Zuschlag nur 0% 7 Nächte an Bord der Costa Toscana Dez. 2026 - Feb. 2027 (4 Termine) Mittelmeer Routenverlauf ansehen Rom / Civitavecchia → Rom / Civitavecchia Innenkabine ab 499 € Meerblickkabine ab 639 € Balkonkabine ab 689 € Suite N | Sailing: ona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 539 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise ab Barcelona Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Pacifica 17. Nov. 2026 – 24. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 529 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Angebot Mittelmeerzauber und Küstenschätze Inklusive Servicegebühr mit Flug buchbar ab 1.049 € Zuschlag nur 0% ",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "7 Nächte"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "ship": "Norwegian Viva",
+          "departure_date": "2026-11-02",
+          "solo_evidence": "Zuschlag nur 0%",
+          "evidence": "gebot Mediterrane Entdeckungsreise ab Barcelona Inklusive Servicegebühr mit Flug buchbar ab 1.029 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 02. Nov. 2026 – 09. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 499 € Balkonkabine ab 499 € Suite Nicht verfügbar Zum Ange | Sailing: Mittelmeer Routenverlauf ansehen Rom / Civitavecchia → Rom / Civitavecchia Innenkabine ab 499 € Meerblickkabine ab 639 € Balkonkabine ab 689 € Suite Nicht verfügbar Zum Angebot Karibische Küstenträume ab Galveston auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Viva Nov. 2026 - Dez. 2026 (5 Termine) Karibik Routenverlauf ansehen Galveston → Galveston Innenkabine ab 499 € Meerblickkabine ab 544 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise ab Barcelona Inklusive Servicegebüh",
           "prices_mentioned": [],
           "durations_mentioned": [
             "7 Nächte"
@@ -283,9 +299,9 @@
           "source_id": 6,
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
           "ship": "Norwegian Breakaway",
-          "departure_date": "2026-11-15",
+          "departure_date": "2026-11-09",
           "solo_evidence": "Zuschlag nur 12%",
-          "evidence": "€ Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway Nov. 2026 - Dez. 2026 (2 Termine) Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite | Sailing: Civitavecchia Innenkabine ab 499 € Meerblickkabine ab 549 € Balkonkabine ab 549 € Suite Nicht verfügbar Zum Angebot Mittelmeerzauber und Geschichten der Küsten Inklusive Servicegebühr mit Flug buchbar ab 1.199 € Zuschlag nur 0% 7 Nächte an Bord der Costa Pacifica 08. Nov. 2026 – 15. Nov. 2026 Mittelmeer Routenverlauf ansehen Savona → Savona Innenkabine ab 499 € Meerblickkabine ab 549 € Balkonkabine ab 599 € Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegia",
+          "evidence": "€ Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway Nov. 2026 - Dez. 2026 (2 Termine) Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite | Sailing: alveston Innenkabine ab 499 € Meerblickkabine ab 544 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise ab Barcelona Inklusive Servicegebühr mit Flug buchbar ab 1.029 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 02. Nov. 2026 – 09. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 499 € Balkonkabine ab 499 € Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der No",
           "prices_mentioned": [],
           "durations_mentioned": [
             "7 Nächte",
@@ -314,32 +330,12 @@
         },
         {
           "ship": "Costa Toscana",
-          "departure_date": "2026-11-15",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Toscana",
           "departure_date": "2026-11-08",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-11-02",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
           "ship": "Costa Toscana",
-          "departure_date": "2026-11-09",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Pacifica",
-          "departure_date": "2026-11-17",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Pacifica",
-          "departure_date": "2026-11-10",
+          "departure_date": "2026-11-15",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -350,6 +346,21 @@
         {
           "ship": "Costa Pacifica",
           "departure_date": "2026-11-08",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Pacifica",
+          "departure_date": "2026-11-10",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Pacifica",
+          "departure_date": "2026-11-17",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-11-02",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -372,7 +383,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 19,
-      "checked_at": "2026-10-30T21:58:18.127465+00:00"
+      "checked_at": "2026-10-30T22:35:38.675522+00:00"
     },
     "7": {
       "status": "checked",
