@@ -364,42 +364,133 @@
       "lead_count": 0,
       "candidate_pages": [
         {
-          "url": "https://www.seereisen.de/kreuzfahrt-angebote-seereisen-special",
-          "label": "Deals",
-          "keyword_count": 1,
-          "snippets": [
-            "S Junker Joerg Weihnachtlicher Zauber 7 Nächte 19.12.2026 - 26.12.2026 ab / bis Stralsund Einzelkabinen-Special zu Weihnachten nur 50% Zuschlag! p.P. ab 990 € seereisen.de exklusiv MS Junker Joerg Silvesterkreuzfahrt 7 Nächte 26.12.2026 - 02.01.2027 ab / bis Str"
-          ]
-        },
-        {
           "url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
           "label": "Singles",
           "keyword_count": 15,
           "snippets": [
-            "n Cloudflare Turnstile und unsere Datenschutzerklärung . Home Kreuzfahrt Themen Singles & Alleinreisende Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrte",
-            "utzerklärung . Home Kreuzfahrt Themen Singles & Alleinreisende Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten buchen Solo-Kreuzfahrten buchen Allein z",
-            "rten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten buchen Solo-Kreuzfahrten buchen Allein zu reisen bedeutet maximale Freiheit Sie gestalten jeden Moment genau na",
-            "en. Alleine reisen, gemeinsam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transpar",
-            "insam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transparent: Welche Kabinen verfü",
-            "ng Wir machen für Sie transparent: Welche Kabinen verfügbar sind - speziell für Singles & Alleinreisende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen S",
-            "isende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen Sie auf einen Blick, welche Angebote wirklich attraktiv sind, ohne versteckte Kosten oder aufwendi",
-            "ruises TUI Cruises VIVA Cruises Royal Caribbean Internat… Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Egal max. 50% max. 40% max. 30% max. 20% max. 10% 0% Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Re"
+            "n Cloudflare Turnstile und unsere Datenschutzerklärung . Home Kreuzfahrt Themen Singles & Alleinreisende Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten",
+            "utzerklärung . Home Kreuzfahrt Themen Singles & Alleinreisende Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten buchen Solo-Kreuzfahrten buchen Allein zu",
+            "rten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten buchen Solo-Kreuzfahrten buchen Allein zu reisen bedeutet maximale Freiheit Sie gestalten jeden Moment genau nac",
+            "en. Alleine reisen, gemeinsam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transpare",
+            "insam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transparent: Welche Kabinen verfüg",
+            "ng Wir machen für Sie transparent: Welche Kabinen verfügbar sind - speziell für Singles & Alleinreisende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen Si",
+            "isende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen Sie auf einen Blick, welche Angebote wirklich attraktiv sind, ohne versteckte Kosten oder aufwendige Recher",
+            "ruises TUI Cruises VIVA Cruises Royal Caribbean Internat… Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Egal max. 50% max. 40% max. 30% max. 20% max. 10% 0% Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Reisethemen"
           ]
         },
         {
-          "url": "https://www.seereisen.de/aida-winter-2028-29",
-          "label": "AIDA Winter 2028/29 Sonne, exotische Ziele und große Abenteuer warten auf Sie. \r\nSichern Sie sich jetzt die ersten Routen! Alle Angebote",
-          "keyword_count": 1,
+          "url": "https://www.seereisen.de/kreuzfahrt-themen",
+          "label": "Themen",
+          "keyword_count": 2,
           "snippets": [
-            "lusskreuzfahr… Sea Cloud Cruises TUI Cruises VIVA Cruises Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Reisethemen Inklusivleistungen Preis pro Person Bordspr"
+            "nell buchen und die besten Angebote zuerst sichern! Alle Deals Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse! Volle Transparenz bei Einzelkabinen: Verfügbarkeiten, Preise & Zuschläge ab 10 %. Alle Angebote Transreisen Wenn der Weg das Ziel",
+            "zfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse! Volle Transparenz bei Einzelkabinen: Verfügbarkeiten, Preise & Zuschläge ab 10 %. Alle Angebote Transreisen Wenn der Weg das Ziel ist! Transreisen sind eine ganz besondere Art der Kreuzfahrt – en"
+          ]
+        },
+        {
+          "url": "https://www.seereisen.de/kreuzfahrt-themen/last-minute-kreuzfahrten",
+          "label": "Last Minute Kreuzfahrten",
+          "keyword_count": 2,
+          "snippets": [
+            "bean Internat… Sea Cloud Cruises TUI Cruises VIVA Cruises Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Reisethemen Inklusivleistungen Preis pro Person Bordsprache Lädt",
+            "ote. Nutzen Sie Preisalarme: Viele Angebote sind nur kurzfristig verfügbar. Vermeiden Sie Einzelkabinen: Diese sind meist deutlich teurer als Doppelkabinen. Beliebte Reiseziele für Last Minute Kreuzfahrten Last Minute Kreuzfahrten im Mittelmeer sind i deal für So"
           ]
         }
       ],
-      "candidate_links_found": 8,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "candidate_links_found": 78,
+      "possible_offers": [
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "evidence": "l bis 5 Nächte bis 6 Nächte ab 6 Nächte ab 7 Nächte 6 - 9 Nächte 9 - 14 Nächte 10 - 15 Nächte bis 14 Nächte mehr als 15 Nächte 1 Erwachsener 2 Erwachsene 3 Erwachsene 4 Erwachsene Einzelkabinenzuschlag Egal Einzelkabinenzuschlag max. 50% Einzelkabinenzuschlag max. 40% Einzelkabinenzuschlag max. 30% Einzelkabinenzuschlag max. 20% Einzelkabinenzuschlag max. 10% Einzelkabinenzuschlag 0% Eigenanreise mit Flug Kabinen 4 Wir haben 710 perfekte Kreuzfahrten für Sie gefunde",
+          "prices_mentioned": [],
+          "dates_mentioned": [],
+          "durations_mentioned": [
+            "5 Nächte",
+            "6 Nächte",
+            "7 Nächte"
+          ],
+          "ships_mentioned": [],
+          "solo_evidence": "Einzelkabinenzuschlag",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        },
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "evidence": "nzelkabinenzuschlag Egal Einzelkabinenzuschlag max. 50% Einzelkabinenzuschlag max. 40% Einzelkabinenzuschlag max. 30% Einzelkabinenzuschlag max. 20% Einzelkabinenzuschlag max. 10% Einzelkabinenzuschlag 0% Eigenanreise mit Flug Kabinen 4 Wir haben 710 perfekte Kreuzfahrten für Sie gefunden: Wir suchen die passenden Reisen für Sie... Karibische Abenteuerwelten auf Wunsch mit Flug buchbar Zuschlag nur 16% 7 Nächte an Bord der Norwegian Getaway 16. Nov. 2026 – 23. Nov. ",
+          "prices_mentioned": [],
+          "dates_mentioned": [
+            "16. Nov. 2026",
+            "23. Nov. 2026"
+          ],
+          "durations_mentioned": [
+            "7 Nächte"
+          ],
+          "ships_mentioned": [
+            "Norwegian Getaway"
+          ],
+          "solo_evidence": "Einzelkabinenzuschlag",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        },
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen",
+          "evidence": "Lieblinge der Woche Starke Preise, traumhafte Routen und echtes Fernweh-Feeling. Jetzt schnell buchen und die besten Angebote zuerst sichern! Alle Deals Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse! Volle Transparenz bei Einzelkabinen: Verfügbarkeiten, Preise & Zuschläge ab 10 %. Alle Angebote Transreisen Wenn der Weg das Ziel ist! Transreisen sind eine ganz besondere Art der Kreuzfahrt – entschleunigt, intensiv und voller Weitblick. Alle A",
+          "prices_mentioned": [],
+          "dates_mentioned": [],
+          "durations_mentioned": [],
+          "ships_mentioned": [],
+          "solo_evidence": "Alleinreisende",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        },
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen",
+          "evidence": "nweh-Feeling. Jetzt schnell buchen und die besten Angebote zuerst sichern! Alle Deals Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse! Volle Transparenz bei Einzelkabinen: Verfügbarkeiten, Preise & Zuschläge ab 10 %. Alle Angebote Transreisen Wenn der Weg das Ziel ist! Transreisen sind eine ganz besondere Art der Kreuzfahrt – entschleunigt, intensiv und voller Weitblick. Alle Angebote AIDA Kreuzfahrt trifft Hotel AIDA Cruises Eine Kombination ",
+          "prices_mentioned": [],
+          "dates_mentioned": [],
+          "durations_mentioned": [],
+          "ships_mentioned": [
+            "AIDA Kreuzfahrt",
+            "AIDA Cruises"
+          ],
+          "solo_evidence": "Einzelkabinen",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        },
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/last-minute-kreuzfahrten",
+          "evidence": "ise Line Phoenix Flusskreuzfahrten Phoenix Seereisen Plantours Flusskreuzfahr… Royal Caribbean Internat… Sea Cloud Cruises TUI Cruises VIVA Cruises Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Reisethemen Inklusivleistungen Preis pro Person Bordsprache Lädt... Filter zurücksetzen 648 Ergebnisse entdecken Preis Hochsee Fluss Nur bei uns Reedereien 7 01.11.2026 - 01",
+          "prices_mentioned": [],
+          "dates_mentioned": [
+            "01.11.2026",
+            "01.02.2027"
+          ],
+          "durations_mentioned": [],
+          "ships_mentioned": [],
+          "solo_evidence": "Einzelkabinenzuschlag",
+          "classification": "possible_solo_offer",
+          "review_status": "needs_manual_check",
+          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+        }
+      ],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Atlantis Reisen and Seereisen",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:14:43.187932+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:15:35.041649+00:00"
     },
     "7": {
       "status": "checked",
