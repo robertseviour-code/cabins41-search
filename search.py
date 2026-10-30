@@ -298,6 +298,9 @@ def save_review(ledger, date, dedupe_info):
     leads, seen, duplicate_map = [], set(), {}
     for result in ledger['results'].values():
         for lead in result.get('possible_offers', []):
+            # Ignore legacy keyword-only leads from earlier checker versions.
+            if not lead.get('ship') or not lead.get('departure_date'):
+                continue
             key = (normalize_ship(lead['ship']), lead['departure_date'])
             if key not in seen:
                 seen.add(key)
