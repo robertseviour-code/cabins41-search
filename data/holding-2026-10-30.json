@@ -1741,6 +1741,16 @@
       "source_name": "Viajes El Corte Ingles",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:39:37.505756+00:00"
+    },
+    "65": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Virgin Voyages",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:39:59.110232+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
