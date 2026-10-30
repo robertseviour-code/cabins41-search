@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 63,
   "sources_failed": 22,
-  "possible_leads": 38,
+  "possible_leads": 39,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -627,6 +627,22 @@
       ],
       "ships_mentioned": [],
       "solo_evidence": "Solo Cruise",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "CruiseBooking",
+      "source_id": 18,
+      "seller_url": "https://www.cruisebooking.com/",
+      "evidence": "ncisco Seattle All Cruise Ports of Call CRUISE VACATION BOOKING ON CRUISEBOOKING.COM CruiseBooking.com offers cruise vacation options to suit everyone’s lifestyle and budget. From single travelers to larger families, from luxury to budget-friendly, from shorter cruises to a world cruise. Whether it’s a family getaway, a honeymoon, a river cruise, or a luxury vacation, you can compare cruises from over 20 cruise lines. Book cheap and last-minute MSC Cruises, Carnival",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [
+        "MSC Cruises"
+      ],
+      "solo_evidence": "single travelers",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
