@@ -3426,8 +3426,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Royal Caribbean",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:49:30.292794+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:40:52.931884+00:00"
     },
     "58": {
       "status": "checked",
