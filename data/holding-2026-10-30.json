@@ -2787,8 +2787,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruising for One",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:48:28.283093+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T16:30:56.670718+00:00"
     },
     "74": {
       "status": "checked",
