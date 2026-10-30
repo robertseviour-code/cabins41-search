@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "sources_attempted": 85,
   "sources_checked": 63,
-  "sources_blocked": 9,
-  "sources_failed": 13,
+  "sources_blocked": 10,
+  "sources_failed": 12,
   "qualified_candidates": 0,
   "duplicate_sailings_excluded": 0,
   "existing_listings_status": {
@@ -51,6 +51,10 @@
     {
       "source": "MSC Cruises",
       "reason": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "source": "Oceania Cruises",
+      "reason": "HTTP Error 403: Forbidden"
     }
   ],
   "blocked_candidate_pages": [],
@@ -58,10 +62,6 @@
     {
       "source": "Deluxe Cruises",
       "reason": "<urlopen error timed out>"
-    },
-    {
-      "source": "Oceania Cruises",
-      "reason": "HTTP Error 403: Forbidden"
     },
     {
       "source": "Riviera Travel",
