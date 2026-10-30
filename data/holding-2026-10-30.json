@@ -1663,6 +1663,16 @@
       "source_name": "Travel Dealz",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:38:29.834709+00:00"
+    },
+    "62": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Uniworld",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:38:51.291738+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
