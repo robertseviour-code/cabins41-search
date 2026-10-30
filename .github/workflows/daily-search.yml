@@ -70,6 +70,7 @@ jobs:
           code=0
           if [ "${{ steps.search.outcome }}" != "success" ]; then code=1; fi
           python report_test.py --since "${{ steps.started.outputs.time }}" --search-exit "$code" --output data/latest-test-report.md
+          python compare_tests.py
           cat data/latest-test-report.md >> "$GITHUB_STEP_SUMMARY"
           save_results() {
             git commit -m "$1" || return 1
@@ -90,7 +91,7 @@ jobs:
           }
           git config user.name 'Cabins41 Search Bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add data/latest-test-report.md
+          git add data/latest-test-report.md data/test-history/
           if ! git diff --cached --quiet; then
             save_results "Save test report for run $GITHUB_RUN_ID" || exit 1
           fi
