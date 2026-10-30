@@ -1,0 +1,81 @@
+name: Cabins41 browser search trial
+on:
+  push:
+    branches: [codex/strict-solo-sailing-dedupe]
+    paths: ['.github/workflows/browser-search-trial.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  browser-trial:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser
+        run: |
+          python -m pip install playwright==1.56.0
+          python -m playwright install --with-deps chromium
+      - name: Search through a normal browser
+        run: |
+          cat > /tmp/cabins41-browser-trial.py <<'PY'
+          import json, pathlib, time, urllib.parse
+          from playwright.sync_api import sync_playwright
+          
+          out = pathlib.Path("browser-test")
+          out.mkdir(exist_ok=True)
+          records = []
+          clues = ["", "solo cruise offers", "no single supplement", "reduced single supplement", "single occupancy cruise deals", "Kreuzfahrten für Alleinreisende", "ohne Einzelkabinenzuschlag"]
+          with sync_playwright() as p:
+              browser = p.chromium.launch(headless=False)
+              context = browser.new_context(locale="en-GB")
+              page = context.new_page()
+              for engine, base in [("Google", "https://www.google.com/search?q="), ("Bing", "https://www.bing.com/search?q=")]:
+                  for index, clue in enumerate(clues):
+                      query = ("AffordableTours " + clue).strip()
+                      item = {"engine": engine, "query": query}
+                      try:
+                          response = page.goto(base + urllib.parse.quote(query), wait_until="domcontentloaded", timeout=45000)
+                          page.wait_for_timeout(2500)
+                          # Accept a visible consent choice if the search engine presents one.
+                          for label in ["Reject all", "Reject All"]:
+                              button = page.get_by_role("button", name=label, exact=True)
+                              if button.count() and button.first.is_visible():
+                                  button.first.click(timeout=5000)
+                                  page.wait_for_timeout(1500)
+                                  break
+                          body = page.locator("body").inner_text(timeout=10000)
+                          item.update(status=response.status if response else None, url=page.url, text=body[:24000])
+                          stem = engine.lower() + "-" + str(index)
+                          (out / (stem + ".txt")).write_text(body, encoding="utf-8")
+                          page.screenshot(path=str(out / (stem + ".png")), full_page=True)
+                          item["links"] = page.locator("a").evaluate_all("""els => els.filter(a => a.querySelector('h3') || a.closest('li.b_algo h2')).map(a => ({title:a.innerText,url:a.href})).slice(0,10)""")
+                          lower = body.lower()
+                          item["blocked"] = (item["status"] in [403, 429] or "/sorry/" in page.url or
+                              any(x in lower for x in ["unusual traffic", "verify you are human", "verify you're human", "solve the challenge", "confirm you are human", "not a robot"]))
+                          item["no_results"] = any(x in lower for x in ["there are no results", "did not match any documents", "no results found"])
+                          print(json.dumps({k:v for k,v in item.items() if k != "text"}, ensure_ascii=False), flush=True)
+                          print(body[:3500], flush=True)
+                      except Exception as error:
+                          item["error"] = str(error)
+                          print(json.dumps(item), flush=True)
+                      records.append(item)
+                      (out / "results.json").write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
+                      if item.get("blocked"):
+                          print(engine + ": access challenge encountered; stopping this engine.", flush=True)
+                          break
+                      if index < len(clues)-1:
+                          time.sleep(20)
+              browser.close()
+          print("Browser test complete. Queries attempted:", len(records), flush=True)
+          PY
+          xvfb-run -a python -u /tmp/cabins41-browser-trial.py
+      - name: Preserve search evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: browser-search-trial-${{ github.run_id }}
+          path: browser-test/
+          if-no-files-found: warn
