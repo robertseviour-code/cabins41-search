@@ -1112,6 +1112,16 @@
       "source_name": "Morr and Meer",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:28:30.302245+00:00"
+    },
+    "42": {
+      "status": "failed",
+      "error": "HTTP Error 401: Unauthorized",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "MSC Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:28:51.831557+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
