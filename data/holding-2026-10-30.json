@@ -2423,8 +2423,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Fjord Line",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:35:23.564218+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:27:29.224555+00:00"
     },
     "28": {
       "status": "checked",
