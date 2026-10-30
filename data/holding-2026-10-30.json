@@ -1155,8 +1155,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Get That Cruise",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:28:41.221937+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T14:14:46.846918+00:00"
     },
     "31": {
       "status": "checked",
