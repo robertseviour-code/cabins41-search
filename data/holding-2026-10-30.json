@@ -510,6 +510,33 @@
       "source_name": "Crystal Cruises",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:20:09.431598+00:00"
+    },
+    "21": {
+      "status": "checked",
+      "url": "https://www.cunard.com/en-us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.cunard.com/en-us/cruise-deals/fall-savings-event",
+          "label": "",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.cunard.com/en-us/cruise-deals/black-friday-sale/black-friday-register",
+          "label": "Plus, extra savings",
+          "keyword_count": 1,
+          "snippets": [
+            "S$50 per person). Offer applies to first and second guests only. Single guests paying the single supplement in a double occupancy stateroom will receive the per stateroom savings amount. Offer available on a space-available basis at time of booking, on select categor"
+          ]
+        }
+      ],
+      "candidate_links_found": 2,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Cunard",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:20:33.601188+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
