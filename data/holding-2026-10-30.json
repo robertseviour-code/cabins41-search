@@ -1987,6 +1987,37 @@
       "source_name": "Cruising for One",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:42:59.244033+00:00"
+    },
+    "74": {
+      "status": "checked",
+      "url": "https://www.digitalroamads.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.digitalroamads.com/black-friday-and-travel-tuesday-deals-are-landing-now/",
+          "label": "Black Friday and Travel Tuesday Deals are Landing Now",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.digitalroamads.com/deals-at-top-resorts/",
+          "label": "Affordable Luxury: Finding Deals at Top Resorts and Hotels",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.digitalroamads.com/cruise-deals/",
+          "label": "Cruise Deals: How We Get the Best Price",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 3,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Digital Roamads",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:43:26.762604+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
