@@ -239,6 +239,18 @@
       "source_name": "Barrhead Travel",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:15:29.673561+00:00"
+    },
+    "9": {
+      "status": "checked",
+      "url": "https://www.bea-kreuzfahrten.de/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "BEA Kreuzfahrten",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:15:51.568135+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
