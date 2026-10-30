@@ -4,10 +4,10 @@
   "sources_checked": 64,
   "sources_blocked": 20,
   "sources_failed": 1,
-  "qualified_candidates": 6,
-  "candidate_sailings": 6,
+  "qualified_candidates": 2,
+  "candidate_sailings": 2,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 20,
+  "duplicate_sailings_excluded": 25,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
@@ -21,64 +21,19 @@
       "source_name": "Cruise118",
       "source_id": 17,
       "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Norwegian Getaway",
-      "departure_date": "2026-11-06",
+      "ship": "Celebrity Apex",
+      "departure_date": "2026-11-07",
       "solo_evidence": "Solo Prices",
-      "evidence": "SE ONLY BOOK ONLINE Holiday ID: 018111 Port Canaveral, Florida Port Canaveral, Florida Puerto Plata Solo Prices From: £479 £479 Caribbean: Great Stirrup Cay & Dominican Republic Port Canaveral | Puerto Plata | Great Stirrup Cay | Port Canaveral 06 Nov 2026 5 Nights Norwegian Getaway Bahamas 06 Nov 2026 5 Nights Norwegian Getaway | Sailing: ew cruise CRUISE ONLY BOOK ONLINE Holiday ID: 018111 Port Canaveral, Florida Port Canaveral, Florida Puerto Plata Solo Prices From: £479 £479 Caribbean: Great Stirrup Cay & Dominican Republic Port Canaveral | Puerto Plata | Great Stirrup Cay | Port Canaveral 06 Nov 2026 5 Nights Norwegian Getaway Bahamas 06 Nov 2026 5 Nights Norwegian Getaway Bahamas Low deposits from £100pp, PLUS up to £250 savings on Balcony and above Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £479 £479 View ",
+      "evidence": "naveral 07 Nov 2026 7 Nights Celebrity Apex Caribbean 07 Nov 2026 7 Nights Celebrity Apex Caribbean Solo Prices From: Was £1917 Now: £1766 £1766 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 018570 Galveston, Texas Galveston, Texas Progreso Solo Prices From: Was £683 Now: £642 £642 | Sailing: 73 £3373 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 049615 Puerto Plata Charlotte Amalie Basseterre, Saint Kitts Solo Prices From: Was £1917 Now: £1766 £1766 7 Night St. Thomas & St. Kitts Cruise Port Canaveral | Puerto Plata | Charlotte Amalie | Basseterre | Port Canaveral 07 Nov 2026 7 Nights Celebrity Apex Caribbean 07 Nov 2026 7 Nights Celebrity Apex Caribbean Solo Prices From: Was £1917 Now: £1766 £1766 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 018570 Galveston, Texas Galveston, Texas Progreso Solo Prices From: Was £683 Now: £642 £642",
       "prices_mentioned": [
-        "£479",
-        "£100",
-        "£250",
-        "£249"
+        "£3373",
+        "£1917",
+        "£1766",
+        "£683"
       ],
       "durations_mentioned": [
-        "5 Nights",
-        "3 Night",
-        "3 Nights"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Carnival Glory",
-      "departure_date": "2026-11-06",
-      "solo_evidence": "Solo Prices",
-      "evidence": "Nights Carnival Glory Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £454 Now: £427 £427 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 066741 Georgetown, Grand Cayman Oranjestad Colón Solo Prices From: Was £1080 Now: £1016 £1016 Panama Canal: Bahamas & Costa Rica Miami | Grea | Sailing: From: Was £8346 Now: £7691 £7691 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 039540 Port Canaveral, Florida Port Canaveral, Florida Celebration Key Solo Prices From: Was £454 Now: £427 £427 3-Day Bahamas Port Canaveral | Celebration Key | Port Canaveral 06 Nov 2026 3 Nights Carnival Glory Bahamas 06 Nov 2026 3 Nights Carnival Glory Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £454 Now: £427 £427 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 066741 Georgetown, Grand Cayman Oranjestad Colón Solo",
-      "prices_mentioned": [
-        "£8346",
-        "£7691",
-        "£454",
-        "£427"
-      ],
-      "durations_mentioned": [
-        "3 Nights",
-        "12 Nights",
-        "06 Nights"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Norwegian Sun",
-      "departure_date": "2026-11-06",
-      "solo_evidence": "Solo Prices",
-      "evidence": "pgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: Was £1080 Now: £1016 £1016 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 018111 Port Canaveral, Florida Port Canaveral, Florida Puerto Plata Solo Prices From: £479 £479 Caribbean: Great Stirrup Cay & Dominican R | Sailing: day ID: 066741 Georgetown, Grand Cayman Oranjestad Colón Solo Prices From: Was £1080 Now: £1016 £1016 Panama Canal: Bahamas & Costa Rica Miami | Great Stirrup Cay | Cabo Rojo | Willemstad | Oranjestad | Colón | Gatun Lake | Puerto Limón | Georgetown | Miami 06 Nov 2026 12 Nights Norwegian Sun Bahamas 06 Nov 2026 12 Nights Norwegian Sun Bahamas Low deposits from £100pp, PLUS up to £250 savings on Balcony and above Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: Was £1080 Now: £1016 ",
-      "prices_mentioned": [
-        "£1080",
-        "£1016",
-        "£100",
-        "£250"
-      ],
-      "durations_mentioned": [
-        "12 Nights"
+        "7 Night",
+        "7 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
@@ -96,51 +51,6 @@
       "durations_mentioned": [
         "8 Nächte",
         "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Celebrity Infinity",
-      "departure_date": "2027-03-03",
-      "solo_evidence": "Solo Prices",
-      "evidence": "SE ONLY BOOK ONLINE Holiday ID: 063706 TOP DEAL Funchal, Madeira Tangier Las Palmas de Gran Canaria Solo Prices From: Was £3854 Now: £3551 £3551 12 Night Madeira, Canaries & Morocco Barcelona | Lanzarote | Tenerife | Las Palmas de Gran Canaria | Funchal | Tangier | Barcelona 03 Mar 2027 12 Nights Celebrity Infinity Mediterranean | Sailing: CRUISE ONLY BOOK ONLINE Holiday ID: 063706 TOP DEAL Funchal, Madeira Tangier Las Palmas de Gran Canaria Solo Prices From: Was £3854 Now: £3551 £3551 12 Night Madeira, Canaries & Morocco Barcelona | Lanzarote | Tenerife | Las Palmas de Gran Canaria | Funchal | Tangier | Barcelona 03 Mar 2027 12 Nights Celebrity Infinity Mediterranean 03 Mar 2027 12 Nights Celebrity Infinity Mediterranean Weekend Sale! Up to £750 savings per stateroom! Combinable with up to 35% off 1st & 2nd guests, £200 Europe flight savings & 3rd and 4th guests from £149pp! Solo Prices",
-      "prices_mentioned": [
-        "£3854",
-        "£3551",
-        "£750",
-        "£200"
-      ],
-      "durations_mentioned": [
-        "12 Night",
-        "12 Nights",
-        "10 Night"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Celebrity Equinox",
-      "departure_date": "2027-05-29",
-      "solo_evidence": "Solo Prices",
-      "evidence": "51 £3551 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 017403 TOP DEAL Katakolon Kusadasi Mykonos Solo Prices From: Was £8346 Now: £7691 £7691 10 Night Greek Isles & Malta Cruise Barcelona | Valletta | Piraeus | Santorini | Kusadasi | Mykonos | Katakolon | Civitavecchia 29 May 2027 10 Nights Celebrity Equinox Mediterranean 29 M | Sailing: ow: £3551 £3551 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 017403 TOP DEAL Katakolon Kusadasi Mykonos Solo Prices From: Was £8346 Now: £7691 £7691 10 Night Greek Isles & Malta Cruise Barcelona | Valletta | Piraeus | Santorini | Kusadasi | Mykonos | Katakolon | Civitavecchia 29 May 2027 10 Nights Celebrity Equinox Mediterranean 29 May 2027 10 Nights Celebrity Equinox Mediterranean Weekend Sale! Up to £750 savings per stateroom! Combinable with up to 35% off 1st & 2nd guests, £200 Europe flight savings & 3rd and 4th guests from £149pp! Solo Prices ",
-      "prices_mentioned": [
-        "£3551",
-        "£8346",
-        "£7691",
-        "£750"
-      ],
-      "durations_mentioned": [
-        "10 Night",
-        "10 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
