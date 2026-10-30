@@ -19,7 +19,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = pathlib.Path(__file__).parent
 SOURCES = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
-VERSION = 17
+VERSION = 18
 SOLO = re.compile(r'\b(?:solo\s+(?:cruis\w*|travel\w*|sail\w*|fare\w*|offer\w*|deal\w*|discount\w*|cabin\w*|price\w*|rate\w*)|single\s+(?:supplement|cabins?|occupancy|travell?ers?|cruis\w*)|singles?\s+cruis\w*|alleinreisend\w*|einzelkabine\w*|einzelzuschlag\w*|singlezuschlag\w*|suplemento\s+individual|cruceros?\s+para\s+(?:una|uno|solos?))\b', re.I)
 CLEAR_SOLO_OFFER = re.compile(r'\b(?:zuschlag\s+nur\s+\d{1,3}\s*%|solo\s+(?:(?:cruise\s+)?(?:offer|deal|discount|fare|price|rate)s?|cruis\w*\s+(?:offer|deal|discount|fare|price|rate)s?)|(?:offer|deal|discount|fare|price|rate)s?\s+for\s+(?:solo|single)\s+(?:cruis\w*|travell?ers?|occupan\w*)|(?:no|without|waived|free|reduced)\s+single\s+supplement|single\s+supplement\s+(?:waived|free|reduced|from|of|\d{1,3}\s*%)|single\s+supplement.{0,35}(?:\d{1,3}\s*%|[£€$]\s*\d)|alleinreisenden[- ]angebot|einzelkabinenzuschlag.{0,35}\d|einzelzuschlag.{0,35}\d|singlezuschlag.{0,35}\d|suplemento\s+individual.{0,35}\d|oferta\s+para\s+(?:viajeros?\s+)?solos?)', re.I)
 OFFER = re.compile(r'\b(?:from|starting\s+at|only|per\s+person|pp|p\s*/\s*p|ab|desde|solo\s+fare|single\s+fare|no\s+single\s+supplement|waived\s+single\s+supplement|ohne\s+einzelzuschlag|kein\s+einzelzuschlag|single\s+supplement\s+(?:waived|free|reduced))\b', re.I)
@@ -183,7 +183,10 @@ def extract_leads(text, url, source, existing, dedupe_ready):
     if not solo_matches or not sailings:
         return [], []
     leads, duplicates = [], []
+    today = datetime.datetime.now(ZoneInfo('Europe/London')).date()
     for sailing in sailings:
+        if datetime.date.fromisoformat(sailing['departure_date']) <= today:
+            continue
         ship_at = sailing['ship_start']
         date_at = sailing['date_start']
         sailing_at = (ship_at + date_at) // 2
@@ -301,9 +304,13 @@ def check(source, existing, dedupe_ready):
                     blocked_pages.append({'source_name': source['name'], 'url': candidate['url'],
                                           'reason': str(error)[:200]})
                 pages.append(page_error)
+        unique_offers = {}
+        for offer in offers:
+            key = (normalize_ship(offer['ship']), offer['departure_date'])
+            unique_offers.setdefault(key, offer)
         return {'status': 'checked', 'url': home, 'lead_snippets': snippets,
                 'lead_count': count, 'candidate_pages': pages,
-                'candidate_links_found': len(candidates), 'possible_offers': offers,
+                'candidate_links_found': len(candidates), 'possible_offers': list(unique_offers.values()),
                 'duplicates_excluded': duplicates, 'blocked_candidate_pages': blocked_pages,
                 'note': 'Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.'}
     except Exception as error:
