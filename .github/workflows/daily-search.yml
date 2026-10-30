@@ -4,6 +4,7 @@ on:
     branches: [codex/strict-solo-sailing-dedupe]
     paths:
       - '.github/workflows/daily-search.yml'
+      - 'search.py'
   workflow_dispatch:
   schedule:
     - cron: '30 1 * * *'
