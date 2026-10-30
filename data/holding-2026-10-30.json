@@ -4130,8 +4130,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Solo Cruise Deals: NCL, Royal Caribbean, Carnival, MSC and more",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:59:52.814689+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:51:25.014253+00:00"
     },
     "82": {
       "status": "checked",
