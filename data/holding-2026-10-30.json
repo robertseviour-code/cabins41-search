@@ -1489,30 +1489,13 @@
           "source_name": "Iglu Cruise",
           "source_id": 35,
           "seller_url": "https://www.iglucruise.com:443/cruise-deals",
-          "ship": "Celebrity Equinox",
-          "departure_date": "2027-02-20",
-          "solo_evidence": "Solo cruises deals",
-          "evidence": "cruises Adult only cruises Cheap cruises Last minute cruise deals Repositioning cruises Singles and Solo cruises deals Cruise and Tour Luxury cruises No fly cruises Mini cruises Fly cruises Family cruises Cruise and Stay Christmas cruises All inclusive cruises Grand Prix / F1 cruises Top 10 cruise deals New Year cruise Offers Low Deposi | Sailing: ys 20 Dec 2026 | 17 Nights Norwegian Jade - Norwegian Cruise Line Inside cabin from £2,979 pp Eastern Caribbean from Barbados 30 Jan 2027 | 15 Nights Arvia - P&O Cruises Inside cabin from £1,169 pp Rio de Janeiro, Iguazu Falls & Patagonia & Argentina from Buenos Aires with Stays 20 Feb 2027 | 22 Nights Celebrity Equinox - Celebrity Cruises Balcony cabin from £5,799 pp Auckland Stay, Fjords of New Zealand & Australia's Wine Route 05 Feb 2028 | 25 Nights Celebrity Edge - Celebrity Cruises Interior Stateroom cabin from £4,799 pp View all deals Cru",
-          "prices_mentioned": [],
-          "durations_mentioned": [
-            "17 Nights",
-            "15 Nights",
-            "22 Nights"
-          ],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
-        },
-        {
-          "source_name": "Iglu Cruise",
-          "source_id": 35,
-          "seller_url": "https://www.iglucruise.com:443/cruise-deals",
           "ship": "Celebrity Edge",
           "departure_date": "2028-02-05",
-          "solo_evidence": "Solo cruises deals",
-          "evidence": "cruises Adult only cruises Cheap cruises Last minute cruise deals Repositioning cruises Singles and Solo cruises deals Cruise and Tour Luxury cruises No fly cruises Mini cruises Fly cruises Family cruises Cruise and Stay Christmas cruises All inclusive cruises Grand Prix / F1 cruises Top 10 cruise deals New Year cruise Offers Low Deposi | Sailing: ia - P&O Cruises Inside cabin from £1,169 pp Rio de Janeiro, Iguazu Falls & Patagonia & Argentina from Buenos Aires with Stays 20 Feb 2027 | 22 Nights Celebrity Equinox - Celebrity Cruises Balcony cabin from £5,799 pp Auckland Stay, Fjords of New Zealand & Australia's Wine Route 05 Feb 2028 | 25 Nights Celebrity Edge - Celebrity Cruises Interior Stateroom cabin from £4,799 pp View all deals Cruise Types Cheap cruises Last minute cruises All inclusive cruises Adult only cruises Family friendly cruises Singles cruises Cruise & Stay Luxury cruises",
+          "solo_evidence": "Reduced Single Supplement",
+          "evidence": "sive cruises Grand Prix / F1 cruises Top 10 cruise deals New Year cruise Offers Low Deposit cruises Reduced Single Supplement cruises View more View less Why book with Iglu Sail with confidence We are ABTA and ATOL protected, so your booking is financially secure. Always here to help When the world changes, your trusted experts will help you n | Sailing: 5 Nights Arvia - P&O Cruises Inside cabin from £1,169 pp Rio de Janeiro, Iguazu Falls & Antarctica from Buenos Aires with Stays 21 Jan 2029 | 22 Nights Celebrity Equinox - Celebrity Cruises Inside cabin from £5,499 pp Auckland Stay, Fjords of New Zealand & Australia's Wine Route 05 Feb 2028 | 25 Nights Celebrity Edge - Celebrity Cruises Interior Stateroom cabin from £4,799 pp View all deals Cruise Types Cheap cruises Last minute cruises All inclusive cruises Adult only cruises Family friendly cruises Singles cruises Cruise & Stay Luxury ",
           "prices_mentioned": [],
           "durations_mentioned": [
+            "5 Nights",
             "22 Nights",
             "25 Nights"
           ],
@@ -1525,8 +1508,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Iglu Cruise",
-      "checker_version": 12,
-      "checked_at": "2026-10-30T09:10:19.510237+00:00"
+      "checker_version": 13,
+      "checked_at": "2026-10-30T09:13:02.041511+00:00"
     },
     "36": {
       "status": "checked",
