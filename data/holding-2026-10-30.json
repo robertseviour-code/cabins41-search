@@ -2232,8 +2232,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Norwegian Cruise Line",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:41:47.224402+00:00"
+      "checker_version": 9,
+      "checked_at": "2026-10-30T09:01:15.838499+00:00"
     },
     "44": {
       "status": "checked",
