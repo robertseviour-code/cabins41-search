@@ -1282,15 +1282,17 @@
       "checked_at": "2026-10-30T07:39:33.418441+00:00"
     },
     "38": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Limitless Travel",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:32:34.444759+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:39:55.455700+00:00"
     },
     "39": {
       "status": "failed",
