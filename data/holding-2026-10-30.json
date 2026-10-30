@@ -1551,13 +1551,194 @@
         }
       ],
       "candidate_links_found": 1,
-      "possible_offers": [],
+      "possible_offers": [
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Celebrity Edge Solo",
+          "departure_date": "2028-04-05",
+          "solo_evidence": "offers for solo travelers",
+          "evidence": "you find the perfect fit. Take a look at some of the upcoming cruises that offer special pricing or offers for solo travelers, and read on for tips on planning, and saving money, on a solo cruise. Solo Travelers Offers Note: chart scrolls horizontally NIGHTS DATES DESTINATION CRUISE LINE & SHIP SUPPLEMENT 7 to 18 Nights 5/17/2027 to 5/4/2028 M | Sailing: S Fridtjof Nansen | MS Roald Amundsen Waived More 7 to 15 Nights 12/18/2026 to 12/28/2027 Holiday Celebrity Cruises Multiple Solo Staterooms More 7 to 15 Nights 12/4/2026 to 3/12/2028 Winter Warm Weather Celebrity Cruises Multiple Solo Staterooms More 8 to 11-Nights 4/23/2027 to 5/4/2028 Hawaii Celebrity Cruises Celebrity Solstice | Celebrity Edge Solo Staterooms More 9 to 14 Nights 2/26/2027 to 11/22/2027 Multiple Crystal Crystal Serenity | Crystal Symphony From Waived More 4 to 7 Days 12/17/2026 to 12/23/2027 European Christmas Markets",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "15 Nights",
+            "14 Nights",
+            "7 Days"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Explora Journeys Explora",
+          "departure_date": "2028-02-10",
+          "solo_evidence": "offers for solo travelers",
+          "evidence": "you find the perfect fit. Take a look at some of the upcoming cruises that offer special pricing or offers for solo travelers, and read on for tips on planning, and saving money, on a solo cruise. Solo Travelers Offers Note: chart scrolls horizontally NIGHTS DATES DESTINATION CRUISE LINE & SHIP SUPPLEMENT 7 to 18 Nights 5/17/2027 to 5/4/2028 M | Sailing: stal Serenity | Crystal Symphony From Waived More 4 to 7 Days 12/17/2026 to 12/23/2027 European Christmas Markets Riviera River Cruises Multiple Waived More 5 to 8 Days 12/16/2026 to 11/5/2028 European Rivers Riviera River Cruises Multiple Waived More 7 to 16 Nights 1/11/2027 to 10/2/2028 Multiple Destinations Explora Journeys Explora I | Explora II Waived More 8 to 19 Days 1/23/2027 to 3/7/2029 Multiple HX Multiple Waived More 7 to 14 Nights 5/7/2027 to 9/1/2028 Norway Celebrity Cruises Celebrity Apex | Celebrity Eclipse | Celebrity Bey",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "7 Days",
+            "8 Days",
+            "16 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Explora II Waived",
+          "departure_date": "2029-07-03",
+          "solo_evidence": "offers for solo travelers",
+          "evidence": "you find the perfect fit. Take a look at some of the upcoming cruises that offer special pricing or offers for solo travelers, and read on for tips on planning, and saving money, on a solo cruise. Solo Travelers Offers Note: chart scrolls horizontally NIGHTS DATES DESTINATION CRUISE LINE & SHIP SUPPLEMENT 7 to 18 Nights 5/17/2027 to 5/4/2028 M | Sailing: 12/17/2026 to 12/23/2027 European Christmas Markets Riviera River Cruises Multiple Waived More 5 to 8 Days 12/16/2026 to 11/5/2028 European Rivers Riviera River Cruises Multiple Waived More 7 to 16 Nights 1/11/2027 to 10/2/2028 Multiple Destinations Explora Journeys Explora I | Explora II Waived More 8 to 19 Days 1/23/2027 to 3/7/2029 Multiple HX Multiple Waived More 7 to 14 Nights 5/7/2027 to 9/1/2028 Norway Celebrity Cruises Celebrity Apex | Celebrity Eclipse | Celebrity Beyond Solo Staterooms More 8 Days 1/9/2027 to 3/17/2029 Norway H",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "8 Days",
+            "16 Nights",
+            "19 Days"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Celebrity Eclipse",
+          "departure_date": "2028-01-09",
+          "solo_evidence": "offers for solo travelers",
+          "evidence": "you find the perfect fit. Take a look at some of the upcoming cruises that offer special pricing or offers for solo travelers, and read on for tips on planning, and saving money, on a solo cruise. Solo Travelers Offers Note: chart scrolls horizontally NIGHTS DATES DESTINATION CRUISE LINE & SHIP SUPPLEMENT 7 to 18 Nights 5/17/2027 to 5/4/2028 M | Sailing: to 11/5/2028 European Rivers Riviera River Cruises Multiple Waived More 7 to 16 Nights 1/11/2027 to 10/2/2028 Multiple Destinations Explora Journeys Explora I | Explora II Waived More 8 to 19 Days 1/23/2027 to 3/7/2029 Multiple HX Multiple Waived More 7 to 14 Nights 5/7/2027 to 9/1/2028 Norway Celebrity Cruises Celebrity Apex | Celebrity Eclipse | Celebrity Beyond Solo Staterooms More 8 Days 1/9/2027 to 3/17/2029 Norway HX MS Spitsbergen Waived More 7 to 19 Nights 2/9/2027 to 3/15/2029 Solo Feature Regent Seven Seas Cruises Multiple 0-15",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "16 Nights",
+            "19 Days",
+            "14 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Celebrity Beyond Solo",
+          "departure_date": "2027-09-01",
+          "solo_evidence": "offers for solo travelers",
+          "evidence": "you find the perfect fit. Take a look at some of the upcoming cruises that offer special pricing or offers for solo travelers, and read on for tips on planning, and saving money, on a solo cruise. Solo Travelers Offers Note: chart scrolls horizontally NIGHTS DATES DESTINATION CRUISE LINE & SHIP SUPPLEMENT 7 to 18 Nights 5/17/2027 to 5/4/2028 M | Sailing: e 7 to 16 Nights 1/11/2027 to 10/2/2028 Multiple Destinations Explora Journeys Explora I | Explora II Waived More 8 to 19 Days 1/23/2027 to 3/7/2029 Multiple HX Multiple Waived More 7 to 14 Nights 5/7/2027 to 9/1/2028 Norway Celebrity Cruises Celebrity Apex | Celebrity Eclipse | Celebrity Beyond Solo Staterooms More 8 Days 1/9/2027 to 3/17/2029 Norway HX MS Spitsbergen Waived More 7 to 19 Nights 2/9/2027 to 3/15/2029 Solo Feature Regent Seven Seas Cruises Multiple 0-150% More 8 to 12 Nights 4/6/2027 to 10/9/2027 Mediterranean Atlas Ocean",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "16 Nights",
+            "19 Days",
+            "14 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Regent Seven Seas",
+          "departure_date": "2027-09-02",
+          "solo_evidence": "offers for solo travelers",
+          "evidence": "you find the perfect fit. Take a look at some of the upcoming cruises that offer special pricing or offers for solo travelers, and read on for tips on planning, and saving money, on a solo cruise. Solo Travelers Offers Note: chart scrolls horizontally NIGHTS DATES DESTINATION CRUISE LINE & SHIP SUPPLEMENT 7 to 18 Nights 5/17/2027 to 5/4/2028 M | Sailing: 19 Days 1/23/2027 to 3/7/2029 Multiple HX Multiple Waived More 7 to 14 Nights 5/7/2027 to 9/1/2028 Norway Celebrity Cruises Celebrity Apex | Celebrity Eclipse | Celebrity Beyond Solo Staterooms More 8 Days 1/9/2027 to 3/17/2029 Norway HX MS Spitsbergen Waived More 7 to 19 Nights 2/9/2027 to 3/15/2029 Solo Feature Regent Seven Seas Cruises Multiple 0-150% More 8 to 12 Nights 4/6/2027 to 10/9/2027 Mediterranean Atlas Ocean Voyages World Traveller | World Voyager From 150% More 7 to 11 Nights 4/27/2027 to 9/27/2028 Portugal Atlas Ocean Voya",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "19 Days",
+            "14 Nights",
+            "8 Days"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Seabourn Multiple From",
+          "departure_date": "2026-12-12",
+          "solo_evidence": "offers for solo travelers",
+          "evidence": "you find the perfect fit. Take a look at some of the upcoming cruises that offer special pricing or offers for solo travelers, and read on for tips on planning, and saving money, on a solo cruise. Solo Travelers Offers Note: chart scrolls horizontally NIGHTS DATES DESTINATION CRUISE LINE & SHIP SUPPLEMENT 7 to 18 Nights 5/17/2027 to 5/4/2028 M | Sailing: s Multiple 0-150% More 8 to 12 Nights 4/6/2027 to 10/9/2027 Mediterranean Atlas Ocean Voyages World Traveller | World Voyager From 150% More 7 to 11 Nights 4/27/2027 to 9/27/2028 Portugal Atlas Ocean Voyages Multiple From 150% More 12 to 62 Days 12/21/2026 to 10/31/2027 Multiple Seabourn Multiple From 125% More 7 to 12 Days 12/12/2026 to 8/19/2028 Northern Europe Ponant Explorations Multiple Waived More 7 Nights 3/19/2027 to 4/1/2028 European Rivers AmaWaterways Multiple Waived/Reduced More 4 to 7 Nights 12/20/2026 to 4/17/2028 Caribbean",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "12 Nights",
+            "11 Nights",
+            "62 Days"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Virgin Voyages Multiple",
+          "departure_date": "2028-01-04",
+          "solo_evidence": "single supplement for a solo traveler is 125% or 150%",
+          "evidence": "lement.” (Essentially, the solo traveler pays for both spaces in the cabin.) Therefore, a favorable single supplement for a solo traveler is 125% or 150%. Single supplement pricing deals: 200% – standard 175% – good 150% – better 125% – excellent 100% - The best! (sometimes worded as “waived” single supplement) Money-Saving (and Other) Tips for Solo Cruisers Look for a c | Sailing: uth Pacific Paul Gauguin Cruises m/s Paul Gauguin Waived/Reduced More 7 Days 6/19/2027 to 12/2/2028 South Pacific Paul Gauguin Cruises m/s Paul Gaugin Waived/Reduced More 7 Nights 5/27/2027 to 7/27/2028 Iceland Ponant Explorations Multiple Waived More 5 to 8 Nights 12/12/2026 to 4/1/2028 Caribbean Virgin Voyages Multiple Reduced More 7 to 12 Nights 12/20/2026 to 4/1/2028 Caribbean Celebrity Cruises Multiple Solo Staterooms More 10 to 18 Nights 1/16/2027 to 2/27/2029 Antarctica Ponant Explorations Multiple Waiv",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "7 Days",
+            "7 Nights",
+            "8 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Celebrity Beyond Solo",
+          "departure_date": "2027-02-05",
+          "solo_evidence": "single supplement for a solo traveler is 125% or 150%",
+          "evidence": "lement.” (Essentially, the solo traveler pays for both spaces in the cabin.) Therefore, a favorable single supplement for a solo traveler is 125% or 150%. Single supplement pricing deals: 200% – standard 175% – good 150% – better 125% – excellent 100% - The best! (sometimes worded as “waived” single supplement) Money-Saving (and Other) Tips for Solo Cruisers Look for a c | Sailing: 3/13/2027 to 12/21/2028 European Rivers AmaWaterways AmaDante | AmaLyra Waived/Reduced More 7 to 16 Nights 2/19/2027 to 12/23/2028 Mediterranean Celebrity Cruises Multiple Solo Staterooms More 7 to 14 Nights 5/7/2027 to 9/9/2028 Northern Europe Celebrity Cruises Celebrity Apex | Celebrity Beyond Solo Staterooms More 8 to 15 Days 5/2/2027 to 10/13/2027 European River Tauck Multiple Waived More 7 to 17 Days 1/4/2027 to 9/2/2027 Multiple Oceania Cruises Multiple From 150% More 7 to 10 Nights 5/7/2027 to 10/24/202",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "16 Nights",
+            "14 Nights",
+            "15 Days"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise Specialists",
+          "source_id": 15,
+          "seller_url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "ship": "Celebrity Summit Solo",
+          "departure_date": "2027-08-03",
+          "solo_evidence": "single supplement for a solo traveler is 125% or 150%",
+          "evidence": "lement.” (Essentially, the solo traveler pays for both spaces in the cabin.) Therefore, a favorable single supplement for a solo traveler is 125% or 150%. Single supplement pricing deals: 200% – standard 175% – good 150% – better 125% – excellent 100% - The best! (sometimes worded as “waived” single supplement) Money-Saving (and Other) Tips for Solo Cruisers Look for a c | Sailing: era Celebrity Cruises Multiple Solo Staterooms More 8 Days 3/23/2027 to 11/14/2028 Seine River/Normandy Beaches Avalon Waterways Avalon Tapestry II Waived More 10 Days 5/27/2027 to 8/25/2028 Australia Ponant Explorations Le Jacques Cartier l Le Soléal Waived More 11 to 18 Nights 3/8/2027 to 3/27/2028 Panama Canal Celebrity Cruises Celebrity Ascent | Celebrity Summit Solo Staterooms More Why Cruising is Great for Solo Travelers Traveling solo means you have a more flexible schedule/can do what you want, when yo",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "8 Days",
+            "10 Days",
+            "18 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        }
+      ],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise Specialists",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:26:27.627427+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:22:42.496424+00:00"
     },
     "16": {
       "status": "checked",
