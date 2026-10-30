@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "sources_attempted": 85,
   "sources_checked": 63,
-  "sources_blocked": 10,
-  "sources_failed": 12,
+  "sources_blocked": 11,
+  "sources_failed": 11,
   "qualified_candidates": 0,
   "duplicate_sailings_excluded": 0,
   "existing_listings_status": {
@@ -55,6 +55,10 @@
     {
       "source": "Oceania Cruises",
       "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Uniworld",
+      "reason": "HTTP Error 403: Forbidden"
     }
   ],
   "blocked_candidate_pages": [],
@@ -66,10 +70,6 @@
     {
       "source": "Riviera Travel",
       "reason": "<urlopen error [Errno -5] No address associated with hostname>"
-    },
-    {
-      "source": "Uniworld",
-      "reason": "HTTP Error 403: Forbidden"
     },
     {
       "source": "Viajes El Corte Ingles",

@@ -2008,15 +2008,17 @@
       "checked_at": "2026-10-30T07:51:12.285369+00:00"
     },
     "62": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Uniworld",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:43:03.368679+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:51:34.030055+00:00"
     },
     "63": {
       "status": "checked",
