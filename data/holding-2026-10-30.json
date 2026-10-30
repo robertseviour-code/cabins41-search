@@ -3402,9 +3402,10 @@
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
+      "possible_offers": [],
       "source_name": "Marella Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:28:08.730962+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:33:17.806042+00:00"
     },
     "41": {
       "status": "checked",
