@@ -3215,8 +3215,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Passion for Cruises",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:44:36.092256+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:36:27.352225+00:00"
     },
     "51": {
       "status": "checked",
