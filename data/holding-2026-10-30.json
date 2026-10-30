@@ -3412,12 +3412,32 @@
       "url": "https://morr.de",
       "lead_snippets": [],
       "lead_count": 0,
-      "candidate_pages": [],
-      "candidate_links_found": 0,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "candidate_pages": [
+        {
+          "url": "https://morr.de/buchung/",
+          "label": "Kreuzfahrt suchen und buchen   alle Schiffe & Termine, direkt buchbar",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://morr.de/pod/",
+          "label": "Podcast   Alle 14 Tage neue Geschichten aus der Kreuzfahrtwelt.   Reinhören",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://morr.de/was-ist-mmc/",
+          "label": "Morr & Meer Crew   Exklusiv für alle, die ihre Kreuzfahrt über mich buchen.   Mehr erfahren",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 4,
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Morr and Meer",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:28:30.302245+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:33:41.424812+00:00"
     },
     "42": {
       "status": "failed",
