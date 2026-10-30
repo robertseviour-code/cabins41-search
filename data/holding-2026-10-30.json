@@ -617,6 +617,36 @@
       "source_name": "e-hoi",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:21:50.861120+00:00"
+    },
+    "25": {
+      "status": "checked",
+      "url": "https://emerald.cruises/US/en-US",
+      "lead_snippets": [
+        "modern exploration, pairing authentic adventures with inimitable luxury, with options for solo cruises featuring specially designed accommodations and activities for independent travelers. Experience a great tapestry of culture cruising the rivers of Europe an"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [
+        {
+          "url": "https://emerald.cruises/US/en-US/offers/solo-travelers",
+          "label": "Free Solo Supplement",
+          "keyword_count": 13,
+          "snippets": [
+            "ub River Travel Assurance Yacht Travel Assurance Find Our Journeys Search 1(855) 222-3214 Solo Cruises with Emerald: Travel at Your Own Pace Explore stunning destinations at your own pace when traveling solo on our extensive collection of cruises. Previous pag",
+            "r extensive collection of cruises. Previous page Home / offers / solo travellers Discover solo cruising with Emerald Cruises & Tours From the moment you step on board, you have the freedom to do as much or as little as you please, whether you want to tour each",
+            "asiest ways to enjoy a relaxing voyage entirely in your own way. What to expect from your solo cruise Whether you’re discovering the delights of each destination or resting on board one of our award-winning Star-Ships or luxury yachts, you'll revel in the deli",
+            "tour the cities or relax on the beach for as long as you want. Solo Traveler Offers Free single supplement On select river and yacht cruises, receive a free single supplement when you pay in full. Reduced Single Supplement Cruise as a solo traveler with all the spac",
+            "Traveler Offers Free single supplement On select river and yacht cruises, receive a free single supplement when you pay in full. Reduced Single Supplement Cruise as a solo traveler with all the space, luxury, and exploration — without paying double occupancy rates.",
+            "t river and yacht cruises, receive a free single supplement when you pay in full. Reduced Single Supplement Cruise as a solo traveler with all the space, luxury, and exploration — without paying double occupancy rates. Enjoy a select stateroom or suite all to yoursel",
+            "t paying double occupancy rates. Enjoy a select stateroom or suite all to yourself with a single supplement from just 50% on selected sailings. FREE Supplement Itineraries River Cruise Applicable Dates Itinerary Name Tour Code Days From To Departure Dates Rhine Castl",
+            "verse Book now and secure your spot on board Call us at 1(855) 222-3214 for exclusive low solo cruise prices and get ready to enjoy the journey of a lifetime. Terms and conditions Solo Offers: Fares are based on single occupancy in double occupancy cabins, and"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Emerald Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:22:14.020833+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
