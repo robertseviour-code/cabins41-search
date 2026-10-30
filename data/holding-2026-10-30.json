@@ -342,28 +342,13 @@
         }
       ],
       "candidate_links_found": 9,
-      "possible_offers": [
-        {
-          "source_name": "Celebrity Cruises",
-          "source_id": 10,
-          "seller_url": "https://www.celebritycruises.com/things-to-do-onboard/staterooms/single-stateroom",
-          "evidence": "plus the added flexibility of choosing your preferred time of service -all while traveling more responsibly. Available On Beyond Edge Apex Ascent Silhouette The Ultimate Guide to Solo Cruising Learn More *Please see all applicable Terms & Conditions for Promotions here . Cruise Types Top Destinations Featured Ports Plan Your Cruise Customer Support Popular Cruises 2026 Cruises All Inclusive Cruises Last Minute Cruises 3 Day Cruises Holiday Cruises Christmas Cruises ",
-          "prices_mentioned": [],
-          "dates_mentioned": [],
-          "durations_mentioned": [
-            "3 Day"
-          ],
-          "ships_mentioned": [],
-          "solo_evidence": "Solo Cruising",
-          "classification": "possible_solo_offer",
-          "review_status": "needs_manual_check",
-          "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
-        }
-      ],
-      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Celebrity Cruises",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:17:17.888024+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:24:22.412137+00:00"
     },
     "11": {
       "status": "checked",
