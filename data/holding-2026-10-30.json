@@ -1423,6 +1423,16 @@
       "source_name": "Princess Cruises",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:33:38.991001+00:00"
+    },
+    "55": {
+      "status": "failed",
+      "error": "<urlopen error [Errno -5] No address associated with hostname>",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Riviera Travel",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:35:00.339894+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
