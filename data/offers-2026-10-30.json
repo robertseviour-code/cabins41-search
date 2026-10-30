@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 63,
   "sources_failed": 22,
-  "possible_leads": 39,
+  "possible_leads": 40,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -643,6 +643,20 @@
         "MSC Cruises"
       ],
       "solo_evidence": "single travelers",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Cunard",
+      "source_id": 21,
+      "seller_url": "https://www.cunard.com/en-us/cruise-deals/black-friday-sale/black-friday-register",
+      "evidence": "s. Bookings in Britannia Club Balcony and below receive savings of US$100 per stateroom (US$50 per person). Offer applies to first and second guests only. Single guests paying the single supplement in a double occupancy stateroom will receive the per stateroom savings amount. Offer available on a space-available basis at time of booking, on select categories and sailings. Offer is available to residents of the 50 United States/District of Columbia, Canada, Bermuda, ",
+      "prices_mentioned": [],
+      "dates_mentioned": [],
+      "durations_mentioned": [],
+      "ships_mentioned": [],
+      "solo_evidence": "single supplement",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
