@@ -400,6 +400,18 @@
       "source_name": "Cruise Specialists",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:18:14.290055+00:00"
+    },
+    "16": {
+      "status": "checked",
+      "url": "https://www.cruisetravel.nl/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Cruise Travel Netherlands",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:18:37.434632+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
