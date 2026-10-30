@@ -3,7 +3,7 @@
   "sources_attempted": 85,
   "sources_checked": 62,
   "sources_failed": 23,
-  "possible_leads": 151,
+  "possible_leads": 153,
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
@@ -2347,6 +2347,51 @@
       ],
       "ships_mentioned": [],
       "solo_evidence": "Solo Traveller",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Princess Cruises",
+      "source_id": 54,
+      "seller_url": "https://www.princess.com/cruise-deals-promotions/limited-time-offer",
+      "evidence": "2-5 days 6-8 days 9-12 days 13-17 days 18+ days Inside & Oceanview $50 $100 $150 $200 $300 Balcony $50 $150 $200 $350 $600 Minis & Full Suites $50 $200 $350 $450 $800 *Guests with single occupancy will receive single, per guest instant savings amount ($25–$400). View Cruises Score up to $450 instant savings on your next adventure -- / -- Caribbean cruises View cruises Alaska cruises View cruises Europe cruises View cruises Other destinations -- / -- Mexico LIMITED T",
+      "prices_mentioned": [
+        "$50",
+        "$100",
+        "$150",
+        "$200"
+      ],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "5 days",
+        "8 days",
+        "12 days"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "single occupancy",
+      "classification": "possible_solo_offer",
+      "review_status": "needs_manual_check",
+      "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
+    },
+    {
+      "source_name": "Princess Cruises",
+      "source_id": 54,
+      "seller_url": "https://www.princess.com/cruise-deals-promotions/limited-time-offer",
+      "evidence": "age in a Mini-Suite or Full Suite. The amount of instant savings varies by cruise length and stateroom type and is only awarded to the first two guests in a stateroom. Guests with single occupancy will receive single, per guest Instant Savings amount ($25–$400). Interior and Oceanview staterooms for voyages 2–5 days in length will receive $25 Instant Savings per guest, voyages 6–8 days in length will receive $50 Instant Savings per guest, voyages 9–12 days in length",
+      "prices_mentioned": [
+        "$25",
+        "$400",
+        "$50"
+      ],
+      "dates_mentioned": [],
+      "durations_mentioned": [
+        "5 days",
+        "8 days",
+        "12 days"
+      ],
+      "ships_mentioned": [],
+      "solo_evidence": "single occupancy",
       "classification": "possible_solo_offer",
       "review_status": "needs_manual_check",
       "warning": "Prices and dates are nearby page text, NOT confirmed solo fares or sailings."
