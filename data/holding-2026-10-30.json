@@ -1460,8 +1460,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Kreuzfahrtberater",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:31:23.714693+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T14:17:37.931952+00:00"
     },
     "38": {
       "status": "blocked",
