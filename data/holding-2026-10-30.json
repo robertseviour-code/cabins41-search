@@ -161,14 +161,14 @@
           "snippets": []
         }
       ],
-      "candidate_links_found": 88,
+      "candidate_links_found": 89,
       "possible_offers": [],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Aquotic",
-      "checker_version": 15,
-      "checked_at": "2026-10-30T09:18:32.431504+00:00"
+      "checker_version": 19,
+      "checked_at": "2026-10-30T14:04:28.499901+00:00"
     },
     "6": {
       "status": "checked",
