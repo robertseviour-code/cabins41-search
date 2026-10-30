@@ -1,0 +1,134 @@
+{
+  "checked_at": "2026-10-30T17:31:46.922247+00:00",
+  "purpose": "Additional sources outside the existing 85; access and solo-page checks only",
+  "sources": [
+    {
+      "name": "Cruise.co.uk",
+      "requested_url": "https://www.cruise.co.uk/",
+      "url": "https://www.cruise.co.uk/",
+      "http_status": 200,
+      "solo_links": [],
+      "status": "accessible",
+      "title": [
+        "Home Of The Real Cruise People | Book Your 2026 &amp; 2027 Deals Today | Cruise.co.uk"
+      ],
+      "stage": "candidate_not_in_daily_register",
+      "dated_offers_verified": 0
+    },
+    {
+      "name": "Cruise1st",
+      "requested_url": "https://www.cruise1st.co.uk/",
+      "url": "https://www.cruise1st.co.uk/",
+      "http_status": 200,
+      "solo_links": [],
+      "status": "accessible",
+      "title": [
+        "Find your Perfect Cruise at the Lowest Price | Cruise1st UK"
+      ],
+      "stage": "candidate_not_in_daily_register",
+      "dated_offers_verified": 0
+    },
+    {
+      "name": "Bolsover Cruise Club",
+      "requested_url": "https://www.bolsovercruiseclub.com/",
+      "url": "https://www.bolsovercruiseclub.com/",
+      "http_status": 200,
+      "solo_links": [
+        {
+          "url": "https://www.bolsovercruiseclub.com/cruise-deals/solo-travellers",
+          "label": "Solo Cruise Deals"
+        }
+      ],
+      "status": "accessible",
+      "title": [
+        "Bolsover Cruise Club | Cruise Holidays 2026, 2027 &amp; 2028"
+      ],
+      "stage": "candidate_not_in_daily_register",
+      "dated_offers_verified": 0,
+      "solo_page_checked": {
+        "name": "Bolsover Cruise Club",
+        "url": "https://www.bolsovercruiseclub.com/cruise-deals/solo-travellers",
+        "http_status": 200,
+        "evidence": [
+          " Solo Cruises | Solo Traveller Cruises | Bolsover Cruise Club 01246 819 819 01246 819 819 Cruise Deals Cruise Deals Cruise Deals Last Minute Cruise Deals Family Cruise Deals Fly Cruise Deals No-Fly Cruises Mini Cruise Deals Solo Cruise Deals Winter Sun Cruise Deals Christmas & New Year Cruise Deals Top 20 Cruise Deals Southampton Cruise Deals 2026 Cruise Deals 2027 Cruise Deals 2028 Cruise Deals Cruise Types Cruise Types All Cruise Types World Cruises Transatlantic Cruises River Cruises Adult-only Cruises ",
+          "eals Last Minute Cruise Deals Family Cruise Deals Fly Cruise Deals No-Fly Cruises Mini Cruise Deals Solo Cruise Deals Winter Sun Cruise Deals Christmas & New Year Cruise Deals Top 20 Cruise Deals Southampton Cruise Deals 2026 Cruise Deals 2027 Cruise Deals 2028 Cruise Deals Cruise Types Cruise Types All Cruise Types World Cruises Transatlantic Cruises River Cruises Adult-only Cruises Exclusive Cruises F1 Grand Prix Cruises Rocky Mountaineer & Alaska Cruises Cruise from UK Cruise from UK All Cruises from UK Cruise From Southampton Cruise From Liverpool Cruise From Portsmouth Cruise From Newcastle Cruise ",
+          " Join Bolsover Cruise Club About Bolsover Cruise Club Contact Us Meet the Team My Trip Cruise Deals Solo Cruises Solo Cruises Solo cruises have long been a favourite choice for those seeking a sociable and safe way to explore the world. With a plethora of activities and events designed for singles, cruise lines curate the perfect settings for solo travellers to meet like-minded people and forge new friendships. From the chilly polar regions to the tropical paradises of South America , cruises for solo travellers offer incredible opportunities to explore diverse landscapes. For thrilling shore excursions",
+          "r Cruise Club About Bolsover Cruise Club Contact Us Meet the Team My Trip Cruise Deals Solo Cruises Solo Cruises Solo cruises have long been a favourite choice for those seeking a sociable and safe way to explore the world. With a plethora of activities and events designed for singles, cruise lines curate the perfect settings for solo travellers to meet like-minded people and forge new friendships. From the chilly polar regions to the tropical paradises of South America , cruises for solo travellers offer incredible opportunities to explore diverse landscapes. For thrilling shore excursions, excellent o",
+          " About Bolsover Cruise Club Contact Us Meet the Team My Trip Cruise Deals Solo Cruises Solo Cruises Solo cruises have long been a favourite choice for those seeking a sociable and safe way to explore the world. With a plethora of activities and events designed for singles, cruise lines curate the perfect settings for solo travellers to meet like-minded people and forge new friendships. From the chilly polar regions to the tropical paradises of South America , cruises for solo travellers offer incredible opportunities to explore diverse landscapes. For thrilling shore excursions, excellent on board ameni",
+          "cursions, excellent on board amenities, and unbelievable opportunities to embrace adventure, browse solo cruise deals with Bolsover Cruise Club. Our Solo Cruise Deals Solo Princess Cruises Prepare to enjoy the royal treatment on board a Princess voyage. Always striving to provide solo traveller cruises where bliss and relaxation take centre stage, its combination of Broadway-style entertainment and onshore activities unites people from the glittering Caribbean seas to the icy magnificence of Alaska. Solo MSC Cruises Although a major family cruise provider, MSC thrives in delivering solo holidays that me",
+          "ievable opportunities to embrace adventure, browse solo cruise deals with Bolsover Cruise Club. Our Solo Cruise Deals Solo Princess Cruises Prepare to enjoy the royal treatment on board a Princess voyage. Always striving to provide solo traveller cruises where bliss and relaxation take centre stage, its combination of Broadway-style entertainment and onshore activities unites people from the glittering Caribbean seas to the icy magnificence of Alaska. Solo MSC Cruises Although a major family cruise provider, MSC thrives in delivering solo holidays that mesmerise with their diversity of entertainment, re",
+          "tural riches of Far East Asia or pick out a European summer hotspot – wherever the destination, MSC solo cruising always delivers. Solo P&O Cruises Embrace a solo trip where adventure waits around every corner with P&O Cruises. With solo cabins available on some of its most exciting itineraries, P&O offers exceptional dining options and enriching travel itineraries more than 180 years in the making. Solo Fred. Olsen Cruises Securing a solo cabin on a Fred. Olsen ship is your ticket to a personalised, hand-crafted cruising experience. On board its fleet of smaller ships, solo travellers can explore the w",
+          " luxury suite or cut steak in Prime 7 as you navigate the Panama Canal – Regent Seven Seas elevates solo cruising to a new level. Solo Norwegian Cruise Line Cruises Last-minute solo holidays don’t get much more sensational than Norwegian Cruise Line. Whether you’re looking to bag a deal or are planning in advance, its exceptional cruises to the Norwegian Fjords and beyond are truly remarkable. Award-winning entertainment and ambient dining spaces are just the tip of the iceberg of Norwegian’s solo cruise offering. Our Very Best Selection of Cruise Deals Get the best deal on your cruise holiday with Bols",
+          "ward-winning entertainment and ambient dining spaces are just the tip of the iceberg of Norwegian’s solo cruise offering. Our Very Best Selection of Cruise Deals Get the best deal on your cruise holiday with Bolsover Cruise Club. Whether you’re looking for a mini cruise from Southampton or a life-changing river cruise , we’ve got a cruise deal fit for you. Cruise Deals Want More Inspiration? Take a look at our huge selection of cruise destinations and find your next dream getaway. Cruise Destinations Cruise duration 1 to 5 nights 6 to 9 nights 10 to 14 nights more than 15 nights All stateroom categories"
+        ]
+      }
+    },
+    {
+      "name": "Cruise Nation",
+      "requested_url": "https://www.cruisenation.com/",
+      "url": "https://www.cruisenation.com/",
+      "http_status": 200,
+      "solo_links": [],
+      "status": "accessible",
+      "title": [
+        "Cruise Nation | Home of the Best Cruise Deals on the Web"
+      ],
+      "stage": "candidate_not_in_daily_register",
+      "dated_offers_verified": 0
+    },
+    {
+      "name": "Kreuzfahrten.de",
+      "requested_url": "https://www.kreuzfahrten.de/",
+      "url": "https://www.kreuzfahrten.de/",
+      "http_status": 200,
+      "solo_links": [
+        {
+          "url": "https://www.kreuzfahrten.de/Reisen-kreuzfahrten-fuer-singles.html",
+          "label": "Kreuzfahrten für Alleinreisende"
+        },
+        {
+          "url": "https://www.kreuzfahrten.de/Reisen-ein-herz-fuer-alleinreisende.html",
+          "label": "ein herz für alleinreisende"
+        }
+      ],
+      "status": "accessible",
+      "title": [
+        "Kreuzfahrten - Kreuzfahrt - Schiffsreisen - Schiffsreise"
+      ],
+      "stage": "candidate_not_in_daily_register",
+      "dated_offers_verified": 0,
+      "solo_page_checked": {
+        "name": "Kreuzfahrten.de",
+        "url": "https://www.kreuzfahrten.de/Reisen-kreuzfahrten-fuer-singles.html",
+        "http_status": 200,
+        "evidence": [
+          "ieten überwiegend Doppelkabinen an. Wer alleine reist, zahlt daher häufig einen Einzelkabinenzuschlag, da die Kabine nur von einer Person genutzt wird. Dieser Zuschlag liegt meist zwischen 30 % und 100 % des regulären Preises. Es gibt jedoch auch Sonderangebote für Alleinreisende, bei denen der Zuschlag reduziert ist oder entfällt. Außerdem sind Kreuzfahrten in der Nebensaison – etwa im Frühjahr, Herbst oder Winter – oft deutlich günstiger. Singles willkommen: Gibt es Unterschiede zwischen einer Single & einer traditionellen Kreuzfahrt? Single K",
+          "en 30 % und 100 % des regulären Preises. Es gibt jedoch auch Sonderangebote für Alleinreisende, bei denen der Zuschlag reduziert ist oder entfällt. Außerdem sind Kreuzfahrten in der Nebensaison – etwa im Frühjahr, Herbst oder Winter – oft deutlich günstiger. Singles willkommen: Gibt es Unterschiede zwischen einer Single & einer traditionellen Kreuzfahrt? Single Kreuzfahrten bieten dieselbe Vielfalt an Routen und Zielen wie traditionelle Kreuzfahrten, ohne Einschränkungen bezüglich der Reiseziele oder des Reisezeitpunkts, einschließlic",
+          "e losgehen. Geht es um die Wahl der richtigen Zielgebiete, brauchen Singles und Alleinreisende also nicht zu befürchten, etwas falsch zu machen. Zwar gibt es vereinzelt Vorbehalte gegenüber alleinreisenden Frauen – beispielsweise in einigen Ländern der arabischen Welt, gelegentlich sogar in Südeuropa –, aber als Passagierinnen eines Kreuzfahrtschiffes werden sie zum einen rechtzeitig darauf hingewiesen. Zum anderen genießen sie auf Wunsch jederzeit den Schutz einer geführten Reisegruppe , sodass keine Sehenswürdigkeit ausgelassen werd",
+          "efürchten, etwas falsch zu machen. Zwar gibt es vereinzelt Vorbehalte gegenüber alleinreisenden Frauen – beispielsweise in einigen Ländern der arabischen Welt, gelegentlich sogar in Südeuropa –, aber als Passagierinnen eines Kreuzfahrtschiffes werden sie zum einen rechtzeitig darauf hingewiesen. Zum anderen genießen sie auf Wunsch jederzeit den Schutz einer geführten Reisegruppe , sodass keine Sehenswürdigkeit ausgelassen werden muss. Wie sind die Erfahrungen mit Single Kreuzfahrten von AIDA? Single Kreuzfahrten auf AIDA-Schiffen biet",
+          "fahrten auf AIDA-Schiffen bieten eine freundliche und einladende Atmosphäre für Alleinreisende. Viele Gäste berichten von positiven Erfahrungen, da AIDA spezielle Veranstaltungen und Aktivitäten anbietet, die darauf ausgerichtet sind, Singles miteinander zu verbinden und das Knüpfen neuer Bekanntschaften zu erleichtern . Zudem bieten die Schiffe der AIDA-Flotte eine Vielzahl von Unterhaltungs- und Entspannungsmöglichkeiten, die es Singles ermöglichen, ihren Urlaub individuell und nach eigenen Interessen zu gestalten Gibt es Single Flu",
+          "alten Gibt es Single Flusskreuzfahrten? Single Flusskreuzfahrten sind ideal für Alleinreisende, um neue Landschaften und Kulturen zu entdecken, ohne den Aufwand einer Solo-Reise. Viele Reisen bieten Programme und Aktivitäten, wie Workshops, Gruppenausflüge oder Abendveranstaltungen, um andere Reisende zu treffen. Kabinen und Einrichtungen sind oft auf Einzelreisende abgestimmt, manche Schiffe verlangen keinen Einzelkabinenzuschlag. Besonders für Alleinreisende und Singles ab 60 eignen sich Flusskreuzfahrten: Tagesabläufe sind entspann",
+          "htungen sind oft auf Einzelreisende abgestimmt, manche Schiffe verlangen keinen Einzelkabinenzuschlag. Besonders für Alleinreisende und Singles ab 60 eignen sich Flusskreuzfahrten: Tagesabläufe sind entspannt, An- und Ablegezeiten günstig, und Sehenswürdigkeiten lassen sich oft direkt vom Schiff oder mit kurzen Ausflügen erkunden. Eine wichtige Frage für Alleinreisende: Mit wem esse ich? Beim Essen gibt es für Alleinreisende und Singles verschiedene Optionen, den passenden Tischpartner zu finden. Frei wählen können sie beispielsweise in den Buff",
+          "bgestimmt, manche Schiffe verlangen keinen Einzelkabinenzuschlag. Besonders für Alleinreisende und Singles ab 60 eignen sich Flusskreuzfahrten: Tagesabläufe sind entspannt, An- und Ablegezeiten günstig, und Sehenswürdigkeiten lassen sich oft direkt vom Schiff oder mit kurzen Ausflügen erkunden. Eine wichtige Frage für Alleinreisende: Mit wem esse ich? Beim Essen gibt es für Alleinreisende und Singles verschiedene Optionen, den passenden Tischpartner zu finden. Frei wählen können sie beispielsweise in den Buffetrestaurants nicht nur di",
+          "t direkt vom Schiff oder mit kurzen Ausflügen erkunden. Eine wichtige Frage für Alleinreisende: Mit wem esse ich? Beim Essen gibt es für Alleinreisende und Singles verschiedene Optionen, den passenden Tischpartner zu finden. Frei wählen können sie beispielsweise in den Buffetrestaurants nicht nur die Speisen, sondern bei freier Platzwahl natürlich auch den Tisch, an dem sie sitzen. Das Gleiche gilt für alle Restaurants mit freier Platzwahl, die es auf sehr vielen Kreuzfahrtschiffen gibt. Fast immer ist es also möglich, an einem Tisch ",
+          "ine wichtige Frage für Alleinreisende: Mit wem esse ich? Beim Essen gibt es für Alleinreisende und Singles verschiedene Optionen, den passenden Tischpartner zu finden. Frei wählen können sie beispielsweise in den Buffetrestaurants nicht nur die Speisen, sondern bei freier Platzwahl natürlich auch den Tisch, an dem sie sitzen. Das Gleiche gilt für alle Restaurants mit freier Platzwahl, die es auf sehr vielen Kreuzfahrtschiffen gibt. Fast immer ist es also möglich, an einem Tisch alleine Platz zu nehmen, sofern man das denn möchte. In d",
+          "ine Platz zu nehmen, sofern man das denn möchte. In den Hauptrestaurants können Alleinreisende und Singles hingegen einen festen Platz an einem Tisch mit anderen Gästen zugewiesen bekommen, aber auch hier berücksichtigt das Personal in der Regel besondere Wünsche. Hotline anrufen 4,91 Sehr gut Käuferschutz kreuzfahrten.de 4,91 Sehr gut Note berechnet sich aus 97 Bewertungen der letzten 12 Monate von insgesamt 2189 Bewertungen. Zur Echtheit der Bewertungen Ausgewählte Bewertungen: 22.10.2026 Ich bin seit Jahren Kunde und habe auch bei ",
+          "chiffe aida cruises - aida clubschiff erleben! dialysekreuzfahrten ein herz für alleinreisende flitterwochen golf kreuzfahrten gourmet kreuzfahrten kreuzfahrten im Januar 2027 kreuzfahrten im Februar 2027 kreuzfahrten im Maerz 2027 kreuzfahrten im April 2027 kreuzfahrten im Mai 2027 kreuzfahrten im Juni 2027 kreuzfahrten im Juli 2027 kreuzfahrten im August 2027 kreuzfahrten im September 2027 kreuzfahrten im Oktober 2027 kreuzfahrten im November 2026 kreuzfahrten im Dezember 2026 kreuzfahrten ab Bremerhaven kreuzfahrten ab Hamburg kreu"
+        ]
+      }
+    },
+    {
+      "name": "nicko cruises",
+      "requested_url": "https://www.nicko-cruises.de/",
+      "url": "https://www.nicko-cruises.de/",
+      "http_status": 200,
+      "solo_links": [],
+      "status": "accessible",
+      "title": [
+        "Fluss- und Hochsee-Schiffsreisen buchen | nicko cruises"
+      ],
+      "stage": "candidate_not_in_daily_register",
+      "dated_offers_verified": 0
+    }
+  ]
+}
