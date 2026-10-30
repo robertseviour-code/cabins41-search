@@ -1752,8 +1752,8 @@
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise Travel Netherlands",
-      "checker_version": 4,
-      "checked_at": "2026-10-30T07:26:52.224866+00:00"
+      "checker_version": 15,
+      "checked_at": "2026-10-30T09:23:05.243019+00:00"
     },
     "17": {
       "status": "checked",
