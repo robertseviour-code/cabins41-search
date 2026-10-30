@@ -537,6 +537,34 @@
       "source_name": "Cunard",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:20:33.601188+00:00"
+    },
+    "22": {
+      "status": "checked",
+      "url": "https://deluxecruises.co.uk",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+          "label": "Solo Supplement Deals",
+          "keyword_count": 9,
+          "snippets": [
+            "orld is meant to be explored on your own terms, without the heavy price tag of a standard single supplement. That’s why we’ve curated a selection of extraordinary offers, with the world’s most inclusive cruise lines, featuring reduced single supplements , allowing yo",
+            "of extraordinary offers, with the world’s most inclusive cruise lines, featuring reduced single supplements , allowing you to enjoy the space and serenity of your own private suite for less. Seabourn Silversea Regent Crystal Oceania Exceptional Value for Solo Travel",
+            "Oceania Exceptional Value for Solo Travellers Seabourn is offering solo guests a reduced single supplement starting at only 25% above current fares on select voyages and in select suite categories. Whether you crave the icy wonders of Antarctica or the hidden gems o",
+            "– Tokyo 10 WORLD VOYAGE 10-DAY WORLD CRUISE: JAPAN EXPLORER Exclusive Single Fares Enjoy Single Supplements starting at just 25% on a wide selection of global voyages. Whether you’re dreaming of the rhythmic shores of the Caribbean or the ancient wonders of the Medi",
+            "i Lisbon Silver Ray 21 May 2028 11 Honolulu Vancouver Silver Whisper Special Single Fares Single Supplement Specials Reduced Single Supplements (on select sailings) across a stunning array of global destinations. From the sun-drenched Mediterranean to the majestic gl",
+            "Honolulu Vancouver Silver Whisper Special Single Fares Single Supplement Specials Reduced Single Supplements (on select sailings) across a stunning array of global destinations. From the sun-drenched Mediterranean to the majestic glaciers of Alaska , luxury is now mo",
+            "l financial penalty of travelling alone. View applicable voyages Oceania Cruises: Reduced Single Supplement Oceania Cruises offers a range of options for solo travellers, primarily through dedicated “Single Supplement” promotions and the inclusion of purpose-built so",
+            "eania Cruises offers a range of options for solo travellers, primarily through dedicated “Single Supplement” promotions and the inclusion of purpose-built solo cabins. The key features of their solo offering for 2026 and 2027 include: Specially Reduced Supplements: O"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "source_name": "Deluxe Cruises",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:20:57.233211+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
