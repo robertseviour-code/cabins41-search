@@ -797,10 +797,11 @@
       "lead_count": 0,
       "candidate_pages": [],
       "candidate_links_found": 0,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Costa Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:16:59.247352+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:18:02.125092+00:00"
     },
     "13": {
       "status": "checked",
