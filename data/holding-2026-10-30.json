@@ -1738,9 +1738,11 @@
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Riviera Travel",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:40:12.661547+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:47:39.737003+00:00"
     },
     "56": {
       "status": "checked",
