@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "sources_attempted": 85,
   "sources_checked": 63,
-  "sources_blocked": 19,
-  "sources_failed": 3,
+  "sources_blocked": 20,
+  "sources_failed": 2,
   "qualified_candidates": 0,
   "duplicate_sailings_excluded": 0,
   "existing_listings_status": {
@@ -91,6 +91,10 @@
     {
       "source": "Reddit r/solotravel",
       "reason": "HTTP Error 403: Blocked"
+    },
+    {
+      "source": "Reddit r/VirginVoyages",
+      "reason": "HTTP Error 403: Blocked"
     }
   ],
   "blocked_candidate_pages": [],
@@ -102,10 +106,6 @@
     {
       "source": "Riviera Travel",
       "reason": "<urlopen error [Errno -5] No address associated with hostname>"
-    },
-    {
-      "source": "Reddit r/VirginVoyages",
-      "reason": "HTTP Error 403: Blocked"
     }
   ]
 }
