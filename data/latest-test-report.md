@@ -1,6 +1,6 @@
 # Cabins41 — test report
-Run: 2026-10-30T19:13:50+00:00 to 2026-10-30T19:51:27.222671+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41113512487
+Run: 2026-10-30T22:33:13+00:00 to 2026-10-30T23:10:06.679992+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41134852539
 **Search exit code:** 0
 **Sources freshly attempted:** 85 of 85
 **Checked:** 64; **blocked:** 20; **other failures:** 1
@@ -31,9 +31,10 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41113
 
 ## Potential offers requiring manual checking
 - Ambience | 2026-11-13 | Ambassador Cruise Line | https://www.ambassadorcruiseline.com/deals/solo-cruisers/ | solo evidence: solo offers
-- Costa Smeralda | 2026-11-08 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Norwegian Viva | 2026-11-22 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Norwegian Breakaway | 2026-11-20 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2026-11-19 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Toscana | 2026-11-24 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Norwegian Viva | 2026-11-02 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Norwegian Breakaway | 2026-11-09 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 12%
 - MSC World Europa | 2026-11-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Euribia | 2026-11-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Celebrity Apex | 2026-11-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
@@ -42,8 +43,13 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41113
 - Carnival Horizon | 2026-11-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Carnival Mardi Gras | 2026-11-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Carnival Splendor | 2026-11-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- Costa Maya Cozumel | 2026-11-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 
 ## Assessment
 INCOMPLETE / DEGRADED: investigate failures and missing checks before calling this run reliable.
 No offers have been approved for publication by this report.
+
+## Comparison and reliability
+Operational baseline passed: YES
+Consecutive baseline passes: 1/8
+First snapshot; comparison begins next test.
+Baseline excludes the known 20 blocked sources and one DNS failure. This does not verify offer accuracy.
