@@ -3850,10 +3850,11 @@
         }
       ],
       "candidate_links_found": 28,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Odysia Cruise",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:30:30.948860+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:35:36.728347+00:00"
     },
     "47": {
       "status": "checked",
