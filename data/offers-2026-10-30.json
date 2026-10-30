@@ -5,6 +5,8 @@
   "sources_blocked": 20,
   "sources_failed": 2,
   "qualified_candidates": 0,
+  "candidate_sailings": 0,
+  "duplicate_check_required": true,
   "duplicate_sailings_excluded": 0,
   "existing_listings_status": {
     "status": "unavailable",
