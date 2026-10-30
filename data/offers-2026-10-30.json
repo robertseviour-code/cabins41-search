@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "sources_attempted": 85,
   "sources_checked": 63,
-  "sources_blocked": 6,
-  "sources_failed": 16,
+  "sources_blocked": 7,
+  "sources_failed": 15,
   "qualified_candidates": 0,
   "duplicate_sailings_excluded": 0,
   "existing_listings_status": {
@@ -39,6 +39,10 @@
     {
       "source": "Limitless Travel",
       "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Logitravel",
+      "reason": "HTTP Error 403: Forbidden"
     }
   ],
   "blocked_candidate_pages": [],
@@ -46,10 +50,6 @@
     {
       "source": "Deluxe Cruises",
       "reason": "<urlopen error timed out>"
-    },
-    {
-      "source": "Logitravel",
-      "reason": "HTTP Error 403: Forbidden"
     },
     {
       "source": "Marella Cruises",

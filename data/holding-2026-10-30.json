@@ -1295,15 +1295,17 @@
       "checked_at": "2026-10-30T07:39:55.455700+00:00"
     },
     "39": {
-      "status": "failed",
+      "status": "blocked",
       "error": "HTTP Error 403: Forbidden",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
       "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
       "source_name": "Logitravel",
-      "checker_version": 3,
-      "checked_at": "2026-10-30T05:32:56.316460+00:00"
+      "checker_version": 4,
+      "checked_at": "2026-10-30T07:40:17.311540+00:00"
     },
     "40": {
       "status": "failed",
