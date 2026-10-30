@@ -20,13 +20,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Match 02:30 London time
-        id: localtime
+      - name: Record test start
+        id: started
         shell: bash
-        run: |
-          echo 'run=true' >> "$GITHUB_OUTPUT"
+        run: echo "time=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_OUTPUT"
       - name: Search and save after each source
-        if: steps.localtime.outputs.run == 'true'
+        id: search
+        continue-on-error: true
         shell: bash
         run: |
           git config user.name 'Cabins41 Search Bot'
@@ -41,3 +41,23 @@ jobs:
           done
           date="$(TZ=Europe/London date +%F)"
           cat "data/offers-${date}.md" >> "$GITHUB_STEP_SUMMARY"
+      - name: Report every test, even on failure
+        if: always() && steps.started.outputs.time != ''
+        shell: bash
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          CABINS41_FROM_EMAIL: ${{ secrets.CABINS41_FROM_EMAIL }}
+        run: |
+          code=0
+          if [ "${{ steps.search.outcome }}" != "success" ]; then code=1; fi
+          python report_test.py --since "${{ steps.started.outputs.time }}" --search-exit "$code" --output data/latest-test-report.md
+          cat data/latest-test-report.md >> "$GITHUB_STEP_SUMMARY"
+          git config user.name 'Cabins41 Search Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/latest-test-report.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Save test report for run $GITHUB_RUN_ID"
+            git pull --rebase origin codex/strict-solo-sailing-dedupe
+            git push origin HEAD:codex/strict-solo-sailing-dedupe
+          fi
