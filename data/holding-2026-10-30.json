@@ -3928,10 +3928,11 @@
         }
       ],
       "candidate_links_found": 1,
-      "note": "Candidate pages only; sailing dates, solo prices and availability NOT verified.",
+      "possible_offers": [],
+      "note": "Unverified leads only; no solo fare, date or availability confirmed.",
       "source_name": "Paramount Cruises",
-      "checker_version": 2,
-      "checked_at": "2026-10-30T02:31:42.313614+00:00"
+      "checker_version": 3,
+      "checked_at": "2026-10-30T05:36:50.077608+00:00"
     },
     "50": {
       "status": "checked",
