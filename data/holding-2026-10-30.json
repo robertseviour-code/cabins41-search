@@ -358,6 +358,16 @@
       "source_name": "CroisiEurope",
       "checker_version": 2,
       "checked_at": "2026-10-30T02:17:28.086596+00:00"
+    },
+    "14": {
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "source_name": "Cruise Club UK",
+      "checker_version": 2,
+      "checked_at": "2026-10-30T02:17:50.509094+00:00"
     }
   },
   "description": "Candidate discovery; not verified offers"
