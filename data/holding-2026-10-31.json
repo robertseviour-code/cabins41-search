@@ -1698,6 +1698,19 @@
       "source_name": "Limitless Travel",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:43:07.965155+00:00"
+    },
+    "39": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "Logitravel",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:43:29.903691+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"

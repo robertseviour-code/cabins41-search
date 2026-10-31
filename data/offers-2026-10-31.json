@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 38,
+  "sources_attempted": 39,
   "sources_checked": 32,
-  "sources_blocked": 6,
+  "sources_blocked": 7,
   "sources_failed": 0,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -327,6 +327,10 @@
     },
     {
       "source": "Limitless Travel",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Logitravel",
       "reason": "HTTP Error 403: Forbidden"
     }
   ],
