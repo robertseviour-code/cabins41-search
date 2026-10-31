@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 22,
+  "sources_attempted": 23,
   "sources_checked": 18,
-  "sources_blocked": 4,
+  "sources_blocked": 5,
   "sources_failed": 0,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -319,6 +319,10 @@
     },
     {
       "source": "CruiseKings",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Dreamlines",
       "reason": "HTTP Error 403: Forbidden"
     }
   ],

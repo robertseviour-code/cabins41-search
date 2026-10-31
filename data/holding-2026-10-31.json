@@ -1074,6 +1074,19 @@
       "source_name": "Deluxe Cruises",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:36:30.487313+00:00"
+    },
+    "23": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "Dreamlines",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:36:52.485698+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
