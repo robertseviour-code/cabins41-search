@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 85,
+  "sources_attempted": 65,
   "sources_checked": 64,
-  "sources_blocked": 20,
+  "sources_blocked": 0,
   "sources_failed": 1,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -304,88 +304,7 @@
       "warning": "Check the seller page and solo price before publishing."
     }
   ],
-  "blocked_sources": [
-    {
-      "source": "AffordableTours",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "AIDA Cruises",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Cruise Club UK",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "CruiseKings",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Dreamlines",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Limitless Travel",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Logitravel",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Marella Cruises",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "MSC Cruises",
-      "reason": "HTTP Error 401: Unauthorized"
-    },
-    {
-      "source": "Oceania Cruises",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Uniworld",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Viajes El Corte Ingles",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Windstar Cruises",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "CruisePlum",
-      "reason": "HTTP Error 403: Forbidden"
-    },
-    {
-      "source": "Reddit r/Cruise",
-      "reason": "HTTP Error 403: Blocked"
-    },
-    {
-      "source": "Reddit r/CruiseDeals",
-      "reason": "HTTP Error 403: Blocked"
-    },
-    {
-      "source": "Reddit r/Cruises",
-      "reason": "HTTP Error 403: Blocked"
-    },
-    {
-      "source": "Reddit r/NCL",
-      "reason": "HTTP Error 403: Blocked"
-    },
-    {
-      "source": "Reddit r/solotravel",
-      "reason": "HTTP Error 403: Blocked"
-    },
-    {
-      "source": "Reddit r/VirginVoyages",
-      "reason": "HTTP Error 403: Blocked"
-    }
-  ],
+  "blocked_sources": [],
   "blocked_candidate_pages": [],
   "failed_sources": [
     {

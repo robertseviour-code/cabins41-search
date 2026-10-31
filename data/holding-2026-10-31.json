@@ -1,32 +1,6 @@
 {
   "date": "2026-10-31",
   "results": {
-    "1": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "AffordableTours",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:27:35.740281+00:00"
-    },
-    "2": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "AIDA Cruises",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:27:57.581692+00:00"
-    },
     "3": {
       "status": "checked",
       "url": "https://www.amawaterways.com/",
@@ -44,12 +18,12 @@
           "snippets": [
             "Solo Traveler Specials | AmaWaterways AmaWaterways River Cruises Europe Europe Danube Rhine Douro Dordogne & Garonne Dutch & Belgian Waterways Main Moselle Main-Danube Canal",
             "for Your Cruise Luggage Forward Ship&Play – Douro River Travel Protection Travel Updates Solo Travelers Stateroom Upgrade AmaAir myAmaCruise App myAmaCruise app About to begin your cruise? Download our app now. Terms & Conditions Privacy Policy Cookies Policy You",
-            "tected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Home Offers Solo Traveler Specials Solo Traveler Specials We warmly welcome solo travelers looking to explore the world alongside kindred cruisers and expert guides, all while enjoying",
-            "the Google Privacy Policy and Terms of Service apply. Home Offers Solo Traveler Specials Solo Traveler Specials We warmly welcome solo travelers looking to explore the world alongside kindred cruisers and expert guides, all while enjoying the comforts of our wor",
-            "ervice apply. Home Offers Solo Traveler Specials Solo Traveler Specials We warmly welcome solo travelers looking to explore the world alongside kindred cruisers and expert guides, all while enjoying the comforts of our world-class service and award-winning ships.",
+            "site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Solo Traveler Specials We warmly welcome solo travelers looking to explore the world alongside kindred cruisers and expert guides, all while enjoying the comforts of our wor",
+            "oogle Privacy Policy and Terms of Service apply. Solo Traveler Specials We warmly welcome solo travelers looking to explore the world alongside kindred cruisers and expert guides, all while enjoying the comforts of our world-class service and award-winning ships.",
             "lobe, you have every reason to take advantage of special savings reserved exclusively for solo travelers. 3 Easy Ways to Save Single Supplement Waived For a limited time, we are waiving the single supplement for solo travelers on select 2027 Europe sailings. Appli",
             "advantage of special savings reserved exclusively for solo travelers. 3 Easy Ways to Save Single Supplement Waived For a limited time, we are waiving the single supplement for solo travelers on select 2027 Europe sailings. Applicable to most stateroom categories, inc",
-            "lers. 3 Easy Ways to Save Single Supplement Waived For a limited time, we are waiving the single supplement for solo travelers on select 2027 Europe sailings. Applicable to most stateroom categories, including balcony staterooms. Offer ends December 31, 2026. 10% Sin"
+            "lers. 3 Easy Ways to Save Single Supplement Waived For a limited time, we are waiving the single supplement for solo travelers on select 2027 Europe sailings. Applicable to most stateroom categories, including balcony staterooms. Offer ends December 31, 2026. 10% Sin",
+            "ave Single Supplement Waived For a limited time, we are waiving the single supplement for solo travelers on select 2027 Europe sailings. Applicable to most stateroom categories, including balcony staterooms. Offer ends December 31, 2026. 10% Single Supplement For"
           ]
         }
       ],
@@ -60,7 +34,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "AmaWaterways",
       "checker_version": 19,
-      "checked_at": "2026-10-31T01:28:21.325568+00:00"
+      "checked_at": "2026-10-31T03:30:51.779736+00:00"
     },
     "4": {
       "status": "checked",
@@ -614,19 +588,6 @@
       "checker_version": 19,
       "checked_at": "2026-10-31T01:32:51.849897+00:00"
     },
-    "14": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Cruise Club UK",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:33:14.093055+00:00"
-    },
     "15": {
       "status": "checked",
       "url": "https://www.cruisespecialists.com/",
@@ -984,19 +945,6 @@
       "checker_version": 19,
       "checked_at": "2026-10-31T01:34:55.746218+00:00"
     },
-    "19": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "CruiseKings",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:35:17.647684+00:00"
-    },
     "20": {
       "status": "checked",
       "url": "https://www.crystalcruises.com/",
@@ -1074,19 +1022,6 @@
       "source_name": "Deluxe Cruises",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:36:30.487313+00:00"
-    },
-    "23": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Dreamlines",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:36:52.485698+00:00"
     },
     "24": {
       "status": "checked",
@@ -1686,45 +1621,6 @@
       "checker_version": 19,
       "checked_at": "2026-10-31T01:42:45.823450+00:00"
     },
-    "38": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Limitless Travel",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:43:07.965155+00:00"
-    },
-    "39": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Logitravel",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:43:29.903691+00:00"
-    },
-    "40": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Marella Cruises",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:43:51.711401+00:00"
-    },
     "41": {
       "status": "checked",
       "url": "https://morr.de",
@@ -1758,19 +1654,6 @@
       "source_name": "Morr and Meer",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:44:14.981512+00:00"
-    },
-    "42": {
-      "status": "blocked",
-      "error": "HTTP Error 401: Unauthorized",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "MSC Cruises",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:44:36.964905+00:00"
     },
     "43": {
       "status": "checked",
@@ -1877,19 +1760,6 @@
       "source_name": "Ocean World Travel",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:45:24.770923+00:00"
-    },
-    "45": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Oceania Cruises",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:45:46.817610+00:00"
     },
     "46": {
       "status": "checked",
@@ -2420,19 +2290,6 @@
       "checker_version": 19,
       "checked_at": "2026-10-31T01:54:25.064506+00:00"
     },
-    "62": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Uniworld",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:54:46.927428+00:00"
-    },
     "63": {
       "status": "checked",
       "url": "https://www.VacationsToGo.com/",
@@ -2487,19 +2344,6 @@
       "source_name": "Vacations To Go",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:55:10.781079+00:00"
-    },
-    "64": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Viajes El Corte Ingles",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:55:33.403938+00:00"
     },
     "65": {
       "status": "checked",
@@ -2584,19 +2428,6 @@
       "source_name": "Viva Holidays",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:57:49.156134+00:00"
-    },
-    "68": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Windstar Cruises",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:58:10.901022+00:00"
     },
     "69": {
       "status": "checked",
@@ -2764,19 +2595,6 @@
       "checker_version": 19,
       "checked_at": "2026-10-31T01:59:20.963695+00:00"
     },
-    "72": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Forbidden",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "CruisePlum",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T01:59:42.929717+00:00"
-    },
     "73": {
       "status": "checked",
       "url": "https://www.cruisingforone.com/",
@@ -2846,84 +2664,6 @@
       "source_name": "Digital Roamads",
       "checker_version": 19,
       "checked_at": "2026-10-31T02:00:32.830504+00:00"
-    },
-    "75": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Blocked",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Reddit r/Cruise",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T02:00:54.701570+00:00"
-    },
-    "76": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Blocked",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Reddit r/CruiseDeals",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T02:01:16.483187+00:00"
-    },
-    "77": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Blocked",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Reddit r/Cruises",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T02:01:38.164505+00:00"
-    },
-    "78": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Blocked",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Reddit r/NCL",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T02:01:59.852944+00:00"
-    },
-    "79": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Blocked",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Reddit r/solotravel",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T02:02:21.456048+00:00"
-    },
-    "80": {
-      "status": "blocked",
-      "error": "HTTP Error 403: Blocked",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Reddit r/VirginVoyages",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T02:02:43.078396+00:00"
     },
     "81": {
       "status": "checked",
