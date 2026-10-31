@@ -613,6 +613,19 @@
       "source_name": "CroisiEurope",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:32:51.849897+00:00"
+    },
+    "14": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "Cruise Club UK",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:33:14.093055+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"

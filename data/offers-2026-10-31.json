@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 13,
+  "sources_attempted": 14,
   "sources_checked": 11,
-  "sources_blocked": 2,
+  "sources_blocked": 3,
   "sources_failed": 0,
   "qualified_candidates": 5,
   "candidate_sailings": 5,
@@ -115,6 +115,10 @@
     },
     {
       "source": "AIDA Cruises",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Cruise Club UK",
       "reason": "HTTP Error 403: Forbidden"
     }
   ],
