@@ -2038,6 +2038,47 @@
       "source_name": "Paul Gauguin Cruises",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:48:13.703871+00:00"
+    },
+    "52": {
+      "status": "checked",
+      "url": "https://www.phoenixreisen.com/",
+      "lead_snippets": [
+        "Begleiten Sie uns auf einen virtuellen 360° Rundgang und lernen Sie das Schiff kennen. Wo Alleinreisende sparen Für Singles gibt es auf bestimmten Reisen stark ermäßigte Einzelkabinen Willkommen in der Welt von PHOENIX REISEN Willkommen an Bord - Willkommen zu Hau",
+        "ennen. Wo Alleinreisende sparen Für Singles gibt es auf bestimmten Reisen stark ermäßigte Einzelkabinen Willkommen in der Welt von PHOENIX REISEN Willkommen an Bord - Willkommen zu Hause Jetzt Video ansehen Phoenix Reisen YouTube-Channel Sie möchten gern mehr übe",
+        "alitätsstandards haben bei uns oberste Priorität. Und für Singles gibt es stark ermäßigte Einzelkabinen. Sie werden feststellen, dass die meisten Leistungen bei unseren Kreuzfahrten schon enthalten sind. Das erleichtert Ihre Urlaubsplanung und Sie können sich auf"
+      ],
+      "lead_count": 3,
+      "candidate_pages": [
+        {
+          "url": "https://www.phoenixreisen.com/kreuzfahrten.html",
+          "label": "Kreuzfahrten",
+          "keyword_count": 2,
+          "snippets": [
+            "Begleiten Sie uns auf einen virtuellen 360° Rundgang und lernen Sie das Schiff kennen. Wo Alleinreisende sparen Für Singles gibt es auf bestimmten Reisen stark ermäßigte Einzelkabinen MS Amadea nach der Werftzeit 2021 Schauen Sie sich die Impressionen der ersten K",
+            "ennen. Wo Alleinreisende sparen Für Singles gibt es auf bestimmten Reisen stark ermäßigte Einzelkabinen MS Amadea nach der Werftzeit 2021 Schauen Sie sich die Impressionen der ersten Kreuzfahrt und die Neuerungen an Bord hier an. Jetzt Video ansehen Kataloge Sie"
+          ]
+        },
+        {
+          "url": "https://www.phoenixreisen.com/flusskreuzfahrten.html",
+          "label": "Flusskreuzfahrten",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.phoenixreisen.com/staedte-und-haefen-weltweit-auf-kreuzfahrten-entdecken-mit-phoenix-reisen.html",
+          "label": "Top Städte & Häfen weltweit",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 133,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Phoenix Reisen",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:48:43.107952+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
