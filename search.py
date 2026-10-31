@@ -420,6 +420,8 @@ def main():
     dedupe_ready = dedupe_info.get('status') == 'loaded'
     ledger = json.loads(output.read_text(encoding='utf-8')) if output.exists() else {
         'date': date, 'results': {}, 'description': 'Qualified solo offer candidates; not verified offers'}
+    active_ids = {str(source['id']) for source in SOURCES}
+    ledger['results'] = {key: value for key, value in ledger['results'].items() if key in active_ids}
     for source in SOURCES:
         if args.one and source['id'] != args.one:
             continue
