@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 77,
+  "sources_attempted": 78,
   "sources_checked": 59,
-  "sources_blocked": 17,
+  "sources_blocked": 18,
   "sources_failed": 1,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -371,6 +371,10 @@
     },
     {
       "source": "Reddit r/Cruises",
+      "reason": "HTTP Error 403: Blocked"
+    },
+    {
+      "source": "Reddit r/NCL",
       "reason": "HTTP Error 403: Blocked"
     }
   ],

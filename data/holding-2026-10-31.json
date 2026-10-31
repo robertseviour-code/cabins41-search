@@ -2885,6 +2885,19 @@
       "source_name": "Reddit r/Cruises",
       "checker_version": 19,
       "checked_at": "2026-10-31T02:01:38.164505+00:00"
+    },
+    "78": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "Reddit r/NCL",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T02:01:59.852944+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
