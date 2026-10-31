@@ -19,7 +19,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = pathlib.Path(__file__).parent
 SOURCES = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
-VERSION = 19  # Daily 31 October full-search trigger.  # Full-search trigger comment.
+VERSION = 19
 SOLO = re.compile(r'\b(?:solo\s+(?:cruis\w*|travel\w*|sail\w*|fare\w*|offer\w*|deal\w*|discount\w*|cabin\w*|price\w*|rate\w*)|single\s+(?:supplement|cabins?|occupancy|travell?ers?|cruis\w*)|singles?\s+cruis\w*|alleinreisend\w*|einzelkabine\w*|einzelzuschlag\w*|singlezuschlag\w*|suplemento\s+individual|cruceros?\s+para\s+(?:una|uno|solos?))\b', re.I)
 CLEAR_SOLO_OFFER = re.compile(r'\b(?:zuschlag\s+nur\s+\d{1,3}\s*%|solo\s+(?:(?:cruise\s+)?(?:offer|deal|discount|fare|price|rate)s?|cruis\w*\s+(?:offer|deal|discount|fare|price|rate)s?)|(?:offer|deal|discount|fare|price|rate)s?\s+for\s+(?:solo|single)\s+(?:cruis\w*|travell?ers?|occupan\w*)|(?:no|without|waived|free|reduced)\s+single\s+supplement|single\s+supplement\s+(?:waived|free|reduced|from|of|\d{1,3}\s*%)|single\s+supplement.{0,35}(?:\d{1,3}\s*%|[£€$]\s*\d)|alleinreisenden[- ]angebot|einzelkabinenzuschlag.{0,35}\d|einzelzuschlag.{0,35}\d|singlezuschlag.{0,35}\d|suplemento\s+individual.{0,35}\d|oferta\s+para\s+(?:viajeros?\s+)?solos?)', re.I)
 OFFER = re.compile(r'\b(?:from|starting\s+at|only|per\s+person|pp|p\s*/\s*p|ab|desde|solo\s+fare|single\s+fare|no\s+single\s+supplement|waived\s+single\s+supplement|ohne\s+einzelzuschlag|kein\s+einzelzuschlag|single\s+supplement\s+(?:waived|free|reduced))\b', re.I)
@@ -37,23 +37,38 @@ class PageParser(HTMLParser):
         super().__init__(convert_charrefs=True)
         self.text, self.links, self.hidden = [], [], 0
         self.href, self.anchor = None, []
+        self.offer_blocks, self.captures = [], []
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
         if tag in ('script', 'style', 'noscript', 'svg'):
             self.hidden += 1
+        classes = attrs.get('class', '') + ' ' + attrs.get('id', '')
+        is_block = tag in ('article', 'li', 'tr') or (tag in ('div', 'section') and re.search(r'card|cruise|sailing|offer|deal|product', classes, re.I))
+        if is_block and not self.hidden:
+            if self.captures:
+                self.captures[-1]['has_child'] = True
+            self.captures.append({'tag': tag, 'parts': [], 'has_child': False})
         if tag == 'a' and not self.hidden:
             self.href, self.anchor = attrs.get('href'), []
 
     def handle_data(self, data):
         if not self.hidden:
             self.text.append(data)
+            for capture in self.captures:
+                capture['parts'].append(data)
             if self.href is not None:
                 self.anchor.append(data)
 
     def handle_endtag(self, tag):
         if tag in ('script', 'style', 'noscript', 'svg') and self.hidden:
             self.hidden -= 1
+        for index in range(len(self.captures) - 1, -1, -1):
+            if self.captures[index]['tag'] == tag:
+                capture = self.captures.pop(index)
+                if not capture['has_child']:
+                    self.offer_blocks.append(' '.join(capture['parts']))
+                break
         if tag == 'a' and self.href is not None:
             self.links.append((self.href, ' '.join(self.anchor)))
             self.href, self.anchor = None, []
@@ -82,7 +97,9 @@ def page_data(raw):
     parser = PageParser()
     parser.feed(raw)
     text = re.sub(r'\s+', ' ', html.unescape(' '.join(parser.text))).strip()
-    return text, parser.links
+    blocks = [re.sub(r'\s+', ' ', html.unescape(block)).strip()
+              for block in parser.offer_blocks]
+    return text, parser.links, blocks
 
 
 def snippets_from(text):
@@ -133,6 +150,8 @@ def named_sailings(text):
     for match in SHIP.finditer(text):
         name = re.sub(r'\s+', ' ', match.group(0)).strip()
         words = name.split()
+        while len(words) > 1 and words[-1].isdigit():
+            words.pop()
         while len(words) > 1 and words[-1].strip('.,').casefold() in SHIP_GENERIC:
             words.pop()
         name = ' '.join(words)
@@ -144,6 +163,8 @@ def named_sailings(text):
                                'cunard', 'aida', 'carnival', 'disney', 'oceania', 'tui'}:
             continue
         if re.search(r'\bCosta\s+Rica\b', name, re.I):
+            continue
+        if name.casefold() in {'costa maya'}:
             continue
         ship_spans.append((match.start(), match.start() + len(name), name))
     for match in re.finditer(r'\b(?:Ambience|Ambition|Balmoral|Bolette|Borealis|Sinfonia|Getaway)\b', text, re.I):
@@ -245,7 +266,7 @@ def load_existing_sailings(date):
             pass
     try:
         url, raw = fetch(os.environ.get('CABINS41_LISTINGS_URL', CABINS41_URL), max_bytes=6000000)
-        text, _ = page_data(raw)
+        text, _, _ = page_data(raw)
         sailings = named_sailings(text)
         keys = {(normalize_ship(x['ship']), x['departure_date']) for x in sailings}
         if not keys:
@@ -265,7 +286,7 @@ def is_blocked(error):
 def check(source, existing, dedupe_ready):
     try:
         home, raw = fetch(source['url'])
-        text, links = page_data(raw)
+        text, links, blocks = page_data(raw)
         snippets, count = snippets_from(text)
         domain = urllib.parse.urlsplit(home).hostname or ''
         candidates, seen = [], {normal_url(home)}
@@ -284,19 +305,26 @@ def check(source, existing, dedupe_ready):
         # Rank solo-specific pages ahead of general deals; still cap requests.
         candidates.sort(key=lambda c: (0 if SOLO.search(c['label'] + ' ' + c['url']) else 1))
         pages, offers, duplicates, blocked_pages = [], [], [], []
-        found, repeated = extract_leads(text, home, source, existing, dedupe_ready)
-        offers.extend(found)
-        duplicates.extend(repeated)
+        # Never pair solo wording, a ship and a date across a whole page.
+        for block in blocks:
+            if len(block) > 3000:
+                continue
+            found, repeated = extract_leads(block, home, source, existing, dedupe_ready)
+            offers.extend(found)
+            duplicates.extend(repeated)
         for candidate in candidates[:3]:
             try:
                 url, content = fetch(candidate['url'])
-                candidate_text, _ = page_data(content)
+                candidate_text, _, candidate_blocks = page_data(content)
                 page_snippets, page_count = snippets_from(candidate_text)
                 pages.append({'url': url, 'label': candidate['label'],
                               'keyword_count': page_count, 'snippets': page_snippets})
-                found, repeated = extract_leads(candidate_text, url, source, existing, dedupe_ready)
-                offers.extend(found)
-                duplicates.extend(repeated)
+                for block in candidate_blocks:
+                    if len(block) > 3000:
+                        continue
+                    found, repeated = extract_leads(block, url, source, existing, dedupe_ready)
+                    offers.extend(found)
+                    duplicates.extend(repeated)
             except Exception as error:
                 page_error = {'url': candidate['url'], 'error': str(error)[:200]}
                 if is_blocked(error):
@@ -425,7 +453,7 @@ def main():
             continue
         key = str(source['id'])
         previous = ledger['results'].get(key, {})
-        if os.environ.get('CABINS41_FORCE_RECHECK') != '1' and previous.get('status') in ('checked', 'blocked', 'failed') and previous.get('checker_version') == VERSION:
+        if previous.get('status') in ('checked', 'blocked', 'failed') and previous.get('checker_version') == VERSION:
             continue
         result = check(source, existing, dedupe_ready)
         result.update({'source_name': source['name'], 'checker_version': VERSION,
