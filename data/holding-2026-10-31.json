@@ -2360,7 +2360,7 @@
     },
     "66": {
       "status": "checked",
-      "url": "https://www.viva-cruises.com/en-us",
+      "url": "https://www.viva-cruises.com/en-gb",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [],
@@ -2371,7 +2371,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "VIVA Cruises",
       "checker_version": 19,
-      "checked_at": "2026-10-31T01:57:23.679079+00:00"
+      "checked_at": "2026-10-31T03:55:24.298153+00:00"
     },
     "67": {
       "status": "checked",
