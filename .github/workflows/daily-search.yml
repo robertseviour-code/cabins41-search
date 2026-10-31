@@ -62,6 +62,7 @@ jobs:
           date="$(TZ=Europe/London date +%F)"
           cat "data/offers-${date}.md" >> "$GITHUB_STEP_SUMMARY"
       - name: Report every test, even on failure
+        id: report
         if: always() && steps.started.outputs.time != ''
         shell: bash
         env:
@@ -97,6 +98,51 @@ jobs:
           if ! git diff --cached --quiet; then
             save_results "Save test report for run $GITHUB_RUN_ID" || exit 1
           fi
+      - name: Email the completed search report
+        if: always() && steps.started.outputs.time != ''
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          CABINS41_FROM_EMAIL: ${{ secrets.CABINS41_FROM_EMAIL }}
+          SEARCH_OUTCOME: ${{ steps.search.outcome }}
+          REPORT_OUTCOME: ${{ steps.report.outcome }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          import urllib.request
+
+          key = os.environ.get("RESEND_API_KEY", "")
+          sender = os.environ.get("CABINS41_FROM_EMAIL", "")
+          if not key or not sender:
+              raise SystemExit("Email notification not sent: RESEND_API_KEY or CABINS41_FROM_EMAIL is missing.")
+          report_path = Path("data/latest-test-report.md")
+          report = report_path.read_text(encoding="utf-8") if report_path.exists() else "The search report was not produced."
+          run_url = f"{os.environ['GITHUB_SERVER_URL']}/{os.environ['GITHUB_REPOSITORY']}/actions/runs/{os.environ['GITHUB_RUN_ID']}"
+          body = (
+              f"Cabins41 search finished.\n\n"
+              f"Search step: {os.environ.get('SEARCH_OUTCOME', 'unknown')}\n"
+              f"Report step: {os.environ.get('REPORT_OUTCOME', 'unknown')}\n"
+              f"GitHub run: {run_url}\n\n"
+              f"{report}"
+          )
+          payload = json.dumps({
+              "from": sender,
+              "to": ["robertseviour@gmail.com"],
+              "subject": f"Cabins41 search finished — run {os.environ['GITHUB_RUN_ID']}",
+              "text": body,
+          }).encode()
+          request = urllib.request.Request(
+              "https://api.resend.com/emails",
+              data=payload,
+              headers={"Authorization": "Bearer " + key, "Content-Type": "application/json"},
+          )
+          with urllib.request.urlopen(request, timeout=30) as response:
+              if response.status not in (200, 201, 202):
+                  raise SystemExit(f"Email service returned HTTP {response.status}.")
+              print(f"Completion email accepted by sending service (HTTP {response.status}).")
+          PY
       - name: Preserve results even if repository saving fails
         if: always()
         uses: actions/upload-artifact@v4
