@@ -3009,6 +3009,59 @@
       "source_name": "Solo Cruising UK",
       "checker_version": 19,
       "checked_at": "2026-10-31T02:03:28.322938+00:00"
+    },
+    "83": {
+      "status": "checked",
+      "url": "https://thesolocruise.com",
+      "lead_snippets": [
+        "Welcome - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS Your Time to Have Fun on a Solo Cruise is Now Honest. Independent. Cruise Reports & In",
+        "Welcome - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS Your Time to Have Fun on a Solo Cruise is Now Honest. Independent. Cruise Reports & Insights from Journalist Wade Heath Something I've been",
+        "out Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS Your Time to Have Fun on a Solo Cruise is Now Honest. Independent. Cruise Reports & Insights from Journalist Wade Heath Something I've been working on for a long time is finally ready to share. I've",
+        "long time is finally ready to share. I've built The Solo Circle, a private community for solo travelers and solo cruisers. A place for solo travel advice. A place for questions. A place for solo cruise deals. A place for resources and planning help. And most impo",
+        "ly ready to share. I've built The Solo Circle, a private community for solo travelers and solo cruisers. A place for solo travel advice. A place for questions. A place for solo cruise deals. A place for resources and planning help. And most importantly, a place w",
+        "lt The Solo Circle, a private community for solo travelers and solo cruisers. A place for solo travel advice. A place for questions. A place for solo cruise deals. A place for resources and planning help. And most importantly, a place where you can connect with",
+        "ers and solo cruisers. A place for solo travel advice. A place for questions. A place for solo cruise deals. A place for resources and planning help. And most importantly, a place where you can connect with people who understand what it's like to travel alone.",
+        "t linked up for My Cruise Letter & Never Miss a New Story, Vlog, or Announcement from The Solo Cruiser Subscribe By submitting your information, you are granting us permission to email you. You may unsubscribe at any time. Subscribed! Thank you for subscribing t"
+      ],
+      "lead_count": 25,
+      "candidate_pages": [
+        {
+          "url": "https://thesolocruise.com/new-solo-cruise-book",
+          "label": "New Solo Cruise Book",
+          "keyword_count": 9,
+          "snippets": [
+            "500 Reasons to Solo Cruise Book - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS A New eBook by Wade Heath Discover confidence, clarity, and hid",
+            "500 Reasons to Solo Cruise Book - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS A New eBook by Wade Heath Discover confidence, clarity, and hidden solo cruise secrets",
+            "0 Reasons to Solo Cruise Book - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS A New eBook by Wade Heath Discover confidence, clarity, and hidden solo cruise secrets in this inspiring guide for anyone ready to sail alon",
+            "ise Book RECENT VIDEOS A New eBook by Wade Heath Discover confidence, clarity, and hidden solo cruise secrets in this inspiring guide for anyone ready to sail alone with purpose. Whether it’s your first solo sailing or your fifteenth, this book helps you naviga",
+            "this inspiring guide for anyone ready to sail alone with purpose. Whether it’s your first solo sailing or your fifteenth, this book helps you navigate the emotional side of the journey—overcoming anxiety, easing loneliness, and discovering peace in the quiet cor",
+            ". Inside, you’ll find practical strategies to maximize your vacation time, uncover hidden solo cruise secrets, and create meaningful moments that stick with you long after disembarkation. You’ll also hear real stories from fellow solo travelers who found inspir",
+            "that stick with you long after disembarkation. You’ll also hear real stories from fellow solo travelers who found inspiration, courage, and unexpected transformation at sea. Each section is designed to help you feel grounded, supported, and excited for your next",
+            "and excited for your next adventure. LEARN MORE Welcome About Contact Solo Adventures New Solo Cruise Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo Cruise Reports from Journalist Wade Heath Sitemap Follow us"
+          ]
+        },
+        {
+          "url": "https://thesolocruise.com/solo-adventures",
+          "label": "Solo Adventures",
+          "keyword_count": 6,
+          "snippets": [
+            "Solo Cruise Reviews - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo",
+            "Solo Cruise Reviews - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo Adventures New Solo Cruis",
+            "Solo Cruise Reviews - The Solo Cruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo Adventures New Solo Cruise Book Reach Out Los Angeles, CA, US solocruisercontac",
+            "ruise Welcome About Contact Solo Adventures New Solo Cruise Book RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo Adventures New Solo Cruise Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo Cr",
+            "RECENT VIDEOS The Latest Solo Cruise Adventures Welcome About Contact Solo Adventures New Solo Cruise Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo Cruise Reports from Journalist Wade Heath Sitemap Follow us",
+            "se Book Reach Out Los Angeles, CA, US solocruisercontact@gmail.com About us Travel Tips & Solo Cruise Reports from Journalist Wade Heath Sitemap Follow us"
+          ]
+        }
+      ],
+      "candidate_links_found": 2,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "The Solo Cruise",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T02:03:51.246452+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
