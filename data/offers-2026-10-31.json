@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 75,
+  "sources_attempted": 76,
   "sources_checked": 59,
-  "sources_blocked": 15,
+  "sources_blocked": 16,
   "sources_failed": 1,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -363,6 +363,10 @@
     },
     {
       "source": "Reddit r/Cruise",
+      "reason": "HTTP Error 403: Blocked"
+    },
+    {
+      "source": "Reddit r/CruiseDeals",
       "reason": "HTTP Error 403: Blocked"
     }
   ],

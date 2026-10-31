@@ -2859,6 +2859,19 @@
       "source_name": "Reddit r/Cruise",
       "checker_version": 19,
       "checked_at": "2026-10-31T02:00:54.701570+00:00"
+    },
+    "76": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "Reddit r/CruiseDeals",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T02:01:16.483187+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
