@@ -1,13 +1,13 @@
 # Cabins41 — test report
-Run: 2026-10-31T19:11:29+00:00 to 2026-10-31T19:39:19.834121+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41233029486
+Run: 2026-10-31T21:56:29+00:00 to 2026-10-31T22:22:47.704913+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41245889703
 **Search exit code:** 0
-**Sources freshly attempted:** 65 of 65
-**Checked:** 64; **blocked:** 0; **other failures:** 1
+**Sources freshly attempted:** 64 of 64
+**Checked:** 64; **blocked:** 0; **other failures:** 0
 **Potential solo sailings (unverified):** 17; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
-- Riviera Travel: failed — <urlopen error [Errno -5] No address associated with hostname>
+None recorded.
 
 ## Potential offers requiring manual checking
 - Ambience | 2026-11-13 | Ambassador Cruise Line | https://www.ambassadorcruiseline.com/deals/solo-cruisers/ | solo evidence: solo offers
@@ -34,12 +34,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 1/3
+Consecutive baseline passes: 2/3
 Three-run reliability test complete: NO
 Changes from previous run:
-- attempted: 65 (previous 65, change +0)
-- checked: 64 (previous 63, change +1)
-- blocked: 0 (previous 1, change -1)
-- failed: 1 (previous 1, change +0)
-- potential: 17 (previous 11, change +6)
-Baseline uses 65 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
+- attempted: 64 (previous 65, change -1)
+- checked: 64 (previous 64, change +0)
+- blocked: 0 (previous 0, change +0)
+- failed: 0 (previous 1, change -1)
+- potential: 17 (previous 17, change +0)
+Baseline uses 64 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
