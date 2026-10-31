@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 37,
+  "sources_attempted": 38,
   "sources_checked": 32,
-  "sources_blocked": 5,
+  "sources_blocked": 6,
   "sources_failed": 0,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -323,6 +323,10 @@
     },
     {
       "source": "Dreamlines",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Limitless Travel",
       "reason": "HTTP Error 403: Forbidden"
     }
   ],
