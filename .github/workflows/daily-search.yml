@@ -52,13 +52,15 @@ jobs:
           }
           git config user.name 'Cabins41 Search Bot'
           git config user.email 'actions@users.noreply.github.com'
-          for n in $(seq 1 85); do
+          mapfile -t source_ids < <(python -c "import json; print('\\n'.join(str(x['id']) for x in json.load(open('sources.json', encoding='utf-8'))))")
+          for index in "${!source_ids[@]}"; do
+            n="${source_ids[$index]}"
             CABINS41_FORCE_RECHECK=1 python search.py --one "$n" --no-wait
             git add data/
             if ! git diff --cached --quiet; then
               save_results "Save source $n results" || exit 1
             fi
-            if [ "$n" -lt 85 ]; then sleep 20; fi
+            if [ "$index" -lt "$((${#source_ids[@]} - 1))" ]; then sleep 20; fi
           done
           date="$(TZ=Europe/London date +%F)"
           cat "data/offers-${date}.md" >> "$GITHUB_STEP_SUMMARY"
