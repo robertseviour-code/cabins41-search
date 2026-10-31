@@ -381,6 +381,40 @@
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:29:58.384809+00:00"
+    },
+    "7": {
+      "status": "checked",
+      "url": "https://www.azamara.com/home",
+      "lead_snippets": [
+        "booking will retain promotion. Offer is not applicable to incentive or contracted groups. Single occupancy guests paying 200% cruise fare are eligible for the full amount of the Offer. Single occupancy guests paying less than 200% cruise fare are eligible for a pror",
+        "e occupancy guests paying 200% cruise fare are eligible for the full amount of the Offer. Single occupancy guests paying less than 200% cruise fare are eligible for a prorated amount of the Offer. After the Offer Period, the Offer will be removed from the booking if"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.azamara.com/deals",
+          "label": "View All Deals",
+          "keyword_count": 15,
+          "snippets": [
+            "booking will retain promotion. Offer is not applicable to incentive or contracted groups. Single occupancy guests paying 200% cruise fare are eligible for the full amount of the Offer. Single occupancy guests paying less than 200% cruise fare are eligible for a pror",
+            "e occupancy guests paying 200% cruise fare are eligible for the full amount of the Offer. Single occupancy guests paying less than 200% cruise fare are eligible for a prorated amount of the Offer. After the Offer Period, the Offer will be removed from the booking if",
+            "er is subject to availability and change without notice and may be withdrawn at any time. Single occupancy guests paying 200% cruise fare are eligible for the full amount of the offer; single occupancy guests paying less than 200% cruise fare are eligible for a pror",
+            "e occupancy guests paying 200% cruise fare are eligible for the full amount of the offer; single occupancy guests paying less than 200% cruise fare are eligible for a prorated amount of the offer. This offer is applicable to U.S., Canada, and select global markets o",
+            "with Azamara’s general marketplace offers, back-to-back offer, Early Booking Benefit and single supplement savings. Offer may not be combined with certain restricted fares including Interline, travel agent and travel agent rates, family & friends, employee rates or",
+            "edeemable for cash and will expire if not used by 10 pm on the final night of the cruise. Single occupancy bookings will receive a pro-rated OBC based on the single supplement rate paid for the cruise. Offer is subject to change without notice, capacity controlled a",
+            "night of the cruise. Single occupancy bookings will receive a pro-rated OBC based on the single supplement rate paid for the cruise. Offer is subject to change without notice, capacity controlled and may be withdrawn at any time. OPEN BOOKINGS: Open bookings have no",
+            "each guest will be required at time of booking. ©2023 Azamara® Ships registered in Malta Solo Travelers Solo Rates Solo cruisers pay special low rates for select sailings. Book Now Learn More Terms & Conditions Terms & Conditions CLOSE *Single Supplement is avail"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Azamara",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:30:21.557310+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
