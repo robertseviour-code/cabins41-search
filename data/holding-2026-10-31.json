@@ -2729,6 +2729,40 @@
       "source_name": "Carry On Travel Solo",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:58:57.267953+00:00"
+    },
+    "71": {
+      "status": "checked",
+      "url": "https://checkmydeal.es",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://checkmydeal.es/cruises/ofertas",
+          "label": "⁠ Nueva oferta de crucero:   Celebrity Edge  desde  1.792 € ⁠",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://checkmydeal.es/company/travel/cruises/compare-cruises",
+          "label": "Comparar cruceros 0",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://checkmydeal.es/cruises/comparar",
+          "label": "Comparar cruceros",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 3,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "CheckMyDeal",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:59:20.963695+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
