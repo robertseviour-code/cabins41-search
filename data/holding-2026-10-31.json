@@ -2898,6 +2898,19 @@
       "source_name": "Reddit r/NCL",
       "checker_version": 19,
       "checked_at": "2026-10-31T02:01:59.852944+00:00"
+    },
+    "79": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Blocked",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "Reddit r/solotravel",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T02:02:21.456048+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
