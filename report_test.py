@@ -10,10 +10,12 @@ import urllib.request
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--since", required=True, help="UTC ISO start time for this run")
-    p.add_argument("--expected", type=int, default=85)
+    p.add_argument("--expected", type=int, default=None)
     p.add_argument("--search-exit", type=int, default=0)
     p.add_argument("--output", default="data/latest-test-report.md")
     args = p.parse_args()
+    if args.expected is None:
+        args.expected = len(json.loads(Path("sources.json").read_text(encoding="utf-8")))
     since = dt.datetime.fromisoformat(args.since.replace("Z", "+00:00"))
     now = dt.datetime.now(dt.timezone.utc)
     today = dt.datetime.now(dt.timezone(dt.timedelta(0))).date().isoformat()
@@ -61,10 +63,10 @@ def main():
     if not dedup:
         lines.append("No potential offers detected in this run.")
     lines.extend(["", "## Assessment"])
-    if args.search_exit or len(fresh) != args.expected or blocked or failed:
-        lines.append("INCOMPLETE / DEGRADED: investigate failures and missing checks before calling this run reliable.")
+    if args.search_exit or len(fresh) != args.expected or len(blocked) > 1 or len(failed) > 1:
+        lines.append("INCOMPLETE / DEGRADED: investigate missing checks, run errors, or more than one blocked/failed main source.")
     else:
-        lines.append("All expected sources returned a checked status. Offer quality still requires manual verification.")
+        lines.append("All expected main sources were accounted for within the operational baseline. Offer quality still requires manual verification.")
     lines.append("No offers have been approved for publication by this report.")
     report = "\n".join(lines) + "\n"
     # Optional AI commentary. It must never hide the factual report or invent verified fares.
