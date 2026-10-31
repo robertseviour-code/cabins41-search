@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-31",
+  "sources_attempted": 1,
+  "sources_checked": 0,
+  "sources_blocked": 1,
+  "sources_failed": 0,
+  "qualified_candidates": 0,
+  "candidate_sailings": 0,
+  "duplicate_check_required": false,
+  "duplicate_sailings_excluded": 0,
+  "existing_listings_status": {
+    "status": "loaded",
+    "url": "https://lovely-paletas-545789.netlify.app/",
+    "count": 74,
+    "error": ""
+  },
+  "verified_offers": 0,
+  "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
+  "offers": [],
+  "blocked_sources": [
+    {
+      "source": "AffordableTours",
+      "reason": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "blocked_candidate_pages": [],
+  "failed_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-31",
+  "results": {
+    "1": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "AffordableTours",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:27:35.740281+00:00"
+    }
+  },
+  "description": "Qualified solo offer candidates; not verified offers"
+}
