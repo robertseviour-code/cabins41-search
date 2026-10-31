@@ -1758,6 +1758,19 @@
       "source_name": "Morr and Meer",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:44:14.981512+00:00"
+    },
+    "42": {
+      "status": "blocked",
+      "error": "HTTP Error 401: Unauthorized",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "MSC Cruises",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:44:36.964905+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"

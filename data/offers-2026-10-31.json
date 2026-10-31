@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 41,
+  "sources_attempted": 42,
   "sources_checked": 33,
-  "sources_blocked": 8,
+  "sources_blocked": 9,
   "sources_failed": 0,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -336,6 +336,10 @@
     {
       "source": "Marella Cruises",
       "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "MSC Cruises",
+      "reason": "HTTP Error 401: Unauthorized"
     }
   ],
   "blocked_candidate_pages": [],
