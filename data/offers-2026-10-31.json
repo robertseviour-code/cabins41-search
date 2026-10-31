@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 74,
+  "sources_attempted": 75,
   "sources_checked": 59,
-  "sources_blocked": 14,
+  "sources_blocked": 15,
   "sources_failed": 1,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -360,6 +360,10 @@
     {
       "source": "CruisePlum",
       "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Reddit r/Cruise",
+      "reason": "HTTP Error 403: Blocked"
     }
   ],
   "blocked_candidate_pages": [],
