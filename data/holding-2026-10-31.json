@@ -2419,6 +2419,19 @@
       "source_name": "Travel Dealz",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:54:25.064506+00:00"
+    },
+    "62": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "Uniworld",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:54:46.927428+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
