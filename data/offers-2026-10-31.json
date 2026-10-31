@@ -4,10 +4,10 @@
   "sources_checked": 64,
   "sources_blocked": 0,
   "sources_failed": 1,
-  "qualified_candidates": 19,
-  "candidate_sailings": 19,
+  "qualified_candidates": 18,
+  "candidate_sailings": 18,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 15,
+  "duplicate_sailings_excluded": 17,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
@@ -350,7 +350,7 @@
       "ship": "Norwegian Breakaway",
       "departure_date": "2026-11-20",
       "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "ht verfügbar Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Servicegebühr Zuschlag nur 0% 8 Nächte an Bord der Costa Toscana 20. Nov. 2026 – 28. Nov. 2026 Mittelmeer Routenverlauf ansehen Genua → Savona Innenkabine ab 519 € Meerblickkabine ab 559 € Balkonkabine ab 569 € Suite Nicht verfügbar Zum Angebot Medi | Sailing: 2026 (5 Termine) Karibik Routenverlauf ansehen Galveston → Galveston Innenkabine ab 499 € Meerblickkabine ab 544 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway Nov. 2026 - Dez. 2026 (2 Termine) Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Servicege",
+      "evidence": "ht verfügbar Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Servicegebühr Zuschlag nur 0% 8 Nächte an Bord der Costa Toscana 20. Nov. 2026 – 28. Nov. 2026 Mittelmeer Routenverlauf ansehen Genua → Savona Innenkabine ab 519 € Meerblickkabine ab 559 € Balkonkabine ab 569 € Suite Nicht verfügbar Zum Angebot Medi | Sailing: ) Mittelmeer Routenverlauf ansehen Rom / Civitavecchia → Rom / Civitavecchia Innenkabine ab 499 € Meerblickkabine ab 639 € Balkonkabine ab 689 € Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway Nov. 2026 - Dez. 2026 (2 Termine) Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Serviceg",
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte",
@@ -371,24 +371,6 @@
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Atlantis Reisen and Seereisen",
-      "source_id": 6,
-      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-      "ship": "Costa Toscana",
-      "departure_date": "2026-11-22",
-      "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "ine ab 829 € Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Servicegebühr Zuschlag nur 0% 8 Nächte an Bord der Costa Toscana 22. Nov. 2026 – 30. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 559 € Meerblickkabine ab 609 € Balkonkabine ab 649 € Suite Nicht verfügbar Zum Angeb | Sailing: Nov. 2026 – 22. Nov. 2026 Kanaren Routenverlauf ansehen Savona → Santa Cruz de Tenerife Innenkabine ab 539 € Meerblickkabine ab 739 € Balkonkabine ab 829 € Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Servicegebühr Zuschlag nur 0% 8 Nächte an Bord der Costa Toscana 22. Nov. 2026 – 30. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 559 € Meerblickkabine ab 609 € Balkonkabine ab 649 € Suite Nicht verfügbar Zum Angebot zurück 1 2 3 4 5 36 weiter Alle Angaben ohne Gewähr, Angebot vorbehaltli",
-      "prices_mentioned": [
-        "€50"
-      ],
-      "durations_mentioned": [
-        "8 Nächte"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
