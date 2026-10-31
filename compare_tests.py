@@ -7,7 +7,7 @@ def number(label):
  import re
  m=re.search(label+r":\*\* (\d+)",s)
  return int(m.group(1)) if m else 0
-current={"run":os.getenv("GITHUB_RUN_ID","unknown"),"attempted":number("Sources freshly attempted"),"checked":number("Checked"),"blocked":number("blocked"),"failed":number("other failures"),"potential":number("Potential solo sailings \(unverified\)")}
+current={"run":os.getenv("GITHUB_RUN_ID","unknown"),"attempted":number("Sources freshly attempted"),"checked":number("Checked"),"blocked":number("blocked"),"failed":number("other failures"),"potential":number(r"Potential solo sailings \(unverified\)"),"criteria_version":2}
 previous_files=sorted(p.glob("*.json"))
 previous=json.loads(previous_files[-1].read_text()) if previous_files else None
 # Read the active main-source count; Problem Sources are stored separately. Allow one blocked and one other failed source.
