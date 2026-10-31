@@ -1043,6 +1043,37 @@
       "source_name": "Cunard",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:36:05.872864+00:00"
+    },
+    "22": {
+      "status": "checked",
+      "url": "https://deluxecruises.co.uk",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://deluxecruises.co.uk/promotion/solo-supplement-deals/",
+          "label": "Solo Supplement Deals",
+          "keyword_count": 18,
+          "snippets": [
+            "orld is meant to be explored on your own terms, without the heavy price tag of a standard single supplement. That’s why we’ve curated a selection of extraordinary offers, with the world’s most inclusive cruise lines, featuring reduced single supplements , allowing yo",
+            "n private suite for less. Seabourn Silversea Regent Crystal Oceania Exceptional Value for Solo Travellers Seabourn is offering solo guests a reduced single supplement starting at only 25% above current fares on select voyages and in select suite categories. Whether",
+            "Oceania Exceptional Value for Solo Travellers Seabourn is offering solo guests a reduced single supplement starting at only 25% above current fares on select voyages and in select suite categories. Whether you crave the icy wonders of Antarctica or the hidden gems o",
+            "mosphere: With fewer guests onboard, you’ll find a warm, welcoming community. Seabourn’s “Solo Traveller” hosted dinners and cocktail parties make it easy to connect with like-minded explorers. All-Ocean-Front Suites: Relax in a luxuriously appointed suite, most w",
+            "of the Mediterranean , the world is yours to discover – without the usual ‘solo tax’. Why Solo Travellers Love Silversea A Warm Welcome: Start your journey at an exclusive Champagne Welcome Reception , designed to help you mingle with fellow solo travellers. Though",
+            "ney at an exclusive Champagne Welcome Reception , designed to help you mingle with fellow solo travellers. Thoughtful Hosting: On select voyages, Gentleman Hosts are available to ensure you always have a partner for dancing or a companion for dinner. The Gold Stand",
+            "i Lisbon Silver Ray 21 May 2028 11 Honolulu Vancouver Silver Whisper Special Single Fares Single Supplement Specials Reduced Single Supplements (on select sailings) across a stunning array of global destinations. From the sun-drenched Mediterranean to the majestic gl",
+            "ship sizes and social atmosphere make it easy to meet like-minded travellers at special “Solo Traveller” cocktail parties. Unrivalled Space: Retreat to the most luxurious suites at sea, featuring private balconies and personalised service that anticipates your ev"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Deluxe Cruises",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:36:30.487313+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
