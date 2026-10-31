@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 71,
+  "sources_attempted": 72,
   "sources_checked": 57,
-  "sources_blocked": 13,
+  "sources_blocked": 14,
   "sources_failed": 1,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -355,6 +355,10 @@
     },
     {
       "source": "Windstar Cruises",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "CruisePlum",
       "reason": "HTTP Error 403: Forbidden"
     }
   ],

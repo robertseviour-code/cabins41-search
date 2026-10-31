@@ -2763,6 +2763,19 @@
       "source_name": "CheckMyDeal",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:59:20.963695+00:00"
+    },
+    "72": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "CruisePlum",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:59:42.929717+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
