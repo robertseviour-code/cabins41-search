@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "category": "supplier",
+    "name": "AffordableTours",
+    "url": "https://affordabletours.com",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 2,
+    "category": "supplier",
+    "name": "AIDA Cruises",
+    "url": "https://aida.de",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 14,
+    "category": "supplier",
+    "name": "Cruise Club UK",
+    "url": "https://helpcentre.cruiseclubuk.com",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 19,
+    "category": "supplier",
+    "name": "CruiseKings",
+    "url": "https://cruisekings.co.uk",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 23,
+    "category": "supplier",
+    "name": "Dreamlines",
+    "url": "https://dreamlines.de",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 38,
+    "category": "supplier",
+    "name": "Limitless Travel",
+    "url": "https://limitlesstravel.org",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 39,
+    "category": "supplier",
+    "name": "Logitravel",
+    "url": "https://logitravel.com",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 40,
+    "category": "supplier",
+    "name": "Marella Cruises",
+    "url": "https://tui.co.uk",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 42,
+    "category": "supplier",
+    "name": "MSC Cruises",
+    "url": "https://msccruises.co.uk",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 45,
+    "category": "supplier",
+    "name": "Oceania Cruises",
+    "url": "https://oceaniacruises.com",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 62,
+    "category": "supplier",
+    "name": "Uniworld",
+    "url": "https://uniworld.com",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 64,
+    "category": "supplier",
+    "name": "Viajes El Corte Ingles",
+    "url": "https://viajeselcorteingles.es",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 68,
+    "category": "supplier",
+    "name": "Windstar Cruises",
+    "url": "https://windstarcruises.com",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 72,
+    "category": "research",
+    "name": "CruisePlum",
+    "url": "https://cruiseplum.com",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 75,
+    "category": "research",
+    "name": "Reddit r/Cruise",
+    "url": "https://www.reddit.com/r/Cruise/",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 76,
+    "category": "research",
+    "name": "Reddit r/CruiseDeals",
+    "url": "https://www.reddit.com/r/CruiseDeals/",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 77,
+    "category": "research",
+    "name": "Reddit r/Cruises",
+    "url": "https://www.reddit.com/r/Cruises/",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 78,
+    "category": "research",
+    "name": "Reddit r/NCL",
+    "url": "https://www.reddit.com/r/NCL/",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 79,
+    "category": "research",
+    "name": "Reddit r/solotravel",
+    "url": "https://www.reddit.com/r/solotravel/",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 80,
+    "category": "research",
+    "name": "Reddit r/VirginVoyages",
+    "url": "https://www.reddit.com/r/VirginVoyages/",
+    "status": "blocked in 31 October 2026 search",
+    "note": "Keep outside the main search; investigate separately."
+  }
+]
