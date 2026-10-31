@@ -1011,6 +1011,38 @@
       "source_name": "Crystal Cruises",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:35:40.095996+00:00"
+    },
+    "21": {
+      "status": "checked",
+      "url": "https://www.cunard.com/en-us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.cunard.com/en-us/cruise-deals/fall-savings-event",
+          "label": "",
+          "keyword_count": 1,
+          "snippets": [
+            "the stateroom. Fares are subject to standard Cunard terms and conditions. Guests paying a single occupancy supplement receive the same discount percentage. Reduced Refundable Deposit Offer A reduced refundable 12.5% deposit is required within three days of reservati"
+          ]
+        },
+        {
+          "url": "https://www.cunard.com/en-us/cruise-deals/black-friday-sale/black-friday-register",
+          "label": "Plus, extra savings",
+          "keyword_count": 1,
+          "snippets": [
+            "S$50 per person). Offer applies to first and second guests only. Single guests paying the single supplement in a double occupancy stateroom will receive the per stateroom savings amount. Offer available on a space-available basis at time of booking, on select categor"
+          ]
+        }
+      ],
+      "candidate_links_found": 2,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Cunard",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:36:05.872864+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
