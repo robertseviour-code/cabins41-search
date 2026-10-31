@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 44,
+  "sources_attempted": 45,
   "sources_checked": 35,
-  "sources_blocked": 9,
+  "sources_blocked": 10,
   "sources_failed": 0,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -340,6 +340,10 @@
     {
       "source": "MSC Cruises",
       "reason": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "source": "Oceania Cruises",
+      "reason": "HTTP Error 403: Forbidden"
     }
   ],
   "blocked_candidate_pages": [],
