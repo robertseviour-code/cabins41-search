@@ -16,7 +16,8 @@ passed=(current["attempted"]==expected and current["checked"]>=expected-2 and cu
 current["passed"]=passed
 streak=0
 for file in reversed(previous_files):
- if not json.loads(file.read_text()).get("passed"):break
+ record=json.loads(file.read_text())
+ if record.get("criteria_version") != current["criteria_version"] or not record.get("passed"):break
  streak+=1
 current["streak"]=streak+1 if passed else 0
 current["reliability_test_complete"] = current["streak"] >= 3
