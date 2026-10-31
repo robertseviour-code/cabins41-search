@@ -2487,6 +2487,19 @@
       "source_name": "Vacations To Go",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:55:10.781079+00:00"
+    },
+    "64": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "Viajes El Corte Ingles",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:55:33.403938+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"

@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 63,
+  "sources_attempted": 64,
   "sources_checked": 51,
-  "sources_blocked": 11,
+  "sources_blocked": 12,
   "sources_failed": 1,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -347,6 +347,10 @@
     },
     {
       "source": "Uniworld",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "Viajes El Corte Ingles",
       "reason": "HTTP Error 403: Forbidden"
     }
   ],
