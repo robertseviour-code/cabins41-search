@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 79,
+  "sources_attempted": 80,
   "sources_checked": 59,
-  "sources_blocked": 19,
+  "sources_blocked": 20,
   "sources_failed": 1,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -379,6 +379,10 @@
     },
     {
       "source": "Reddit r/solotravel",
+      "reason": "HTTP Error 403: Blocked"
+    },
+    {
+      "source": "Reddit r/VirginVoyages",
       "reason": "HTTP Error 403: Blocked"
     }
   ],
