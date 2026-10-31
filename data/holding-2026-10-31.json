@@ -983,6 +983,19 @@
       "source_name": "CruiseBooking",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:34:55.746218+00:00"
+    },
+    "19": {
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "CruiseKings",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:35:17.647684+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"

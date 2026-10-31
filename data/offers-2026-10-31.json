@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 18,
+  "sources_attempted": 19,
   "sources_checked": 15,
-  "sources_blocked": 3,
+  "sources_blocked": 4,
   "sources_failed": 0,
   "qualified_candidates": 14,
   "candidate_sailings": 14,
@@ -315,6 +315,10 @@
     },
     {
       "source": "Cruise Club UK",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "CruiseKings",
       "reason": "HTTP Error 403: Forbidden"
     }
   ],
