@@ -80,6 +80,14 @@
     "note": "Keep outside the main search; investigate separately."
   },
   {
+    "id": 55,
+    "category": "supplier",
+    "name": "Riviera Travel",
+    "url": "https://rivieratravel.com",
+    "status": "DNS failure in 31 October 2026 search",
+    "note": "Move out of the main search after a DNS failure; investigate separately."
+  },
+  {
     "id": 62,
     "category": "supplier",
     "name": "Uniworld",
