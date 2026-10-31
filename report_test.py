@@ -88,19 +88,6 @@ def main():
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)
     Path(args.output).write_text(report, encoding="utf-8")
     print(report)
-    # Email using an optional Resend API key. No credentials or report body are logged.
-    if os.getenv("RESEND_API_KEY") and os.getenv("CABINS41_FROM_EMAIL"):
-        payload = json.dumps({"from": os.environ["CABINS41_FROM_EMAIL"],
-                              "to": ["robertseviour@gmail.com"],
-                              "subject": f"Cabins41 test: {len(fresh)}/{args.expected} sources, {len(blocked)+len(failed)} errors",
-                              "text": report}).encode()
-        req = urllib.request.Request("https://api.resend.com/emails", data=payload,
-            headers={"Authorization": "Bearer " + os.environ["RESEND_API_KEY"], "Content-Type": "application/json"})
-        try:
-            with urllib.request.urlopen(req, timeout=30) as response:
-                print("Email accepted by sending service:", response.status)
-        except Exception as exc:
-            print("Email sending failed:", type(exc).__name__)
 
 if __name__ == "__main__":
     main()
