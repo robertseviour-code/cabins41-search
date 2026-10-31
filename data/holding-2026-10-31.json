@@ -2098,6 +2098,43 @@
       "source_name": "PONANT",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:49:06.442173+00:00"
+    },
+    "54": {
+      "status": "checked",
+      "url": "https://www.princess.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions/compare-cruise-packages",
+          "label": "Compare Cruise Packages",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions",
+          "label": "All Deals & Offers",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions/flash-sale",
+          "label": "Flash Sale | Up to $800 Savings + 45% Off",
+          "keyword_count": 2,
+          "snippets": [
+            "ny $100 $300 $400 $600 $1,100 Minis & Full Suites $100 $400 $600 $800 $1,400 *Guests with single occupancy will receive single, per guest instant savings amount ($50–$700). View Cruises Escape to the extraordinary with up to $800 instant savings Up to $400 instant s",
+            "nd stateroom type and is only awarded to the first two guests in a stateroom. Guests with single occupancy will receive single, per guest Instant Savings amount ($50-$700). Interior and Oceanview staterooms for voyages 2-5 days in length will receive $50 Instant Sav"
+          ]
+        }
+      ],
+      "candidate_links_found": 11,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Princess Cruises",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:49:31.356343+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
