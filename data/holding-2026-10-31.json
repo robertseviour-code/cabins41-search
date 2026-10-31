@@ -2500,6 +2500,38 @@
       "source_name": "Viajes El Corte Ingles",
       "checker_version": 19,
       "checked_at": "2026-10-31T01:55:33.403938+00:00"
+    },
+    "65": {
+      "status": "checked",
+      "url": "https://www.virginvoyages.com:443/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals",
+          "error": "HTTP Error 500: Internal Server Error"
+        },
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals/flight-hotel-cruise-packages",
+          "label": "Fly & Stay",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals/cruise-add-on-options",
+          "label": "Cruise Packages",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 4,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Virgin Voyages",
+      "checker_version": 19,
+      "checked_at": "2026-10-31T01:56:58.615911+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
