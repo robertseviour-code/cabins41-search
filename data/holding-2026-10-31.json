@@ -34,7 +34,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "AmaWaterways",
       "checker_version": 19,
-      "checked_at": "2026-10-31T19:11:32.967847+00:00"
+      "checked_at": "2026-10-31T21:56:33.864447+00:00"
     },
     "4": {
       "status": "checked",
@@ -2072,19 +2072,6 @@
       "source_name": "Princess Cruises",
       "checker_version": 19,
       "checked_at": "2026-10-31T19:29:05.034522+00:00"
-    },
-    "55": {
-      "status": "failed",
-      "error": "<urlopen error [Errno -5] No address associated with hostname>",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "Riviera Travel",
-      "checker_version": 19,
-      "checked_at": "2026-10-31T19:30:26.623369+00:00"
     },
     "56": {
       "status": "checked",

@@ -1,9 +1,9 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 65,
+  "sources_attempted": 64,
   "sources_checked": 64,
   "sources_blocked": 0,
-  "sources_failed": 1,
+  "sources_failed": 0,
   "qualified_candidates": 17,
   "candidate_sailings": 17,
   "duplicate_check_required": false,
@@ -373,10 +373,5 @@
   ],
   "blocked_sources": [],
   "blocked_candidate_pages": [],
-  "failed_sources": [
-    {
-      "source": "Riviera Travel",
-      "reason": "<urlopen error [Errno -5] No address associated with hostname>"
-    }
-  ]
+  "failed_sources": []
 }
