@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "sources_attempted": 1,
+  "sources_attempted": 2,
   "sources_checked": 0,
-  "sources_blocked": 1,
+  "sources_blocked": 2,
   "sources_failed": 0,
   "qualified_candidates": 0,
   "candidate_sailings": 0,
@@ -20,6 +20,10 @@
   "blocked_sources": [
     {
       "source": "AffordableTours",
+      "reason": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "AIDA Cruises",
       "reason": "HTTP Error 403: Forbidden"
     }
   ],
