@@ -1,0 +1,12 @@
+{
+  "run": "41327742845",
+  "attempted": 63,
+  "checked": 62,
+  "blocked": 0,
+  "failed": 1,
+  "potential": 11,
+  "criteria_version": 2,
+  "passed": true,
+  "streak": 10,
+  "reliability_test_complete": true
+}
