@@ -166,5 +166,13 @@
     "url": "https://www.reddit.com/r/VirginVoyages/",
     "status": "blocked in 31 October 2026 search",
     "note": "Keep outside the main search; investigate separately."
+  },
+  {
+    "id": 69,
+    "category": "research",
+    "name": "AlleinAufKreuzfahrt",
+    "url": "https://alleinaufkreuzfahrt.de",
+    "status": "DNS failures in 1 November 2026 searches",
+    "note": "Removed from main search at user's request; investigate separately."
   }
 ]
