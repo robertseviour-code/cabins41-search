@@ -1,9 +1,9 @@
 {
   "date": "2026-11-01",
   "sources_attempted": 64,
-  "sources_checked": 64,
+  "sources_checked": 63,
   "sources_blocked": 0,
-  "sources_failed": 0,
+  "sources_failed": 1,
   "qualified_candidates": 15,
   "candidate_sailings": 15,
   "duplicate_check_required": false,
@@ -330,5 +330,10 @@
   ],
   "blocked_sources": [],
   "blocked_candidate_pages": [],
-  "failed_sources": []
+  "failed_sources": [
+    {
+      "source": "AlleinAufKreuzfahrt",
+      "reason": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    }
+  ]
 }
