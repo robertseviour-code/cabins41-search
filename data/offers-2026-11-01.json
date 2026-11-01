@@ -1,9 +1,9 @@
 {
   "date": "2026-11-01",
   "sources_attempted": 63,
-  "sources_checked": 63,
+  "sources_checked": 62,
   "sources_blocked": 0,
-  "sources_failed": 0,
+  "sources_failed": 1,
   "qualified_candidates": 11,
   "candidate_sailings": 11,
   "duplicate_check_required": false,
@@ -246,5 +246,10 @@
   ],
   "blocked_sources": [],
   "blocked_candidate_pages": [],
-  "failed_sources": []
+  "failed_sources": [
+    {
+      "source": "PONANT",
+      "reason": "HTTP Error 404: Not Found"
+    }
+  ]
 }
