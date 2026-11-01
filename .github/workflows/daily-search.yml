@@ -5,7 +5,7 @@ on:
     paths: ['.github/workflows/daily-search.yml']
   workflow_dispatch:
   schedule:
-    - cron: '30 */3 * * *'
+    - cron: '30 2 * * *'
 permissions:
   contents: write
 concurrency:
