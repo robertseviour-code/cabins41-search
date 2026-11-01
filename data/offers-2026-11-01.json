@@ -1,13 +1,13 @@
 {
   "date": "2026-11-01",
-  "sources_attempted": 1,
-  "sources_checked": 1,
+  "sources_attempted": 2,
+  "sources_checked": 2,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 0,
-  "candidate_sailings": 0,
+  "qualified_candidates": 1,
+  "candidate_sailings": 1,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 0,
+  "duplicate_sailings_excluded": 2,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
@@ -16,7 +16,29 @@
   },
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
-  "offers": [],
+  "offers": [
+    {
+      "source_name": "Ambassador Cruise Line",
+      "source_id": 4,
+      "seller_url": "https://www.ambassadorcruiseline.com/deals/solo-cruisers/",
+      "ship": "Ambience",
+      "departure_date": "2026-11-13",
+      "solo_evidence": "solo offers",
+      "evidence": "ges and open-deck views, conversations happen naturally and quiet moments are easy to find. Current solo offers Look for solo-friendly benefits on selected sailings, including attractive single supplements and added-value perks. Availability is limited and may change. Check the latest offers when you search. Autumn Escape to the | Sailing: o look forward to Enjoy West-end style entertainment in the Palladium theatres each night or guest entertainers and live music. Prefer something gentler? Settle into a lounge with our duos and classical musicians with a nightcap or take a stroll under the stars. Find your rhythm Ambience, Ambition and Renaissance all feel welcoming, not overwhelming. With intimate lounges and open-deck views, conversations happen naturally and quiet moments are easy to find. Current solo offers Look for solo-friendly benefits on selected sailings, including attractive ",
+      "prices_mentioned": [
+        "£399",
+        "£329"
+      ],
+      "durations_mentioned": [
+        "14 nights",
+        "4 nights",
+        "45 nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    }
+  ],
   "blocked_sources": [],
   "blocked_candidate_pages": [],
   "failed_sources": []
