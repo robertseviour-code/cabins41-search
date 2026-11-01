@@ -162,7 +162,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Aquotic",
       "checker_version": 19,
-      "checked_at": "2026-11-01T15:57:29.787858+00:00"
+      "checked_at": "2026-11-01T16:44:08.019505+00:00"
     },
     "6": {
       "status": "checked",
@@ -2382,19 +2382,6 @@
       "source_name": "Viva Holidays",
       "checker_version": 19,
       "checked_at": "2026-11-01T16:20:26.638192+00:00"
-    },
-    "69": {
-      "status": "failed",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>",
-      "lead_snippets": [],
-      "lead_count": 0,
-      "candidate_pages": [],
-      "possible_offers": [],
-      "duplicates_excluded": [],
-      "blocked_candidate_pages": [],
-      "source_name": "AlleinAufKreuzfahrt",
-      "checker_version": 19,
-      "checked_at": "2026-11-01T16:21:51.552182+00:00"
     },
     "70": {
       "status": "checked",
