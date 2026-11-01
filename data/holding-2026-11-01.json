@@ -2023,6 +2023,25 @@
       "source_name": "Phoenix Reisen",
       "checker_version": 19,
       "checked_at": "2026-11-01T01:54:09.233215+00:00"
+    },
+    "53": {
+      "status": "checked",
+      "url": "https://en.ponant.com",
+      "lead_snippets": [
+        "rd the ship Le Paul Gauguin Next departure 30/10/27 06/11/27 Offer(s) Back to back offer, Solo Traveller 0%, PONANT Bonus 25% From 4,410 € /person* Discover Fjords and glaciers of Spitsbergen Package included From Longyearbyen, Spitsbergen (Norway) To Longyearbyen",
+        "s aboard the ship Le Lyrial Next departure 03/07/27 10/07/27 Offer(s) Back to back offer, Solo Traveller 0%, PONANT Bonus 20% From 9,720 € /person* Discover Wilderness from Greenland to the East Coast of Canada Package included From Nuuk (Greenland) To Saint Pierr",
+        "s aboard the ship Le Lyrial Next departure 09/09/27 23/09/27 Offer(s) Back to back offer, Solo Traveller 0%, PONANT Bonus 20% From 13,940 € /person* Discover *Price displayed is per person, based on double occupancy, based on availability, and subject to change at"
+      ],
+      "lead_count": 3,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "PONANT",
+      "checker_version": 19,
+      "checked_at": "2026-11-01T01:54:32.481891+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
