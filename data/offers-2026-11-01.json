@@ -4,8 +4,8 @@
   "sources_checked": 64,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 16,
-  "candidate_sailings": 16,
+  "qualified_candidates": 15,
+  "candidate_sailings": 15,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 18,
   "existing_listings_status": {
@@ -21,12 +21,33 @@
       "source_name": "Cruise118",
       "source_id": 17,
       "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Aqua",
+      "departure_date": "2026-11-08",
+      "solo_evidence": "Solo Prices",
+      "evidence": "3 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 039232 Saint Thomas Miami, Florida Miami, Florida Solo Prices From: £799 £799 Caribbean: Great Stirrup Cay & Dominican Republic Miami | Puerto Plata | Saint Thomas | Road Town | Great Stirrup Cay | Miami 08 Nov 2026 7 Nights Norwegian Aqua Bahamas 08 Nov 2026 7 Nights Norwegian Aq | Sailing: 3 £733 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 039232 Saint Thomas Miami, Florida Miami, Florida Solo Prices From: £799 £799 Caribbean: Great Stirrup Cay & Dominican Republic Miami | Puerto Plata | Saint Thomas | Road Town | Great Stirrup Cay | Miami 08 Nov 2026 7 Nights Norwegian Aqua Bahamas 08 Nov 2026 7 Nights Norwegian Aqua Bahamas Low deposits from £100pp, PLUS up to £250 savings on Balcony and above Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Exclusive Weekend Sale! One FREE speci",
+      "prices_mentioned": [
+        "£733",
+        "£799",
+        "£100",
+        "£250"
+      ],
+      "durations_mentioned": [
+        "7 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
       "ship": "Carnival Celebration",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "s Carnival Celebration Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £669 Now: £629 £629 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013846 Roatán Island Galveston, Texas Galveston, Texas Solo Prices From: Was £924 Now: £869 £869 6-Day Western Caribbean Galveston | Cozumel | Sailing: £1551 £1551 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 019316 Miami, Florida San Juan (Puerto Rico) Miami, Florida Solo Prices From: Was £669 Now: £629 £629 7-Day Eastern Caribbean Miami | Saint Thomas | San Juan (Puerto Rico) | Celebration Key | Miami 08 Nov 2026 7 Nights Carnival Celebration Bahamas 08 Nov 2026 7 Nights Carnival Celebration Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £669 Now: £629 £629 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013846 Roatán Island Galveston, Texas Gal",
+      "evidence": "s Carnival Celebration Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £669 Now: £629 £629 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013846 Roatán Island Galveston, Texas Galveston, Texas Solo Prices From: Was £924 Now: £869 £869 6-Day Western Caribbean Galveston | Cozumel | Sailing: 55 Now: £1599 £1599 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 019316 Celebration Key Miami, Florida Miami, Florida Solo Prices From: Was £669 Now: £629 £629 7-Day Eastern Caribbean Miami | Saint Thomas | San Juan (Puerto Rico) | Celebration Key | Miami 08 Nov 2026 7 Nights Carnival Celebration Bahamas 08 Nov 2026 7 Nights Carnival Celebration Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £669 Now: £629 £629 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013846 Roatán Island Galveston, Texas Ga",
       "prices_mentioned": [
-        "£1551",
+        "£1599",
         "£669",
         "£629",
         "£924"
@@ -46,7 +67,7 @@
       "ship": "MSC Fantasia",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "478 Now: £431 £431 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 079360 Trieste Istanbul Kusadasi Solo Prices From: Was £1386 Now: £1221 £1221 Mediterranean 9 Nights From Trieste Trieste | Katakolon | Piraeus | Kusadasi | Istanbul | Corfu | Bari | Trieste 08 Nov 2026 9 Nights MSC Fantasia Mediterranean 08 Nov 2026 9 Nights MSC | Sailing: olo Prices From: Was £478 Now: £431 £431 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 079360 Trieste Istanbul Kusadasi Solo Prices From: Was £1386 Now: £1221 £1221 Mediterranean 9 Nights From Trieste Trieste | Katakolon | Piraeus | Kusadasi | Istanbul | Corfu | Bari | Trieste 08 Nov 2026 9 Nights MSC Fantasia Mediterranean 08 Nov 2026 9 Nights MSC Fantasia Mediterranean Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp pe",
+      "evidence": "£478 Now: £431 £431 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 079360 Trieste Katakolon Corfu Solo Prices From: Was £1386 Now: £1221 £1221 Mediterranean 9 Nights From Trieste Trieste | Katakolon | Piraeus | Kusadasi | Istanbul | Corfu | Bari | Trieste 08 Nov 2026 9 Nights MSC Fantasia Mediterranean 08 Nov 2026 9 Nights MSC | Sailing: Solo Prices From: Was £478 Now: £431 £431 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 079360 Trieste Katakolon Corfu Solo Prices From: Was £1386 Now: £1221 £1221 Mediterranean 9 Nights From Trieste Trieste | Katakolon | Piraeus | Kusadasi | Istanbul | Corfu | Bari | Trieste 08 Nov 2026 9 Nights MSC Fantasia Mediterranean 08 Nov 2026 9 Nights MSC Fantasia Mediterranean Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp per ",
       "prices_mentioned": [
         "£478",
         "£431",
@@ -68,7 +89,7 @@
       "ship": "Carnival Jubilee",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "w cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013846 Roatán Island Galveston, Texas Galveston, Texas Solo Prices From: Was £924 Now: £869 £869 6-Day Western Caribbean Galveston | Cozumel | Roatán Island | Galveston 08 Nov 2026 6 Nights Carnival Jubilee Caribbean 08 Nov 2026 6 Nights Carnival Jubilee Caribbean Live availability and | Sailing: e with Cruise118.com Solo Prices From: Was £669 Now: £629 £629 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013846 Roatán Island Galveston, Texas Galveston, Texas Solo Prices From: Was £924 Now: £869 £869 6-Day Western Caribbean Galveston | Cozumel | Roatán Island | Galveston 08 Nov 2026 6 Nights Carnival Jubilee Caribbean 08 Nov 2026 6 Nights Carnival Jubilee Caribbean Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £924 Now: £869 £869 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014070 Belize City New",
+      "evidence": "w cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013846 Roatán Island Galveston, Texas Galveston, Texas Solo Prices From: Was £924 Now: £869 £869 6-Day Western Caribbean Galveston | Cozumel | Roatán Island | Galveston 08 Nov 2026 6 Nights Carnival Jubilee Caribbean 08 Nov 2026 6 Nights Carnival Jubilee Caribbean Live availability and | Sailing: e with Cruise118.com Solo Prices From: Was £669 Now: £629 £629 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013846 Roatán Island Galveston, Texas Galveston, Texas Solo Prices From: Was £924 Now: £869 £869 6-Day Western Caribbean Galveston | Cozumel | Roatán Island | Galveston 08 Nov 2026 6 Nights Carnival Jubilee Caribbean 08 Nov 2026 6 Nights Carnival Jubilee Caribbean Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £924 Now: £869 £869 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014070 New Orleans, Lo",
       "prices_mentioned": [
         "£669",
         "£629",
@@ -90,7 +111,7 @@
       "ship": "Carnival Liberty",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "RUISE ONLY BOOK ONLINE Holiday ID: 014070 Belize City New Orleans, Louisiana New Orleans, Louisiana Solo Prices From: Was £862 Now: £811 £811 7-Day Western Caribbean New Orleans | Cozumel | Belize City | Roatán Island | New Orleans 08 Nov 2026 7 Nights Carnival Liberty Caribbean 08 Nov 2026 7 Nights Carnival Liberty Caribbean Liv | Sailing: ices From: Was £924 Now: £869 £869 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014070 Belize City New Orleans, Louisiana New Orleans, Louisiana Solo Prices From: Was £862 Now: £811 £811 7-Day Western Caribbean New Orleans | Cozumel | Belize City | Roatán Island | New Orleans 08 Nov 2026 7 Nights Carnival Liberty Caribbean 08 Nov 2026 7 Nights Carnival Liberty Caribbean Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £862 Now: £811 £811 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014154 Miami, Florida ",
+      "evidence": "9 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014070 New Orleans, Louisiana Belize City Cozumel Solo Prices From: Was £862 Now: £811 £811 7-Day Western Caribbean New Orleans | Cozumel | Belize City | Roatán Island | New Orleans 08 Nov 2026 7 Nights Carnival Liberty Caribbean 08 Nov 2026 7 Nights Carnival Liberty Caribbean Liv | Sailing: 118.com Solo Prices From: Was £924 Now: £869 £869 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014070 New Orleans, Louisiana Belize City Cozumel Solo Prices From: Was £862 Now: £811 £811 7-Day Western Caribbean New Orleans | Cozumel | Belize City | Roatán Island | New Orleans 08 Nov 2026 7 Nights Carnival Liberty Caribbean 08 Nov 2026 7 Nights Carnival Liberty Caribbean Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £862 Now: £811 £811 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014154 Grand Turk Isla",
       "prices_mentioned": [
         "£924",
         "£869",
@@ -112,7 +133,7 @@
       "ship": "Carnival Magic",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "Nights Carnival Magic Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £691 Now: £650 £650 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014238 Mobile, Alabama Half Moon Cay Celebration Key Solo Prices From: Was £736 Now: £692 £692 6-Day Bahamas Mobile | Celebration Key | Half | Sailing: Was £862 Now: £811 £811 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014154 Miami, Florida Celebration Key Grand Turk Island Solo Prices From: Was £691 Now: £650 £650 6-Day Eastern Caribbean Miami | Celebration Key | Amber Cove | Grand Turk Island | Miami 08 Nov 2026 6 Nights Carnival Magic Bahamas 08 Nov 2026 6 Nights Carnival Magic Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £691 Now: £650 £650 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014238 Mobile, Alabama Half Moon Cay Celebration Key ",
+      "evidence": "Nights Carnival Magic Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £691 Now: £650 £650 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014238 Celebration Key Mobile, Alabama Mobile, Alabama Solo Prices From: Was £736 Now: £692 £692 6-Day Bahamas Mobile | Celebration Key | Hal | Sailing: rom: Was £862 Now: £811 £811 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014154 Grand Turk Island Amber Cove Miami, Florida Solo Prices From: Was £691 Now: £650 £650 6-Day Eastern Caribbean Miami | Celebration Key | Amber Cove | Grand Turk Island | Miami 08 Nov 2026 6 Nights Carnival Magic Bahamas 08 Nov 2026 6 Nights Carnival Magic Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £691 Now: £650 £650 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014238 Celebration Key Mobile, Alabama Mobile, Alaba",
       "prices_mentioned": [
         "£862",
         "£811",
@@ -130,59 +151,15 @@
       "source_name": "Cruise118",
       "source_id": 17,
       "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "MSC Marine Reserve",
-      "departure_date": "2026-11-08",
-      "solo_evidence": "Solo Prices",
-      "evidence": "iday ID: 039540 Ocean Cay, MSC Marine Reserve Ocean Cay, MSC Marine Reserve Port Canaveral, Florida Solo Prices From: Was £318 Now: £286 £286 Caribbean 4 Nights From Port Canaveral, Florida Port Canaveral | Ocean Cay | Nassau | Port Canaveral 08 Nov 2026 4 Nights MSC Seashore Bahamas 08 Nov 2026 4 Nights MSC Seashore Bahamas Blac | Sailing: diterranean Weekend Sale! Up to £750 savings per stateroom! Combinable with up to 35% off 1st & 2nd guests, £200 Europe flight savings & 3rd and 4th guests from £149pp! Solo Prices From: Was £8146 Now: £7820 £7820 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 039540 Ocean Cay, MSC Marine Reserve Ocean Cay, MSC Marine Reserve Port Canaveral, Florida Solo Prices From: Was £318 Now: £286 £286 Caribbean 4 Nights From Port Canaveral, Florida Port Canaveral | Ocean Cay | Nassau | Port Canaveral 08 Nov 2026 4 Nights MSC Seashore Bahamas 08 Nov 2026 4 Night",
-      "prices_mentioned": [
-        "£750",
-        "£200",
-        "£149",
-        "£8146"
-      ],
-      "durations_mentioned": [
-        "4 Nights",
-        "7 Nights"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "MSC Seashore",
-      "departure_date": "2026-11-08",
-      "solo_evidence": "Solo Prices",
-      "evidence": "iday ID: 039540 Ocean Cay, MSC Marine Reserve Ocean Cay, MSC Marine Reserve Port Canaveral, Florida Solo Prices From: Was £318 Now: £286 £286 Caribbean 4 Nights From Port Canaveral, Florida Port Canaveral | Ocean Cay | Nassau | Port Canaveral 08 Nov 2026 4 Nights MSC Seashore Bahamas 08 Nov 2026 4 Nights MSC Seashore Bahamas Blac | Sailing: BOOK ONLINE Holiday ID: 039540 Ocean Cay, MSC Marine Reserve Ocean Cay, MSC Marine Reserve Port Canaveral, Florida Solo Prices From: Was £318 Now: £286 £286 Caribbean 4 Nights From Port Canaveral, Florida Port Canaveral | Ocean Cay | Nassau | Port Canaveral 08 Nov 2026 4 Nights MSC Seashore Bahamas 08 Nov 2026 4 Nights MSC Seashore Bahamas Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp per day Solo Prices From: Was £318 ",
-      "prices_mentioned": [
-        "£318",
-        "£286",
-        "£28",
-        "£2323"
-      ],
-      "durations_mentioned": [
-        "4 Nights",
-        "7 Nights"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
       "ship": "MSC Seaview",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "461 Now: £407 £407 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 075250 Ibiza Marseille Tarragona Solo Prices From: Was £640 Now: £577 £577 Mediterranean 6 Nights From Civitavecchia Civitavecchia | Palermo | Ibiza | Tarragona | Marseille | Genoa 08 Nov 2026 6 Nights MSC Seaview Mediterranean 08 Nov 2026 6 Nights MSC Seaview Med | Sailing: per day Solo Prices From: Was £461 Now: £407 £407 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 075250 Ibiza Marseille Tarragona Solo Prices From: Was £640 Now: £577 £577 Mediterranean 6 Nights From Civitavecchia Civitavecchia | Palermo | Ibiza | Tarragona | Marseille | Genoa 08 Nov 2026 6 Nights MSC Seaview Mediterranean 08 Nov 2026 6 Nights MSC Seaview Mediterranean Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp per day Solo Prices From: Was £640 Now: £577 £577 View cruise CRUISE ONLY BOOK ONLIN",
+      "evidence": "as £461 Now: £433 £433 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 075250 Genoa Ibiza Marseille Solo Prices From: Was £640 Now: £608 £608 Mediterranean 6 Nights From Civitavecchia Civitavecchia | Palermo | Ibiza | Tarragona | Marseille | Genoa 08 Nov 2026 6 Nights MSC Seaview Mediterranean 08 Nov 2026 6 Nights MSC Seaview Med | Sailing: 28pp per day Solo Prices From: Was £461 Now: £433 £433 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 075250 Genoa Ibiza Marseille Solo Prices From: Was £640 Now: £608 £608 Mediterranean 6 Nights From Civitavecchia Civitavecchia | Palermo | Ibiza | Tarragona | Marseille | Genoa 08 Nov 2026 6 Nights MSC Seaview Mediterranean 08 Nov 2026 6 Nights MSC Seaview Mediterranean Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp per day Solo Prices From: Was £640 Now: £608 £608 View cruise CRUISE ONLY BOOK ONLI",
       "prices_mentioned": [
         "£461",
-        "£407",
+        "£433",
         "£640",
-        "£577"
+        "£608"
       ],
       "durations_mentioned": [
         "6 Nights",
@@ -199,7 +176,7 @@
       "ship": "Carnival Spirit",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "Nights Carnival Spirit Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £736 Now: £692 £692 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014698 Belize City Port Canaveral, Florida Port Canaveral, Florida Solo Prices From: Was £780 Now: £733 £733 7-Day Western Caribbean Port Can | Sailing: se118.com Solo Prices From: Was £691 Now: £650 £650 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014238 Mobile, Alabama Half Moon Cay Celebration Key Solo Prices From: Was £736 Now: £692 £692 6-Day Bahamas Mobile | Celebration Key | Half Moon Cay | Mobile 08 Nov 2026 6 Nights Carnival Spirit Bahamas 08 Nov 2026 6 Nights Carnival Spirit Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £736 Now: £692 £692 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014698 Belize City Port Canaveral, Florida Port C",
+      "evidence": "Nights Carnival Spirit Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £736 Now: £692 £692 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014698 Roatán Island Belize City Port Canaveral, Florida Solo Prices From: Was £780 Now: £733 £733 7-Day Western Caribbean Port Canaveral | R | Sailing: 118.com Solo Prices From: Was £691 Now: £650 £650 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014238 Celebration Key Mobile, Alabama Mobile, Alabama Solo Prices From: Was £736 Now: £692 £692 6-Day Bahamas Mobile | Celebration Key | Half Moon Cay | Mobile 08 Nov 2026 6 Nights Carnival Spirit Bahamas 08 Nov 2026 6 Nights Carnival Spirit Bahamas Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £736 Now: £692 £692 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014698 Roatán Island Belize City Port Canaveral, ",
       "prices_mentioned": [
         "£691",
         "£650",
@@ -221,12 +198,12 @@
       "ship": "MSC Splendida",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "8 Now: £286 £286 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 026457 Palermo Barcelona Barcelona Solo Prices From: Was £2323 Now: £2052 £2052 Mediterranean 7 Nights From Barcelona Barcelona | Marseille | Livorno | Cagliari | Palermo | Valletta | Barcelona 08 Nov 2026 7 Nights MSC Splendida Mediterranean 08 Nov 2026 7 Nights MS | Sailing: Prices From: Was £318 Now: £286 £286 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 026457 Palermo Barcelona Barcelona Solo Prices From: Was £2323 Now: £2052 £2052 Mediterranean 7 Nights From Barcelona Barcelona | Marseille | Livorno | Cagliari | Palermo | Valletta | Barcelona 08 Nov 2026 7 Nights MSC Splendida Mediterranean 08 Nov 2026 7 Nights MSC Splendida Mediterranean Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp ",
+      "evidence": "Now: £7499 £7499 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 039540 Cagliari Marseille Livorno Solo Prices From: Was £2323 Now: £2183 £2183 Mediterranean 7 Nights From Barcelona Barcelona | Marseille | Livorno | Cagliari | Palermo | Valletta | Barcelona 08 Nov 2026 7 Nights MSC Splendida Mediterranean 08 Nov 2026 7 Nights MS | Sailing: rices From: Was £8146 Now: £7499 £7499 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 039540 Cagliari Marseille Livorno Solo Prices From: Was £2323 Now: £2183 £2183 Mediterranean 7 Nights From Barcelona Barcelona | Marseille | Livorno | Cagliari | Palermo | Valletta | Barcelona 08 Nov 2026 7 Nights MSC Splendida Mediterranean 08 Nov 2026 7 Nights MSC Splendida Mediterranean Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp ",
       "prices_mentioned": [
-        "£318",
-        "£286",
+        "£8146",
+        "£7499",
         "£2323",
-        "£2052"
+        "£2183"
       ],
       "durations_mentioned": [
         "7 Nights",
@@ -243,7 +220,7 @@
       "ship": "Carnival Venezia",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "ISE ONLY BOOK ONLINE Holiday ID: 014698 Belize City Port Canaveral, Florida Port Canaveral, Florida Solo Prices From: Was £780 Now: £733 £733 7-Day Western Caribbean Port Canaveral | Roatán Island | Belize City | Cozumel | Port Canaveral 08 Nov 2026 7 Nights Carnival Venezia Caribbean 08 Nov 2026 7 Nights Carnival Venezia Caribbe | Sailing: m: Was £736 Now: £692 £692 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014698 Belize City Port Canaveral, Florida Port Canaveral, Florida Solo Prices From: Was £780 Now: £733 £733 7-Day Western Caribbean Port Canaveral | Roatán Island | Belize City | Cozumel | Port Canaveral 08 Nov 2026 7 Nights Carnival Venezia Caribbean 08 Nov 2026 7 Nights Carnival Venezia Caribbean Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £780 Now: £733 £733 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 039232",
+      "evidence": "cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014698 Roatán Island Belize City Port Canaveral, Florida Solo Prices From: Was £780 Now: £733 £733 7-Day Western Caribbean Port Canaveral | Roatán Island | Belize City | Cozumel | Port Canaveral 08 Nov 2026 7 Nights Carnival Venezia Caribbean 08 Nov 2026 7 Nights Carnival Venezia Caribbe | Sailing: Prices From: Was £736 Now: £692 £692 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014698 Roatán Island Belize City Port Canaveral, Florida Solo Prices From: Was £780 Now: £733 £733 7-Day Western Caribbean Port Canaveral | Roatán Island | Belize City | Cozumel | Port Canaveral 08 Nov 2026 7 Nights Carnival Venezia Caribbean 08 Nov 2026 7 Nights Carnival Venezia Caribbean Live availability and prices when you book online with Cruise118.com Solo Prices From: Was £780 Now: £733 £733 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 039232 Saint Thomas Mi",
       "prices_mentioned": [
         "£736",
         "£692",
@@ -264,12 +241,12 @@
       "ship": "MSC World Europa",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "£2323 Now: £2052 £2052 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 033014 Barcelona Genoa Genoa Solo Prices From: Was £478 Now: £431 £431 Mediterranean 6 Nights From Genoa Genoa | Civitavecchia | Messina | Barcelona | Marseille | Genoa 08 Nov 2026 6 Nights MSC World Europa Mediterranean 08 Nov 2026 6 Nights MSC World Europa M | Sailing: ust £28pp per day Solo Prices From: Was £2323 Now: £2052 £2052 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 033014 Barcelona Genoa Genoa Solo Prices From: Was £478 Now: £431 £431 Mediterranean 6 Nights From Genoa Genoa | Civitavecchia | Messina | Barcelona | Marseille | Genoa 08 Nov 2026 6 Nights MSC World Europa Mediterranean 08 Nov 2026 6 Nights MSC World Europa Mediterranean Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just",
+      "evidence": "w: £2183 £2183 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 033014 Civitavecchia Marseille Genoa Solo Prices From: Was £478 Now: £431 £431 Mediterranean 6 Nights From Genoa Genoa | Civitavecchia | Messina | Barcelona | Marseille | Genoa 08 Nov 2026 6 Nights MSC World Europa Mediterranean 08 Nov 2026 6 Nights MSC World Europa M | Sailing: p per day Solo Prices From: Was £2323 Now: £2183 £2183 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 033014 Civitavecchia Marseille Genoa Solo Prices From: Was £478 Now: £431 £431 Mediterranean 6 Nights From Genoa Genoa | Civitavecchia | Messina | Barcelona | Marseille | Genoa 08 Nov 2026 6 Nights MSC World Europa Mediterranean 08 Nov 2026 6 Nights MSC World Europa Mediterranean Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just",
       "prices_mentioned": [
-        "£28",
         "£2323",
-        "£2052",
-        "£478"
+        "£2183",
+        "£478",
+        "£431"
       ],
       "durations_mentioned": [
         "6 Nights",
@@ -286,16 +263,16 @@
       "ship": "MSC Yacht Club",
       "departure_date": "2026-11-08",
       "solo_evidence": "Solo Prices",
-      "evidence": "sengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp per day Solo Prices From: Was £318 Now: £286 £286 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 026457 Palermo Barcelona Barcelona Solo Prices From: Was £2323 Now: £2052 £2052 Mediterranean 7 Nights From Barcelona Barcelona | Marseille | | Sailing: ID: 039540 Ocean Cay, MSC Marine Reserve Ocean Cay, MSC Marine Reserve Port Canaveral, Florida Solo Prices From: Was £318 Now: £286 £286 Caribbean 4 Nights From Port Canaveral, Florida Port Canaveral | Ocean Cay | Nassau | Port Canaveral 08 Nov 2026 4 Nights MSC Seashore Bahamas 08 Nov 2026 4 Nights MSC Seashore Bahamas Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp per day Solo Prices From: Was £318 Now: £286 £286 View ",
+      "evidence": "sengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp per day Solo Prices From: Was £2323 Now: £2183 £2183 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 033014 Civitavecchia Marseille Genoa Solo Prices From: Was £478 Now: £431 £431 Mediterranean 6 Nights From Genoa Genoa | Civitavecchia | M | Sailing: e CRUISE ONLY BOOK ONLINE Holiday ID: 039540 Cagliari Marseille Livorno Solo Prices From: Was £2323 Now: £2183 £2183 Mediterranean 7 Nights From Barcelona Barcelona | Marseille | Livorno | Cagliari | Palermo | Valletta | Barcelona 08 Nov 2026 7 Nights MSC Splendida Mediterranean 08 Nov 2026 7 Nights MSC Splendida Mediterranean Black Friday Preview - Save up to 30% and an extra 20% on MSC Yacht Club Cabins Past Passengers Save up to 15% on selected sailings! Reduced Premium Drinks Package from just £28pp per day Solo Prices From: Was £2323 Now: £2183 £",
       "prices_mentioned": [
-        "£318",
-        "£286",
+        "£2323",
+        "£2183",
         "£28",
-        "£2323"
+        "£478"
       ],
       "durations_mentioned": [
-        "4 Nights",
-        "7 Nights"
+        "7 Nights",
+        "6 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
