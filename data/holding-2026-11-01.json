@@ -1206,6 +1206,40 @@
       "source_name": "Explora Journeys",
       "checker_version": 19,
       "checked_at": "2026-11-01T01:45:27.724182+00:00"
+    },
+    "27": {
+      "status": "checked",
+      "url": "https://fjordline.com/en",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://fjordline.com/en/our-offers?accommodation=yes",
+          "label": "Package deal",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://fjordline.com/en/our-offers/holiday-at-the-hardangerfjord",
+          "label": "NEW! Package deal to the Hardangerfjord Discover one of Norway's most beautiful fjords – just a 1.5-hour drive from Bergen.",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://fjordline.com/en/p/shopping",
+          "label": "Tax Free and shopping Find great deals on your favourite products",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 3,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Fjord Line",
+      "checker_version": 19,
+      "checked_at": "2026-11-01T01:45:54.249401+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
