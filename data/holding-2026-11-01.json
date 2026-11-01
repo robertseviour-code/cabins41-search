@@ -1372,6 +1372,23 @@
       "source_name": "Friendship Travel",
       "checker_version": 19,
       "checked_at": "2026-11-01T01:46:48.998447+00:00"
+    },
+    "30": {
+      "status": "checked",
+      "url": "https://www.getthatcruise.co.uk/",
+      "lead_snippets": [
+        "rices published per cabin grade so you can see exactly what each grade costs. Couples and solo travellers who want a British-run, adult-only ship sailing from a regional port. See sailings MSC Cruises 107 sailings · from £149 · 6 November 2026 – 21 October 2028 Big"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Get That Cruise",
+      "checker_version": 19,
+      "checked_at": "2026-11-01T01:47:11.018271+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
