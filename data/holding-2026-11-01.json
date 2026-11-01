@@ -482,6 +482,53 @@
       "source_name": "Celebrity Cruises",
       "checker_version": 19,
       "checked_at": "2026-11-01T01:40:00.884838+00:00"
+    },
+    "11": {
+      "status": "checked",
+      "url": "https://celestyal.com",
+      "lead_snippets": [
+        "s & groups /content/celestyal/intl/en/family-cruises Get your crew onboard true Ideal for solo travellers Our small cruise liners are ideal for solo travelers. /content/celestyal/intl/en/solo-cruises Ideal for solo travellers false Perfect for couples For couples t",
+        "et your crew onboard true Ideal for solo travellers Our small cruise liners are ideal for solo travelers. /content/celestyal/intl/en/solo-cruises Ideal for solo travellers false Perfect for couples For couples that want a personalized experience /content/celestyal",
+        "se liners are ideal for solo travelers. /content/celestyal/intl/en/solo-cruises Ideal for solo travellers false Perfect for couples For couples that want a personalized experience /content/celestyal/intl/en/mini-cruises Perfect for couples Adventure awaits Explore"
+      ],
+      "lead_count": 3,
+      "candidate_pages": [
+        {
+          "url": "https://celestyal.com/deals/mediterranean-cruises",
+          "label": "/content/celestyal/intl/en/deals/mediterranean-cruises",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://celestyal.com/solo-cruises",
+          "label": "/content/celestyal/intl/en/solo-cruises",
+          "keyword_count": 8,
+          "snippets": [
+            "Solo Cruise Vacations | Mediterranean Deals 2025 & 2026 image Solo Cruises Solo Cruises spacing-top none spacing-between none spacing-bottom none Do as you please. We're p",
+            "Solo Cruise Vacations | Mediterranean Deals 2025 & 2026 image Solo Cruises Solo Cruises spacing-top none spacing-between none spacing-bottom none Do as you please. We're pleased that you do. There are not many destinations that spark",
+            "Solo Cruise Vacations | Mediterranean Deals 2025 & 2026 image Solo Cruises Solo Cruises spacing-top none spacing-between none spacing-bottom none Do as you please. We're pleased that you do. There are not many destinations that spark the imaginati",
+            "p and wealth of lavish architecture in each region. Our small cruise liners are ideal for solo travelers. With a full schedule of entertainment, onboard amenities, authentic cultural programs and optional excursions you are free to do as you please. And when you d",
+            "want an extra special experience, we have plenty of magical adventures that are ideal for solo travelers and small parties. They are a great way to meet like-minded people. Exotic cultural experiences Solo travelers have the freedom to choose what you want to do a",
+            "all parties. They are a great way to meet like-minded people. Exotic cultural experiences Solo travelers have the freedom to choose what you want to do and with a wide variety of opportunities, every day brings something new and exciting. For cultural experiences",
+            "-top none spacing-between none spacing-bottom sm Experience Our Award Winning Hospitality Solo Cruising The Celestyal Way A cruise holiday with Celestyal involves more than an adventure to dazzling destinations – we also treat our guests to a wide range of onboar",
+            "ll port charges and gratuities included as standard. Our ‘Celestyal One' fare and reduced single supplement gives you simple flexibility and out-of-this-world value. It covers dining from a range of eateries, and selected drinks throughout the day. Plus you can add t"
+          ]
+        },
+        {
+          "url": "https://celestyal.com/re-usable-components/never-miss-a-cruise-deal",
+          "label": "/content/celestyal/intl/en/re-usable-components/never-miss-a-cruise-deal",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 3,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Celestyal Cruises",
+      "checker_version": 19,
+      "checked_at": "2026-11-01T01:40:23.372891+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
