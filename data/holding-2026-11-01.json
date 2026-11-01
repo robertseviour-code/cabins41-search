@@ -1096,6 +1096,55 @@
       "source_name": "Deluxe Cruises",
       "checker_version": 19,
       "checked_at": "2026-11-01T01:44:12.036563+00:00"
+    },
+    "24": {
+      "status": "checked",
+      "url": "https://www.e-hoi.de/",
+      "lead_snippets": [
+        "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.e-hoi.de/single-kreuzfahrten.html",
+          "label": "Kreuzfahrten für Alleinreisende",
+          "keyword_count": 17,
+          "snippets": [
+            "Kreuzfahrten für Alleinreisende - Single Kreuzfahrten auf e-hoi Cookie-Einstellungen e-hoi verwendet Cookies. Einige sind für die Funktionalität der Webseite grundlegend notwendig, andere die",
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
+            "Alle Kontaktmöglichkeiten e-hoi Newsletter Startseite Alle Empfehlungen Kreuzfahrten für Alleinreisende e-hoi bei Google bevorzugen Kreuzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Sin",
+            "e Empfehlungen Kreuzfahrten für Alleinreisende e-hoi bei Google bevorzugen Kreuzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzu",
+            "uzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit güns",
+            "ngles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit günstigen Preisen zu finden, da viele Reedereien",
+            "Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit günstigen Preisen zu finden, da viele Reedereien 50 – 100% Einzelkabinenaufschlag"
+          ]
+        },
+        {
+          "url": "https://www.e-hoi.de/kreuzfahrtexperten/",
+          "label": "Kreuzfahrtexperten",
+          "keyword_count": 2,
+          "snippets": [
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +"
+          ]
+        },
+        {
+          "url": "https://www.e-hoi.de/lastminute/",
+          "label": "Last Minute Kreuzfahrten",
+          "keyword_count": 3,
+          "snippets": [
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
+            "€ - 2.999 € 1.012 1.000 € - 1.999 € 1.119 500 € - 999 € 777 weniger als 500 € 343 Themen Alleinreisende 863 Bordsprache Deutsch 320 e-hoi Kombipaket 21 Expeditionskreuzfahrten 47 Familien 681 LNG-Antrieb 208 Luxuskreuzfahrten 213 Neues Schiff 59 Schnupperkreuzfah"
+          ]
+        }
+      ],
+      "candidate_links_found": 80,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "e-hoi",
+      "checker_version": 19,
+      "checked_at": "2026-11-01T01:44:40.643908+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
