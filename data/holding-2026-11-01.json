@@ -2367,9 +2367,7 @@
       "candidate_pages": [
         {
           "url": "https://www.virginvoyages.com/cruise-deals",
-          "label": "Cruise Deals",
-          "keyword_count": 0,
-          "snippets": []
+          "error": "HTTP Error 500: Internal Server Error"
         },
         {
           "url": "https://www.virginvoyages.com/cruise-deals/flight-hotel-cruise-packages",
@@ -2391,7 +2389,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Virgin Voyages",
       "checker_version": 19,
-      "checked_at": "2026-11-01T10:29:00.771198+00:00"
+      "checked_at": "2026-11-01T13:41:52.245325+00:00"
     },
     "66": {
       "status": "checked",
