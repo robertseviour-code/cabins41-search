@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-01",
+  "sources_attempted": 1,
+  "sources_checked": 1,
+  "sources_blocked": 0,
+  "sources_failed": 0,
+  "qualified_candidates": 0,
+  "candidate_sailings": 0,
+  "duplicate_check_required": false,
+  "duplicate_sailings_excluded": 0,
+  "existing_listings_status": {
+    "status": "loaded",
+    "url": "https://lovely-paletas-545789.netlify.app/",
+    "count": 85,
+    "error": ""
+  },
+  "verified_offers": 0,
+  "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
+  "offers": [],
+  "blocked_sources": [],
+  "blocked_candidate_pages": [],
+  "failed_sources": []
+}
