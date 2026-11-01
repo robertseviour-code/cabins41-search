@@ -572,6 +572,41 @@
       "source_name": "CroisiEurope",
       "checker_version": 19,
       "checked_at": "2026-11-01T01:41:15.976873+00:00"
+    },
+    "15": {
+      "status": "checked",
+      "url": "https://www.cruisespecialists.com/",
+      "lead_snippets": [
+        "ions Travel Interests Expedition Cruising Hosted Cruises River Cruises Small Ship Cruises Solo Cruising Resources Blog Our Cruise Experts Home Our Cruise Experts About Us Contact Us (800) 544-2469 (800) 544-2469 Toggle navigation Menu World Cruises Destinations O",
+        "ions Travel Interests Expedition Cruising Hosted Cruises River Cruises Small Ship Cruises Solo Cruising Resources Blog Our Cruise Experts Previous Next Aman At Sea French Riviera Aman At Sea introduces their luxury motorized yacht, Amangati, where every journey b",
+        "r Specialties World Cruises Grand Voyages River Cruises Expedition Cruises Hosted Cruises Solo Cruising Popular Destinations Alaska Caribbean Canada/New England Europe Mexico Northern Europe/Scandinavia Panama Canal Transatlantic Africa Amazon Arctic Antarctica A"
+      ],
+      "lead_count": 3,
+      "candidate_pages": [
+        {
+          "url": "https://www.cruisespecialists.com/solo-cruising.aspx",
+          "label": "Solo Cruising",
+          "keyword_count": 45,
+          "snippets": [
+            "Solo Cruise Deals – Cruises Without Single Supplement (800) 544-2469 Toggle navigation Menu World Cruises Destinations Our Specialties World Cruises Grand Voyages River Cr",
+            "Solo Cruise Deals – Cruises Without Single Supplement (800) 544-2469 Toggle navigation Menu World Cruises Destinations Our Specialties World Cruises Grand Voyages River Cruises Expedition Cruises Hosted Cruises Po",
+            "ions Travel Interests Expedition Cruising Hosted Cruises River Cruises Small Ship Cruises Solo Cruising Resources Blog Our Cruise Experts Home Our Cruise Experts About Us Contact Us (800) 544-2469 (800) 544-2469 Toggle navigation Menu World Cruises Destinations O",
+            "ions Travel Interests Expedition Cruising Hosted Cruises River Cruises Small Ship Cruises Solo Cruising Resources Blog Our Cruise Experts Home / Solo Cruising SOLO CRUISING Traveling solo? You're not alone! At Cruise Specialists, we understand the unique needs of",
+            "s River Cruises Small Ship Cruises Solo Cruising Resources Blog Our Cruise Experts Home / Solo Cruising SOLO CRUISING Traveling solo? You're not alone! At Cruise Specialists, we understand the unique needs of solo travelers. Whether you’re seeking a quiet retreat",
+            "s Small Ship Cruises Solo Cruising Resources Blog Our Cruise Experts Home / Solo Cruising SOLO CRUISING Traveling solo? You're not alone! At Cruise Specialists, we understand the unique needs of solo travelers. Whether you’re seeking a quiet retreat, cultural imm",
+            "raveling solo? You're not alone! At Cruise Specialists, we understand the unique needs of solo travelers. Whether you’re seeking a quiet retreat, cultural immersion, or the camaraderie of like-minded cruisers, our expert consultants will guide you to the right shi",
+            "-minded cruisers, our expert consultants will guide you to the right ship, itinerary, and solo traveler offers. We know which cruise lines feature dedicated solo cabins, which itineraries waive or reduce single supplements, and where you’ll find the best opportun"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Cruise Specialists",
+      "checker_version": 19,
+      "checked_at": "2026-11-01T01:41:40.690375+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
