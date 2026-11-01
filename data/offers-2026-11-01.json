@@ -4,8 +4,8 @@
   "sources_checked": 64,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 13,
-  "candidate_sailings": 13,
+  "qualified_candidates": 14,
+  "candidate_sailings": 14,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 17,
   "existing_listings_status": {
@@ -263,7 +263,23 @@
       "ship": "Costa Toscana",
       "departure_date": "2026-11-10",
       "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "fügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Pacifica 10. Nov. 2026 – 17. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 519 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Ange | Sailing: nverlauf ansehen Galveston → Galveston Innenkabine ab 499 € Meerblickkabine ab 544 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot Mittelmeer-Mosaik: Kultur und Küstenzauber Inklusive Servicegebühr mit Flug buchbar ab 1.149 € Zuschlag nur 0% 7 Nächte an Bord der Costa Toscana Nov. 2026 - Nov. 2026 (2 Termine) Mittelmeer Routenverlauf ansehen Rom / Civitavecchia → Rom / Civitavecchia Innenkabine ab 499 € Meerblickkabine ab 549 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Se",
+      "evidence": "fügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Pacifica 10. Nov. 2026 – 17. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 519 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Ange | Sailing: hen Rom / Civitavecchia → Rom / Civitavecchia Innenkabine ab 499 € Meerblickkabine ab 639 € Balkonkabine ab 689 € Suite Nicht verfügbar Zum Angebot Mittelmeer-Mosaik: Kultur und Küstenzauber Inklusive Servicegebühr mit Flug buchbar ab 1.149 € Zuschlag nur 0% 7 Nächte an Bord der Costa Toscana Nov. 2026 - Nov. 2026 (2 Termine) Mittelmeer Routenverlauf ansehen Rom / Civitavecchia → Rom / Civitavecchia Innenkabine ab 499 € Meerblickkabine ab 549 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot Mediterrane Entdeckungsreise Inklusive Se",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Norwegian Viva",
+      "departure_date": "2026-11-15",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Suite Nicht verfügbar Zum Angebot Karibische Küstenträume ab Galveston auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Viva Nov. 2026 - Dez. 2026 (5 Termine) Karibik Routenverlauf ansehen Galveston → Galveston Innenkabine ab 499 € Meerblickkabine ab 544 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar | Sailing: rcelona Innenkabine ab 489 € Meerblickkabine ab 539 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Angebot Mittelmeerimpressionen: Küstenstädte und Inselträume Inklusive Servicegebühr mit Flug buchbar ab 999 € Zuschlag nur 0% 7 Nächte an Bord der Costa Toscana 08. Nov. 2026 – 15. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 489 € Meerblickkabine ab 539 € Balkonkabine ab 589 € Suite Nicht verfügbar Zum Angebot Karibische Küstenträume ab Galveston auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der No",
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
@@ -279,7 +295,7 @@
       "ship": "Norwegian Breakaway",
       "departure_date": "2026-11-24",
       "solo_evidence": "Zuschlag nur 12%",
-      "evidence": "€ Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway Nov. 2026 - Dez. 2026 (2 Termine) Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite | Sailing: en Savona → Savona Innenkabine ab 499 € Meerblickkabine ab 549 € Balkonkabine ab 599 € Suite Nicht verfügbar Zum Angebot Spanien, Tunesien, Italien, Frankreich Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Pacifica 17. Nov. 2026 – 24. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 529 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der No",
+      "evidence": "€ Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway Nov. 2026 - Dez. 2026 (2 Termine) Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite | Sailing: ansehen Savona → Savona Innenkabine ab 499 € Meerblickkabine ab 549 € Balkonkabine ab 599 € Suite Nicht verfügbar Zum Angebot Magie des westlichen Mittelmeers Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Pacifica 17. Nov. 2026 – 24. Nov. 2026 Mittelmeer Routenverlauf ansehen Barcelona → Barcelona Innenkabine ab 499 € Meerblickkabine ab 529 € Balkonkabine ab 539 € Suite Nicht verfügbar Zum Angebot Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Nor",
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte",
