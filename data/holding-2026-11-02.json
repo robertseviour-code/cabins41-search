@@ -1548,6 +1548,39 @@
       "source_name": "Iglu Cruise",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:33:01.427523+00:00"
+    },
+    "36": {
+      "status": "checked",
+      "url": "https://www.journeylatinamerica.com/",
+      "lead_snippets": [
+        "Expedition Cruising Food & Wine Holidays Honeymoon Holidays Off the Beaten Track Holidays Solo Travel in Latin America Train Journeys Unique Stays Special Events Beach+ Holidays View all holiday styles How We Travel How We Travel The best ways to travel Tailor-"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [
+        {
+          "url": "https://www.journeylatinamerica.com/holiday-styles/solo-traveller/",
+          "label": "Solo Travel in Latin America",
+          "keyword_count": 11,
+          "snippets": [
+            "Solo Travel Tours - Journey Latin America - Journey Latin America Skip to content Destinations Holiday Styles Contact Us 0208 747 8315 Destinations Holiday Styles How We T",
+            "Expedition Cruising Food & Wine Holidays Honeymoon Holidays Off the Beaten Track Holidays Solo Travel in Latin America Train Journeys Unique Stays Special Events Beach+ Holidays View all holiday styles How We Travel How We Travel The best ways to travel Tailor-",
+            "xperts, sustainable travel initiatives and more. Read more Contact Us Home Holiday styles Solo Travel in Latin America Solo Travel in Latin America As a solo traveller, you can be uniquely open to everything your destination has to offer, throwing yourself into",
+            "itiatives and more. Read more Contact Us Home Holiday styles Solo Travel in Latin America Solo Travel in Latin America As a solo traveller, you can be uniquely open to everything your destination has to offer, throwing yourself into new experiences and forging",
+            "act Us Home Holiday styles Solo Travel in Latin America Solo Travel in Latin America As a solo traveller, you can be uniquely open to everything your destination has to offer, throwing yourself into new experiences and forging a connection with the local culture.",
+            "experiences and forging a connection with the local culture. The freedom experienced as a single traveller is unparalleled and often exhilarating. In fact, Journey Latin America clients choose to go solo for all sorts of reasons. A great starting point for solo trav",
+            "in America clients choose to go solo for all sorts of reasons. A great starting point for solo travellers in Latin America is to consider joining one of our escorted group tours – not only is this an economical choice but it’s a chance to band together with other l",
+            "sense of camaraderie. Our selection of more than 30 group tours are a popular choice for solo travellers, in fact over 40% of our annual group tour clients are solos. What’s more, there is no single supplement to pay if you’re willing to share a room with a member"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Journey Latin America",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:33:26.991661+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
