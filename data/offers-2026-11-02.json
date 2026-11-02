@@ -1,13 +1,13 @@
 {
   "date": "2026-11-02",
-  "sources_attempted": 1,
-  "sources_checked": 1,
+  "sources_attempted": 2,
+  "sources_checked": 2,
   "sources_blocked": 0,
   "sources_failed": 0,
   "qualified_candidates": 0,
   "candidate_sailings": 0,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 0,
+  "duplicate_sailings_excluded": 3,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
