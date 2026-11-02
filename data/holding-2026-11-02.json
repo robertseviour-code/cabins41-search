@@ -1072,6 +1072,41 @@
       "source_name": "e-hoi",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:28:36.632124+00:00"
+    },
+    "25": {
+      "status": "checked",
+      "url": "https://emerald.cruises/US/en-US",
+      "lead_snippets": [
+        "ristmas Markets Last-Minute Cruise Offers Free Solo Supplement Solo & Group Travel Offers Solo Travel Group Travel Private Charters Plan & Support Submenu Plan & Support About Us Sustainability Awards Plan Your Journey Brochures Cruise Calendar Solo Travelers E",
+        "Plan & Support About Us Sustainability Awards Plan Your Journey Brochures Cruise Calendar Solo Travelers Events Insider Sessions Travel Advice Planning Tools Blogs Travel Protection Booking Policies Support Contact Us FAQs Manage Booking Travel Advisor Hub River T",
+        "modern exploration, pairing authentic adventures with inimitable luxury, with options for solo cruises featuring specially designed accommodations and activities for independent travelers. Experience a great tapestry of culture cruising the rivers of Europe and"
+      ],
+      "lead_count": 3,
+      "candidate_pages": [
+        {
+          "url": "https://emerald.cruises/US/en-US/offers/solo-travelers",
+          "label": "Free Solo Supplement",
+          "keyword_count": 24,
+          "snippets": [
+            "Solo Traveller Cruise Deals | Emerald Cruises Brochures Events Loyalty Program Manage Booking 1(855) 222-3214 Wishlist River Submenu River Destinations Central Europe France",
+            "ristmas Markets Last-Minute Cruise Offers Free Solo Supplement Solo & Group Travel Offers Solo Travel Group Travel Private Charters Plan & Support Submenu Plan & Support About Us Sustainability Awards Plan Your Journey Brochures Cruise Calendar Solo Travelers E",
+            "Plan & Support About Us Sustainability Awards Plan Your Journey Brochures Cruise Calendar Solo Travelers Events Insider Sessions Travel Advice Planning Tools Blogs Travel Protection Booking Policies Support Contact Us FAQs Manage Booking Travel Advisor Hub River T",
+            "ub River Travel Assurance Yacht Travel Assurance Find Our Journeys Search 1(855) 222-3214 Solo Cruises with Emerald: Travel at Your Own Pace Explore stunning destinations at your own pace when traveling solo on our extensive collection of cruises. Previous page",
+            "when traveling solo on our extensive collection of cruises. Previous page Home / offers / solo travellers Discover solo cruising with Emerald Cruises & Tours From the moment you step on board, you have the freedom to do as much or as little as you please, whether y",
+            "r extensive collection of cruises. Previous page Home / offers / solo travellers Discover solo cruising with Emerald Cruises & Tours From the moment you step on board, you have the freedom to do as much or as little as you please, whether you want to tour each st",
+            "asiest ways to enjoy a relaxing voyage entirely in your own way. What to expect from your solo cruise Whether you’re discovering the delights of each destination or resting on board one of our award-winning Star-Ships or luxury yachts, you'll revel in the delig",
+            "array of excursions including group tours, tasting sessions, and museum visits. And, as a solo traveler, you can explore the castles, markets, and vineyards to your heart’s content. You’ll want for nothing on board your luxury yacht. Take to the infinity-style Aq"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Emerald Cruises",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:28:59.991493+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
