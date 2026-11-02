@@ -19,12 +19,14 @@ from zoneinfo import ZoneInfo
 
 ROOT = pathlib.Path(__file__).parent
 SOURCES = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
-VERSION = 19  # Daily 31 October full-search trigger.  # Full-search trigger comment.
+VERSION = 20  # Daily 31 October full-search trigger.  # Full-search trigger comment.
 SOLO = re.compile(r'\b(?:solo\s+(?:cruis\w*|travel\w*|sail\w*|fare\w*|offer\w*|deal\w*|discount\w*|cabin\w*|price\w*|rate\w*)|single\s+(?:supplement|cabins?|occupancy|travell?ers?|cruis\w*)|singles?\s+cruis\w*|alleinreisend\w*|einzelkabine\w*|einzelzuschlag\w*|singlezuschlag\w*|suplemento\s+individual|cruceros?\s+para\s+(?:una|uno|solos?))\b', re.I)
 CLEAR_SOLO_OFFER = re.compile(r'\b(?:zuschlag\s+nur\s+\d{1,3}\s*%|solo\s+(?:(?:cruise\s+)?(?:offer|deal|discount|fare|price|rate)s?|cruis\w*\s+(?:offer|deal|discount|fare|price|rate)s?)|(?:offer|deal|discount|fare|price|rate)s?\s+for\s+(?:solo|single)\s+(?:cruis\w*|travell?ers?|occupan\w*)|(?:no|without|waived|free|reduced)\s+single\s+supplement|single\s+supplement\s+(?:waived|free|reduced|from|of|\d{1,3}\s*%)|single\s+supplement.{0,35}(?:\d{1,3}\s*%|[£€$]\s*\d)|alleinreisenden[- ]angebot|einzelkabinenzuschlag.{0,35}\d|einzelzuschlag.{0,35}\d|singlezuschlag.{0,35}\d|suplemento\s+individual.{0,35}\d|oferta\s+para\s+(?:viajeros?\s+)?solos?)', re.I)
 OFFER = re.compile(r'\b(?:from|starting\s+at|only|per\s+person|pp|p\s*/\s*p|ab|desde|solo\s+fare|single\s+fare|no\s+single\s+supplement|waived\s+single\s+supplement|ohne\s+einzelzuschlag|kein\s+einzelzuschlag|single\s+supplement\s+(?:waived|free|reduced))\b', re.I)
 PRICE = re.compile(r'(?<!\w)(?:£|€|\$|GBP\s*|EUR\s*|USD\s*)\s*\d{2,5}(?:[.,]\d{2})?(?!\d)', re.I)
 DATE = re.compile(r'\b(?:\d{1,2}[\s./-]+(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?|\d{1,2})[\s,./-]+20\d{2}|(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)[\s]+\d{1,2}(?:,?\s+20\d{2})?|20\d{2}-\d{2}-\d{2})\b', re.I)
+# Explicit years only; include German display dates such as 12. Nov. 2026.
+DATE = re.compile(r'\b(?:20\d{2}-\d{2}-\d{2}|\d{1,2}[./-]\d{1,2}[./-]20\d{2}|\d{1,2}\.?\s+(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|März|Apr(?:il)?|May|Mai|Jun(?:e|i)?|Jul(?:y|i)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Okt(?:ober)?|Nov(?:ember)?|Dec(?:ember)?|Dez(?:ember)?)\.?\s+20\d{2}|(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+20\d{2})\b', re.I)
 NIGHTS = re.compile(r'\b\d{1,2}\s*(?:nights?|n[aä]chte|d[íi]as|days?)\b', re.I)
 LINK_WORDS = re.compile(r'solo|single|alleinreis|einzel|singles|supplement|zuschlag|ofertas?|deals?|angebote|cruceros|kreuzfahrt', re.I)
 SHIP = re.compile(r'\b(?:(?i:MSC|Costa|Norwegian|NCL|Celebrity|Virgin|Explora|Azamara|Ambassador|Fred\.?\s+Olsen|P&O|Princess|Regent|Royal Caribbean|Holland America|Seabourn|Silversea|Cunard|AIDA|Mein Schiff|Carnival|Disney|Oceania|TUI)\s+(?-i:(?:[A-Z][a-z0-9-]+|[A-Z]{2,})(?:\s+(?:[A-Z][a-z0-9-]+|[A-Z]{2,}|[0-9]))?)|Queen\s+(?:Mary\s*2|Victoria|Anne|Elizabeth)|(?:AIDA(?:bella|blu|cosma|diva|luna|mar|nova|perla|prima|sol|stella|vita)|Ambience|Ambition|Balmoral|Bolette|Borealis|Armonia|Bellissima|Divina|Euribia|Fantasia|Fascinosa|Grandiosa|Lirica|Magnifica|Meraviglia|Musica|Opera|Orchestra|Poesia|Preziosa|Seascape|Seashore|Seaside|Sinfonia|Splendida|Toscana|Smeralda|Fascinosa|Diadema|Favolosa|Deliziosa|Pacifica|Serena|Breakaway|Bliss|Encore|Jade|Prima|Onward|Pursuit))\b', re.I)
@@ -172,14 +174,91 @@ def named_sailings(text):
     return list(results.values())
 
 
-def extract_leads(text, url, source, existing, dedupe_ready):
+class OfferTree(HTMLParser):
+    """Keep DOM boundaries: navigation and neighbouring cards cannot supply facts."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.root = {'tag': 'root', 'attrs': {}, 'children': []}
+        self.stack = [self.root]
+    def handle_starttag(self, tag, attrs):
+        node = {'tag': tag, 'attrs': dict(attrs), 'children': []}
+        self.stack[-1]['children'].append(node)
+        if tag not in {'area','base','br','col','embed','hr','img','input','link','meta','param','source','track','wbr'}:
+            self.stack.append(node)
+    def handle_endtag(self, tag):
+        for i in range(len(self.stack)-1, 0, -1):
+            if self.stack[i]['tag'] == tag:
+                del self.stack[i:]
+                break
+    def handle_data(self, value):
+        self.stack[-1]['children'].append(value)
+
+
+def node_text(node):
+    if isinstance(node, str):
+        return node
+    if node['tag'] in {'script','style','noscript','svg','nav','header','footer','select','option'}:
+        return ''
+    return ' '.join(node_text(c) for c in node['children'])
+
+
+def bounded_sailings(raw, require_solo=True):
+    """Only accept an unambiguous sailing inside a single DOM offer container.
+
+    A date range must be adjacent (departure then return). Multiple departure
+    options, itineraries and cards containing several ships are left unresolved.
+    There is deliberately no page-wide proximity fallback.
+    """
+    parser = OfferTree(); parser.feed(raw)
+    def walk(node):
+        if isinstance(node, str) or node['tag'] in {'script','style','noscript','svg','nav','header','footer','select','option'}:
+            return []
+        children = [x for c in node['children'] for x in walk(c)]
+        if children:
+            return children
+        if node['tag'] not in {'article','li','div','section','tr'}:
+            return []
+        text = re.sub(r'\s+', ' ', node_text(node)).strip()
+        if len(text) > 4500 or (require_solo and not CLEAR_SOLO_OFFER.search(text)):
+            return []
+        # Never accept the synthetic root/body as an offer.
+        ships = named_sailings(text)
+        identities = {normalize_ship(x['ship']) for x in ships}
+        if len(identities) != 1:
+            return []
+        dates = [(m, normalize_date(m.group())) for m in DATE.finditer(text)]
+        dates = [(m,d) for m,d in dates if d and not re.search(r'added|updated|published|date added', text[max(0,m.start()-35):m.start()], re.I)]
+        unique = list(dict.fromkeys(d for m,d in dates))
+        if len(unique) == 1:
+            departure = unique[0]
+        elif len(dates) == 2 and re.fullmatch(r'\s*[–—−-]\s*', text[dates[0][0].end():dates[1][0].start()]) and dates[0][1] < dates[1][1]:
+            departure = dates[0][1]
+        else:
+            return []
+        # named_sailings supplies identity only, never its proximity-selected date.
+        sailing = dict(ships[0], departure_date=departure)
+        sailing['ship_start'] = text.find(sailing['ship'])
+        sailing['date_start'] = next(m.start() for m,d in dates if d == departure)
+        return [(text, sailing)]
+    return walk(parser.root)
+
+
+def extract_page_leads(raw, url, source, existing, dedupe_ready):
+    leads, duplicates = [], []
+    for text, sailing in bounded_sailings(raw):
+        found, repeated = extract_leads(text, url, source, existing, dedupe_ready, [sailing])
+        leads.extend(found); duplicates.extend(repeated)
+    return leads, duplicates
+
+
+def extract_leads(text, url, source, existing, dedupe_ready, sailings=None):
     """Find clear solo-offer wording and dated sailings on the same page."""
     solo_matches = list(CLEAR_SOLO_OFFER.finditer(text))[:100]
     solo_page = bool(re.search(r'solo|single|singles|alleinreis|einzel', url, re.I))
     if not solo_page:
         solo_matches = [m for m in solo_matches
                         if m.group(0).strip().casefold() not in ('solo cruise deal', 'solo cruise deals', 'solo cruises deal', 'solo cruises deals', 'reduced single supplement', 'reduced single supplement cruise', 'reduced single supplement cruises')]
-    sailings = named_sailings(text)
+    sailings = sailings or []  # Only DOM-bounded records may enter the offer output.
     if not solo_matches or not sailings:
         return [], []
     leads, duplicates = [], []
@@ -233,7 +312,7 @@ def extract_leads(text, url, source, existing, dedupe_ready):
 def load_existing_sailings(date):
     """Cache today's public Cabins41 listing keys; fail closed if none can be read."""
     run_id = os.environ.get('GITHUB_RUN_ID', 'local')
-    cache = ROOT / 'data' / f'cabins41-listings-{date}-{run_id}.json'
+    cache = ROOT / 'data' / f'cabins41-listings-{date}-{run_id}-v{VERSION}.json'
     if cache.exists():
         try:
             data = json.loads(cache.read_text(encoding='utf-8'))
@@ -246,7 +325,7 @@ def load_existing_sailings(date):
     try:
         url, raw = fetch(os.environ.get('CABINS41_LISTINGS_URL', CABINS41_URL), max_bytes=6000000)
         text, _ = page_data(raw)
-        sailings = named_sailings(text)
+        sailings = [item for _, item in bounded_sailings(raw, require_solo=False)]
         keys = {(normalize_ship(x['ship']), x['departure_date']) for x in sailings}
         if not keys:
             raise ValueError('No ship/departure-date pairs could be read from Cabins41 listings')
@@ -284,7 +363,7 @@ def check(source, existing, dedupe_ready):
         # Rank solo-specific pages ahead of general deals; still cap requests.
         candidates.sort(key=lambda c: (0 if SOLO.search(c['label'] + ' ' + c['url']) else 1))
         pages, offers, duplicates, blocked_pages = [], [], [], []
-        found, repeated = extract_leads(text, home, source, existing, dedupe_ready)
+        found, repeated = extract_page_leads(raw, home, source, existing, dedupe_ready)
         offers.extend(found)
         duplicates.extend(repeated)
         for candidate in candidates[:3]:
@@ -294,7 +373,7 @@ def check(source, existing, dedupe_ready):
                 page_snippets, page_count = snippets_from(candidate_text)
                 pages.append({'url': url, 'label': candidate['label'],
                               'keyword_count': page_count, 'snippets': page_snippets})
-                found, repeated = extract_leads(candidate_text, url, source, existing, dedupe_ready)
+                found, repeated = extract_page_leads(content, url, source, existing, dedupe_ready)
                 offers.extend(found)
                 duplicates.extend(repeated)
             except Exception as error:
@@ -421,7 +500,7 @@ def main():
     ledger = json.loads(output.read_text(encoding='utf-8')) if output.exists() else {
         'date': date, 'results': {}, 'description': 'Qualified solo offer candidates; not verified offers'}
     active_ids = {str(source['id']) for source in SOURCES}
-    ledger['results'] = {key: value for key, value in ledger['results'].items() if key in active_ids}
+    ledger['results'] = {key: value for key, value in ledger['results'].items() if key in active_ids and value.get('checker_version') == VERSION}
     for source in SOURCES:
         if args.one and source['id'] != args.one:
             continue
