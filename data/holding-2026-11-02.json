@@ -1444,6 +1444,49 @@
       "source_name": "Hurtigruten",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:32:12.297430+00:00"
+    },
+    "34": {
+      "status": "checked",
+      "url": "https://www.travelhx.com/en-us/",
+      "lead_snippets": [
+        "or 10% off suites, with our Price Promise protecting you if the price drops. Explore as a Solo Traveller Enjoy the freedom of solo travel with a welcoming, like-minded community. Join thousands of solo travellers who explore with us each year Find low solo supplem",
+        "omise protecting you if the price drops. Explore as a Solo Traveller Enjoy the freedom of solo travel with a welcoming, like-minded community. Join thousands of solo travellers who explore with us each year Find low solo supplements on every single sailing* Tra",
+        "joy the freedom of solo travel with a welcoming, like-minded community. Join thousands of solo travellers who explore with us each year Find low solo supplements on every single sailing* Travelling soon? Find selected departures with no solo supplement^ *applies ex",
+        "Travelling soon? Find selected departures with no solo supplement^ *applies except if the solo cabin allocation on a particular departure has been sold out. ^ Valid on new bookings only and valid for travel on select departures. $200 off your first booking To",
+        "d these savings, scroll to the departures section on any itinerary page and switch on the solo traveler toggle. See all offers Featured cruises Anniversary Offers Antarctica Highlights of Antarctica Expedition Cruise Departure Dates Nov 9, 26, Nov 19, 26 + 47 mor"
+      ],
+      "lead_count": 5,
+      "candidate_pages": [
+        {
+          "url": "https://www.travelhx.com/en-us/stories/traveling-solo/",
+          "label": "Explore as a Solo Traveller Enjoy the freedom of solo travel with a welcoming, like-minded community.  Join thousands of solo travellers who",
+          "keyword_count": 10,
+          "snippets": [
+            "Traveling Solo with HX | HX Expeditions US Explore as a Solo Traveller Travelling solo doesn’t mean going it alone. Whether you’re seeking space to reflect or moments to connect, every expedition with HX offers the freedom to expl",
+            "re in expert hands. 1 mins read Traveling with HX Planning your trip Enjoy the freedom of solo travel with a welcoming, like-minded community. Join thousands of solo travellers who explore with us each year Find low solo supplements on every single sailing* Tra",
+            "joy the freedom of solo travel with a welcoming, like-minded community. Join thousands of solo travellers who explore with us each year Find low solo supplements on every single sailing* Travelling soon? Find selected departures with no solo supplement^ *applies ex",
+            "Travelling soon? Find selected departures with no solo supplement^ *applies except if the solo cabin allocation on a particular departure has been sold out. ^ Valid on new bookings only and valid for travel on select departures. Go solo and save Low solo suppl",
+            "ure Find solo supplements from as low as 25%. Early booking is advised: Once the allotted solo cabins sell out, the full occupancy rate applies. Departures with low solo supplement No solo supplement on select departures We occasionally remove the solo suppleme",
+            "ns that depart within the next six months. Departures with no solo supplement How to find solo traveler savings We’ve made it easy for solo travelers to find the best available rates. Scroll down to the departures section on any itinerary page and switch on the s",
+            "partures with no solo supplement How to find solo traveler savings We’ve made it easy for solo travelers to find the best available rates. Scroll down to the departures section on any itinerary page and switch on the solo traveler toggle. This will automatically d",
+            "able rates. Scroll down to the departures section on any itinerary page and switch on the solo traveler toggle. This will automatically display available savings for solo travelers. Please note: Cruise prices default to two guests sharing a cabin, so the first pr"
+          ]
+        },
+        {
+          "url": "https://www.travelhx.com/en-us/cruises/discovering-greenland-reykjavik-nuuk-new-york/",
+          "label": "No Solo Supplement +  More offers Greenland Discovering Greenland – From Reykjavík to Nuuk Departure date   Jun 2, 27 Price from   Unavailab",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 2,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "HX Expeditions",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:32:35.078562+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
