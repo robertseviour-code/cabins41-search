@@ -2139,6 +2139,32 @@
       "source_name": "Saga Cruises",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:39:59.600405+00:00"
+    },
+    "59": {
+      "status": "checked",
+      "url": "https://www.seabourn.com/en/us",
+      "lead_snippets": [
+        "RE Offers Back to main menu Offers Special Offers All Special Offers Explore Beyond Event Solo Travelers Finale Sail Combo Sailings Seabourn Club Members Explore the Mediterranean and beyond while receiving up to $2,000 USD Shipboard Credit per suite plus a 15% Re"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [
+        {
+          "url": "https://www.seabourn.com/en/us/find-a-cruise?dealId=SBNSOLO_101724&csvFileName=SBNSOLO_101724",
+          "label": "Solo Travelers",
+          "keyword_count": 1,
+          "snippets": [
+            "RE Offers Back to main menu Offers Special Offers All Special Offers Explore Beyond Event Solo Travelers Finale Sail Combo Sailings Seabourn Club Members Explore the Mediterranean and beyond while receiving up to $2,000 USD Shipboard Credit per suite plus a 15% Re"
+          ]
+        }
+      ],
+      "candidate_links_found": 1,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Seabourn",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:40:22.513725+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
