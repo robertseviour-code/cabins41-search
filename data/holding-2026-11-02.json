@@ -2052,6 +2052,40 @@
       "source_name": "ROL Cruise",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:39:08.906103+00:00"
+    },
+    "57": {
+      "status": "checked",
+      "url": "https://www.royalcaribbean.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals/holiday-cruises",
+          "label": "Holiday cruises",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals",
+          "label": "Cruise deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.royalcaribbean.com/cruise-deals/last-minute-cruises",
+          "label": "Last minute deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 4,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Royal Caribbean",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:39:31.963631+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
