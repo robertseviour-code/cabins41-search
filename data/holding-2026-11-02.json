@@ -197,11 +197,6 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-20",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
           "ship": "Costa Smeralda",
           "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
@@ -209,6 +204,11 @@
         {
           "ship": "Costa Smeralda",
           "departure_date": "2026-12-14",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -251,7 +251,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-02T19:23:29.471196+00:00"
+      "checked_at": "2026-11-02T22:06:38.308644+00:00"
     },
     "7": {
       "status": "checked",
