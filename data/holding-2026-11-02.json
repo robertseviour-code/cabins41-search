@@ -2373,6 +2373,45 @@
       "source_name": "VIVA Cruises",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:42:23.747825+00:00"
+    },
+    "67": {
+      "status": "checked",
+      "url": "https://viva-holidays.co.uk",
+      "lead_snippets": [
+        "and Stay Viva Inspired Great Train Journeys Guided Tours Rocky Mountaineer Train Holidays Solo Traveller DESTINATIONS United States Italy United Arab Emirates Thailand India Switzerland Maldives Norway COMPANY Reviews About Us Contact Us FAQs Privacy Policy Terms"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [
+        {
+          "url": "https://viva-holidays.co.uk/type/solo-traveller/",
+          "label": "Solo Traveller",
+          "keyword_count": 6,
+          "snippets": [
+            "Solo Travel Packages | Viva Holidays Home Reviews About Blog Contact / Enquire Design your own trip Book online Multi Centre Guided Tours Destinations Holiday Types Book O",
+            "ns Contact Us Reviews About Blog Design your own trip Peace of Mind Guarantee Book Online Solo Travel Packages Type or select a destination Type or select a destination Departure Airport Departure Airport Departure Month Select a Month Search Summary No waiting",
+            "No waiting for others, getting dragged around or fitting into someone else's agenda, our solo travel packages ensure that every moment of your holiday is your idea of total bliss. Forbes has listed 2024 as the “year of the solo traveller”, and we can see why.",
+            "t of your holiday is your idea of total bliss. Forbes has listed 2024 as the “year of the solo traveller”, and we can see why. Who wouldn’t want to have a holiday that’s planned just for you and your perfect itinerary? Solo travel packages allow you to visit your",
+            "o wouldn’t want to have a holiday that’s planned just for you and your perfect itinerary? Solo travel packages allow you to visit your bucket list destinations at your own pace, whether that’s sightseeing around Europe, poolside sunbathing or finally escaping t",
+            "and Stay Viva Inspired Great Train Journeys Guided Tours Rocky Mountaineer Train Holidays Solo Traveller DESTINATIONS United States Italy United Arab Emirates Thailand India Switzerland Maldives Norway COMPANY Reviews About Us Contact Us FAQs Privacy Policy Terms"
+          ]
+        },
+        {
+          "url": "https://viva-holidays.co.uk/type/multi-centre-holiday/",
+          "label": "Multi Centre Holidays Explore more places with a single holiday",
+          "keyword_count": 1,
+          "snippets": [
+            "and Stay Viva Inspired Great Train Journeys Guided Tours Rocky Mountaineer Train Holidays Solo Traveller DESTINATIONS United States Italy United Arab Emirates Thailand India Switzerland Maldives Norway COMPANY Reviews About Us Contact Us FAQs Privacy Policy Terms"
+          ]
+        }
+      ],
+      "candidate_links_found": 2,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Viva Holidays",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:42:48.397837+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
