@@ -151,7 +151,7 @@
             "insam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transparent: Welche Kabinen verfüg",
             "ng Wir machen für Sie transparent: Welche Kabinen verfügbar sind - speziell für Singles & Alleinreisende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen Si",
             "isende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen Sie auf einen Blick, welche Angebote wirklich attraktiv sind, ohne versteckte Kosten oder aufwendige Recher",
-            "Cloud Cruises TUI Cruises VIVA Cruises Celebrity Cruises Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Egal max. 50% max. 40% max. 30% max. 20% max. 10% 0% Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Reisethemen"
+            "bean Internat… Sea Cloud Cruises TUI Cruises VIVA Cruises Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Egal max. 50% max. 40% max. 30% max. 20% max. 10% 0% Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Reisethemen"
           ]
         },
         {
@@ -197,6 +197,11 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-20",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
           "ship": "Costa Smeralda",
           "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
@@ -204,11 +209,6 @@
         {
           "ship": "Costa Smeralda",
           "departure_date": "2026-12-14",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -251,7 +251,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-02T16:28:28.008272+00:00"
+      "checked_at": "2026-11-02T19:23:29.471196+00:00"
     },
     "7": {
       "status": "checked",
