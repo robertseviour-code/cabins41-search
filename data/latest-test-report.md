@@ -1,13 +1,13 @@
 # Cabins41 — test report
-Run: 2026-11-02T13:38:52+00:00 to 2026-11-02T14:05:24.628782+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41454773196
+Run: 2026-11-02T16:26:54+00:00 to 2026-11-02T16:55:45.040322+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41481525472
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
-**Checked:** 63; **blocked:** 0; **other failures:** 0
+**Checked:** 62; **blocked:** 0; **other failures:** 1
 **Potential solo sailings (unverified):** 1; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
-None recorded.
+- Virgin Voyages: failed — HTTP Error 500: Internal Server Error
 
 ## Potential offers requiring manual checking
 - Norwegian Encore North | 2028-04-15 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
@@ -18,12 +18,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 14/3
+Consecutive baseline passes: 15/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
-- checked: 63 (previous 63, change +0)
+- checked: 62 (previous 63, change -1)
 - blocked: 0 (previous 0, change +0)
-- failed: 0 (previous 0, change +0)
-- potential: 1 (previous 14, change -13)
+- failed: 1 (previous 0, change +1)
+- potential: 1 (previous 1, change +0)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
