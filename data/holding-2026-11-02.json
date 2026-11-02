@@ -1581,6 +1581,40 @@
       "source_name": "Journey Latin America",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:33:26.991661+00:00"
+    },
+    "37": {
+      "status": "checked",
+      "url": "https://www.kreuzfahrtberater.de/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.kreuzfahrtberater.de/reedereien/costa-kreuzfahrten",
+          "label": "Costa Kreuzfahrten",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.kreuzfahrtberater.de/karibik-kreuzfahrten",
+          "label": "Karibik",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.kreuzfahrtberater.de/donau-kreuzfahrten",
+          "label": "Donau",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 73,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Kreuzfahrtberater",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:33:52.403246+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
