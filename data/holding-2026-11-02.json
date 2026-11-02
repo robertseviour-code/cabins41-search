@@ -1851,6 +1851,28 @@
       "source_name": "Panache Cruises",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:36:17.639251+00:00"
+    },
+    "49": {
+      "status": "checked",
+      "url": "https://www.paramountcruises.com:443/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.paramountcruises.com:443/cruise-styles/black-friday-cruise-deals",
+          "label": "Black Friday Deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 1,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Paramount Cruises",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:36:42.371757+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
