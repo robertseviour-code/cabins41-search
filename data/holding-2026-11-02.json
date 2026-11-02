@@ -173,7 +173,7 @@
           ]
         }
       ],
-      "candidate_links_found": 79,
+      "candidate_links_found": 80,
       "possible_offers": [],
       "duplicates_excluded": [
         {
@@ -251,7 +251,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-02T13:40:23.674715+00:00"
+      "checked_at": "2026-11-02T16:28:28.008272+00:00"
     },
     "7": {
       "status": "checked",
