@@ -174,40 +174,7 @@
         }
       ],
       "candidate_links_found": 79,
-      "possible_offers": [
-        {
-          "source_name": "Atlantis Reisen and Seereisen",
-          "source_id": 6,
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-12-07",
-          "solo_evidence": "Zuschlag nur 0%",
-          "evidence": "Atlantische Inselwelten und Marokko Inklusive Servicegebühr mit Flug buchbar ab 1.179 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 07. Dez. 2026 – 14. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 569 € Meerblickkabine ab 689 € Balkonkabine ab 859 € Suite N | Sailing: Atlantische Inselwelten und Marokko Inklusive Servicegebühr mit Flug buchbar ab 1.179 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 07. Dez. 2026 – 14. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 569 € Meerblickkabine ab 689 € Balkonkabine ab 859 € Suite Nicht verfügbar Zum Angebot",
-          "prices_mentioned": [],
-          "durations_mentioned": [
-            "7 Nächte"
-          ],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
-        },
-        {
-          "source_name": "Atlantis Reisen and Seereisen",
-          "source_id": 6,
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-11-26",
-          "solo_evidence": "Zuschlag nur 0%",
-          "evidence": "Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.299 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 26. Nov. 2026 – 03. Dez. 2026 Kanaren Routenverlauf ansehen Gran Canaria → Gran Canaria Innenkabine ab 639 € Meerblickkabine ab 809 € Balkonkabine ab 909 € Suite Nicht verfügbar Zum A | Sailing: Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.299 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 26. Nov. 2026 – 03. Dez. 2026 Kanaren Routenverlauf ansehen Gran Canaria → Gran Canaria Innenkabine ab 639 € Meerblickkabine ab 809 € Balkonkabine ab 909 € Suite Nicht verfügbar Zum Angebot",
-          "prices_mentioned": [],
-          "durations_mentioned": [
-            "7 Nächte"
-          ],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
-        }
-      ],
+      "possible_offers": [],
       "duplicates_excluded": [
         {
           "ship": "Norwegian Getaway",
@@ -230,11 +197,6 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-20",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
           "ship": "Costa Smeralda",
           "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
@@ -242,6 +204,11 @@
         {
           "ship": "Costa Smeralda",
           "departure_date": "2026-12-14",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -260,6 +227,11 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-07",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
           "ship": "Costa Toscana",
           "departure_date": "2026-11-19",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
@@ -268,13 +240,18 @@
           "ship": "Costa Smeralda",
           "departure_date": "2026-11-11",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-11-26",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         }
       ],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-02T10:28:28.499196+00:00"
+      "checked_at": "2026-11-02T13:40:23.674715+00:00"
     },
     "7": {
       "status": "checked",
