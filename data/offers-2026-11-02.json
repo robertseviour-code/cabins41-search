@@ -4,8 +4,8 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 13,
-  "candidate_sailings": 13,
+  "qualified_candidates": 14,
+  "candidate_sailings": 14,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 15,
   "existing_listings_status": {
@@ -128,6 +128,26 @@
       ],
       "durations_mentioned": [
         "4 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Dawn",
+      "departure_date": "2026-12-05",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: £250 £250 Bahamas: Great Stirrup Cay & Nassau Jacksonville | Great Stirrup Cay | Nassau | Jacksonville 05 Dec 2026 5 Nights Norwegian Dawn Bahamas 05 Dec 2026 5 Nights Norwegian Dawn Bahamas Low deposits from £100 | Sailing: Solo Prices From: £250 £250 Bahamas: Great Stirrup Cay & Nassau Jacksonville | Great Stirrup Cay | Nassau | Jacksonville 05 Dec 2026 5 Nights Norwegian Dawn Bahamas 05 Dec 2026 5 Nights Norwegian Dawn Bahamas Low deposits from £100pp, PLUS up to £250 savings on Balcony and above Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £250 £250 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051335",
+      "prices_mentioned": [
+        "£250",
+        "£100",
+        "£249"
+      ],
+      "durations_mentioned": [
+        "5 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
