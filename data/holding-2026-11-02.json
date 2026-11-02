@@ -357,6 +357,42 @@
       "source_name": "Azamara",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:22:39.421860+00:00"
+    },
+    "8": {
+      "status": "checked",
+      "url": "https://barrheadtravel.co.uk",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://barrheadtravel.co.uk/cruise/last-minute-cruise-deals",
+          "label": "Last Minute Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://barrheadtravel.co.uk/flightdeals",
+          "label": "Flights",
+          "keyword_count": 1,
+          "snippets": [
+            "uises Safari Sailing & Boating Shopping Singles Skiing & Winter Sports Small Ship Cruises Solo Travel Spa & Fitness Sporting Events Stag & Hen Breaks Student Groups Sustainable Travel Theatre & Music Theme Parks Transatlantic Universal Parks & Resort Vacations"
+          ]
+        },
+        {
+          "url": "https://barrheadtravel.co.uk/deals/",
+          "label": "View Our Top Deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 9,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Barrhead Travel",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:23:12.537886+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
