@@ -1386,6 +1386,64 @@
       "source_name": "Holland America Line",
       "checker_version": 19,
       "checked_at": "2026-11-02T03:31:50.300592+00:00"
+    },
+    "33": {
+      "status": "checked",
+      "url": "https://www.hurtigruten.com/en-us",
+      "lead_snippets": [
+        "ffers Spring in Norway | Up to 30% off Ongoing offers Our Northern Lights Promise Reduced single supplement Ships Explore our fleet Find my ship Sailing plan for Original Cabins and suites Our ships MS Trollfjord MS Midnatsol MS Kong Harald MS Nordkapp MS Nordlys MS",
+        "t your onboard team Cruise types Northern Lights cruises Fjord cruises Small ship cruises Solo cruises Svalbard cruises Norway cruises in 2027 Norway cruises in 2028 Explore Norway Explore Norway Northern Lights Midnight Sun Polar Night Norwegian coastal ports N"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.hurtigruten.com/en-us/deals/solo-travel",
+          "label": "Reduced single supplement",
+          "keyword_count": 16,
+          "snippets": [
+            "Solo Cruise Deals | Cruising Solo in Norway | Hurtigruten US Solo cruise deals in Norway with reduced single supplement Valid until November 30 2026 Experience solo cruise",
+            "Solo Cruise Deals | Cruising Solo in Norway | Hurtigruten US Solo cruise deals in Norway with reduced single supplement Valid until November 30 2026 Experience solo cruises in Norway with a reduced single supplement and discover unf",
+            "Deals | Cruising Solo in Norway | Hurtigruten US Solo cruise deals in Norway with reduced single supplement Valid until November 30 2026 Experience solo cruises in Norway with a reduced single supplement and discover unforgettable fjords and authentic coastal adventu",
+            "se deals in Norway with reduced single supplement Valid until November 30 2026 Experience solo cruises in Norway with a reduced single supplement and discover unforgettable fjords and authentic coastal adventures. Show all voyages with this offer Discover solo c",
+            "supplement Valid until November 30 2026 Experience solo cruises in Norway with a reduced single supplement and discover unforgettable fjords and authentic coastal adventures. Show all voyages with this offer Discover solo cruises in Norway with a reduced single supp",
+            "ttable fjords and authentic coastal adventures. Show all voyages with this offer Discover solo cruises in Norway with a reduced single supplement and enjoy the freedom of having a cabin to yourself at a great price. Many of our sailings offer lowered single supp",
+            "ventures. Show all voyages with this offer Discover solo cruises in Norway with a reduced single supplement and enjoy the freedom of having a cabin to yourself at a great price. Many of our sailings offer lowered single supplements, making it easier than ever to expl",
+            "lements, making it easier than ever to explore Norway on your own terms. How to book your solo cruise: Since the 'from prices” on voyage cards are based on double occupancy, select '1' passenger when checking availability to view accurate solo pricing. Why choo"
+          ]
+        },
+        {
+          "url": "https://www.hurtigruten.com/en-us/why-hurtigruten/cruise-types/solo-cruises-in-norway",
+          "label": "Solo cruises",
+          "keyword_count": 36,
+          "snippets": [
+            "Solo Travel in Norway: Solo Cruises | Hurtigruten US Solo traveling in Norway with Hurtigruten Whether you're a seasoned solo traveler or contemplating your first solo adv",
+            "Solo Travel in Norway: Solo Cruises | Hurtigruten US Solo traveling in Norway with Hurtigruten Whether you're a seasoned solo traveler or contemplating your first solo adventure, a voyage with Hu",
+            "Solo Travel in Norway: Solo Cruises | Hurtigruten US Solo traveling in Norway with Hurtigruten Whether you're a seasoned solo traveler or contemplating your first solo adventure, a voyage with Hurtigruten is the perfect combina",
+            "ises | Hurtigruten US Solo traveling in Norway with Hurtigruten Whether you're a seasoned solo traveler or contemplating your first solo adventure, a voyage with Hurtigruten is the perfect combination of the beautiful Norwegian coast, like-minded people, and deli",
+            "t, like-minded people, and delicious local food. Why choose Hurtigruten Why choose Norway Solo cruising tips FAQs We have carried explorers, dreamers and wanderers on our ships for generations. Some travel with friends. Some travel alone. All find a place on a Hu",
+            "s. Some travel alone. All find a place on a Hurtigruten voyage. Perhaps you’re a seasoned solo traveler looking for a new way to experience a country. Or maybe you’re planning your first solo holiday and like the convenience of a multi-port cruise itinerary. Eith",
+            "many of our cruises – making it easier than ever to explore Norway on your own terms. See solo cruise deals Why solo cruise-goers choose Hurtigruten Small-ship sailing Our small-ship cruises bring you closer to Norway’s coastline. But they also offer a more per",
+            "making it easier than ever to explore Norway on your own terms. See solo cruise deals Why solo cruise-goers choose Hurtigruten Small-ship sailing Our small-ship cruises bring you closer to Norway’s coastline. But they also offer a more personal, relaxed experie"
+          ]
+        },
+        {
+          "url": "https://www.hurtigruten.com/en-us/deals/discount-norway-cruise",
+          "label": "Book limited-time offer",
+          "keyword_count": 2,
+          "snippets": [
+            "ffers Spring in Norway | Up to 30% off Ongoing offers Our Northern Lights Promise Reduced single supplement Ships Explore our fleet Find my ship Sailing plan for Original Cabins and suites Our ships MS Trollfjord MS Midnatsol MS Kong Harald MS Nordkapp MS Nordlys MS",
+            "t your onboard team Cruise types Northern Lights cruises Fjord cruises Small ship cruises Solo cruises Svalbard cruises Norway cruises in 2027 Norway cruises in 2028 Explore Norway Explore Norway Northern Lights Midnight Sun Polar Night Norwegian coastal ports N"
+          ]
+        }
+      ],
+      "candidate_links_found": 5,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Hurtigruten",
+      "checker_version": 19,
+      "checked_at": "2026-11-02T03:32:12.297430+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
