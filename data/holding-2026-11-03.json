@@ -174,7 +174,24 @@
         }
       ],
       "candidate_links_found": 80,
-      "possible_offers": [],
+      "possible_offers": [
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "ship": "MSC Orchestra",
+          "departure_date": "2026-12-09",
+          "solo_evidence": "Zuschlag nur 0%",
+          "evidence": "Hellas und Ägäis Entdeckungstrip Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der MSC Orchestra 09. Dez. 2026 – 16. Dez. 2026 Mittelmeer Routenverlauf ansehen Istanbul → Istanbul Innenkabine ab 636 € Meerblickkabine ab 764 € Balkonkabine ab 956 € Suite Nicht verfügbar Zum Angebot | Sailing: Hellas und Ägäis Entdeckungstrip Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der MSC Orchestra 09. Dez. 2026 – 16. Dez. 2026 Mittelmeer Routenverlauf ansehen Istanbul → Istanbul Innenkabine ab 636 € Meerblickkabine ab 764 € Balkonkabine ab 956 € Suite Nicht verfügbar Zum Angebot",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "7 Nächte"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        }
+      ],
       "duplicates_excluded": [
         {
           "ship": "Norwegian Getaway",
@@ -197,8 +214,8 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-12-13",
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -207,8 +224,8 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-20",
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -240,18 +257,13 @@
           "ship": "Costa Smeralda",
           "departure_date": "2026-11-11",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-11-26",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         }
       ],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-03T10:19:06.962858+00:00"
+      "checked_at": "2026-11-03T13:35:57.279910+00:00"
     },
     "7": {
       "status": "checked",
