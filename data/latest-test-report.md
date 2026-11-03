@@ -1,16 +1,17 @@
 # Cabins41 — test report
-Run: 2026-11-03T19:22:04+00:00 to 2026-11-03T19:50:22.230183+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41702574339
+Run: 2026-11-03T22:12:04+00:00 to 2026-11-03T22:39:04.559875+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41728656704
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 63; **blocked:** 0; **other failures:** 0
-**Potential solo sailings (unverified):** 2; **verified fares:** 0 (not independently checked)
+**Potential solo sailings (unverified):** 3; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
 None recorded.
 
 ## Potential offers requiring manual checking
 - Norwegian Breakaway | 2026-11-29 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 12%
+- Costa Smeralda | 2026-12-06 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Norwegian Encore North | 2028-04-15 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 
 ## Assessment
@@ -19,12 +20,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 24/3
+Consecutive baseline passes: 25/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
 - checked: 63 (previous 63, change +0)
 - blocked: 0 (previous 0, change +0)
 - failed: 0 (previous 0, change +0)
-- potential: 2 (previous 6, change -4)
+- potential: 3 (previous 2, change +1)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
