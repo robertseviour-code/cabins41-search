@@ -597,7 +597,7 @@
             "ises River Cruises Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exp",
             "Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world o",
             "s Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals!",
-            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 12602 cruises Per Person Total Price"
+            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11726 cruises Per Person Total Price"
           ]
         },
         {
@@ -661,14 +661,30 @@
           "classification": "qualified_for_manual_review",
           "review_status": "needs_manual_check",
           "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Norwegian Joy",
+          "departure_date": "2027-01-11",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: £259 £259 Bahamas: Great Stirrup Cay & Nassau Miami | Nassau | Great Stirrup Cay | Miami 11 Jan 2027 4 Nights Norwegian Joy Bahamas 11 Jan 2027 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speci | Sailing: Solo Prices From: £259 £259 Bahamas: Great Stirrup Cay & Nassau Miami | Nassau | Great Stirrup Cay | Miami 11 Jan 2027 4 Nights Norwegian Joy Bahamas 11 Jan 2027 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends Monday! Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Low deposits from £100pp, PLUS up to £250 savings on Balcony and above Solo Prices From: £259 £259 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 019587",
+          "prices_mentioned": [
+            "£259",
+            "£249",
+            "£100",
+            "£250"
+          ],
+          "durations_mentioned": [
+            "4 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
         }
       ],
       "duplicates_excluded": [
-        {
-          "ship": "Celebrity Equinox",
-          "departure_date": "2027-05-29",
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
-        },
         {
           "ship": "MSC Meraviglia",
           "departure_date": "2027-04-26",
@@ -734,7 +750,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise118",
       "checker_version": 20,
-      "checked_at": "2026-11-03T13:40:09.384085+00:00"
+      "checked_at": "2026-11-03T16:26:35.697368+00:00"
     },
     "18": {
       "status": "checked",
