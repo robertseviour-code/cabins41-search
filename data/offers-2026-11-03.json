@@ -4,10 +4,10 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 4,
-  "candidate_sailings": 4,
+  "qualified_candidates": 2,
+  "candidate_sailings": 2,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 25,
+  "duplicate_sailings_excluded": 27,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
@@ -28,47 +28,6 @@
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Norwegian Dawn",
-      "departure_date": "2026-11-30",
-      "solo_evidence": "Solo Prices",
-      "evidence": "Solo Prices From: £250 £250 Bahamas: Great Stirrup Cay & Key West Jacksonville | Freeport | Great Stirrup Cay | Key West | Jacksonville 30 Nov 2026 5 Nights Norwegian Dawn Bahamas 30 Nov 2026 5 Nights Norwegian Dawn Bahamas Exclusi | Sailing: Solo Prices From: £250 £250 Bahamas: Great Stirrup Cay & Key West Jacksonville | Freeport | Great Stirrup Cay | Key West | Jacksonville 30 Nov 2026 5 Nights Norwegian Dawn Bahamas 30 Nov 2026 5 Nights Norwegian Dawn Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends Monday! Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Low deposits from £100pp, PLUS up to £250 savings on Balcony and above Solo Prices From: £250 £250 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051334",
-      "prices_mentioned": [
-        "£250",
-        "£249",
-        "£100"
-      ],
-      "durations_mentioned": [
-        "5 Nights"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Norwegian Joy",
-      "departure_date": "2027-01-11",
-      "solo_evidence": "Solo Prices",
-      "evidence": "Solo Prices From: £259 £259 Bahamas: Great Stirrup Cay & Nassau Miami | Nassau | Great Stirrup Cay | Miami 11 Jan 2027 4 Nights Norwegian Joy Bahamas 11 Jan 2027 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speci | Sailing: Solo Prices From: £259 £259 Bahamas: Great Stirrup Cay & Nassau Miami | Nassau | Great Stirrup Cay | Miami 11 Jan 2027 4 Nights Norwegian Joy Bahamas 11 Jan 2027 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends Monday! Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Low deposits from £100pp, PLUS up to £250 savings on Balcony and above Solo Prices From: £259 £259 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 019587",
-      "prices_mentioned": [
-        "£259",
-        "£249",
-        "£100",
-        "£250"
-      ],
-      "durations_mentioned": [
-        "4 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
