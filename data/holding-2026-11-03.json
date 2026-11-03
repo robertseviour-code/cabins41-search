@@ -558,7 +558,7 @@
             "ises River Cruises Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exp",
             "Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world o",
             "s Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals!",
-            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 12730 cruises Per Person Total Price"
+            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 12729 cruises Per Person Total Price"
           ]
         },
         {
@@ -602,6 +602,26 @@
           "classification": "qualified_for_manual_review",
           "review_status": "needs_manual_check",
           "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Norwegian Dawn",
+          "departure_date": "2026-11-30",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: £250 £250 Bahamas: Great Stirrup Cay & Key West Jacksonville | Freeport | Great Stirrup Cay | Key West | Jacksonville 30 Nov 2026 5 Nights Norwegian Dawn Bahamas 30 Nov 2026 5 Nights Norwegian Dawn Bahamas Low dep | Sailing: Solo Prices From: £250 £250 Bahamas: Great Stirrup Cay & Key West Jacksonville | Freeport | Great Stirrup Cay | Key West | Jacksonville 30 Nov 2026 5 Nights Norwegian Dawn Bahamas 30 Nov 2026 5 Nights Norwegian Dawn Bahamas Low deposits from £100pp, PLUS up to £250 savings on Balcony and above Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Exclusive Weekend Sale! One FREE speciality dining per person - ends Sunday! Solo Prices From: £250 £250 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051334",
+          "prices_mentioned": [
+            "£250",
+            "£100",
+            "£249"
+          ],
+          "durations_mentioned": [
+            "5 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
         }
       ],
       "duplicates_excluded": [
@@ -621,6 +641,11 @@
           "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
         },
         {
+          "ship": "Norwegian Joy",
+          "departure_date": "2026-11-30",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
           "ship": "Norwegian Dawn",
           "departure_date": "2026-11-15",
           "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
@@ -628,16 +653,6 @@
         {
           "ship": "Norwegian Getaway",
           "departure_date": "2026-11-30",
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
-        },
-        {
-          "ship": "Norwegian Joy",
-          "departure_date": "2026-11-30",
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
-        },
-        {
-          "ship": "Norwegian Joy",
-          "departure_date": "2026-11-16",
           "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
         },
         {
@@ -656,23 +671,23 @@
           "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
         },
         {
+          "ship": "Norwegian Dawn",
+          "departure_date": "2026-12-05",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
           "ship": "Carnival Elation",
           "departure_date": "2026-11-29",
           "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
         },
         {
           "ship": "Norwegian Getaway",
+          "departure_date": "2026-11-16",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Getaway",
           "departure_date": "2027-01-11",
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
-        },
-        {
-          "ship": "Norwegian Dawn",
-          "departure_date": "2026-11-20",
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
-        },
-        {
-          "ship": "Norwegian Dawn",
-          "departure_date": "2026-12-05",
           "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
         }
       ],
@@ -680,7 +695,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise118",
       "checker_version": 20,
-      "checked_at": "2026-11-03T07:46:35.484718+00:00"
+      "checked_at": "2026-11-03T10:23:05.910309+00:00"
     },
     "18": {
       "status": "checked",
