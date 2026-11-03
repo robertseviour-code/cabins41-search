@@ -1,8 +1,8 @@
 {
   "date": "2026-11-03",
-  "sources_attempted": 34,
+  "sources_attempted": 35,
   "sources_checked": 34,
-  "sources_blocked": 0,
+  "sources_blocked": 1,
   "sources_failed": 0,
   "qualified_candidates": 1,
   "candidate_sailings": 1,
@@ -39,7 +39,12 @@
       "warning": "Check the seller page and solo price before publishing."
     }
   ],
-  "blocked_sources": [],
+  "blocked_sources": [
+    {
+      "source": "Ocean World Travel",
+      "reason": "HTTP Error 403: Forbidden"
+    }
+  ],
   "blocked_candidate_pages": [],
   "failed_sources": []
 }
