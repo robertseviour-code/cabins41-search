@@ -190,6 +190,22 @@
           "classification": "qualified_for_manual_review",
           "review_status": "needs_manual_check",
           "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-06",
+          "solo_evidence": "Zuschlag nur 0%",
+          "evidence": "Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 639 € Meerblickkabine ab 759 € Balkonkabine ab 929 € Suite N | Sailing: Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 639 € Meerblickkabine ab 759 € Balkonkabine ab 929 € Suite Nicht verfügbar Zum Angebot",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "7 Nächte"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
         }
       ],
       "duplicates_excluded": [
@@ -205,12 +221,12 @@
         },
         {
           "ship": "Costa Pacifica",
-          "departure_date": "2026-11-10",
+          "departure_date": "2026-11-17",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
           "ship": "Costa Pacifica",
-          "departure_date": "2026-11-17",
+          "departure_date": "2026-11-10",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -219,13 +235,13 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-20",
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-14",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-12-14",
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -241,11 +257,6 @@
         {
           "ship": "Costa Toscana",
           "departure_date": "2026-11-22",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "MSC Sinfonia",
-          "departure_date": "2026-11-06",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -268,7 +279,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-03T19:23:36.457818+00:00"
+      "checked_at": "2026-11-03T22:13:46.190347+00:00"
     },
     "7": {
       "status": "checked",

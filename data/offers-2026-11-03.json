@@ -4,10 +4,10 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 2,
-  "candidate_sailings": 2,
+  "qualified_candidates": 3,
+  "candidate_sailings": 3,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 27,
+  "duplicate_sailings_excluded": 26,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
@@ -25,6 +25,22 @@
       "departure_date": "2026-11-29",
       "solo_evidence": "Zuschlag nur 12%",
       "evidence": "Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway 29. Nov. 2026 – 06. Dez. 2026 Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nich | Sailing: Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway 29. Nov. 2026 – 06. Dez. 2026 Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-12-06",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 639 € Meerblickkabine ab 759 € Balkonkabine ab 929 € Suite N | Sailing: Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 639 € Meerblickkabine ab 759 € Balkonkabine ab 929 € Suite Nicht verfügbar Zum Angebot",
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
