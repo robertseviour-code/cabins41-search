@@ -864,23 +864,23 @@
           ]
         },
         {
-          "url": "https://www.e-hoi.de/lastminute/",
-          "label": "Last Minute Kreuzfahrten",
+          "url": "https://www.e-hoi.de/black-friday/",
+          "label": "Black Friday Angebote",
           "keyword_count": 3,
           "snippets": [
             "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
-            "00 € - 2.999 € 956 1.000 € - 1.999 € 1.067 500 € - 999 € 737 weniger als 500 € 319 Themen Alleinreisende 828 Bordsprache Deutsch 312 e-hoi Kombipaket 20 Expeditionskreuzfahrten 46 Familien 675 LNG-Antrieb 217 Luxuskreuzfahrten 211 Neues Schiff 55 Schnupperkreuzfah"
+            "€ - 2.999 € 1.028 1.000 € - 1.999 € 1.029 500 € - 999 € 589 weniger als 500 € 183 Themen Alleinreisende 749 e-hoi Kombipaket 35 Familien 654 LNG-Antrieb 390 Luxuskreuzfahrten 503 Neues Schiff 342 Schnupperkreuzfahrten 120 Top-Angebote 1.252 Topseller 11 Inklusivl"
           ]
         }
       ],
-      "candidate_links_found": 80,
+      "candidate_links_found": 81,
       "possible_offers": [],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "e-hoi",
       "checker_version": 20,
-      "checked_at": "2026-11-04T01:40:26.702875+00:00"
+      "checked_at": "2026-11-04T04:30:43.480555+00:00"
     },
     "25": {
       "status": "checked",
