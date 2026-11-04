@@ -236,12 +236,12 @@
         },
         {
           "ship": "Costa Smeralda",
-          "departure_date": "2026-12-13",
+          "departure_date": "2026-12-14",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
           "ship": "Costa Smeralda",
-          "departure_date": "2026-12-14",
+          "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -284,7 +284,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-04T04:24:25.329341+00:00"
+      "checked_at": "2026-11-04T07:45:43.678122+00:00"
     },
     "7": {
       "status": "checked",
