@@ -816,7 +816,7 @@
       "candidate_pages": [
         {
           "url": "https://www.cunard.com/en-us/cruise-deals/fall-savings-event",
-          "label": "",
+          "label": "Savings of up to 35%",
           "keyword_count": 1,
           "snippets": [
             "the stateroom. Fares are subject to standard Cunard terms and conditions. Guests paying a single occupancy supplement receive the same discount percentage. Reduced Refundable Deposit Offer A reduced refundable 12.5% deposit is required within three days of reservati"
@@ -838,7 +838,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cunard",
       "checker_version": 20,
-      "checked_at": "2026-11-04T13:45:29.352794+00:00"
+      "checked_at": "2026-11-04T16:25:51.219930+00:00"
     },
     "22": {
       "status": "checked",
