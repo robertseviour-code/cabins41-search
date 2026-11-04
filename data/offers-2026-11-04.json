@@ -1,8 +1,8 @@
 {
   "date": "2026-11-04",
   "sources_attempted": 63,
-  "sources_checked": 62,
-  "sources_blocked": 1,
+  "sources_checked": 63,
+  "sources_blocked": 0,
   "sources_failed": 0,
   "qualified_candidates": 6,
   "candidate_sailings": 6,
@@ -124,12 +124,7 @@
       "warning": "Check the seller page and solo price before publishing."
     }
   ],
-  "blocked_sources": [
-    {
-      "source": "Fjord Line",
-      "reason": "HTTP Error 403: Forbidden"
-    }
-  ],
+  "blocked_sources": [],
   "blocked_candidate_pages": [],
   "failed_sources": []
 }
