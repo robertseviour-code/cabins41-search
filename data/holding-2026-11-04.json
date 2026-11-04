@@ -195,10 +195,10 @@
           "source_name": "Atlantis Reisen and Seereisen",
           "source_id": 6,
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-          "ship": "Norwegian Breakaway",
-          "departure_date": "2026-11-29",
-          "solo_evidence": "Zuschlag nur 12%",
-          "evidence": "Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway 29. Nov. 2026 – 06. Dez. 2026 Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nich | Sailing: Karibische Inselträume ab San Juan auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Breakaway 29. Nov. 2026 – 06. Dez. 2026 Karibik Routenverlauf ansehen New Orleans → New Orleans Innenkabine ab 503 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot",
+          "ship": "MSC Sinfonia",
+          "departure_date": "2026-12-10",
+          "solo_evidence": "Zuschlag nur 0%",
+          "evidence": "Mediterrane Symphonie der Entdeckungen Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der MSC Sinfonia 10. Dez. 2026 – 17. Dez. 2026 Mittelmeer Routenverlauf ansehen Rom / Civitavecchia → Rom / Civitavecchia Innenkabine ab 601 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügba | Sailing: Mediterrane Symphonie der Entdeckungen Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der MSC Sinfonia 10. Dez. 2026 – 17. Dez. 2026 Mittelmeer Routenverlauf ansehen Rom / Civitavecchia → Rom / Civitavecchia Innenkabine ab 601 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot",
           "prices_mentioned": [],
           "durations_mentioned": [
             "7 Nächte"
@@ -230,8 +230,8 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-20",
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -240,8 +240,8 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-12-13",
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -252,6 +252,11 @@
         {
           "ship": "Costa Toscana",
           "departure_date": "2026-11-15",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Norwegian Breakaway",
+          "departure_date": "2026-11-29",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -273,18 +278,13 @@
           "ship": "Norwegian Breakaway",
           "departure_date": "2026-11-08",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-11-11",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         }
       ],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-04T07:45:43.678122+00:00"
+      "checked_at": "2026-11-04T13:40:11.086968+00:00"
     },
     "7": {
       "status": "checked",
