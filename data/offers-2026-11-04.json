@@ -4,8 +4,8 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 4,
-  "candidate_sailings": 4,
+  "qualified_candidates": 3,
+  "candidate_sailings": 3,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 27,
   "existing_listings_status": {
@@ -44,25 +44,6 @@
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "MSC Marine Reserve",
-      "departure_date": "2027-02-08",
-      "solo_evidence": "Solo Prices",
-      "evidence": "Ocean Cay, MSC Marine Reserve Miami, Florida Miami, Florida Solo Prices From: Was £273 Now: £259 £259 Caribbean 4 Nights From Miami, Florida Miami | Nassau | Ocean Cay | Miami 08 Feb 2027 4 Nights | Sailing: Ocean Cay, MSC Marine Reserve Miami, Florida Miami, Florida Solo Prices From: Was £273 Now: £259 £259 Caribbean 4 Nights From Miami, Florida Miami | Nassau | Ocean Cay | Miami 08 Feb 2027 4 Nights",
-      "prices_mentioned": [
-        "£273",
-        "£259"
-      ],
-      "durations_mentioned": [
-        "4 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
