@@ -1,13 +1,13 @@
 # Cabins41 — test report
-Run: 2026-11-04T04:22:43+00:00 to 2026-11-04T04:49:48.647567+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41772822404
+Run: 2026-11-04T07:44:06+00:00 to 2026-11-04T08:11:11.748584+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/41794306669
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
-**Checked:** 63; **blocked:** 0; **other failures:** 0
+**Checked:** 62; **blocked:** 0; **other failures:** 1
 **Potential solo sailings (unverified):** 3; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
-None recorded.
+- PONANT: failed — HTTP Error 404: Not Found
 
 ## Potential offers requiring manual checking
 - Costa Toscana | 2026-11-13 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
@@ -20,12 +20,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 27/3
+Consecutive baseline passes: 28/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
-- checked: 63 (previous 63, change +0)
+- checked: 62 (previous 63, change -1)
 - blocked: 0 (previous 0, change +0)
-- failed: 0 (previous 0, change +0)
-- potential: 3 (previous 4, change -1)
+- failed: 1 (previous 0, change +1)
+- potential: 3 (previous 3, change +0)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
