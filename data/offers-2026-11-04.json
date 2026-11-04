@@ -7,7 +7,7 @@
   "qualified_candidates": 6,
   "candidate_sailings": 6,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 24,
+  "duplicate_sailings_excluded": 25,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
