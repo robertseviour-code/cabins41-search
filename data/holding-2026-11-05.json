@@ -2290,7 +2290,7 @@
     },
     "71": {
       "status": "checked",
-      "url": "https://checkmydeal.es",
+      "url": "https://www.checkmydeal.es/",
       "lead_snippets": [],
       "lead_count": 0,
       "candidate_pages": [
@@ -2307,7 +2307,7 @@
           "snippets": []
         },
         {
-          "url": "https://checkmydeal.es/cruises/comparar",
+          "url": "https://www.checkmydeal.es/cruises/comparar",
           "label": "Comparar cruceros",
           "keyword_count": 0,
           "snippets": []
@@ -2320,7 +2320,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "CheckMyDeal",
       "checker_version": 20,
-      "checked_at": "2026-11-05T14:06:25.392633+00:00"
+      "checked_at": "2026-11-05T16:53:59.389358+00:00"
     },
     "73": {
       "status": "checked",
