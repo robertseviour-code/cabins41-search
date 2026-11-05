@@ -860,7 +860,7 @@
           "keyword_count": 3,
           "snippets": [
             "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
-            "€ - 2.999 € 1.058 1.000 € - 1.999 € 1.037 500 € - 999 € 567 weniger als 500 € 177 Themen Alleinreisende 709 e-hoi Kombipaket 37 Familien 626 LNG-Antrieb 384 Luxuskreuzfahrten 520 Neues Schiff 345 Schnupperkreuzfahrten 116 Top-Angebote 1.301 Topseller 11 Inklusivl"
+            "€ - 2.999 € 1.059 1.000 € - 1.999 € 1.039 500 € - 999 € 570 weniger als 500 € 176 Themen Alleinreisende 709 e-hoi Kombipaket 37 Familien 627 LNG-Antrieb 384 Luxuskreuzfahrten 520 Neues Schiff 346 Schnupperkreuzfahrten 116 Top-Angebote 1.299 Topseller 11 Inklusivl"
           ]
         }
       ],
@@ -871,7 +871,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "e-hoi",
       "checker_version": 20,
-      "checked_at": "2026-11-05T10:36:21.442016+00:00"
+      "checked_at": "2026-11-05T13:50:42.882810+00:00"
     },
     "25": {
       "status": "checked",
