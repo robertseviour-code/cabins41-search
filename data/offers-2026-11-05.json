@@ -4,10 +4,10 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 6,
-  "candidate_sailings": 6,
+  "qualified_candidates": 2,
+  "candidate_sailings": 2,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 25,
+  "duplicate_sailings_excluded": 29,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
@@ -17,54 +17,6 @@
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
-    {
-      "source_name": "Atlantis Reisen and Seereisen",
-      "source_id": 6,
-      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-      "ship": "Costa Toscana",
-      "departure_date": "2026-11-13",
-      "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "Mediterrane Entdeckungsreise ab Genua Inklusive Servicegebühr mit Flug buchbar ab 1.099 € Zuschlag nur 0% 7 Nächte an Bord der Costa Toscana 13. Nov. 2026 – 20. Nov. 2026 Mittelmeer Routenverlauf ansehen Genua → Genua Innenkabine ab 399 € Meerblickkabine ab 429 € Balkonkabine ab 449 € Suite Nicht verfügbar Zum Angebot | Sailing: Mediterrane Entdeckungsreise ab Genua Inklusive Servicegebühr mit Flug buchbar ab 1.099 € Zuschlag nur 0% 7 Nächte an Bord der Costa Toscana 13. Nov. 2026 – 20. Nov. 2026 Mittelmeer Routenverlauf ansehen Genua → Genua Innenkabine ab 399 € Meerblickkabine ab 429 € Balkonkabine ab 449 € Suite Nicht verfügbar Zum Angebot",
-      "prices_mentioned": [],
-      "durations_mentioned": [
-        "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Atlantis Reisen and Seereisen",
-      "source_id": 6,
-      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-      "ship": "Norwegian Epic",
-      "departure_date": "2026-11-29",
-      "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "Westliche Karibik - Port Canaveral auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Epic 29. Nov. 2026 – 06. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 469 € Meerblickkabine Nicht verfügbar Balkonkabine ab 1.301 € Suite Nicht ve | Sailing: Westliche Karibik - Port Canaveral auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Epic 29. Nov. 2026 – 06. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 469 € Meerblickkabine Nicht verfügbar Balkonkabine ab 1.301 € Suite Nicht verfügbar Zum Angebot",
-      "prices_mentioned": [],
-      "durations_mentioned": [
-        "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Atlantis Reisen and Seereisen",
-      "source_id": 6,
-      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-      "ship": "Norwegian Epic",
-      "departure_date": "2026-12-06",
-      "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "Westliche Karibik - Port Canaveral auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Epic 06. Dez. 2026 – 13. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 529 € Meerblickkabine Nicht verfügbar Balkonkabine ab 779 € Suite Nicht verf | Sailing: Westliche Karibik - Port Canaveral auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Epic 06. Dez. 2026 – 13. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 529 € Meerblickkabine Nicht verfügbar Balkonkabine ab 779 € Suite Nicht verfügbar Zum Angebot",
-      "prices_mentioned": [],
-      "durations_mentioned": [
-        "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
     {
       "source_name": "Cruise118",
       "source_id": 17,
@@ -81,22 +33,6 @@
       ],
       "durations_mentioned": [
         "4 Nights"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Atlantis Reisen and Seereisen",
-      "source_id": 6,
-      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-      "ship": "Norwegian Epic",
-      "departure_date": "2026-12-13",
-      "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "Westliche Karibik - Port Canaveral auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Epic 13. Dez. 2026 – 20. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 439 € Meerblickkabine Nicht verfügbar Balkonkabine ab 789 € Suite ab 834 € Z | Sailing: Westliche Karibik - Port Canaveral auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Epic 13. Dez. 2026 – 20. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 439 € Meerblickkabine Nicht verfügbar Balkonkabine ab 789 € Suite ab 834 € Zum Angebot",
-      "prices_mentioned": [],
-      "durations_mentioned": [
-        "7 Nächte"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
