@@ -1777,14 +1777,14 @@
           ]
         }
       ],
-      "candidate_links_found": 14,
+      "candidate_links_found": 15,
       "possible_offers": [],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "ROL Cruise",
       "checker_version": 20,
-      "checked_at": "2026-11-06T10:45:12.782903+00:00"
+      "checked_at": "2026-11-06T13:56:53.493821+00:00"
     },
     "57": {
       "status": "checked",
