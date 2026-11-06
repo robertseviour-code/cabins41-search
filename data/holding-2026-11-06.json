@@ -208,22 +208,12 @@
         },
         {
           "ship": "Costa Pacifica",
-          "departure_date": "2026-11-10",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Pacifica",
           "departure_date": "2026-11-17",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
           "ship": "Norwegian Epic",
           "departure_date": "2026-11-29",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -234,6 +224,11 @@
         {
           "ship": "Costa Smeralda",
           "departure_date": "2026-12-13",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -260,13 +255,18 @@
           "ship": "Norwegian Epic",
           "departure_date": "2026-12-06",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-07",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         }
       ],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-06T19:25:22.456467+00:00"
+      "checked_at": "2026-11-06T22:05:45.368467+00:00"
     },
     "7": {
       "status": "checked",
