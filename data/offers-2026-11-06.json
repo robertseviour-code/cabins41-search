@@ -4,10 +4,10 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 5,
-  "candidate_sailings": 5,
+  "qualified_candidates": 3,
+  "candidate_sailings": 3,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 26,
+  "duplicate_sailings_excluded": 28,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
@@ -17,38 +17,6 @@
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
   "offers": [
-    {
-      "source_name": "Atlantis Reisen and Seereisen",
-      "source_id": 6,
-      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-      "ship": "Norwegian Luna",
-      "departure_date": "2026-11-14",
-      "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "Westliche Karibik - Miami auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Luna 14. Nov. 2026 – 21. Nov. 2026 Karibik Routenverlauf ansehen Miami → Miami Innenkabine ab 404 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum A | Sailing: Westliche Karibik - Miami auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Luna 14. Nov. 2026 – 21. Nov. 2026 Karibik Routenverlauf ansehen Miami → Miami Innenkabine ab 404 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot",
-      "prices_mentioned": [],
-      "durations_mentioned": [
-        "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Atlantis Reisen and Seereisen",
-      "source_id": 6,
-      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-      "ship": "Norwegian Getaway",
-      "departure_date": "2026-12-14",
-      "solo_evidence": "Zuschlag nur 18%",
-      "evidence": "Karibische Inselträume auf Wunsch mit Flug buchbar Zuschlag nur 18% 8 Nächte an Bord der Norwegian Getaway 14. Dez. 2026 – 22. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 481 € Meerblickkabine ab 526 € Balkonkabine ab 1.338 € Suite Nicht verfüg | Sailing: Karibische Inselträume auf Wunsch mit Flug buchbar Zuschlag nur 18% 8 Nächte an Bord der Norwegian Getaway 14. Dez. 2026 – 22. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 481 € Meerblickkabine ab 526 € Balkonkabine ab 1.338 € Suite Nicht verfügbar Zum Angebot",
-      "prices_mentioned": [],
-      "durations_mentioned": [
-        "8 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
     {
       "source_name": "Cruise118",
       "source_id": 17,
