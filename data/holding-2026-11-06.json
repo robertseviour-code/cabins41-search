@@ -173,7 +173,7 @@
           ]
         }
       ],
-      "candidate_links_found": 81,
+      "candidate_links_found": 82,
       "possible_offers": [],
       "duplicates_excluded": [
         {
@@ -212,13 +212,8 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Norwegian Epic",
-          "departure_date": "2026-11-29",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-12-14",
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-20",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -227,8 +222,13 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-20",
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-14",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Norwegian Epic",
+          "departure_date": "2026-11-29",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -266,7 +266,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-06T07:45:11.089729+00:00"
+      "checked_at": "2026-11-06T10:27:55.437069+00:00"
     },
     "7": {
       "status": "checked",
