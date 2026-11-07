@@ -4,10 +4,10 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 3,
-  "candidate_sailings": 3,
+  "qualified_candidates": 5,
+  "candidate_sailings": 5,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 28,
+  "duplicate_sailings_excluded": 25,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://lovely-paletas-545789.netlify.app/",
@@ -44,6 +44,43 @@
       "prices_mentioned": [],
       "durations_mentioned": [
         "8 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Joy",
+      "departure_date": "2026-12-14",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: £239 £239 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 14 Dec 2026 4 Nights Norwegian Joy Bahamas 14 Dec 2026 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speci | Sailing: Solo Prices From: £239 £239 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 14 Dec 2026 4 Nights Norwegian Joy Bahamas 14 Dec 2026 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends 10th November Solo Prices From: £239 £239 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 019711",
+      "prices_mentioned": [
+        "£239"
+      ],
+      "durations_mentioned": [
+        "4 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Carnival Conquest",
+      "departure_date": "2027-01-29",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: Was £260 Now: £252 £252 3-Day Bahamas Miami | Celebration Key | Miami 29 Jan 2027 3 Nights Carnival Conquest Bahamas 29 Jan 2027 3 Nights Carnival Conquest Bahamas Live availability and prices when you book online | Sailing: Solo Prices From: Was £260 Now: £252 £252 3-Day Bahamas Miami | Celebration Key | Miami 29 Jan 2027 3 Nights Carnival Conquest Bahamas 29 Jan 2027 3 Nights Carnival Conquest Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £260 Now: £252 £252 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 015864",
+      "prices_mentioned": [
+        "£260",
+        "£252"
+      ],
+      "durations_mentioned": [
+        "3 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
