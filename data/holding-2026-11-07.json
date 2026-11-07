@@ -174,7 +174,40 @@
         }
       ],
       "candidate_links_found": 83,
-      "possible_offers": [],
+      "possible_offers": [
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "ship": "Norwegian Luna",
+          "departure_date": "2026-11-14",
+          "solo_evidence": "Zuschlag nur 0%",
+          "evidence": "Westliche Karibik - Miami auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Luna 14. Nov. 2026 – 21. Nov. 2026 Karibik Routenverlauf ansehen Miami → Miami Innenkabine ab 404 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum A | Sailing: Westliche Karibik - Miami auf Wunsch mit Flug buchbar Zuschlag nur 0% 7 Nächte an Bord der Norwegian Luna 14. Nov. 2026 – 21. Nov. 2026 Karibik Routenverlauf ansehen Miami → Miami Innenkabine ab 404 € Meerblickkabine Nicht verfügbar Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "7 Nächte"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Atlantis Reisen and Seereisen",
+          "source_id": 6,
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "ship": "Norwegian Getaway",
+          "departure_date": "2026-12-14",
+          "solo_evidence": "Zuschlag nur 17%",
+          "evidence": "Karibische Inselträume auf Wunsch mit Flug buchbar Zuschlag nur 17% 8 Nächte an Bord der Norwegian Getaway 14. Dez. 2026 – 22. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 444 € Meerblickkabine ab 511 € Balkonkabine ab 1.248 € Suite ab 1.315 € Z | Sailing: Karibische Inselträume auf Wunsch mit Flug buchbar Zuschlag nur 17% 8 Nächte an Bord der Norwegian Getaway 14. Dez. 2026 – 22. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 444 € Meerblickkabine ab 511 € Balkonkabine ab 1.248 € Suite ab 1.315 € Zum Angebot",
+          "prices_mentioned": [],
+          "durations_mentioned": [
+            "8 Nächte"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        }
+      ],
       "duplicates_excluded": [
         {
           "ship": "Norwegian Getaway",
@@ -192,23 +225,18 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Norwegian Luna",
-          "departure_date": "2026-11-14",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
           "ship": "Norwegian Epic",
           "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Norwegian Getaway",
-          "departure_date": "2026-12-14",
+          "ship": "Costa Pacifica",
+          "departure_date": "2026-11-17",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Pacifica",
-          "departure_date": "2026-11-17",
+          "ship": "Norwegian Epic",
+          "departure_date": "2026-11-29",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -218,17 +246,12 @@
         },
         {
           "ship": "Costa Smeralda",
-          "departure_date": "2026-12-13",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Smeralda",
           "departure_date": "2026-12-14",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Norwegian Epic",
-          "departure_date": "2026-11-29",
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -266,7 +289,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 20,
-      "checked_at": "2026-11-07T07:31:11.218545+00:00"
+      "checked_at": "2026-11-07T10:12:41.405508+00:00"
     },
     "7": {
       "status": "checked",
