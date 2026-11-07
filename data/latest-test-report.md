@@ -1,17 +1,17 @@
 # Cabins41 — test report
-Run: 2026-11-07T10:11:08+00:00 to 2026-11-07T10:39:02.257932+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42362857327
+Run: 2026-11-07T13:22:05+00:00 to 2026-11-07T13:50:48.525972+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42376627460
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
-**Checked:** 63; **blocked:** 0; **other failures:** 0
+**Checked:** 62; **blocked:** 0; **other failures:** 1
 **Potential solo sailings (unverified):** 5; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
-None recorded.
+- Phoenix Reisen: failed — <urlopen error timed out>
 
 ## Potential offers requiring manual checking
-- Norwegian Luna | 2026-11-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Norwegian Getaway | 2026-12-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 17%
+- Norwegian Luna | 2026-11-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 12%
 - Norwegian Encore North | 2028-04-15 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Joy | 2026-12-14 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Carnival Conquest | 2027-01-29 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
@@ -22,12 +22,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 24/3
+Consecutive baseline passes: 25/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
-- checked: 63 (previous 63, change +0)
+- checked: 62 (previous 63, change -1)
 - blocked: 0 (previous 0, change +0)
-- failed: 0 (previous 0, change +0)
-- potential: 5 (previous 1, change +4)
+- failed: 1 (previous 0, change +1)
+- potential: 5 (previous 5, change +0)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
