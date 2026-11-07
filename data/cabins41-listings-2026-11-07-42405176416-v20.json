@@ -1,0 +1,665 @@
+{
+  "date": "2026-11-07",
+  "url": "https://lovely-paletas-545789.netlify.app/",
+  "sailings": [
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-13",
+      "date_text": "13 November 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Norwegian Epic",
+      "departure_date": "2026-11-29",
+      "date_text": "29 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Norwegian Epic",
+      "departure_date": "2026-12-06",
+      "date_text": "6 December 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Norwegian Dawn",
+      "departure_date": "2026-12-10",
+      "date_text": "10 December 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Norwegian Epic",
+      "departure_date": "2026-12-13",
+      "date_text": "13 December 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Explora II",
+      "departure_date": "2027-01-14",
+      "date_text": "14 January 2027",
+      "ship_start": 0,
+      "date_start": 21
+    },
+    {
+      "ship": "Norwegian Breakaway",
+      "departure_date": "2026-11-29",
+      "date_text": "29 November 2026",
+      "ship_start": 0,
+      "date_start": 30
+    },
+    {
+      "ship": "Norwegian Breakaway",
+      "departure_date": "2026-11-08",
+      "date_text": "8 November 2026",
+      "ship_start": 0,
+      "date_start": 30
+    },
+    {
+      "ship": "Norwegian Dawn",
+      "departure_date": "2026-11-30",
+      "date_text": "30 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "MSC Orchestra",
+      "departure_date": "2026-12-09",
+      "date_text": "9 December 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Norwegian Joy",
+      "departure_date": "2027-01-11",
+      "date_text": "11 January 2027",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Norwegian Encore",
+      "departure_date": "2028-04-15",
+      "date_text": "15 April 2028",
+      "ship_start": 0,
+      "date_start": 27
+    },
+    {
+      "ship": "MSC World Europa",
+      "departure_date": "2026-11-13",
+      "date_text": "13 November 2026",
+      "ship_start": 0,
+      "date_start": 27
+    },
+    {
+      "ship": "Norwegian Dawn",
+      "departure_date": "2026-11-15",
+      "date_text": "15 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Norwegian Dawn",
+      "departure_date": "2026-11-20",
+      "date_text": "20 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-11-26",
+      "date_text": "26 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Carnival Elation",
+      "departure_date": "2026-11-29",
+      "date_text": "29 November 2026",
+      "ship_start": 0,
+      "date_start": 27
+    },
+    {
+      "ship": "Norwegian Getaway",
+      "departure_date": "2026-11-30",
+      "date_text": "30 November 2026",
+      "ship_start": 0,
+      "date_start": 28
+    },
+    {
+      "ship": "Norwegian Dawn",
+      "departure_date": "2026-12-05",
+      "date_text": "5 December 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-12-07",
+      "date_text": "7 December 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Norwegian Dawn",
+      "departure_date": "2027-01-07",
+      "date_text": "7 January 2027",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Norwegian Getaway",
+      "departure_date": "2027-01-11",
+      "date_text": "11 January 2027",
+      "ship_start": 0,
+      "date_start": 28
+    },
+    {
+      "ship": "Carnival Conquest",
+      "departure_date": "2027-03-08",
+      "date_text": "8 March 2027",
+      "ship_start": 0,
+      "date_start": 28
+    },
+    {
+      "ship": "MSC Meraviglia",
+      "departure_date": "2027-04-26",
+      "date_text": "26 April 2027",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Carnival Conquest",
+      "departure_date": "2027-11-15",
+      "date_text": "15 November 2027",
+      "ship_start": 0,
+      "date_start": 28
+    },
+    {
+      "ship": "Celebrity Apex",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Carnival Breeze",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 26
+    },
+    {
+      "ship": "Carnival Dream",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Carnival Horizon",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 27
+    },
+    {
+      "ship": "Norwegian Luna",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Carnival Mardi Gras",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 30
+    },
+    {
+      "ship": "Carnival Splendor",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 28
+    },
+    {
+      "ship": "Norwegian Viva",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-22",
+      "date_text": "22 November 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Norwegian Viva Departure",
+      "departure_date": "2026-11-15",
+      "date_text": "15 November 2026",
+      "ship_start": 0,
+      "date_start": 41
+    },
+    {
+      "ship": "Norwegian Breakaway Departure",
+      "departure_date": "2026-11-15",
+      "date_text": "15 November 2026",
+      "ship_start": 0,
+      "date_start": 46
+    },
+    {
+      "ship": "Ambience",
+      "departure_date": "2026-11-13",
+      "date_text": "13 November 2026",
+      "ship_start": 0,
+      "date_start": 35
+    },
+    {
+      "ship": "Costa Toscana Departure",
+      "departure_date": "2026-11-14",
+      "date_text": "14 November 2026",
+      "ship_start": 0,
+      "date_start": 40
+    },
+    {
+      "ship": "Norwegian Breakaway Departure",
+      "departure_date": "2026-11-24",
+      "date_text": "24 November 2026",
+      "ship_start": 0,
+      "date_start": 46
+    },
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-09",
+      "date_text": "9 November 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Ambience",
+      "departure_date": "2026-11-11",
+      "date_text": "11 November 2026",
+      "ship_start": 0,
+      "date_start": 19
+    },
+    {
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-11-12",
+      "date_text": "12 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-11-15",
+      "date_text": "15 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-15",
+      "date_text": "15 November 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-19",
+      "date_text": "19 November 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Norwegian Viva",
+      "departure_date": "2026-11-27",
+      "date_text": "27 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Norwegian Breakaway",
+      "departure_date": "2026-11-28",
+      "date_text": "28 November 2026",
+      "ship_start": 0,
+      "date_start": 30
+    },
+    {
+      "ship": "Celebrity Infinity",
+      "departure_date": "2027-03-03",
+      "date_text": "3 March 2027",
+      "ship_start": 0,
+      "date_start": 29
+    },
+    {
+      "ship": "Celebrity Equinox",
+      "departure_date": "2027-05-29",
+      "date_text": "29 May 2027",
+      "ship_start": 0,
+      "date_start": 28
+    },
+    {
+      "ship": "MSC Virtuosa",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 59
+    },
+    {
+      "ship": "Costa Pacifica",
+      "departure_date": "2026-11-07",
+      "date_text": "7 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Favolosa",
+      "departure_date": "2026-11-08",
+      "date_text": "8 November 2026",
+      "ship_start": 0,
+      "date_start": 49
+    },
+    {
+      "ship": "MSC Sinfonia",
+      "departure_date": "2026-11-08",
+      "date_text": "8 November 2026",
+      "ship_start": 0,
+      "date_start": 62
+    },
+    {
+      "ship": "Norwegian Encore",
+      "departure_date": "2026-11-08",
+      "date_text": "8 November 2026",
+      "ship_start": 0,
+      "date_start": 27
+    },
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-08",
+      "date_text": "8 November 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Costa Pacifica",
+      "departure_date": "2026-11-08",
+      "date_text": "8 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Pacifica",
+      "departure_date": "2026-11-10",
+      "date_text": "10 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Ambassador Ambition",
+      "departure_date": "2026-11-11",
+      "date_text": "11 November 2026",
+      "ship_start": 0,
+      "date_start": 57
+    },
+    {
+      "ship": "Ambition",
+      "departure_date": "2026-11-11",
+      "date_text": "11 November 2026",
+      "ship_start": 0,
+      "date_start": 19
+    },
+    {
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-11-11",
+      "date_text": "11 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Ambition",
+      "departure_date": "2026-11-13",
+      "date_text": "13 November 2026",
+      "ship_start": 0,
+      "date_start": 36
+    },
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-15",
+      "date_text": "15 November 2026",
+      "ship_start": 0,
+      "date_start": 66
+    },
+    {
+      "ship": "Norwegian Epic",
+      "departure_date": "2026-11-15",
+      "date_text": "15 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Norwegian Getaway",
+      "departure_date": "2026-11-16",
+      "date_text": "16 November 2026",
+      "ship_start": 0,
+      "date_start": 64
+    },
+    {
+      "ship": "Norwegian Joy",
+      "departure_date": "2026-11-16",
+      "date_text": "16 November 2026",
+      "ship_start": 0,
+      "date_start": 47
+    },
+    {
+      "ship": "Costa Pacifica",
+      "departure_date": "2026-11-17",
+      "date_text": "17 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "MSC World Europa",
+      "departure_date": "2026-11-18",
+      "date_text": "18 November 2026",
+      "ship_start": 0,
+      "date_start": 53
+    },
+    {
+      "ship": "Norwegian Star",
+      "departure_date": "2026-11-20",
+      "date_text": "20 November 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-20",
+      "date_text": "20 November 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Ambition",
+      "departure_date": "2026-11-27",
+      "date_text": "27 November 2026",
+      "ship_start": 0,
+      "date_start": 57
+    },
+    {
+      "ship": "Costa Toscana",
+      "departure_date": "2026-11-27",
+      "date_text": "27 November 2026",
+      "ship_start": 0,
+      "date_start": 24
+    },
+    {
+      "ship": "Explora II",
+      "departure_date": "2026-11-29",
+      "date_text": "29 November 2026",
+      "ship_start": 0,
+      "date_start": 43
+    },
+    {
+      "ship": "Norwegian Joy",
+      "departure_date": "2026-11-30",
+      "date_text": "30 November 2026",
+      "ship_start": 0,
+      "date_start": 44
+    },
+    {
+      "ship": "Ambition",
+      "departure_date": "2026-12-01",
+      "date_text": "1 December 2026",
+      "ship_start": 0,
+      "date_start": 19
+    },
+    {
+      "ship": "MSC Orchestra",
+      "departure_date": "2026-12-02",
+      "date_text": "2 December 2026",
+      "ship_start": 0,
+      "date_start": 46
+    },
+    {
+      "ship": "Ambassador Ambience",
+      "departure_date": "2026-12-06",
+      "date_text": "6 December 2026",
+      "ship_start": 0,
+      "date_start": 30
+    },
+    {
+      "ship": "Costa Fascinosa",
+      "departure_date": "2026-12-06",
+      "date_text": "6 December 2026",
+      "ship_start": 0,
+      "date_start": 51
+    },
+    {
+      "ship": "Ambition",
+      "departure_date": "2026-12-07",
+      "date_text": "7 December 2026",
+      "ship_start": 0,
+      "date_start": 19
+    },
+    {
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-12-13",
+      "date_text": "13 December 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-12-14",
+      "date_text": "14 December 2026",
+      "ship_start": 0,
+      "date_start": 25
+    },
+    {
+      "ship": "Ambition",
+      "departure_date": "2026-12-17",
+      "date_text": "17 December 2026",
+      "ship_start": 0,
+      "date_start": 19
+    },
+    {
+      "ship": "AIDAnova",
+      "departure_date": "2026-12-26",
+      "date_text": "26 December 2026",
+      "ship_start": 0,
+      "date_start": 50
+    },
+    {
+      "ship": "AIDAnova",
+      "departure_date": "2027-01-02",
+      "date_text": "2 January 2027",
+      "ship_start": 0,
+      "date_start": 53
+    },
+    {
+      "ship": "Ambassador Ambience",
+      "departure_date": "2027-01-03",
+      "date_text": "3 January 2027",
+      "ship_start": 0,
+      "date_start": 30
+    },
+    {
+      "ship": "Fred. Olsen Bolette",
+      "departure_date": "2027-01-05",
+      "date_text": "5 January 2027",
+      "ship_start": 0,
+      "date_start": 30
+    },
+    {
+      "ship": "Fred. Olsen Balmoral",
+      "departure_date": "2027-01-06",
+      "date_text": "6 January 2027",
+      "ship_start": 0,
+      "date_start": 31
+    },
+    {
+      "ship": "MSC Preziosa",
+      "departure_date": "2027-01-13",
+      "date_text": "13 January 2027",
+      "ship_start": 0,
+      "date_start": 23
+    },
+    {
+      "ship": "Norwegian Sun",
+      "departure_date": "2027-01-13",
+      "date_text": "13 January 2027",
+      "ship_start": 0,
+      "date_start": 46
+    },
+    {
+      "ship": "MSC Preziosa",
+      "departure_date": "2027-01-15",
+      "date_text": "15 January 2027",
+      "ship_start": 0,
+      "date_start": 23
+    },
+    {
+      "ship": "MSC Preziosa",
+      "departure_date": "2027-01-29",
+      "date_text": "29 January 2027",
+      "ship_start": 0,
+      "date_start": 23
+    },
+    {
+      "ship": "MSC Seaside",
+      "departure_date": "2027-02-08",
+      "date_text": "8 February 2027",
+      "ship_start": 0,
+      "date_start": 22
+    },
+    {
+      "ship": "P&O Iona",
+      "departure_date": "2027-02-20",
+      "date_text": "20 February 2027",
+      "ship_start": 0,
+      "date_start": 19
+    },
+    {
+      "ship": "MSC Preziosa",
+      "departure_date": "2027-03-03",
+      "date_text": "3 March 2027",
+      "ship_start": 0,
+      "date_start": 23
+    },
+    {
+      "ship": "Celebrity Xcel",
+      "departure_date": "2027-07-17",
+      "date_text": "17 July 2027",
+      "ship_start": 0,
+      "date_start": 25
+    }
+  ],
+  "fetched_at": "2026-11-07T19:13:50.477840+00:00"
+}
