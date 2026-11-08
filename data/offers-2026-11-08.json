@@ -7,7 +7,7 @@
   "qualified_candidates": 14,
   "candidate_sailings": 14,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 18,
+  "duplicate_sailings_excluded": 19,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
@@ -164,6 +164,24 @@
       "warning": "Check the seller page and solo price before publishing."
     },
     {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Dawn",
+      "departure_date": "2027-01-11",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: £249 £249 Bahamas: Great Stirrup Cay & Grand Bahama Island Jacksonville | Freeport | Great Stirrup Cay | Jacksonville 11 Jan 2027 4 Nights Norwegian Dawn Bahamas 11 Jan 2027 4 Nights Norwegian Dawn Bahamas Exclusi | Sailing: Solo Prices From: £249 £249 Bahamas: Great Stirrup Cay & Grand Bahama Island Jacksonville | Freeport | Great Stirrup Cay | Jacksonville 11 Jan 2027 4 Nights Norwegian Dawn Bahamas 11 Jan 2027 4 Nights Norwegian Dawn Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends 10th November Solo Prices From: £249 £249 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051343",
+      "prices_mentioned": [
+        "£249"
+      ],
+      "durations_mentioned": [
+        "4 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
       "source_name": "Atlantis Reisen and Seereisen",
       "source_id": 6,
       "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
@@ -206,25 +224,6 @@
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Carnival Conquest",
-      "departure_date": "2027-01-29",
-      "solo_evidence": "Solo Prices",
-      "evidence": "Solo Prices From: Was £260 Now: £252 £252 3-Day Bahamas Miami | Celebration Key | Miami 29 Jan 2027 3 Nights Carnival Conquest Bahamas 29 Jan 2027 3 Nights Carnival Conquest Bahamas Live availability and prices when you book online | Sailing: Solo Prices From: Was £260 Now: £252 £252 3-Day Bahamas Miami | Celebration Key | Miami 29 Jan 2027 3 Nights Carnival Conquest Bahamas 29 Jan 2027 3 Nights Carnival Conquest Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £260 Now: £252 £252 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 015864",
-      "prices_mentioned": [
-        "£260",
-        "£252"
-      ],
-      "durations_mentioned": [
-        "3 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
