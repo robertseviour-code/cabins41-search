@@ -1,20 +1,20 @@
 # Cabins41 — test report
-Run: 2026-11-08T04:20:16+00:00 to 2026-11-08T04:47:20.511513+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42446387643
+Run: 2026-11-08T07:31:05+00:00 to 2026-11-08T07:57:37.529456+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42459108237
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
-**Checked:** 62; **blocked:** 0; **other failures:** 1
+**Checked:** 63; **blocked:** 0; **other failures:** 0
 **Potential solo sailings (unverified):** 10; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
-- Truly Sherry: failed — HTTP Error 520: <none>
+None recorded.
 
 ## Potential offers requiring manual checking
 - Costa Smeralda | 2026-12-03 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Costa Smeralda | 2027-01-17 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2027-01-18 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Costa Smeralda | 2026-11-30 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2027-01-17 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2027-01-25 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2026-11-30 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Norwegian Getaway | 2026-12-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 17%
 - Norwegian Luna | 2026-11-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 12%
 - Norwegian Encore North | 2028-04-15 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
@@ -27,12 +27,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 30/3
+Consecutive baseline passes: 31/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
-- checked: 62 (previous 63, change -1)
+- checked: 63 (previous 62, change +1)
 - blocked: 0 (previous 0, change +0)
-- failed: 1 (previous 0, change +1)
+- failed: 0 (previous 1, change -1)
 - potential: 10 (previous 10, change +0)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
