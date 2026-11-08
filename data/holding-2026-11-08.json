@@ -2309,8 +2309,10 @@
         {
           "url": "https://viva-holidays.co.uk/type/multi-centre-holiday/",
           "label": "Multi Centre Holidays Explore more places with a single holiday",
-          "keyword_count": 0,
-          "snippets": []
+          "keyword_count": 1,
+          "snippets": [
+            "and Stay Viva Inspired Great Train Journeys Guided Tours Rocky Mountaineer Train Holidays Solo Traveller DESTINATIONS United States Italy United Arab Emirates Thailand India Switzerland Maldives Norway COMPANY Reviews About Us Contact Us FAQs Privacy Policy Terms"
+          ]
         }
       ],
       "candidate_links_found": 2,
@@ -2320,7 +2322,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Viva Holidays",
       "checker_version": 20,
-      "checked_at": "2026-11-08T07:54:05.635948+00:00"
+      "checked_at": "2026-11-08T10:34:46.367734+00:00"
     },
     "70": {
       "status": "checked",
