@@ -1,13 +1,13 @@
 # Cabins41 — test report
-Run: 2026-11-08T01:38:04+00:00 to 2026-11-08T02:05:08.801544+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42435078212
+Run: 2026-11-08T04:20:16+00:00 to 2026-11-08T04:47:20.511513+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42446387643
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
-**Checked:** 63; **blocked:** 0; **other failures:** 0
+**Checked:** 62; **blocked:** 0; **other failures:** 1
 **Potential solo sailings (unverified):** 10; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
-None recorded.
+- Truly Sherry: failed — HTTP Error 520: <none>
 
 ## Potential offers requiring manual checking
 - Costa Smeralda | 2026-12-03 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
@@ -27,12 +27,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 29/3
+Consecutive baseline passes: 30/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
-- checked: 63 (previous 63, change +0)
+- checked: 62 (previous 63, change -1)
 - blocked: 0 (previous 0, change +0)
-- failed: 0 (previous 0, change +0)
+- failed: 1 (previous 0, change +1)
 - potential: 10 (previous 10, change +0)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
