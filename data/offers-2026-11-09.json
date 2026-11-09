@@ -1,13 +1,13 @@
 {
   "date": "2026-11-09",
-  "sources_attempted": 3,
-  "sources_checked": 3,
+  "sources_attempted": 4,
+  "sources_checked": 4,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 0,
-  "candidate_sailings": 0,
+  "qualified_candidates": 11,
+  "candidate_sailings": 11,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 0,
+  "duplicate_sailings_excluded": 7,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
@@ -16,7 +16,184 @@
   },
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
-  "offers": [],
+  "offers": [
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Norwegian Luna",
+      "departure_date": "2026-11-14",
+      "solo_evidence": "Zuschlag nur 12%",
+      "evidence": "Westliche Karibik - Miami auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Luna 14. Nov. 2026 – 21. Nov. 2026 Karibik Routenverlauf ansehen Miami → Miami Innenkabine ab 460 € Meerblickkabine ab 710 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot | Sailing: Westliche Karibik - Miami auf Wunsch mit Flug buchbar Zuschlag nur 12% 7 Nächte an Bord der Norwegian Luna 14. Nov. 2026 – 21. Nov. 2026 Karibik Routenverlauf ansehen Miami → Miami Innenkabine ab 460 € Meerblickkabine ab 710 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Norwegian Getaway",
+      "departure_date": "2026-11-16",
+      "solo_evidence": "Zuschlag nur 6%",
+      "evidence": "Karibische Abenteuerwelten auf Wunsch mit Flug buchbar Zuschlag nur 6% 7 Nächte an Bord der Norwegian Getaway 16. Nov. 2026 – 23. Nov. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 239 € Meerblickkabine ab 259 € Balkonkabine Nicht verfügbar Suite Nicht v | Sailing: Karibische Abenteuerwelten auf Wunsch mit Flug buchbar Zuschlag nur 6% 7 Nächte an Bord der Norwegian Getaway 16. Nov. 2026 – 23. Nov. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 239 € Meerblickkabine ab 259 € Balkonkabine Nicht verfügbar Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-11-30",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Inselzauber und Atlantikträume Inklusive Servicegebühr mit Flug buchbar ab 1.039 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 30. Nov. 2026 – 07. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 429 € Meerblickkabine ab 549 € Balkonkabine ab 679 € Suite N | Sailing: Inselzauber und Atlantikträume Inklusive Servicegebühr mit Flug buchbar ab 1.039 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 30. Nov. 2026 – 07. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 429 € Meerblickkabine ab 549 € Balkonkabine ab 679 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-12-03",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Abenteuerliche Entdeckungsfahrt Kanarische Inseln und Madeira Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 03. Dez. 2026 – 10. Dez. 2026 Kanaren Routenverlauf ansehen Gran Canaria → Gran Canaria Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 649 € Suite Nicht verfügbar Zum A | Sailing: Abenteuerliche Entdeckungsfahrt Kanarische Inseln und Madeira Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 03. Dez. 2026 – 10. Dez. 2026 Kanaren Routenverlauf ansehen Gran Canaria → Gran Canaria Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 649 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-12-07",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Atlantische Inselwelten und Marokko Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 07. Dez. 2026 – 14. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 669 € Suite N | Sailing: Atlantische Inselwelten und Marokko Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 07. Dez. 2026 – 14. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 669 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-12-13",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Inselträume unter dunklem Sternenhimmel Inklusive Servicegebühr mit Flug buchbar ab 899 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 13. Dez. 2026 – 20. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 579 € Suite N | Sailing: Inselträume unter dunklem Sternenhimmel Inklusive Servicegebühr mit Flug buchbar ab 899 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 13. Dez. 2026 – 20. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 579 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Norwegian Getaway",
+      "departure_date": "2026-12-14",
+      "solo_evidence": "Zuschlag nur 17%",
+      "evidence": "Karibische Inselträume auf Wunsch mit Flug buchbar Zuschlag nur 17% 8 Nächte an Bord der Norwegian Getaway 14. Dez. 2026 – 22. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 444 € Meerblickkabine ab 511 € Balkonkabine ab 1.248 € Suite ab 1.315 € Z | Sailing: Karibische Inselträume auf Wunsch mit Flug buchbar Zuschlag nur 17% 8 Nächte an Bord der Norwegian Getaway 14. Dez. 2026 – 22. Dez. 2026 Karibik Routenverlauf ansehen Port Canaveral → Port Canaveral Innenkabine ab 444 € Meerblickkabine ab 511 € Balkonkabine ab 1.248 € Suite ab 1.315 € Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "8 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2026-12-14",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 14. Dez. 2026 – 21. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 579 € Suite N | Sailing: Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.009 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 14. Dez. 2026 – 21. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 579 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2027-01-17",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Atlantische Inselwelten und Marokkanischer Zauber Inklusive Servicegebühr mit Flug buchbar ab 999 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 17. Jan. 2027 – 24. Jan. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 579 € Suite N | Sailing: Atlantische Inselwelten und Marokkanischer Zauber Inklusive Servicegebühr mit Flug buchbar ab 999 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 17. Jan. 2027 – 24. Jan. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 579 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2027-01-18",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Atlantische Inselwelten und Marokkos Küste Inklusive Servicegebühr mit Flug buchbar ab 1.039 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 18. Jan. 2027 – 25. Jan. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 579 € Suite N | Sailing: Atlantische Inselwelten und Marokkos Küste Inklusive Servicegebühr mit Flug buchbar ab 1.039 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 18. Jan. 2027 – 25. Jan. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 399 € Meerblickkabine ab 499 € Balkonkabine ab 579 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2027-01-25",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "arische Horizonte: Entdeckungsreise im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.069 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 25. Jan. 2027 – 01. Feb. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 429 € Meerblickkabine ab 549 € Balkonkabine ab 629 € Suite N | Sailing: Kanarische Horizonte: Entdeckungsreise im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.069 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 25. Jan. 2027 – 01. Feb. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 429 € Meerblickkabine ab 549 € Balkonkabine ab 629 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    }
+  ],
   "blocked_sources": [],
   "blocked_candidate_pages": [],
   "failed_sources": []
