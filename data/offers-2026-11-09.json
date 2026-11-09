@@ -4,10 +4,10 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 15,
-  "candidate_sailings": 15,
+  "qualified_candidates": 14,
+  "candidate_sailings": 14,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 18,
+  "duplicate_sailings_excluded": 19,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
@@ -158,24 +158,6 @@
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
-      "source_name": "Cruise118",
-      "source_id": 17,
-      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-      "ship": "Norwegian Dawn",
-      "departure_date": "2027-01-11",
-      "solo_evidence": "Solo Prices",
-      "evidence": "Solo Prices From: £249 £249 Bahamas: Great Stirrup Cay & Grand Bahama Island Jacksonville | Freeport | Great Stirrup Cay | Jacksonville 11 Jan 2027 4 Nights Norwegian Dawn Bahamas 11 Jan 2027 4 Nights Norwegian Dawn Bahamas Exclusi | Sailing: Solo Prices From: £249 £249 Bahamas: Great Stirrup Cay & Grand Bahama Island Jacksonville | Freeport | Great Stirrup Cay | Jacksonville 11 Jan 2027 4 Nights Norwegian Dawn Bahamas 11 Jan 2027 4 Nights Norwegian Dawn Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends 10th November Solo Prices From: £249 £249 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051343",
-      "prices_mentioned": [
-        "£249"
-      ],
-      "durations_mentioned": [
-        "4 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
