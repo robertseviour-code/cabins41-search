@@ -913,6 +913,21 @@
       "source_name": "CruiseBooking",
       "checker_version": 20,
       "checked_at": "2026-11-09T01:47:42.546434+00:00"
+    },
+    "20": {
+      "status": "checked",
+      "url": "https://www.crystalcruises.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Crystal Cruises",
+      "checker_version": 20,
+      "checked_at": "2026-11-09T01:48:04.204878+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
