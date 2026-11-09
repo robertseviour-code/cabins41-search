@@ -1,6 +1,6 @@
 # Cabins41 — test report
-Run: 2026-11-09T01:41:47+00:00 to 2026-11-09T02:08:53.289258+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42546908781
+Run: 2026-11-09T04:28:25+00:00 to 2026-11-09T04:54:54.290468+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42562005101
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 63; **blocked:** 0; **other failures:** 0
@@ -32,7 +32,7 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 37/3
+Consecutive baseline passes: 38/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
