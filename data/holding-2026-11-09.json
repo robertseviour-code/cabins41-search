@@ -2174,14 +2174,14 @@
           ]
         }
       ],
-      "candidate_links_found": 43,
+      "candidate_links_found": 42,
       "possible_offers": [],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Travel Dealz",
       "checker_version": 20,
-      "checked_at": "2026-11-09T04:49:44.663137+00:00"
+      "checked_at": "2026-11-09T08:14:41.790299+00:00"
     },
     "63": {
       "status": "checked",
