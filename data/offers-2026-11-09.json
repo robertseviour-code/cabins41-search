@@ -7,7 +7,7 @@
   "qualified_candidates": 18,
   "candidate_sailings": 18,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 16,
+  "duplicate_sailings_excluded": 15,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
@@ -155,9 +155,10 @@
       "ship": "Norwegian Joy",
       "departure_date": "2026-12-14",
       "solo_evidence": "Solo Prices",
-      "evidence": "Solo Prices From: £239 £239 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 14 Dec 2026 4 Nights Norwegian Joy Bahamas 14 Dec 2026 4 Nights Norwegian Joy Bahamas | Sailing: Solo Prices From: £239 £239 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 14 Dec 2026 4 Nights Norwegian Joy Bahamas 14 Dec 2026 4 Nights Norwegian Joy Bahamas",
+      "evidence": "Solo Prices From: £239 £239 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 14 Dec 2026 4 Nights Norwegian Joy Bahamas 14 Dec 2026 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speci | Sailing: Solo Prices From: £239 £239 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 14 Dec 2026 4 Nights Norwegian Joy Bahamas 14 Dec 2026 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends 10th November Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £239 £239 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 019711",
       "prices_mentioned": [
-        "£239"
+        "£239",
+        "£249"
       ],
       "durations_mentioned": [
         "4 Nights"
