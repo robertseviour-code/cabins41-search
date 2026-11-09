@@ -1,10 +1,10 @@
 # Cabins41 — test report
-Run: 2026-11-09T04:28:25+00:00 to 2026-11-09T04:54:54.290468+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42562005101
+Run: 2026-11-09T07:52:50+00:00 to 2026-11-09T08:19:58.680036+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42582077917
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 63; **blocked:** 0; **other failures:** 0
-**Potential solo sailings (unverified):** 15; **verified fares:** 0 (not independently checked)
+**Potential solo sailings (unverified):** 14; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
 None recorded.
@@ -13,17 +13,16 @@ None recorded.
 - Norwegian Getaway | 2026-11-16 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 6%
 - Costa Smeralda | 2026-12-03 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2026-12-07 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Costa Smeralda | 2027-01-18 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2027-01-17 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Costa Smeralda | 2026-12-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2026-12-13 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Costa Smeralda | 2027-01-25 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2026-12-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2027-01-18 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2026-11-30 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2027-01-25 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Norwegian Getaway | 2026-12-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 17%
 - Norwegian Luna | 2026-11-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 12%
 - Norwegian Encore North | 2028-04-15 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Joy | 2026-12-14 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- Norwegian Dawn | 2027-01-11 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Carnival Conquest | 2027-01-29 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 
 ## Assessment
@@ -32,12 +31,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 38/3
+Consecutive baseline passes: 39/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
 - checked: 63 (previous 63, change +0)
 - blocked: 0 (previous 0, change +0)
 - failed: 0 (previous 0, change +0)
-- potential: 15 (previous 15, change +0)
+- potential: 14 (previous 15, change -1)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
