@@ -700,7 +700,7 @@
             "ises River Cruises Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exp",
             "Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world o",
             "s Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals!",
-            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11658 cruises Per Person Total Price"
+            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11617 cruises Per Person Total Price"
           ]
         },
         {
@@ -826,11 +826,10 @@
           "ship": "Borealis",
           "departure_date": "2027-05-12",
           "solo_evidence": "Solo Prices",
-          "evidence": "Solo Prices From: Was £179 Now: £175 £175 Two Night Mini-Cruise to Liverpool Southampton | Liverpool 12 May 2027 2 Nights Borealis United Kingdom 12 May 2027 2 Nights Borealis United Kingdom Get the Premium Drinks package from just | Sailing: Solo Prices From: Was £179 Now: £175 £175 Two Night Mini-Cruise to Liverpool Southampton | Liverpool 12 May 2027 2 Nights Borealis United Kingdom 12 May 2027 2 Nights Borealis United Kingdom Get the Premium Drinks package from just £22pp per night! Interest free Monthly Payments from JUST £71pp Solo Prices From: Was £179 Now: £175 £175 View cruise VIEW LIVE PRICES & SAVE WHEN YOU VIEW LIVE PRICES & BOOK ONLINE Holiday ID: 109867",
+          "evidence": "Solo Prices From: Was £179 Now: £175 £175 Two Night Mini-Cruise to Liverpool Southampton | Liverpool 12 May 2027 2 Nights Borealis United Kingdom 12 May 2027 2 Nights Borealis United Kingdom Interest free Monthly Payments from JUST | Sailing: Solo Prices From: Was £179 Now: £175 £175 Two Night Mini-Cruise to Liverpool Southampton | Liverpool 12 May 2027 2 Nights Borealis United Kingdom 12 May 2027 2 Nights Borealis United Kingdom Interest free Monthly Payments from JUST £71pp Solo Prices From: Was £179 Now: £175 £175 View cruise VIEW LIVE PRICES & SAVE WHEN YOU VIEW LIVE PRICES & BOOK ONLINE Holiday ID: 109867",
           "prices_mentioned": [
             "£179",
             "£175",
-            "£22",
             "£71"
           ],
           "durations_mentioned": [
@@ -906,7 +905,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise118",
       "checker_version": 20,
-      "checked_at": "2026-11-10T07:46:25.610439+00:00"
+      "checked_at": "2026-11-10T10:24:33.166489+00:00"
     },
     "18": {
       "status": "checked",
