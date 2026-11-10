@@ -1,6 +1,6 @@
 # Cabins41 — test report
-Run: 2026-11-09T22:11:27+00:00 to 2026-11-09T22:37:33.090688+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42709562758
+Run: 2026-11-10T01:32:37+00:00 to 2026-11-10T01:59:53.685841+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42736498943
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 63; **blocked:** 0; **other failures:** 0
@@ -13,8 +13,8 @@ None recorded.
 - Norwegian Getaway | 2026-11-16 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 6%
 - Costa Smeralda | 2026-12-03 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2026-12-07 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Costa Smeralda | 2026-12-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2026-12-13 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2026-12-14 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2027-01-17 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2027-01-18 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2026-11-30 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
@@ -35,7 +35,7 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 44/3
+Consecutive baseline passes: 45/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
