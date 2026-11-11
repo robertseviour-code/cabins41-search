@@ -360,6 +360,33 @@ def extract_leads(text, url, source, existing, dedupe_ready, sailings=None):
     return list(unique.values()), list(duplicate_unique.values())
 
 
+def homepage_sailings(raw):
+    """Use each homepage offer's explicit departure and heading, including river ships."""
+    parser = OfferTree(); parser.feed(raw)
+    def walk(node):
+        if isinstance(node, str):
+            return
+        yield node
+        for child in node['children']:
+            yield from walk(child)
+    records = []
+    for node in walk(parser.root):
+        date = node['attrs'].get('data-departure', '')
+        if node['tag'] != 'article' or 'offer' not in node['attrs'].get('class', '').split():
+            continue
+        try:
+            datetime.date.fromisoformat(date)
+        except ValueError:
+            continue
+        headings = [x for x in walk(node) if x['tag'] == 'h3']
+        if len(headings) != 1:
+            continue
+        ship = re.sub(r'\s+', ' ', node_text(headings[0])).strip().split(' · ')[0]
+        if ship:
+            records.append({'ship': ship, 'departure_date': date})
+    return records or [item for _, item in bounded_sailings(raw, require_solo=False)]
+
+
 def load_existing_sailings(date):
     """Cache today's public Cabins41 listing keys; fail closed if none can be read."""
     run_id = os.environ.get('GITHUB_RUN_ID', 'local')
@@ -376,7 +403,7 @@ def load_existing_sailings(date):
     try:
         url, raw = fetch(os.environ.get('CABINS41_LISTINGS_URL', CABINS41_URL), max_bytes=6000000)
         text, _ = page_data(raw)
-        sailings = [item for _, item in bounded_sailings(raw, require_solo=False)]
+        sailings = homepage_sailings(raw)
         keys = {(normalize_ship(x['ship']), x['departure_date']) for x in sailings}
         if not keys:
             raise ValueError('No ship/departure-date pairs could be read from Cabins41 listings')
