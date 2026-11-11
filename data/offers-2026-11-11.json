@@ -1,13 +1,13 @@
 {
   "date": "2026-11-11",
-  "sources_attempted": 13,
-  "sources_checked": 13,
+  "sources_attempted": 14,
+  "sources_checked": 14,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 11,
-  "candidate_sailings": 11,
+  "qualified_candidates": 18,
+  "candidate_sailings": 18,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 7,
+  "duplicate_sailings_excluded": 15,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
@@ -60,6 +60,25 @@
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "MSC Virtuosa",
+      "departure_date": "2026-12-01",
+      "solo_evidence": "Solo Prices",
+      "evidence": "tos 01 Dec 2026 1 Nights MSC Virtuosa South America 01 Dec 2026 1 Nights MSC Virtuosa South America Solo Prices From: Was £86 Now: £81 £81 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 109871 | Sailing: Solo Prices From: Was £86 Now: £81 £81 World-wide 1 Nights From Rio de Janeiro Rio de Janeiro | Santos 01 Dec 2026 1 Nights MSC Virtuosa South America 01 Dec 2026 1 Nights MSC Virtuosa South America Solo Prices From: Was £86 Now: £81 £81 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 109871",
+      "prices_mentioned": [
+        "£86",
+        "£81"
+      ],
+      "durations_mentioned": [
+        "1 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
@@ -130,6 +149,25 @@
       "warning": "Check the seller page and solo price before publishing."
     },
     {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Joy",
+      "departure_date": "2026-12-14",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: £239 £239 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 14 Dec 2026 4 Nights Norwegian Joy Bahamas 14 Dec 2026 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speci | Sailing: Solo Prices From: £239 £239 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 14 Dec 2026 4 Nights Norwegian Joy Bahamas 14 Dec 2026 4 Nights Norwegian Joy Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends 10th November Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £239 £239 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 019711",
+      "prices_mentioned": [
+        "£239",
+        "£249"
+      ],
+      "durations_mentioned": [
+        "4 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
       "source_name": "Atlantis Reisen and Seereisen",
       "source_id": 6,
       "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
@@ -188,6 +226,102 @@
       "prices_mentioned": [],
       "durations_mentioned": [
         "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "MSC Divina",
+      "departure_date": "2027-03-14",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Janeiro 14 Mar 2027 1 Nights MSC Divina South America 14 Mar 2027 1 Nights MSC Divina South America Solo Prices From: Was £71 Now: £67 £67 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 109869 | Sailing: Solo Prices From: Was £71 Now: £67 £67 World-wide 1 Nights From Santos Santos | Rio de Janeiro 14 Mar 2027 1 Nights MSC Divina South America 14 Mar 2027 1 Nights MSC Divina South America Solo Prices From: Was £71 Now: £67 £67 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 109869",
+      "prices_mentioned": [
+        "£71",
+        "£67"
+      ],
+      "durations_mentioned": [
+        "1 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "MSC Musica",
+      "departure_date": "2027-04-01",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Janeiro 01 Apr 2027 1 Nights MSC Musica South America 01 Apr 2027 1 Nights MSC Musica South America Solo Prices From: Was £75 Now: £71 £71 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 109870 | Sailing: Solo Prices From: Was £75 Now: £71 £71 World-wide 1 Nights From Santos Santos | Rio de Janeiro 01 Apr 2027 1 Nights MSC Musica South America 01 Apr 2027 1 Nights MSC Musica South America Solo Prices From: Was £75 Now: £71 £71 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 109870",
+      "prices_mentioned": [
+        "£75",
+        "£71"
+      ],
+      "durations_mentioned": [
+        "1 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "MSC Virtuosa",
+      "departure_date": "2027-04-03",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: Was £71 Now: £67 £67 World-wide 1 Nights From Santos Santos | Rio de Janeiro 03 Apr 2027 1 Nights MSC Virtuosa South America 03 Apr 2027 1 Nights MSC Virtuosa South America FREE cabin upgrades on Summer 2027 saili | Sailing: Solo Prices From: Was £71 Now: £67 £67 World-wide 1 Nights From Santos Santos | Rio de Janeiro 03 Apr 2027 1 Nights MSC Virtuosa South America 03 Apr 2027 1 Nights MSC Virtuosa South America FREE cabin upgrades on Summer 2027 sailings - For a limited time only Solo Prices From: Was £71 Now: £67 £67 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 109872",
+      "prices_mentioned": [
+        "£71",
+        "£67"
+      ],
+      "durations_mentioned": [
+        "1 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Borealis",
+      "departure_date": "2027-05-12",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: Was £179 Now: £175 £175 Two Night Mini-Cruise to Liverpool Southampton | Liverpool 12 May 2027 2 Nights Borealis United Kingdom 12 May 2027 2 Nights Borealis United Kingdom Interest free Monthly Payments from JUST | Sailing: Solo Prices From: Was £179 Now: £175 £175 Two Night Mini-Cruise to Liverpool Southampton | Liverpool 12 May 2027 2 Nights Borealis United Kingdom 12 May 2027 2 Nights Borealis United Kingdom Interest free Monthly Payments from JUST £73pp Solo Prices From: Was £179 Now: £175 £175 View cruise VIEW LIVE PRICES & SAVE WHEN YOU VIEW LIVE PRICES & BOOK ONLINE Holiday ID: 109867",
+      "prices_mentioned": [
+        "£179",
+        "£175",
+        "£73"
+      ],
+      "durations_mentioned": [
+        "2 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Encore",
+      "departure_date": "2028-04-15",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: £139 £139 Canada: Vancouver & Seattle Vancouver | Seattle 15 Apr 2028 1 Nights Norwegian Encore North America 15 Apr 2028 1 Nights Norwegian Encore North America Exclusive Weekend Sale! One FREE speciality dining | Sailing: Solo Prices From: £139 £139 Canada: Vancouver & Seattle Vancouver | Seattle 15 Apr 2028 1 Nights Norwegian Encore North America 15 Apr 2028 1 Nights Norwegian Encore North America Exclusive Weekend Sale! One FREE speciality dining per person - ends 10th November Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Interest free Monthly Payments from JUST £3pp Solo Prices From: £139 £139 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 101439",
+      "prices_mentioned": [
+        "£139",
+        "£249"
+      ],
+      "durations_mentioned": [
+        "1 Nights"
       ],
       "classification": "qualified_for_manual_review",
       "review_status": "needs_manual_check",
