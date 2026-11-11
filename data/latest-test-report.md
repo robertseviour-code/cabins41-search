@@ -1,10 +1,10 @@
 # Cabins41 — test report
-Run: 2026-11-11T07:45:05+00:00 to 2026-11-11T08:13:36.702480+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/42981632090
+Run: 2026-11-11T10:24:54+00:00 to 2026-11-11T10:50:42.447594+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43003399934
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 63; **blocked:** 0; **other failures:** 0
-**Potential solo sailings (unverified):** 387; **verified fares:** 0 (not independently checked)
+**Potential solo sailings (unverified):** 384; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
 None recorded.
@@ -17,14 +17,13 @@ None recorded.
 - Borealis | 2027-05-12 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Joy | 2027-01-04 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Getaway | 2027-03-08 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- Norwegian Dawn | 2027-01-24 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Dawn | 2027-02-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Dawn | 2027-01-02 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- Carnival Firenze | 2026-11-30 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Balmoral | 2026-11-19 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2638 | solo evidence: Solo fare
 - MSC Preziosa | 2026-11-20 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261120sousou | solo evidence: Solo fare
 - Bolette | 2026-11-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2628 | solo evidence: Solo fare
 - Borealis | 2026-11-23 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2630 | solo evidence: Solo fare
-- MSC Preziosa | 2026-11-27 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261127sousou | solo evidence: Solo fare
 - Balmoral | 2026-11-30 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2639 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-04 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261204sousou | solo evidence: Solo fare
 - Renaissance | 2026-12-06 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32652m | solo evidence: Solo fare
@@ -40,9 +39,7 @@ None recorded.
 - MSC Preziosa | 2026-12-24 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261224sousou | solo evidence: Solo fare
 - MSC Preziosa | 2027-01-01 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270101sousou | solo evidence: Solo fare
 - Ambition | 2027-01-05 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a22701 | solo evidence: Solo fare
-- MSC Preziosa | 2027-01-08 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270108sousou | solo evidence: Solo fare
 - Renaissance | 2027-01-17 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32702m | solo evidence: Solo fare
-- Borealis | 2027-01-18 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2701 | solo evidence: Solo fare
 - Bolette | 2027-01-18 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2702 | solo evidence: Solo fare
 - Balmoral | 2027-01-20 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2702 | solo evidence: Solo fare
 - Borealis | 2027-01-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2702 | solo evidence: Solo fare
@@ -60,6 +57,9 @@ None recorded.
 - Bolette | 2027-02-22 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2705 | solo evidence: Solo fare
 - MSC Preziosa | 2027-02-26 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270226sousou | solo evidence: Solo fare
 - Balmoral | 2027-02-28 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2705 | solo evidence: Solo fare
+- Renaissance | 2027-02-28 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32705m | solo evidence: Solo fare
+- Ambience | 2027-03-01 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a12703 | solo evidence: Solo fare
+- Bolette | 2027-03-04 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2706 | solo evidence: Solo fare
 
 ## Solo articles requiring ship/date review
 - Solo Travelers | https://www.amawaterways.com/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
@@ -78,7 +78,7 @@ None recorded.
 - Single | https://www.celebritycruises.com/things-to-do-onboard/staterooms/single-stateroom | Solo wording found; ship/departure match needs manual checking.
 - Celebrity Cruises: 6 discovered links deferred by request limit.
 - /content/celestyal/intl/en/solo-cruises | https://celestyal.com/solo-cruises | Solo wording found; ship/departure match needs manual checking.
-- Solo Cruising | https://www.cruisespecialists.com/solo-cruising.aspx | Solo wording found; ship/departure match needs manual checking.
+- Solo Cruising | https://www.cruisespecialists.com/nf.html?aspxerrorpath=/solo-cruising.aspx | Solo wording found; ship/departure match needs manual checking.
 - Cruise Deals | https://www.cruise118.com/cruise-deals | Solo wording found; ship/departure match needs manual checking.
 - Black Friday Cruise Deals | https://www.cruise118.com/cruise-deals/black-friday | Solo wording found; ship/departure match needs manual checking.
 - Cruise118: 68 discovered links deferred by request limit.
@@ -88,7 +88,7 @@ None recorded.
 - Solo Supplement Deals | https://deluxecruises.co.uk/promotion/solo-supplement-deals/ | Solo wording found; ship/departure match needs manual checking.
 - Kreuzfahrten für Alleinreisende | https://www.e-hoi.de/single-kreuzfahrten.html | Solo wording found; ship/departure match needs manual checking.
 - Unsere Kreuzfahrtexperten | https://www.e-hoi.de/kreuzfahrtexperten/ | Solo wording found; ship/departure match needs manual checking.
-- Black Week Angebote | https://www.e-hoi.de/black-week-2026/ | Solo wording found; ship/departure match needs manual checking.
+- Black Friday Angebote | https://www.e-hoi.de/black-friday/ | Solo wording found; ship/departure match needs manual checking.
 - e-hoi: 77 discovered links deferred by request limit.
 - Free Solo Supplement | https://emerald.cruises/US/en-US/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
 - A Journey of One | https://explorajourneys.com/us/en/info/special-offers/solo-travellers | Solo wording found; ship/departure match needs manual checking.
@@ -121,7 +121,7 @@ None recorded.
 - Family Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/family/ | Solo wording found; ship/departure match needs manual checking.
 - Short Break Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/short-breaks/ | Solo wording found; ship/departure match needs manual checking.
 - Ocean World Travel: 19 discovered links deferred by request limit.
-- Odysia Cruise: 27 discovered links deferred by request limit.
+- Odysia Cruise: 28 discovered links deferred by request limit.
 - Panache Cruises: 5 discovered links deferred by request limit.
 - See 
 												 Seereisen | https://www.phoenixreisen.com/kreuzfahrten.html | Solo wording found; ship/departure match needs manual checking.
@@ -185,12 +185,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 55/3
+Consecutive baseline passes: 56/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
 - checked: 63 (previous 63, change +0)
 - blocked: 0 (previous 0, change +0)
 - failed: 0 (previous 0, change +0)
-- potential: 387 (previous 386, change +1)
+- potential: 384 (previous 387, change -3)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
