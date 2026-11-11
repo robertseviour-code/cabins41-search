@@ -4,8 +4,8 @@
   "sources_checked": 63,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 386,
-  "candidate_sailings": 386,
+  "qualified_candidates": 387,
+  "candidate_sailings": 387,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 38,
   "existing_listings_status": {
@@ -358,6 +358,25 @@
       "advertised_solo_from": 863,
       "fare_verification": "Published finder fare; final availability and total not independently verified.",
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Dawn",
+      "departure_date": "2027-01-02",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: £270 £270 Bahamas: Great Stirrup Cay Jacksonville | Great Stirrup Cay | Freeport | Jacksonville 02 Jan 2027 5 Nights Norwegian Dawn Bahamas 02 Jan 2027 5 Nights Norwegian Dawn Bahamas Exclusive Weekend Sale! One F | Sailing: Solo Prices From: £270 £270 Bahamas: Great Stirrup Cay Jacksonville | Great Stirrup Cay | Freeport | Jacksonville 02 Jan 2027 5 Nights Norwegian Dawn Bahamas 02 Jan 2027 5 Nights Norwegian Dawn Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends 10th November Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £270 £270 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051341",
+      "prices_mentioned": [
+        "£270",
+        "£249"
+      ],
+      "durations_mentioned": [
+        "5 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
     },
     {
       "source_name": "Cruise118",

@@ -613,7 +613,7 @@
             "ises River Cruises Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exp",
             "Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world o",
             "s Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals!",
-            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11461 cruises Per Person Total Price"
+            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11430 cruises Per Person Total Price"
           ]
         },
         {
@@ -813,6 +813,25 @@
           "classification": "qualified_for_manual_review",
           "review_status": "needs_manual_check",
           "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Norwegian Dawn",
+          "departure_date": "2027-01-02",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: £270 £270 Bahamas: Great Stirrup Cay Jacksonville | Great Stirrup Cay | Freeport | Jacksonville 02 Jan 2027 5 Nights Norwegian Dawn Bahamas 02 Jan 2027 5 Nights Norwegian Dawn Bahamas Exclusive Weekend Sale! One F | Sailing: Solo Prices From: £270 £270 Bahamas: Great Stirrup Cay Jacksonville | Great Stirrup Cay | Freeport | Jacksonville 02 Jan 2027 5 Nights Norwegian Dawn Bahamas 02 Jan 2027 5 Nights Norwegian Dawn Bahamas Exclusive Weekend Sale! One FREE speciality dining per person - ends 10th November Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £270 £270 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051341",
+          "prices_mentioned": [
+            "£270",
+            "£249"
+          ],
+          "durations_mentioned": [
+            "5 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
         }
       ],
       "duplicates_excluded": [
@@ -891,7 +910,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise118",
       "checker_version": 21,
-      "checked_at": "2026-11-11T07:23:31.569886+00:00"
+      "checked_at": "2026-11-11T07:50:41.694609+00:00"
     },
     "18": {
       "status": "checked",
