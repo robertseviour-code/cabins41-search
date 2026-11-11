@@ -147,7 +147,7 @@
     "id": 30,
     "category": "supplier",
     "name": "Get That Cruise",
-    "url": "https://www.getthatcruise.co.uk/cruises/solo-fares"
+    "url": "https://www.getthatcruise.co.uk/cruises?chips=solo"
   },
   {
     "id": 31,
