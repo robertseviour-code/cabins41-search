@@ -62,6 +62,13 @@ def main():
         lines.append(f"- {o.get('ship', 'Unknown ship')} | {o.get('departure_date', 'Date unconfirmed')} | {o.get('source_name', '')} | {o.get('seller_url', '')} | solo evidence: {o.get('solo_evidence', 'not recorded')}")
     if not dedup:
         lines.append("No potential offers detected in this run.")
+    lines.extend(["", "## Solo articles requiring ship/date review"])
+    for v in fresh.values():
+        for page in v.get("candidate_pages", []):
+            if page.get("review_required"):
+                lines.append(f"- {page.get('label', '')} | {page.get('url', '')} | {page.get('review_reason', '')}")
+        if v.get("candidate_links_deferred"):
+            lines.append(f"- {v.get('source_name', 'Source')}: {v['candidate_links_deferred']} discovered links deferred by request limit.")
     lines.extend(["", "## Assessment"])
     if args.search_exit or len(fresh) != args.expected or len(blocked) > 1 or len(failed) > 1:
         lines.append("INCOMPLETE / DEGRADED: investigate missing checks, run errors, or more than one blocked/failed main source.")
