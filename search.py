@@ -341,32 +341,43 @@ def is_blocked(error):
     return isinstance(error, urllib.error.HTTPError) and error.code in (401, 403, 429)
 
 
+def discover_candidates(home, links):
+    """Merge repeated image/title links before ranking recent deal articles."""
+    domain = urllib.parse.urlsplit(home).hostname or ''
+    travel_dealz = domain in {'travel-dealz.de', 'www.travel-dealz.de'}
+    candidates = {}
+    for href, label in links:
+        absolute = urllib.parse.urljoin(home, href).split('#')[0]
+        parts = urllib.parse.urlsplit(absolute)
+        if parts.scheme not in ('http', 'https') or parts.hostname != domain:
+            continue
+        article = travel_dealz and parts.path.startswith('/deal/') and parts.path.rstrip('/') != '/deal'
+        if not article and not LINK_WORDS.search(label + ' ' + parts.path):
+            continue
+        key = normal_url(absolute)
+        if key == normal_url(home):
+            continue
+        item = candidates.setdefault(key, {'url': absolute, 'label': ''})
+        if len(label.strip()) > len(item['label']):
+            item['label'] = label.strip()[:240]
+    result = list(candidates.values())
+    result.sort(key=lambda c: (0 if SOLO.search(c['label'] + ' ' + c['url']) else 1))
+    return result
+
+
 def check(source, existing, dedupe_ready):
     try:
         home, raw = fetch(source['url'])
         text, links = page_data(raw)
         snippets, count = snippets_from(text)
-        domain = urllib.parse.urlsplit(home).hostname or ''
-        candidates, seen = [], {normal_url(home)}
-        for href, label in links:
-            absolute = urllib.parse.urljoin(home, href).split('#')[0]
-            parts = urllib.parse.urlsplit(absolute)
-            if parts.scheme not in ('http', 'https') or parts.hostname != domain:
-                continue
-            if not LINK_WORDS.search(label + ' ' + parts.path):
-                continue
-            key = normal_url(absolute)
-            if key in seen:
-                continue
-            seen.add(key)
-            candidates.append({'url': absolute, 'label': label.strip()[:140]})
-        # Rank solo-specific pages ahead of general deals; still cap requests.
-        candidates.sort(key=lambda c: (0 if SOLO.search(c['label'] + ' ' + c['url']) else 1))
+        candidates = discover_candidates(home, links)
+        travel_dealz = urllib.parse.urlsplit(home).hostname in {'travel-dealz.de', 'www.travel-dealz.de'}
+        limit = 20 if travel_dealz else 3
         pages, offers, duplicates, blocked_pages = [], [], [], []
         found, repeated = extract_page_leads(raw, home, source, existing, dedupe_ready)
         offers.extend(found)
         duplicates.extend(repeated)
-        for candidate in candidates[:3]:
+        for candidate in candidates[:limit]:
             try:
                 url, content = fetch(candidate['url'])
                 candidate_text, _ = page_data(content)
@@ -374,6 +385,9 @@ def check(source, existing, dedupe_ready):
                 pages.append({'url': url, 'label': candidate['label'],
                               'keyword_count': page_count, 'snippets': page_snippets})
                 found, repeated = extract_page_leads(content, url, source, existing, dedupe_ready)
+                if page_count and not found and not repeated:
+                    pages[-1]['review_required'] = True
+                    pages[-1]['review_reason'] = 'Solo wording found; ship/departure match needs manual checking.'
                 offers.extend(found)
                 duplicates.extend(repeated)
             except Exception as error:
@@ -389,7 +403,8 @@ def check(source, existing, dedupe_ready):
             unique_offers.setdefault(key, offer)
         return {'status': 'checked', 'url': home, 'lead_snippets': snippets,
                 'lead_count': count, 'candidate_pages': pages,
-                'candidate_links_found': len(candidates), 'possible_offers': list(unique_offers.values()),
+                'candidate_links_found': len(candidates),
+                'candidate_links_deferred': max(0, len(candidates) - limit), 'possible_offers': list(unique_offers.values()),
                 'duplicates_excluded': duplicates, 'blocked_candidate_pages': blocked_pages,
                 'note': 'Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.'}
     except Exception as error:
