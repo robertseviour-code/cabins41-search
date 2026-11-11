@@ -7841,7 +7841,7 @@
           "keyword_count": 2,
           "snippets": [
             "ffers Spring in Norway | Up to 30% off Ongoing offers Our Northern Lights Promise Reduced single supplement Ships Explore our fleet Find my ship Sailing plan for Original Cabins and suites Our ships MS Trollfjord MS Midnatsol MS Kong Harald MS Nordkapp MS Nordlys MS",
-            "t your onboard team Cruise types Northern Lights cruises Fjord cruises Small ship cruises Solo cruises Svalbard cruises Norway cruises in 2027 Norway cruises in 2028 Norway cruises in 2029 Explore Norway Explore Norway Northern Lights Midnight Sun Polar Night No"
+            "t your onboard team Cruise types Northern Lights cruises Fjord cruises Small ship cruises Solo cruises Svalbard cruises Norway cruises in 2027 Norway cruises in 2028 Norway cruises in 2029 Explore Norway Explore Norway Northern Lights: Best time & place Midnight"
           ],
           "review_required": true,
           "review_reason": "Solo wording found; ship/departure match needs manual checking."
@@ -7855,7 +7855,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Hurtigruten",
       "checker_version": 21,
-      "checked_at": "2026-11-11T13:52:32.151902+00:00"
+      "checked_at": "2026-11-11T16:32:10.981313+00:00"
     },
     "34": {
       "status": "checked",
