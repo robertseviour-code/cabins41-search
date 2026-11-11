@@ -1,6 +1,6 @@
 import unittest
 import json
-from search import bounded_sailings, extract_page_leads, structured_solo_sailings
+from search import bounded_sailings, extract_page_leads, structured_solo_sailings, homepage_sailings
 
 class OfferExtractionTests(unittest.TestCase):
     def test_destination_does_not_extend_ship(self):
@@ -18,6 +18,11 @@ class OfferExtractionTests(unittest.TestCase):
     def test_individual_offers_stay_separate(self):
         offers=bounded_sailings('<section><article>Norwegian Joy 14 Dec 2026 Solo Prices £239</article><article>MSC Divina 14 Mar 2027 Solo Prices £67</article></section>')
         self.assertEqual([(x['ship'],x['departure_date']) for _,x in offers], [('Norwegian Joy','2026-12-14'),('MSC Divina','2027-03-14')])
+
+class HomepageTests(unittest.TestCase):
+    def test_explicit_departure_and_heading_include_river_ships(self):
+        raw = '<article class="offer" data-departure="2027-12-15"><h3>MS Maxima · Advent in Austria</h3><p>Added 9 November 2026</p></article>'
+        self.assertEqual(homepage_sailings(raw), [{'ship':'MS Maxima','departure_date':'2027-12-15'}])
 
 class FinderExtractionTests(unittest.TestCase):
     def page(self, records):
