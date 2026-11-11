@@ -7,7 +7,7 @@
   "qualified_candidates": 378,
   "candidate_sailings": 378,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 47,
+  "duplicate_sailings_excluded": 46,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
