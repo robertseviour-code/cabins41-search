@@ -1075,12 +1075,11 @@
           "review_reason": "Solo wording found; ship/departure match needs manual checking."
         },
         {
-          "url": "https://www.e-hoi.de/black-friday/",
-          "label": "Black Friday Angebote",
-          "keyword_count": 3,
+          "url": "https://www.e-hoi.de/black-week-2026/",
+          "label": "Black Week Angebote",
+          "keyword_count": 2,
           "snippets": [
-            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
-            "- 2.999 € 1.952 1.000 € - 1.999 € 1.967 500 € - 999 € 1.307 weniger als 500 € 377 Themen Alleinreisende 741 e-hoi Kombipaket 39 Expeditionskreuzfahrten 10 Familien 1.601 LNG-Antrieb 398 Luxuskreuzfahrten 517 Neues Schiff 373 Schnupperkreuzfahrten 281 Top-Angebote"
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +"
           ],
           "review_required": true,
           "review_reason": "Solo wording found; ship/departure match needs manual checking."
@@ -1094,7 +1093,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "e-hoi",
       "checker_version": 21,
-      "checked_at": "2026-11-11T10:32:32.714159+00:00"
+      "checked_at": "2026-11-11T13:48:38.750848+00:00"
     },
     "25": {
       "status": "checked",
