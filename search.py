@@ -19,7 +19,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = pathlib.Path(__file__).parent
 SOURCES = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
-VERSION = 20  # Daily 31 October full-search trigger.  # Full-search trigger comment.
+VERSION = 21  # Daily 31 October full-search trigger.  # Full-search trigger comment.
 SOLO = re.compile(r'\b(?:solo\s+(?:cruis\w*|travel\w*|sail\w*|fare\w*|offer\w*|deal\w*|discount\w*|cabin\w*|price\w*|rate\w*)|single\s+(?:supplement|cabins?|occupancy|travell?ers?|cruis\w*)|singles?\s+cruis\w*|alleinreisend\w*|einzelkabine\w*|einzelzuschlag\w*|singlezuschlag\w*|suplemento\s+individual|cruceros?\s+para\s+(?:una|uno|solos?))\b', re.I)
 CLEAR_SOLO_OFFER = re.compile(r'\b(?:zuschlag\s+nur\s+\d{1,3}\s*%|solo\s+(?:(?:cruise\s+)?(?:offer|deal|discount|fare|price|rate)s?|cruis\w*\s+(?:offer|deal|discount|fare|price|rate)s?)|(?:offer|deal|discount|fare|price|rate)s?\s+for\s+(?:solo|single)\s+(?:cruis\w*|travell?ers?|occupan\w*)|(?:no|without|waived|free|reduced)\s+single\s+supplement|single\s+supplement\s+(?:waived|free|reduced|from|of|\d{1,3}\s*%)|single\s+supplement.{0,35}(?:\d{1,3}\s*%|[£€$]\s*\d)|alleinreisenden[- ]angebot|einzelkabinenzuschlag.{0,35}\d|einzelzuschlag.{0,35}\d|singlezuschlag.{0,35}\d|suplemento\s+individual.{0,35}\d|oferta\s+para\s+(?:viajeros?\s+)?solos?)', re.I)
 OFFER = re.compile(r'\b(?:from|starting\s+at|only|per\s+person|pp|p\s*/\s*p|ab|desde|solo\s+fare|single\s+fare|no\s+single\s+supplement|waived\s+single\s+supplement|ohne\s+einzelzuschlag|kein\s+einzelzuschlag|single\s+supplement\s+(?:waived|free|reduced))\b', re.I)
@@ -61,7 +61,7 @@ class PageParser(HTMLParser):
             self.href, self.anchor = None, []
 
 
-def fetch(url, max_bytes=800000):
+def fetch(url, max_bytes=6000000):
     request = urllib.request.Request(url, headers={
         'User-Agent': 'Cabins41Research/3.0 (public-page research)',
         'Accept': 'text/html,application/xhtml+xml'})
@@ -70,7 +70,10 @@ def fetch(url, max_bytes=800000):
             with urllib.request.urlopen(request, timeout=60) as response:
                 if 'html' not in response.headers.get('Content-Type', '').lower():
                     raise ValueError('Not an HTML page')
-                return response.geturl(), response.read(max_bytes).decode('utf-8', 'replace')
+                body = response.read(max_bytes + 1)
+                if len(body) > max_bytes:
+                    raise ValueError('HTML exceeds fetch limit; page was not fully checked')
+                return response.geturl(), body.decode('utf-8', 'replace')
         except urllib.error.HTTPError as error:
             if error.code in (401, 403, 404, 410) or error.code not in (408, 429, 500, 502, 503, 504) or attempt == 2:
                 raise
@@ -243,8 +246,56 @@ def bounded_sailings(raw, require_solo=True):
     return walk(parser.root)
 
 
+def structured_solo_sailings(raw):
+    """Read Get That Cruise's first-party finder records, without mixing offers."""
+    chunks = []
+    for payload in re.findall(r'self\.__next_f\.push\((.*?)\)</script>', raw):
+        try:
+            value = json.loads(payload)
+            if len(value) > 1 and isinstance(value[1], str):
+                chunks.append(value[1])
+        except (ValueError, TypeError, IndexError):
+            continue
+    stream = ''.join(chunks)
+    marker = stream.find('"sailings":')
+    if marker < 0:
+        raise ValueError('Get That Cruise finder sailing data is missing')
+    records, _ = json.JSONDecoder().raw_decode(stream[marker + 11:])
+    if not isinstance(records, list):
+        raise ValueError('Get That Cruise finder sailing data is invalid')
+    for item in records:
+        if not isinstance(item, dict):
+            continue
+        price = item.get('soloFrom')
+        ship, date = item.get('ship'), item.get('departureDate')
+        path = item.get('path', '')
+        if (type(price) not in (int, float) or price <= 0 or not isinstance(ship, str)
+                or not isinstance(date, str) or not re.fullmatch(r'\d{4}-\d{2}-\d{2}', date)
+                or not isinstance(path, str) or not path.startswith('/') or path.startswith('//')):
+            continue
+        try:
+            datetime.date.fromisoformat(date)
+        except ValueError:
+            continue
+        yield item
+
+
 def extract_page_leads(raw, url, source, existing, dedupe_ready):
     leads, duplicates = [], []
+    parsed = urllib.parse.urlsplit(url)
+    if parsed.hostname in {'getthatcruise.co.uk', 'www.getthatcruise.co.uk'} and parsed.path.rstrip('/') == '/cruises':
+        for item in structured_solo_sailings(raw):
+            text = f"{item['ship']} {item['departureDate']} Solo fare {item['soloFrom']}"
+            sailing = {'ship': item['ship'], 'departure_date': item['departureDate'],
+                       'ship_start': 0, 'date_start': len(item['ship']) + 1}
+            detail_url = urllib.parse.urljoin('https://www.getthatcruise.co.uk/', item['path'])
+            found, repeated = extract_leads(text, detail_url, source, existing, dedupe_ready, [sailing])
+            for lead in found:
+                lead['advertised_solo_from'] = item['soloFrom']
+                lead['fare_verification'] = 'Published finder fare; final availability and total not independently verified.'
+                lead['extraction_basis'] = 'Ship, departure date and soloFrom in the same structured sailing record.'
+            leads.extend(found); duplicates.extend(repeated)
+        return leads, duplicates
     for text, sailing in bounded_sailings(raw):
         found, repeated = extract_leads(text, url, source, existing, dedupe_ready, [sailing])
         leads.extend(found); duplicates.extend(repeated)
