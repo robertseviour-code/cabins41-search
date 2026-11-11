@@ -1,10 +1,10 @@
 # Cabins41 — test report
-Run: 2026-11-11T10:24:54+00:00 to 2026-11-11T10:50:42.447594+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43003399934
+Run: 2026-11-11T13:40:47+00:00 to 2026-11-11T14:07:46.156484+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43031277869
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 63; **blocked:** 0; **other failures:** 0
-**Potential solo sailings (unverified):** 384; **verified fares:** 0 (not independently checked)
+**Potential solo sailings (unverified):** 378; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
 None recorded.
@@ -27,7 +27,6 @@ None recorded.
 - Balmoral | 2026-11-30 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2639 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-04 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261204sousou | solo evidence: Solo fare
 - Renaissance | 2026-12-06 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32652m | solo evidence: Solo fare
-- Bolette | 2026-12-07 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2629 | solo evidence: Solo fare
 - Balmoral | 2026-12-10 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2640 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-11 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261211sousou | solo evidence: Solo fare
 - Borealis | 2026-12-13 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2631a | solo evidence: Solo fare
@@ -38,10 +37,7 @@ None recorded.
 - Balmoral | 2026-12-22 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2642 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-24 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261224sousou | solo evidence: Solo fare
 - MSC Preziosa | 2027-01-01 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270101sousou | solo evidence: Solo fare
-- Ambition | 2027-01-05 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a22701 | solo evidence: Solo fare
 - Renaissance | 2027-01-17 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32702m | solo evidence: Solo fare
-- Bolette | 2027-01-18 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2702 | solo evidence: Solo fare
-- Balmoral | 2027-01-20 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2702 | solo evidence: Solo fare
 - Borealis | 2027-01-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2702 | solo evidence: Solo fare
 - MSC Preziosa | 2027-01-22 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270122sousou | solo evidence: Solo fare
 - Renaissance | 2027-01-31 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32703m | solo evidence: Solo fare
@@ -56,10 +52,14 @@ None recorded.
 - MSC Preziosa | 2027-02-19 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270219sousou | solo evidence: Solo fare
 - Bolette | 2027-02-22 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2705 | solo evidence: Solo fare
 - MSC Preziosa | 2027-02-26 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270226sousou | solo evidence: Solo fare
-- Balmoral | 2027-02-28 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2705 | solo evidence: Solo fare
 - Renaissance | 2027-02-28 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32705m | solo evidence: Solo fare
-- Ambience | 2027-03-01 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a12703 | solo evidence: Solo fare
 - Bolette | 2027-03-04 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2706 | solo evidence: Solo fare
+- MSC Preziosa | 2027-03-05 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270305sousou | solo evidence: Solo fare
+- Ambition | 2027-03-08 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a22703 | solo evidence: Solo fare
+- MSC Preziosa | 2027-03-12 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270312sousou | solo evidence: Solo fare
+- Balmoral | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2706 | solo evidence: Solo fare
+- Bolette | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2707 | solo evidence: Solo fare
+- Renaissance | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32706 | solo evidence: Solo fare
 
 ## Solo articles requiring ship/date review
 - Solo Travelers | https://www.amawaterways.com/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
@@ -70,7 +70,7 @@ None recorded.
 - Aquotic: 86 discovered links deferred by request limit.
 - Alle Themen | https://www.seereisen.de/kreuzfahrt-themen | Solo wording found; ship/departure match needs manual checking.
 - Last Minute Kreuzfahrten Entdecken Sie jetzt unsere besten Kreuzfahrt Last Minute Restplätze und sichern Sie sich Ihre Traumreise zu Top-Konditionen! Jetzt entdecken | https://www.seereisen.de/kreuzfahrt-themen/last-minute-kreuzfahrten | Solo wording found; ship/departure match needs manual checking.
-- Atlantis Reisen and Seereisen: 79 discovered links deferred by request limit.
+- Atlantis Reisen and Seereisen: 80 discovered links deferred by request limit.
 - View All Deals | https://www.azamara.com/deals | Solo wording found; ship/departure match needs manual checking.
 - Flights | https://barrheadtravel.co.uk/flightdeals | Solo wording found; ship/departure match needs manual checking.
 - Barrhead Travel: 6 discovered links deferred by request limit.
@@ -78,7 +78,7 @@ None recorded.
 - Single | https://www.celebritycruises.com/things-to-do-onboard/staterooms/single-stateroom | Solo wording found; ship/departure match needs manual checking.
 - Celebrity Cruises: 6 discovered links deferred by request limit.
 - /content/celestyal/intl/en/solo-cruises | https://celestyal.com/solo-cruises | Solo wording found; ship/departure match needs manual checking.
-- Solo Cruising | https://www.cruisespecialists.com/nf.html?aspxerrorpath=/solo-cruising.aspx | Solo wording found; ship/departure match needs manual checking.
+- Solo Cruising | https://www.cruisespecialists.com/solo-cruising.aspx | Solo wording found; ship/departure match needs manual checking.
 - Cruise Deals | https://www.cruise118.com/cruise-deals | Solo wording found; ship/departure match needs manual checking.
 - Black Friday Cruise Deals | https://www.cruise118.com/cruise-deals/black-friday | Solo wording found; ship/departure match needs manual checking.
 - Cruise118: 68 discovered links deferred by request limit.
@@ -88,7 +88,7 @@ None recorded.
 - Solo Supplement Deals | https://deluxecruises.co.uk/promotion/solo-supplement-deals/ | Solo wording found; ship/departure match needs manual checking.
 - Kreuzfahrten für Alleinreisende | https://www.e-hoi.de/single-kreuzfahrten.html | Solo wording found; ship/departure match needs manual checking.
 - Unsere Kreuzfahrtexperten | https://www.e-hoi.de/kreuzfahrtexperten/ | Solo wording found; ship/departure match needs manual checking.
-- Black Friday Angebote | https://www.e-hoi.de/black-friday/ | Solo wording found; ship/departure match needs manual checking.
+- Black Week Angebote | https://www.e-hoi.de/black-week-2026/ | Solo wording found; ship/departure match needs manual checking.
 - e-hoi: 77 discovered links deferred by request limit.
 - Free Solo Supplement | https://emerald.cruises/US/en-US/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
 - A Journey of One | https://explorajourneys.com/us/en/info/special-offers/solo-travellers | Solo wording found; ship/departure match needs manual checking.
@@ -96,10 +96,10 @@ None recorded.
 - Singles Cruise Information | https://www.fredolsencruises.com/cruising-information/cruising-solo | Solo wording found; ship/departure match needs manual checking.
 - Discover our Cruise Deals | https://www.fredolsencruises.com/cruise-deals | Solo wording found; ship/departure match needs manual checking.
 - Fred Olsen Cruise Lines: 2 discovered links deferred by request limit.
-- No Single Supplement Holidays | https://www.friendshiptravel.com/holiday-type/no-single-supplement-holidays/ | Solo wording found; ship/departure match needs manual checking.
 - Solo Cruise Holidays | https://www.friendshiptravel.com/holiday-type/cruise/ | Solo wording found; ship/departure match needs manual checking.
 - Short Breaks for Single Travellers | https://www.friendshiptravel.com/blog/category/short-break-single-travellers/ | Solo wording found; ship/departure match needs manual checking.
-- Friendship Travel: 26 discovered links deferred by request limit.
+- Why solo travellers should consider luxury North Pole cruises | https://www.friendshiptravel.com/blog/why-solo-travellers-should-consider-luxury-north-pole-cruises/ | Solo wording found; ship/departure match needs manual checking.
+- Friendship Travel: 27 discovered links deferred by request limit.
 - Solo fares | https://www.getthatcruise.co.uk/cruises/solo-fares | Solo wording found; ship/departure match needs manual checking.
 - Read more :  Up to 40% solo discount | https://www.havilavoyages.com/en/offers/solo | Solo wording found; ship/departure match needs manual checking.
 - Holland America Line: 11 discovered links deferred by request limit.
@@ -142,19 +142,21 @@ None recorded.
 - Alleinreisende | https://travel-dealz.de/thema/alleinreisende/ | Solo wording found; ship/departure match needs manual checking.
 - WhatsApp | https://www.whatsapp.com/channel/0029VayIEui9cDDfsXxxNG08 | Solo wording found; ship/departure match needs manual checking.
 - Telegram | https://t.me/traveldealzde_alleinreisende | Solo wording found; ship/departure match needs manual checking.
+- Costa Fascinosa: 14 Nächte Transatlantik-Kreuzfahrt von Barcelona in die Karibik ab 423€ p.P. (Alleinreisende ab 660€) | https://travel-dealz.de/deal/costa-fascinosa-barcelona-laromana/ | Solo wording found; ship/departure match needs manual checking.
+- Last Minute: 7 Nächte Costa Kanaren-Kreuzfahrt von Gran Canaria ab 399€ (auch Alleinreisende) | https://travel-dealz.de/deal/costasmeralda-kanaren-11-2026-lpa/ | Solo wording found; ship/departure match needs manual checking.
+- MSC Sinfonia: 7 Nächte Mittelmeer ab/bis Genua ab 389€ p. P. (Alleinreisende ab 541€) | https://travel-dealz.de/ticker/483124/ | Solo wording found; ship/departure match needs manual checking.
 - Last Minute: 7 Nächte AIDA Mittelmeer Kreuzfahrt von Mallorca ab 499€ p.P. (549€ für Alleinreisende) | https://travel-dealz.de/ticker/487725/ | Solo wording found; ship/departure match needs manual checking.
 - AIDAprima: 14 Nächte Gran Canaria → Kiel Kreuzfahrt inkl. Anreise ab 1.179€ p.P. (Alleinreisende ab 1.279€) | https://travel-dealz.de/deal/aidaprima-grancanaria-kiel-fahrt/ | Solo wording found; ship/departure match needs manual checking.
 - Ponant: Luxuskreuzfahrten ohne Einzelzuschlag, z.B. 6 Nächte Südamerika ab 1.850€ (All-inclusive) | https://travel-dealz.de/deal/ponant-all-inclusive-alleinreisende/ | Solo wording found; ship/departure match needs manual checking.
 - Last Minute: 7 Nächte NCL Karibik Kreuzfahrt von Port Canaveral ab 239€ für Alleinreisende | https://travel-dealz.de/ticker/487033/ | Solo wording found; ship/departure match needs manual checking.
 - Costa Smeralda: 7 Nächte Kanaren & Madeira Kreuzfahrten von Teneriffa ab 399€ (teilweise ohne Einzelzuschlag) | https://travel-dealz.de/deal/costa-smeralda-kanaren-alleinreisende/ | Solo wording found; ship/departure match needs manual checking.
-- MS Olympia: 5 Nächte Flusskreuzfahrt über Weihnachten von Lüttich nach Düsseldorf ab 799€ (kein Einzelzuschlag) | https://travel-dealz.de/deal/ms-olympia-flusskreuzfahrt-luettich-duesseldorf/ | Solo wording found; ship/departure match needs manual checking.
 - Dealz | https://travel-dealz.de/deal/ | Solo wording found; ship/departure match needs manual checking.
 - Luxuskreuzfahrten | https://travel-dealz.de/thema/luxuskreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
 - Flusskreuzfahrten | https://travel-dealz.de/thema/flusskreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
 - Expeditionskreuzfahrten | https://travel-dealz.de/thema/expeditionskreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
 - Transatlanktik-Kreuzfahrten | https://travel-dealz.de/thema/transatlantik-kreuzfahrt/ | Solo wording found; ship/departure match needs manual checking.
 - Schnupperkreuzfahrten | https://travel-dealz.de/thema/schnupperkreuzfahrt/ | Solo wording found; ship/departure match needs manual checking.
-- Travel Dealz: 23 discovered links deferred by request limit.
+- Travel Dealz: 24 discovered links deferred by request limit.
 - Hosted Singles Cruises | https://www.VacationsToGo.com/login.cfm?retp=%2Fsingles%5Fcruises%2Ecfm | Solo wording found; ship/departure match needs manual checking.
 - Singles Cruises | https://www.VacationsToGo.com/cruises_for_singles.cfm | Solo wording found; ship/departure match needs manual checking.
 - Vacations To Go: 3 discovered links deferred by request limit.
@@ -185,12 +187,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 56/3
+Consecutive baseline passes: 57/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
 - checked: 63 (previous 63, change +0)
 - blocked: 0 (previous 0, change +0)
 - failed: 0 (previous 0, change +0)
-- potential: 384 (previous 387, change -3)
+- potential: 378 (previous 384, change -6)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
