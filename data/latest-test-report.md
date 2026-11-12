@@ -1,6 +1,6 @@
 # Cabins41 — test report
-Run: 2026-11-12T16:28:17+00:00 to 2026-11-12T16:59:55.135006+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43258940882
+Run: 2026-11-12T19:23:50+00:00 to 2026-11-12T19:54:11.859162+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43289692215
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 62; **blocked:** 0; **other failures:** 1
@@ -114,8 +114,8 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43258
 - Morr and Meer: 1 discovered links deferred by request limit.
 - Solo Cruises | https://www.ncl.com/cruise-deals/solo-cruising | Solo wording found; ship/departure match needs manual checking.
 - All Cruise Deals | https://www.ncl.com/cruise-deals | Solo wording found; ship/departure match needs manual checking.
-- 50% OFF All Cruises | https://www.ncl.com:443/cruise-deals/black-friday-cyber-monday | Solo wording found; ship/departure match needs manual checking.
-- Norwegian Cruise Line: 9 discovered links deferred by request limit.
+- full terms and conditions. | https://www.ncl.com/cruise-deals/promotion-terms | Solo wording found; ship/departure match needs manual checking.
+- Norwegian Cruise Line: 8 discovered links deferred by request limit.
 - Last Minute Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/last-minute/ | Solo wording found; ship/departure match needs manual checking.
 - Family Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/family/ | Solo wording found; ship/departure match needs manual checking.
 - Short Break Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/short-breaks/ | Solo wording found; ship/departure match needs manual checking.
@@ -187,7 +187,7 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 66/3
+Consecutive baseline passes: 67/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
