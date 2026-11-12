@@ -5,7 +5,6 @@ to retrieve the full finder or verify cabin grade / current availability.
 """
 from pathlib import Path
 from urllib.request import Request, urlopen
-from export_getthatcruise import main as _unused
 from getthatcruise_cards import visible_cards
 import csv
 import sys
@@ -40,6 +39,7 @@ def run():
         writer.writeheader()
         writer.writerows(rows)
     print(f"Extracted {len(rows)} visible cards; output {OUT}")
+    print("Cards with sharing prices:", sum(row["sharing_pp_gbp"] is not None for row in rows))
     if not rows:
         sys.exit("No cards parsed; inspect page structure before trusting results")
 
