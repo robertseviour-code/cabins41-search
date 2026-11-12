@@ -15,3 +15,11 @@ Next engineering work:
 2. Enumerate all filtered pages, record total count and unique IDs, and reconcile with the 369 already captured.
 3. Join solo and sharing prices from the same structured record or verified sailing page, not merely by ship/date.
 4. Export review CSV, check duplicates/expired sailings, and leave uncertain records unpublished.
+
+## Verified finder behaviour (12 November)
+
+Opening `https://www.getthatcruise.co.uk/cruises?chips=solo` in a non-interactive HTML reader returns the **unfiltered** 2,215-sailing finder, showing the first 24 records, despite the `chips=solo` query parameter. The page displays "Solo fare published 439" as a filter option, not a result count. Therefore, **do not treat the query string as proof the filter was applied**.
+
+The finder has "Show 24 more" incremental loading. A reliable extractor must confirm the *filtered result count* in its response and discover the actual API / browser request used by the filter and pagination. If that cannot be verified, fail closed and leave the existing 369 leads in manual review.
+
+The 439 figure is the public filter's advertised count, **not** a verified enumeration of 439 unique retrieved solo-fare records.
