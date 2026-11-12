@@ -9,7 +9,7 @@ import csv
 from pathlib import Path
 from getthatcruise_cards import visible_cards
 
-FIELDS = ("ship", "date_displayed", "solo_gbp", "sharing_pp_gbp",
+FIELDS = ("ship", "date_displayed", "nights", "solo_gbp", "sharing_pp_gbp",
           "calculated_supplement", "preliminary_status", "verification")
 
 
