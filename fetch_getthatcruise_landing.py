@@ -34,14 +34,15 @@ def run():
     rows = visible_cards("".join(extractor.parts))
     fields = ["ship", "date_displayed", "nights", "solo_gbp", "sharing_pp_gbp",
               "calculated_supplement", "preliminary_status", "verification"]
+    # Validate before creating an artifact: an incomplete scrape is not a usable audit.
+    if len(rows) != 60:
+        sys.exit(f"Expected 60 landing-page cards, parsed {len(rows)}. Audit incomplete; do not use results.")
     with OUT.open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fields)
         writer.writeheader()
         writer.writerows(rows)
     print(f"Extracted {len(rows)} visible cards; output {OUT}")
     print("Cards with sharing prices:", sum(row["sharing_pp_gbp"] is not None for row in rows))
-    if len(rows) != 60:
-        sys.exit(f"Expected 60 landing-page cards, parsed {len(rows)}. Audit incomplete; do not use results.")
 
 
 if __name__ == "__main__":
