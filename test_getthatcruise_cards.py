@@ -13,6 +13,7 @@ class GetThatCruiseCardTests(unittest.TestCase):
         self.assertEqual(rows[0]["calculated_supplement"], "45.1")
         self.assertEqual(rows[1]["calculated_supplement"], "48.0")
         self.assertTrue(all(x["verification"] == "needs_manual_check" for x in rows))
+        self.assertTrue(all(x["preliminary_status"] == "review_for_cabins41" for x in rows))
 
     def test_missing_sharing_price(self):
         rows = visible_cards("Ambition · 4 nights 27 November 2026 £899 per person travelling alone")
