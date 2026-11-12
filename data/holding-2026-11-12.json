@@ -595,7 +595,7 @@
             "ises River Cruises Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exp",
             "Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world o",
             "s Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals!",
-            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11733 cruises Per Person Total Price"
+            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11720 cruises Per Person Total Price"
           ]
         },
         {
@@ -724,6 +724,25 @@
           "source_name": "Cruise118",
           "source_id": 17,
           "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "MSC Sinfonia",
+          "departure_date": "2027-01-12",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £258 Now: £245 £245 Mediterranean 4 Nights From Genoa Genoa | Livorno | Civitavecchia | Valencia 12 Jan 2027 4 Nights MSC Sinfonia Mediterranean 12 Jan 2027 4 Nights MSC Sinfonia Mediterranean Past Passengers | Sailing: Solo Prices From: Was £258 Now: £245 £245 Mediterranean 4 Nights From Genoa Genoa | Livorno | Civitavecchia | Valencia 12 Jan 2027 4 Nights MSC Sinfonia Mediterranean 12 Jan 2027 4 Nights MSC Sinfonia Mediterranean Past Passengers Save up to 15% on selected sailings! Solo Prices From: Was £258 Now: £245 £245 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 091616",
+          "prices_mentioned": [
+            "£258",
+            "£245"
+          ],
+          "durations_mentioned": [
+            "4 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
           "ship": "Norwegian Joy",
           "departure_date": "2027-01-04",
           "solo_evidence": "Solo Prices",
@@ -833,26 +852,6 @@
           "classification": "qualified_for_manual_review",
           "review_status": "needs_manual_check",
           "warning": "Check the seller page and solo price before publishing."
-        },
-        {
-          "source_name": "Cruise118",
-          "source_id": 17,
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-          "ship": "MSC Preziosa United",
-          "departure_date": "2027-04-23",
-          "solo_evidence": "Solo Prices",
-          "evidence": "Solo Prices From: Was £288 Now: £273 £273 Northern Europe 2 Nights From Southampton Southampton | Hamburg 23 Apr 2027 2 Nights MSC Preziosa United Kingdom 23 Apr 2027 2 Nights MSC Preziosa United Kingdom FREE cabin upgrades on Summ | Sailing: Solo Prices From: Was £288 Now: £273 £273 Northern Europe 2 Nights From Southampton Southampton | Hamburg 23 Apr 2027 2 Nights MSC Preziosa United Kingdom 23 Apr 2027 2 Nights MSC Preziosa United Kingdom FREE cabin upgrades on Summer 2027 sailings - For a limited time only Interest free Monthly Payments from JUST £75pp Solo Prices From: Was £288 Now: £273 £273 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 049490",
-          "prices_mentioned": [
-            "£288",
-            "£273",
-            "£75"
-          ],
-          "durations_mentioned": [
-            "2 Nights"
-          ],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
         }
       ],
       "duplicates_excluded": [
@@ -931,7 +930,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise118",
       "checker_version": 21,
-      "checked_at": "2026-11-12T10:36:50.108010+00:00"
+      "checked_at": "2026-11-12T13:52:04.997274+00:00"
     },
     "18": {
       "status": "checked",
