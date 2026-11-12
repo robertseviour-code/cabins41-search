@@ -23,3 +23,16 @@ Opening `https://www.getthatcruise.co.uk/cruises?chips=solo` in a non-interactiv
 The finder has "Show 24 more" incremental loading. A reliable extractor must confirm the *filtered result count* in its response and discover the actual API / browser request used by the filter and pagination. If that cannot be verified, fail closed and leave the existing 369 leads in manual review.
 
 The 439 figure is the public filter's advertised count, **not** a verified enumeration of 439 unique retrieved solo-fare records.
+
+## Actual 12 November workflow artifact audit
+
+Inspected `holding-2026-11-12.json`, source `results["30"]["possible_offers"]` (369 records).
+
+- 369/369 records have a ship, departure date, seller URL and `advertised_solo_from`.
+- 369 unique ship/date pairs **and** 369 unique seller URLs within this snapshot.
+- Price range £159–£30,623; departures 19 November 2026–30 March 2029.
+- Ship distribution: Ambition 78, Balmoral 51, Ambience 48, Bolette 46, MSC Meraviglia 43, MSC Preziosa 41, Borealis 35, Renaissance 26, MSC Euribia 1.
+- The catalogue's advertised count of 439 should not be subtracted from 369 to claim 70 missing unique offers: the catalogue includes distinct duration and airport variants that may share ship/date.
+- Existing records already carry seller URLs. Preserve them as primary stable identifiers for reconciling changes, rather than matching only on ship/date.
+
+This audit checks the saved workflow artifact only. It does **not** verify current availability or establish the full finder API.
