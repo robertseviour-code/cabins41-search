@@ -32,7 +32,7 @@ def run():
     extractor = TextExtractor()
     extractor.feed(html)
     rows = visible_cards("".join(extractor.parts))
-    fields = ["ship", "date_displayed", "solo_gbp", "sharing_pp_gbp",
+    fields = ["ship", "date_displayed", "nights", "solo_gbp", "sharing_pp_gbp",
               "calculated_supplement", "preliminary_status", "verification"]
     with OUT.open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=fields)
