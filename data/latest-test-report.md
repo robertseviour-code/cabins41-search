@@ -1,6 +1,6 @@
 # Cabins41 — test report
-Run: 2026-11-12T13:42:27+00:00 to 2026-11-12T14:12:59.010520+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43229831969
+Run: 2026-11-12T16:28:17+00:00 to 2026-11-12T16:59:55.135006+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43258940882
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 62; **blocked:** 0; **other failures:** 1
@@ -10,7 +10,7 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43229
 - AmaWaterways: failed — <urlopen error timed out>
 
 ## Potential offers requiring manual checking
-- Costa Smeralda | 2027-01-31 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2026-12-06 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - MSC Divina | 2027-03-14 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Virtuosa | 2027-04-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Musica | 2027-04-01 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
@@ -141,6 +141,7 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43229
 - Alleinreisende | https://travel-dealz.de/thema/alleinreisende/ | Solo wording found; ship/departure match needs manual checking.
 - WhatsApp | https://www.whatsapp.com/channel/0029VayIEui9cDDfsXxxNG08 | Solo wording found; ship/departure match needs manual checking.
 - Telegram | https://t.me/traveldealzde_alleinreisende | Solo wording found; ship/departure match needs manual checking.
+- Explora II: 4 bis 10 Nächte Luxuskreuzfahrt von Athen über Santorin, Malta & Rom nach Barcelona ab 1.200€ ohne Einzelzuschlag | https://travel-dealz.de/deal/explora-ii-athen-rom-barcelona-dez26/ | Solo wording found; ship/departure match needs manual checking.
 - Costa Fascinosa: 14 Nächte Transatlantik-Kreuzfahrt von Barcelona in die Karibik ab 423€ p.P. (Alleinreisende ab 660€) | https://travel-dealz.de/deal/costa-fascinosa-barcelona-laromana/ | Solo wording found; ship/departure match needs manual checking.
 - Last Minute: 7 Nächte Costa Kanaren-Kreuzfahrt von Gran Canaria ab 399€ (auch Alleinreisende) | https://travel-dealz.de/deal/costasmeralda-kanaren-11-2026-lpa/ | Solo wording found; ship/departure match needs manual checking.
 - MSC Sinfonia: 7 Nächte Mittelmeer ab/bis Genua ab 389€ p. P. (Alleinreisende ab 541€) | https://travel-dealz.de/ticker/483124/ | Solo wording found; ship/departure match needs manual checking.
@@ -186,7 +187,7 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 65/3
+Consecutive baseline passes: 66/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
