@@ -40,8 +40,8 @@ def run():
         writer.writerows(rows)
     print(f"Extracted {len(rows)} visible cards; output {OUT}")
     print("Cards with sharing prices:", sum(row["sharing_pp_gbp"] is not None for row in rows))
-    if not rows:
-        sys.exit("No cards parsed; inspect page structure before trusting results")
+    if len(rows) != 60:
+        sys.exit(f"Expected 60 landing-page cards, parsed {len(rows)}. Audit incomplete; do not use results.")
 
 
 if __name__ == "__main__":
