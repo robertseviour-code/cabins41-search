@@ -1,16 +1,16 @@
 # Cabins41 — test report
-Run: 2026-11-12T04:25:07+00:00 to 2026-11-12T04:55:05.557635+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43154650983
+Run: 2026-11-12T07:46:44+00:00 to 2026-11-12T08:18:19.973078+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43177751029
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 62; **blocked:** 0; **other failures:** 1
-**Potential solo sailings (unverified):** 379; **verified fares:** 0 (not independently checked)
+**Potential solo sailings (unverified):** 380; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
 - AmaWaterways: failed — <urlopen error timed out>
 
 ## Potential offers requiring manual checking
-- Costa Smeralda | 2027-01-31 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2026-12-06 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - MSC Divina | 2027-03-14 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Virtuosa | 2027-04-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Musica | 2027-04-01 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
@@ -21,6 +21,8 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43154
 - Norwegian Dawn | 2027-02-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Dawn | 2027-01-02 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Carnival Firenze | 2026-11-30 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- Carnival Firenze | 2026-12-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- MSC Preziosa United | 2027-04-23 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Balmoral | 2026-11-19 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2638 | solo evidence: Solo fare
 - MSC Preziosa | 2026-11-20 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261120sousou | solo evidence: Solo fare
 - Bolette | 2026-11-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2628 | solo evidence: Solo fare
@@ -35,7 +37,6 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43154
 - Borealis | 2026-12-18 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2632 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-18 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261218sousou | solo evidence: Solo fare
 - Bolette | 2026-12-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2630 | solo evidence: Solo fare
-- Balmoral | 2026-12-22 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2642 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-24 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261224sousou | solo evidence: Solo fare
 - MSC Preziosa | 2027-01-01 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270101sousou | solo evidence: Solo fare
 - Renaissance | 2027-01-17 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32702m | solo evidence: Solo fare
@@ -59,7 +60,6 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43154
 - Ambition | 2027-03-08 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a22703 | solo evidence: Solo fare
 - MSC Preziosa | 2027-03-12 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270312sousou | solo evidence: Solo fare
 - Balmoral | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2706 | solo evidence: Solo fare
-- Bolette | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2707 | solo evidence: Solo fare
 
 ## Solo articles requiring ship/date review
 - Explore our latest solo cruise deals Enjoy Great-Value Fares View Solo Deals | https://www.ambassadorcruiseline.com/deals/solo-cruisers/ | Solo wording found; ship/departure match needs manual checking.
@@ -186,12 +186,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 62/3
+Consecutive baseline passes: 63/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
 - checked: 62 (previous 62, change +0)
 - blocked: 0 (previous 0, change +0)
 - failed: 1 (previous 1, change +0)
-- potential: 379 (previous 379, change +0)
+- potential: 380 (previous 379, change +1)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
