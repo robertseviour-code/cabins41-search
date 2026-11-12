@@ -66,8 +66,10 @@ def main():
     holding = json.loads(args.old_holding_json.read_text(encoding="utf-8"))
     old = holding["results"]["30"]["possible_offers"]
     new = json.loads(args.new_catalogue_json.read_text(encoding="utf-8"))
-    if not isinstance(new, list):
-        raise ValueError("New catalogue must be a JSON array")
+    if not isinstance(new, list) or not new:
+        raise ValueError("New catalogue must be a nonempty JSON array; refusing empty-snapshot reconciliation")
+    if any(not isinstance(row, dict) or not row.get("ship") or not row.get("departure_date") for row in new):
+        raise ValueError("New catalogue contains incomplete records; refusing misleading reconciliation")
     rows = reconcile(old, new)
     with args.output_csv.open("w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=list(rows[0]) if rows else
