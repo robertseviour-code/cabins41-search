@@ -15,6 +15,18 @@ class GetThatCruiseCardTests(unittest.TestCase):
         self.assertTrue(all(x["verification"] == "needs_manual_check" for x in rows))
         self.assertTrue(all(x["preliminary_status"] == "review_for_cabins41" for x in rows))
 
+    def test_missing_sharing_does_not_steal_next_card_price(self):
+        text = ("Balmoral · 11 nights 19 November 2026 "
+                "£2,479 per person travelling alone £1,299 per person sharing "
+                "Ambition · 4 nights 27 November 2026 "
+                "£899 per person travelling alone "
+                "MSC Preziosa · 7 nights 29 January 2027 "
+                "£521 per person travelling alone £359 per person sharing")
+        rows = visible_cards(text)
+        self.assertEqual([r["ship"] for r in rows], ["Balmoral", "Ambition", "MSC Preziosa"])
+        self.assertEqual([r["sharing_pp_gbp"] for r in rows], [1299, None, 359])
+        self.assertEqual([r["calculated_supplement"] for r in rows], ["90.8", None, "45.1"])
+
     def test_missing_sharing_price(self):
         rows = visible_cards("Ambition · 4 nights 27 November 2026 £899 per person travelling alone")
         self.assertEqual(rows[0]["preliminary_status"], "needs_manual_check")
