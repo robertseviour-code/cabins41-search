@@ -8,7 +8,7 @@ from solo_fare_math import classify
 
 # Ship/nights/date on the catalogue are separated by line breaks in HTML text.
 SHIP_DATE = re.compile(
-    r"(?P<ship>[A-Z][A-Za-z .'-]{1,35}?)\s*·\s*"
+    r"(?m)^\s*(?P<ship>[A-Z][A-Za-z .'-]{1,35}?)\s*·\s*"
     r"(?P<nights>\d+)\s+nights?\s+"
     r"(?P<date>\d{1,2}\s+[A-Za-z]+\s+20\d{2})\b"
 )
