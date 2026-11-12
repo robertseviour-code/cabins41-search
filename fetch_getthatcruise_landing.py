@@ -1,0 +1,49 @@
+"""Fetch the public Get That Cruise solo-fares page and export review-only CSV.
+
+The landing page shows 60 of the catalogue's sailings. This does not claim
+to retrieve the full finder or verify cabin grade / current availability.
+"""
+from pathlib import Path
+from urllib.request import Request, urlopen
+from getthatcruise_cards import visible_cards
+import csv
+import sys
+
+URL = "https://www.getthatcruise.co.uk/cruises/solo-fares"
+OUT = Path("getthatcruise_landing_review.csv")
+
+
+def run():
+    request = Request(URL, headers={"User-Agent": "Mozilla/5.0 (compatible; Cabins41Review/1.0)"})
+    with urlopen(request, timeout=30) as response:
+        html = response.read().decode("utf-8", errors="replace")
+    # The public page contains HTML markup; strip tags while retaining spaces.
+    # html.parser handles entity decoding, unlike naive regex stripping.
+    from html.parser import HTMLParser
+    class TextExtractor(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.parts = []
+        def handle_data(self, data):
+            self.parts.append(data)
+        def handle_starttag(self, tag, attrs):
+            if tag in {"p", "h2", "h3", "div", "span", "li", "br"}:
+                self.parts.append("\n")
+    extractor = TextExtractor()
+    extractor.feed(html)
+    rows = visible_cards("".join(extractor.parts))
+    fields = ["ship", "date_displayed", "nights", "solo_gbp", "sharing_pp_gbp",
+              "calculated_supplement", "preliminary_status", "verification"]
+    # Validate before creating an artifact: an incomplete scrape is not a usable audit.
+    if len(rows) != 60:
+        sys.exit(f"Expected 60 landing-page cards, parsed {len(rows)}. Audit incomplete; do not use results.")
+    with OUT.open("w", encoding="utf-8-sig", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows(rows)
+    print(f"Extracted {len(rows)} visible cards; output {OUT}")
+    print("Cards with sharing prices:", sum(row["sharing_pp_gbp"] is not None for row in rows))
+
+
+if __name__ == "__main__":
+    run()

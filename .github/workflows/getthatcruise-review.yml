@@ -1,0 +1,21 @@
+name: Get That Cruise review-only audit
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run unit tests
+        run: python -m unittest test_solo_fare_math test_getthatcruise_cards test_reconcile_getthatcruise
+      - name: Extract public landing page (no publication)
+        run: python fetch_getthatcruise_landing.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: getthatcruise-landing-review
+          path: getthatcruise_landing_review.csv
