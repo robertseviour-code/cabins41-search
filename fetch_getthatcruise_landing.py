@@ -28,10 +28,10 @@ def run():
             self.parts.append(data)
         def handle_starttag(self, tag, attrs):
             if tag in {"p", "h2", "h3", "div", "span", "li", "br"}:
-                self.parts.append(" ")
+                self.parts.append("\n")
     extractor = TextExtractor()
     extractor.feed(html)
-    rows = visible_cards(" ".join(extractor.parts))
+    rows = visible_cards("".join(extractor.parts))
     fields = ["ship", "date_displayed", "solo_gbp", "sharing_pp_gbp",
               "calculated_supplement", "preliminary_status", "verification"]
     with OUT.open("w", encoding="utf-8-sig", newline="") as handle:
