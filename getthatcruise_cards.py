@@ -1,8 +1,6 @@
-"""Extract displayed Get That Cruise fare pairs for manual review.
+"""Extract fare pairs from the 60-card Get That Cruise solo-fares landing page.
 
-This deliberately processes only visible catalogue cards and does not assume
-that a published solo fare is a low-supplement offer. A card with no sharing
-price is not classifiable. Text must be fetched separately by the researcher.
+This is a review-only parser, not a crawler for the full 439-sailing finder.
 """
 import re
 from solo_fare_math import classify
@@ -13,6 +11,7 @@ CARD = re.compile(
     r"(?P<body>.*?)(?=\b[A-Za-z][A-Za-z .'-]{1,45}\s*·\s*\d+\s+nights?\s+\d{1,2}\s+[A-Za-z]+\s+20\d{2}\b|\Z)",
     re.S
 )
+# The solo price is displayed on the line *before* 'per person travelling alone'.
 SOLO = re.compile(r"£\s*([\d,]+)\s+per person travelling alone", re.I)
 SHARE = re.compile(r"£\s*([\d,]+)\s+per person sharing", re.I)
 
