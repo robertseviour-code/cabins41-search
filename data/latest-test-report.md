@@ -1,6 +1,6 @@
 # Cabins41 — test report
-Run: 2026-11-12T10:27:04+00:00 to 2026-11-12T10:57:52.602346+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43200456902
+Run: 2026-11-12T13:42:27+00:00 to 2026-11-12T14:12:59.010520+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43229831969
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 62; **blocked:** 0; **other failures:** 1
@@ -10,19 +10,19 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43200
 - AmaWaterways: failed — <urlopen error timed out>
 
 ## Potential offers requiring manual checking
-- Costa Smeralda | 2026-12-06 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
+- Costa Smeralda | 2027-01-31 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - MSC Divina | 2027-03-14 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Virtuosa | 2027-04-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Musica | 2027-04-01 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Virtuosa | 2026-12-01 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Borealis | 2027-05-12 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- MSC Sinfonia | 2027-01-12 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Joy | 2027-01-04 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Getaway | 2027-03-08 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Dawn | 2027-02-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Dawn | 2027-01-02 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Carnival Firenze | 2026-11-30 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Carnival Firenze | 2026-12-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- MSC Preziosa United | 2027-04-23 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Balmoral | 2026-11-19 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2638 | solo evidence: Solo fare
 - MSC Preziosa | 2026-11-20 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261120sousou | solo evidence: Solo fare
 - Bolette | 2026-11-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2628 | solo evidence: Solo fare
@@ -120,7 +120,7 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43200
 - Family Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/family/ | Solo wording found; ship/departure match needs manual checking.
 - Short Break Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/short-breaks/ | Solo wording found; ship/departure match needs manual checking.
 - Ocean World Travel: 19 discovered links deferred by request limit.
-- Odysia Cruise: 28 discovered links deferred by request limit.
+- Odysia Cruise: 27 discovered links deferred by request limit.
 - Panache Cruises: 5 discovered links deferred by request limit.
 - See 
 												 Seereisen | https://www.phoenixreisen.com/kreuzfahrten.html | Solo wording found; ship/departure match needs manual checking.
@@ -179,7 +179,6 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43200
 - Read More  Best Solo Travel Tips for Women | https://trulysherry.com/best-solo-travel-tips-for-women/ | Solo wording found; ship/departure match needs manual checking.
 - Solo Travel | https://trulysherry.com/category/solo-travel/ | Solo wording found; ship/departure match needs manual checking.
 - My Best 14 Tips for Cruising Solo | https://trulysherry.com/solo-cruise-tips/ | Solo wording found; ship/departure match needs manual checking.
-- Truly Sherry: 1 discovered links deferred by request limit.
 
 ## Assessment
 All expected main sources were accounted for within the operational baseline. Offer quality still requires manual verification.
@@ -187,7 +186,7 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 64/3
+Consecutive baseline passes: 65/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
