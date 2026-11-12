@@ -1,6 +1,6 @@
 # Cabins41 — test report
-Run: 2026-11-12T07:46:44+00:00 to 2026-11-12T08:18:19.973078+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43177751029
+Run: 2026-11-12T10:27:04+00:00 to 2026-11-12T10:57:52.602346+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43200456902
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 62; **blocked:** 0; **other failures:** 1
@@ -179,6 +179,7 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43177
 - Read More  Best Solo Travel Tips for Women | https://trulysherry.com/best-solo-travel-tips-for-women/ | Solo wording found; ship/departure match needs manual checking.
 - Solo Travel | https://trulysherry.com/category/solo-travel/ | Solo wording found; ship/departure match needs manual checking.
 - My Best 14 Tips for Cruising Solo | https://trulysherry.com/solo-cruise-tips/ | Solo wording found; ship/departure match needs manual checking.
+- Truly Sherry: 1 discovered links deferred by request limit.
 
 ## Assessment
 All expected main sources were accounted for within the operational baseline. Offer quality still requires manual verification.
@@ -186,12 +187,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 63/3
+Consecutive baseline passes: 64/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
 - checked: 62 (previous 62, change +0)
 - blocked: 0 (previous 0, change +0)
 - failed: 1 (previous 1, change +0)
-- potential: 380 (previous 379, change +1)
+- potential: 380 (previous 380, change +0)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
