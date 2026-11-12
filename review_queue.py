@@ -10,8 +10,8 @@ import json
 import re
 from pathlib import Path
 
-ZERO = re.compile(r"(?i)\b(?:no|zero|without|waived|free)\s+single\s+supplement\b|\b(?:ohne|kein)\s+einzelzuschlag\b|\b(?:zuschlag\s+nur|einzelzuschlag|single\s+supplement)\s*(?:of|is|:)??\s*0\s*%")
-PERCENT = re.compile(r"(?i)\b(?:zuschlag\s+nur|einzelzuschlag|single\s+supplement)\s*(?:of|is|:)??\s*(\d{1,3})\s*%")
+ZERO = re.compile(r"(?i)\b(?:no|zero|without|waived|free)\s+single\s+supplement\b|\b(?:ohne|kein)\s+einzelzuschlag\b|\b(?:zuschlag\s+nur|einzelzuschlag|single\s+supplement)\s*(?:of|is|:)?\s*0\s*%")
+PERCENT = re.compile(r"(?i)\b(?:zuschlag\s+nur|einzelzuschlag|single\s+supplement)\s*(?:of|is|:)?\s*(\d{1,3})\s*%")
 FIELDS = ["ship", "departure_date", "source_name", "seller_url", "solo_evidence",
           "advertised_supplement", "review_priority", "review_status", "warning"]
 
