@@ -10,9 +10,13 @@ class SoloFareMathTests(unittest.TestCase):
     def test_low_supplement(self):
         self.assertEqual(supplement_percent(600, 500), Decimal("20.0"))
 
-    def test_expensive_solo_fare(self):
+    def test_fares_in_cabins41_range_not_rejected(self):
         self.assertEqual(supplement_percent(521, 359), Decimal("45.1"))
-        self.assertEqual(classify(521, 359)["status"], "above_threshold")
+        self.assertEqual(classify(521, 359)["status"], "review_for_cabins41")
+        self.assertEqual(classify(2219, 1499)["status"], "review_for_cabins41")
+
+    def test_explicit_ceiling_only(self):
+        self.assertEqual(classify(521, 359, max_supplement=50)["status"], "qualifies")
 
     def test_invalid_prices(self):
         for a, b in [(0, 500), (500, 0), ("unknown", 500), (-1, 500), ("NaN", 500)]:
