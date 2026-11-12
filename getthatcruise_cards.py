@@ -17,7 +17,7 @@ SOLO = re.compile(r"£\s*([\d,]+)\s+per person travelling alone", re.I)
 SHARE = re.compile(r"£\s*([\d,]+)\s+per person sharing", re.I)
 
 
-def visible_cards(text, max_supplement=20):
+def visible_cards(text, max_supplement=None):
     results = []
     for m in CARD.finditer(text):
         body = m.group("body")
