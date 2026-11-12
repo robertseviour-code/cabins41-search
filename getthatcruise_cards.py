@@ -6,9 +6,9 @@ import re
 from solo_fare_math import classify
 
 CARD = re.compile(
-    r"(?P<ship>[A-Za-z][A-Za-z .'-]{1,45})\s*·\s*\d+\s+nights?"
+    r"(?P<ship>[A-Z][A-Za-z .'-]{1,35})\s*·\s*\d+\s+nights?"
     r"\s+(?P<date>\d{1,2}\s+[A-Za-z]+\s+20\d{2})\b"
-    r"(?P<body>.*?)(?=\b[A-Za-z][A-Za-z .'-]{1,45}\s*·\s*\d+\s+nights?\s+\d{1,2}\s+[A-Za-z]+\s+20\d{2}\b|\Z)",
+    r"(?P<body>.*?)(?=\b[A-Z][A-Za-z .'-]{1,35}\s*·\s*\d+\s+nights?\s+\d{1,2}\s+[A-Za-z]+\s+20\d{2}\b|\Z)",
     re.S
 )
 # The solo price is displayed on the line *before* 'per person travelling alone'.
