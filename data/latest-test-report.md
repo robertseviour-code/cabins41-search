@@ -1,13 +1,13 @@
 # Cabins41 — test report
-Run: 2026-11-12T19:23:50+00:00 to 2026-11-12T19:54:11.859162+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43289692215
+Run: 2026-11-12T22:12:23+00:00 to 2026-11-12T22:40:07.163952+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43317707453
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 62; **blocked:** 0; **other failures:** 1
 **Potential solo sailings (unverified):** 380; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
-- AmaWaterways: failed — <urlopen error timed out>
+- Carry On Travel Solo: failed — <urlopen error [Errno -3] Temporary failure in name resolution>
 
 ## Potential offers requiring manual checking
 - Costa Smeralda | 2026-12-06 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
@@ -62,6 +62,7 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43289
 - Balmoral | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2706 | solo evidence: Solo fare
 
 ## Solo articles requiring ship/date review
+- Solo Travelers | https://www.amawaterways.com/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
 - Explore our latest solo cruise deals Enjoy Great-Value Fares View Solo Deals | https://www.ambassadorcruiseline.com/deals/solo-cruisers/ | Solo wording found; ship/departure match needs manual checking.
 - Solo Cruisers | https://www.ambassadorcruiseline.com/deals/solo-cruisers/ | Solo wording found; ship/departure match needs manual checking.
 - Affordable Quality An authentic and traditional cruise experience offering fantastically affordable quality and price. | https://www.ambassadorcruiseline.com/deals/late-deals/ | Solo wording found; ship/departure match needs manual checking.
@@ -163,9 +164,6 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43289
 - Virgin Voyages: 1 discovered links deferred by request limit.
 - Solo Traveller | https://viva-holidays.co.uk/type/solo-traveller/ | Solo wording found; ship/departure match needs manual checking.
 - Multi Centre Holidays Explore more places with a single holiday | https://viva-holidays.co.uk/type/multi-centre-holiday/ | Solo wording found; ship/departure match needs manual checking.
-- Celebrity Apex Transatlantic Cruise: A Solo Traveler’s Trip Report | https://carryontravelsolo.com/celebrity-apex-transatlantic-cruise-a-solo-travelers-trip-report/ | Solo wording found; ship/departure match needs manual checking.
-- Is Cruising Safe for Solo Travelers? | https://carryontravelsolo.com/is-cruising-safe-for-solo-travelers/ | Solo wording found; ship/departure match needs manual checking.
-- MSC Seashore Yacht Club: A 3-Night Solo Birthday Cruise | https://carryontravelsolo.com/msc-seashore-yacht-club-review-a-3-night-solo-birthday-cruise/ | Solo wording found; ship/departure match needs manual checking.
 - Seven Safety Tips for Solo Cruising | https://www.cruisingforone.com/post/seven-safety-tips-for-solo-cruising | Solo wording found; ship/departure match needs manual checking.
 - Start Here — New to Solo Cruising? | https://solocruising.co.uk/start-here/ | Solo wording found; ship/departure match needs manual checking.
 - 🚢 
@@ -187,7 +185,7 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 67/3
+Consecutive baseline passes: 68/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
