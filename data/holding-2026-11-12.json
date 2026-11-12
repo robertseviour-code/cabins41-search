@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-12",
+  "results": {
+    "3": {
+      "status": "failed",
+      "error": "<urlopen error timed out>",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "source_name": "AmaWaterways",
+      "checker_version": 21,
+      "checked_at": "2026-11-12T01:48:17.408762+00:00"
+    }
+  },
+  "description": "Qualified solo offer candidates; not verified offers"
+}
