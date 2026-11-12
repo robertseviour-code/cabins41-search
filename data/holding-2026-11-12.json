@@ -201,17 +201,17 @@
         },
         {
           "ship": "Costa Smeralda",
-          "departure_date": "2026-12-03",
+          "departure_date": "2026-12-13",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2027-01-18",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
           "ship": "Costa Smeralda",
           "departure_date": "2026-12-07",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Smeralda",
-          "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -226,7 +226,7 @@
         },
         {
           "ship": "Costa Smeralda",
-          "departure_date": "2027-01-18",
+          "departure_date": "2026-12-03",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -245,13 +245,13 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-27",
+          "ship": "Costa Pacifica",
+          "departure_date": "2026-11-17",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Pacifica",
-          "departure_date": "2026-11-17",
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-27",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -269,7 +269,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 21,
-      "checked_at": "2026-11-12T07:52:18.528745+00:00"
+      "checked_at": "2026-11-12T10:32:48.980282+00:00"
     },
     "7": {
       "status": "checked",
