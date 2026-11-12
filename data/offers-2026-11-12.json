@@ -175,22 +175,6 @@
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
     },
     {
-      "source_name": "Atlantis Reisen and Seereisen",
-      "source_id": 6,
-      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
-      "ship": "Costa Smeralda",
-      "departure_date": "2026-12-06",
-      "solo_evidence": "Zuschlag nur 0%",
-      "evidence": "Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 729 € Suite N | Sailing: Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 729 € Suite Nicht verfügbar Zum Angebot",
-      "prices_mentioned": [],
-      "durations_mentioned": [
-        "7 Nächte"
-      ],
-      "classification": "qualified_for_manual_review",
-      "review_status": "needs_manual_check",
-      "warning": "Check the seller page and solo price before publishing."
-    },
-    {
       "source_name": "Cruise118",
       "source_id": 17,
       "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
@@ -467,6 +451,22 @@
       "advertised_solo_from": 3279,
       "fare_verification": "Published finder fare; final availability and total not independently verified.",
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
+    },
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "Costa Smeralda",
+      "departure_date": "2027-01-31",
+      "solo_evidence": "Zuschlag nur 0%",
+      "evidence": "Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.269 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 31. Jan. 2027 – 07. Feb. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 629 € Suite N | Sailing: Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.269 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 31. Jan. 2027 – 07. Feb. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 629 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
     },
     {
       "source_name": "Get That Cruise",
