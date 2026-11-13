@@ -1,15 +1,16 @@
 # Cabins41 — test report
-Run: 2026-11-12T22:12:23+00:00 to 2026-11-12T22:40:07.163952+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43317707453
+Run: 2026-11-13T01:38:23+00:00 to 2026-11-13T02:04:32.126594+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43346386986
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
-**Checked:** 62; **blocked:** 0; **other failures:** 1
-**Potential solo sailings (unverified):** 380; **verified fares:** 0 (not independently checked)
+**Checked:** 63; **blocked:** 0; **other failures:** 0
+**Potential solo sailings (unverified):** 383; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
-- Carry On Travel Solo: failed — <urlopen error [Errno -3] Temporary failure in name resolution>
+None recorded.
 
 ## Potential offers requiring manual checking
+- Costa Smeralda | 2027-01-31 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - Costa Smeralda | 2026-12-06 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
 - MSC Divina | 2027-03-14 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Virtuosa | 2027-04-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
@@ -17,6 +18,8 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43317
 - MSC Virtuosa | 2026-12-01 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Borealis | 2027-05-12 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Sinfonia | 2027-01-12 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- MSC Seaside | 2027-02-22 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- MSC Seaside | 2027-03-08 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Joy | 2027-01-04 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Getaway | 2027-03-08 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Dawn | 2027-02-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
@@ -57,9 +60,6 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43317
 - Renaissance | 2027-02-28 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32705m | solo evidence: Solo fare
 - Bolette | 2027-03-04 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2706 | solo evidence: Solo fare
 - MSC Preziosa | 2027-03-05 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270305sousou | solo evidence: Solo fare
-- Ambition | 2027-03-08 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a22703 | solo evidence: Solo fare
-- MSC Preziosa | 2027-03-12 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270312sousou | solo evidence: Solo fare
-- Balmoral | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2706 | solo evidence: Solo fare
 
 ## Solo articles requiring ship/date review
 - Solo Travelers | https://www.amawaterways.com/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
@@ -105,7 +105,7 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43317
 - Holland America Line: 11 discovered links deferred by request limit.
 - Reduced single supplement | https://www.hurtigruten.com/en-us/deals/solo-travel | Solo wording found; ship/departure match needs manual checking.
 - Solo cruises | https://www.hurtigruten.com/en-us/why-hurtigruten/cruise-types/solo-cruises-in-norway | Solo wording found; ship/departure match needs manual checking.
-- 4 days left! Spring in Norway | Save up to 30% Experience spring in Norway with savings on select voyages sailing from fall 2026 through September 2027. See offer details | https://www.hurtigruten.com/en-us/deals/discount-norway-cruise | Solo wording found; ship/departure match needs manual checking.
+- 3 days left! Spring in Norway | Save up to 30% Experience spring in Norway with savings on select voyages sailing from fall 2026 through September 2027. See offer details | https://www.hurtigruten.com/en-us/deals/discount-norway-cruise | Solo wording found; ship/departure match needs manual checking.
 - Hurtigruten: 3 discovered links deferred by request limit.
 - Single cruises from Southampton | https://www.iglucruise.com:443/cruises/single/from-southampton | Solo wording found; ship/departure match needs manual checking.
 - Black Friday Deals | https://www.iglucruise.com/black-friday-cruise-deals | Solo wording found; ship/departure match needs manual checking.
@@ -121,7 +121,7 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43317
 - Family Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/family/ | Solo wording found; ship/departure match needs manual checking.
 - Short Break Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/short-breaks/ | Solo wording found; ship/departure match needs manual checking.
 - Ocean World Travel: 19 discovered links deferred by request limit.
-- Odysia Cruise: 27 discovered links deferred by request limit.
+- Odysia Cruise: 28 discovered links deferred by request limit.
 - Panache Cruises: 5 discovered links deferred by request limit.
 - See 
 												 Seereisen | https://www.phoenixreisen.com/kreuzfahrten.html | Solo wording found; ship/departure match needs manual checking.
@@ -164,6 +164,9 @@ GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43317
 - Virgin Voyages: 1 discovered links deferred by request limit.
 - Solo Traveller | https://viva-holidays.co.uk/type/solo-traveller/ | Solo wording found; ship/departure match needs manual checking.
 - Multi Centre Holidays Explore more places with a single holiday | https://viva-holidays.co.uk/type/multi-centre-holiday/ | Solo wording found; ship/departure match needs manual checking.
+- Celebrity Apex Transatlantic Cruise: A Solo Traveler’s Trip Report | https://carryontravelsolo.com/celebrity-apex-transatlantic-cruise-a-solo-travelers-trip-report/ | Solo wording found; ship/departure match needs manual checking.
+- Is Cruising Safe for Solo Travelers? | https://carryontravelsolo.com/is-cruising-safe-for-solo-travelers/ | Solo wording found; ship/departure match needs manual checking.
+- MSC Seashore Yacht Club: A 3-Night Solo Birthday Cruise | https://carryontravelsolo.com/msc-seashore-yacht-club-review-a-3-night-solo-birthday-cruise/ | Solo wording found; ship/departure match needs manual checking.
 - Seven Safety Tips for Solo Cruising | https://www.cruisingforone.com/post/seven-safety-tips-for-solo-cruising | Solo wording found; ship/departure match needs manual checking.
 - Start Here — New to Solo Cruising? | https://solocruising.co.uk/start-here/ | Solo wording found; ship/departure match needs manual checking.
 - 🚢 
@@ -185,12 +188,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 68/3
+Consecutive baseline passes: 69/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
-- checked: 62 (previous 62, change +0)
+- checked: 63 (previous 62, change +1)
 - blocked: 0 (previous 0, change +0)
-- failed: 1 (previous 1, change +0)
-- potential: 380 (previous 380, change +0)
+- failed: 0 (previous 1, change -1)
+- potential: 383 (previous 380, change +3)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
