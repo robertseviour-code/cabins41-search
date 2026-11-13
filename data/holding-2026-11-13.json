@@ -7958,6 +7958,24 @@
       "source_name": "Hurtigruten",
       "checker_version": 21,
       "checked_at": "2026-11-13T01:49:29.619374+00:00"
+    },
+    "34": {
+      "status": "checked",
+      "url": "https://www.travelhx.com/en-us/",
+      "lead_snippets": [
+        "d these savings, scroll to the departures section on any itinerary page and switch on the solo traveler toggle. See all offers Featured cruises Black Friday Antarctica Highlights of Antarctica Expedition Cruise Departure Dates Nov 19, 26, Nov 29, 26 + 46 more dep"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "candidate_links_deferred": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "HX Expeditions",
+      "checker_version": 21,
+      "checked_at": "2026-11-13T01:49:51.317217+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
