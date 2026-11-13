@@ -196,9 +196,9 @@
           "source_id": 6,
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
           "ship": "Costa Smeralda",
-          "departure_date": "2027-01-31",
+          "departure_date": "2026-12-06",
           "solo_evidence": "Zuschlag nur 0%",
-          "evidence": "Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.269 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 31. Jan. 2027 – 07. Feb. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 629 € Suite N | Sailing: Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.269 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 31. Jan. 2027 – 07. Feb. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 629 € Suite Nicht verfügbar Zum Angebot",
+          "evidence": "Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 729 € Suite N | Sailing: Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 729 € Suite Nicht verfügbar Zum Angebot",
           "prices_mentioned": [],
           "durations_mentioned": [
             "7 Nächte"
@@ -212,9 +212,9 @@
           "source_id": 6,
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
           "ship": "Costa Smeralda",
-          "departure_date": "2026-12-06",
+          "departure_date": "2027-01-31",
           "solo_evidence": "Zuschlag nur 0%",
-          "evidence": "Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 729 € Suite N | Sailing: Kanaren und Marokkanische Küstenwelten Inklusive Servicegebühr Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 06. Dez. 2026 – 13. Dez. 2026 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 729 € Suite Nicht verfügbar Zum Angebot",
+          "evidence": "Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.269 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 31. Jan. 2027 – 07. Feb. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 629 € Suite N | Sailing: Inselzauber im Atlantik Inklusive Servicegebühr mit Flug buchbar ab 1.269 € Zuschlag nur 0% 7 Nächte an Bord der Costa Smeralda 31. Jan. 2027 – 07. Feb. 2027 Kanaren Routenverlauf ansehen Santa Cruz de Tenerife → Santa Cruz de Tenerife Innenkabine ab 479 € Meerblickkabine ab 599 € Balkonkabine ab 629 € Suite Nicht verfügbar Zum Angebot",
           "prices_mentioned": [],
           "durations_mentioned": [
             "7 Nächte"
@@ -252,12 +252,7 @@
         },
         {
           "ship": "Costa Smeralda",
-          "departure_date": "2027-01-18",
-          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
-        },
-        {
-          "ship": "Costa Smeralda",
-          "departure_date": "2027-01-17",
+          "departure_date": "2026-12-13",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -267,12 +262,12 @@
         },
         {
           "ship": "Costa Smeralda",
-          "departure_date": "2026-12-13",
+          "departure_date": "2027-01-17",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
           "ship": "Costa Smeralda",
-          "departure_date": "2027-01-25",
+          "departure_date": "2027-01-18",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -281,13 +276,18 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-27",
+          "ship": "Costa Smeralda",
+          "departure_date": "2027-01-25",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
           "ship": "Costa Pacifica",
           "departure_date": "2026-11-17",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-27",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -305,7 +305,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 21,
-      "checked_at": "2026-11-13T04:26:11.748957+00:00"
+      "checked_at": "2026-11-13T07:48:08.553892+00:00"
     },
     "7": {
       "status": "checked",
