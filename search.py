@@ -113,6 +113,8 @@ def normalize_ship(value):
 
 def normalize_date(value):
     value = value.strip().replace(',', '')
+    value = re.sub(r'\bDezember\b', 'December', value, flags=re.I)
+    value = re.sub(r'\bOktober\b', 'October', value, flags=re.I)
     value = re.sub(r'(?<=[A-Za-z])\.', '', value)
     value = re.sub(r'^(\d{1,2})\.\s+', r'\1 ', value)
     value = re.sub(r'\bSept\b', 'Sep', value, flags=re.I)
@@ -280,9 +282,55 @@ def structured_solo_sailings(raw):
         yield item
 
 
+def travel_dealz_sailing(raw):
+    """Read one article's opening offer and explicit departure, excluding related posts."""
+    parser = OfferTree(); parser.feed(raw)
+    def nodes(node):
+        if isinstance(node, str):
+            return
+        yield node
+        for child in node['children']:
+            yield from nodes(child)
+    bodies = [n for n in nodes(parser.root)
+              if 'entry-content' in n['attrs'].get('class', '').split()]
+    if len(bodies) != 1:
+        return []
+    paragraphs = [re.sub(r'\s+', ' ', node_text(n)).strip()
+                  for n in nodes(bodies[0]) if n['tag'] == 'p']
+    opening = ' '.join(paragraphs[:3])
+    ships = {m.group().strip() for m in SHIP.finditer(opening)}
+    if len(ships) != 1:
+        return []
+    solo = re.search(r'(?:für\s+)?Alleinreisende\w*[^.!?]{0,100}(?:\d[\d.,]*\s*€|kein(?:en)?\s+Aufpreis)|ohne\s+Einzelzuschlag', opening, re.I)
+    if not solo:
+        return []
+    departures = set()
+    for paragraph in paragraphs:
+        for match in DATE.finditer(paragraph):
+            prefix = paragraph[max(0, match.start()-65):match.start()]
+            if re.search(r'(?:Abfahrt\s+am|beginnt\s+am|startet\s+am|geht\s+es\s+am)\s*$', prefix, re.I):
+                date = normalize_date(match.group())
+                if date:
+                    departures.add(date)
+    if len(departures) != 1:
+        return []
+    ship, departure = next(iter(ships)), next(iter(departures))
+    text = f'{ship} {departure} Solo fare: {solo.group()}'
+    return [(text, {'ship': ship, 'departure_date': departure,
+                    'ship_start': 0, 'date_start': len(ship)+1}, opening)]
+
+
 def extract_page_leads(raw, url, source, existing, dedupe_ready):
     leads, duplicates = [], []
     parsed = urllib.parse.urlsplit(url)
+    if parsed.hostname in {'travel-dealz.de', 'www.travel-dealz.de'} and re.match(r'^/(?:deal|ticker)/.+', parsed.path):
+        for text, sailing, opening in travel_dealz_sailing(raw):
+            found, repeated = extract_leads(text, url, source, existing, dedupe_ready, [sailing])
+            for lead in found:
+                lead['extraction_basis'] = 'Single article opening offer plus explicit departure statement.'
+                lead['article_offer_evidence'] = opening
+            leads.extend(found); duplicates.extend(repeated)
+        return leads, duplicates
     if parsed.hostname in {'getthatcruise.co.uk', 'www.getthatcruise.co.uk'} and parsed.path.rstrip('/') == '/cruises':
         for item in structured_solo_sailings(raw):
             text = f"{item['ship']} {item['departureDate']} Solo fare {item['soloFrom']}"
@@ -429,7 +477,7 @@ def discover_candidates(home, links):
         parts = urllib.parse.urlsplit(absolute)
         if parts.scheme not in ('http', 'https') or parts.hostname != domain:
             continue
-        article = travel_dealz and parts.path.startswith('/deal/') and parts.path.rstrip('/') != '/deal'
+        article = travel_dealz and parts.path.startswith(('/deal/', '/ticker/')) and parts.path.rstrip('/') not in {'/deal', '/ticker'}
         if not article and not LINK_WORDS.search(label + ' ' + parts.path):
             continue
         key = normal_url(absolute)
@@ -441,6 +489,18 @@ def discover_candidates(home, links):
     result = list(candidates.values())
     result.sort(key=lambda c: (0 if SOLO.search(c['label'] + ' ' + c['url']) else 1))
     return result
+
+
+def candidate_batch(candidates, limit, day=None):
+    """Keep recent priority links and rotate the remaining budget daily."""
+    if len(candidates) <= limit:
+        return candidates
+    day = day or datetime.datetime.now(ZoneInfo('Europe/London')).date()
+    fixed = max(1, limit // 2)
+    tail = candidates[fixed:]
+    slots = limit - fixed
+    offset = (day.toordinal() * slots) % len(tail)
+    return candidates[:fixed] + [tail[(offset+i) % len(tail)] for i in range(slots)]
 
 
 def check(source, existing, dedupe_ready):
@@ -455,7 +515,7 @@ def check(source, existing, dedupe_ready):
         found, repeated = extract_page_leads(raw, home, source, existing, dedupe_ready)
         offers.extend(found)
         duplicates.extend(repeated)
-        for candidate in candidates[:limit]:
+        for candidate in candidate_batch(candidates, limit):
             try:
                 url, content = fetch(candidate['url'])
                 candidate_text, _ = page_data(content)
