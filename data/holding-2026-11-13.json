@@ -8388,6 +8388,22 @@
       "source_name": "Passion for Cruises",
       "checker_version": 21,
       "checked_at": "2026-11-13T01:54:09.140858+00:00"
+    },
+    "51": {
+      "status": "checked",
+      "url": "https://www.pgcruises.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "candidate_links_deferred": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Paul Gauguin Cruises",
+      "checker_version": 21,
+      "checked_at": "2026-11-13T01:54:32.173080+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
