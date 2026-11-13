@@ -281,13 +281,13 @@
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Pacifica",
-          "departure_date": "2026-11-17",
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-27",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
-          "ship": "Costa Toscana",
-          "departure_date": "2026-11-27",
+          "ship": "Costa Pacifica",
+          "departure_date": "2026-11-17",
           "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
         },
         {
@@ -305,7 +305,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Atlantis Reisen and Seereisen",
       "checker_version": 21,
-      "checked_at": "2026-11-13T07:48:08.553892+00:00"
+      "checked_at": "2026-11-13T10:26:36.438742+00:00"
     },
     "7": {
       "status": "checked",
