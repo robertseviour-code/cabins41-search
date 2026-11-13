@@ -1132,15 +1132,15 @@
           "review_reason": "Solo wording found; ship/departure match needs manual checking."
         }
       ],
-      "candidate_links_found": 80,
-      "candidate_links_deferred": 77,
+      "candidate_links_found": 79,
+      "candidate_links_deferred": 76,
       "possible_offers": [],
       "duplicates_excluded": [],
       "blocked_candidate_pages": [],
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "e-hoi",
       "checker_version": 21,
-      "checked_at": "2026-11-13T04:32:25.653769+00:00"
+      "checked_at": "2026-11-13T07:54:19.725666+00:00"
     },
     "25": {
       "status": "checked",
