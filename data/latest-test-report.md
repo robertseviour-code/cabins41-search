@@ -1,10 +1,10 @@
 # Cabins41 — test report
-Run: 2026-11-13T07:46:31+00:00 to 2026-11-13T08:13:24.889066+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43388135972
+Run: 2026-11-13T10:25:03+00:00 to 2026-11-13T10:52:33.970491+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43408880952
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 63; **blocked:** 0; **other failures:** 0
-**Potential solo sailings (unverified):** 381; **verified fares:** 0 (not independently checked)
+**Potential solo sailings (unverified):** 382; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
 None recorded.
@@ -20,9 +20,10 @@ None recorded.
 - MSC Sinfonia | 2027-01-12 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Seaside | 2027-02-22 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - MSC Seaside | 2027-03-08 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- Norwegian Joy | 2027-01-04 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Getaway | 2027-03-08 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Dawn | 2027-02-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- Norwegian Dawn | 2027-01-02 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- Carnival Firenze | 2026-11-30 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Balmoral | 2026-11-19 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2638 | solo evidence: Solo fare
 - MSC Preziosa | 2026-11-20 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261120sousou | solo evidence: Solo fare
 - Bolette | 2026-11-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2628 | solo evidence: Solo fare
@@ -59,7 +60,6 @@ None recorded.
 - MSC Preziosa | 2027-03-05 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270305sousou | solo evidence: Solo fare
 - Ambition | 2027-03-08 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a22703 | solo evidence: Solo fare
 - MSC Preziosa | 2027-03-12 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270312sousou | solo evidence: Solo fare
-- Balmoral | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2706 | solo evidence: Solo fare
 
 ## Solo articles requiring ship/date review
 - Solo Travelers | https://www.amawaterways.com/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
@@ -126,7 +126,7 @@ None recorded.
 - See 
 												 Seereisen | https://www.phoenixreisen.com/kreuzfahrten.html | Solo wording found; ship/departure match needs manual checking.
 - Phoenix Reisen: 130 discovered links deferred by request limit.
-- Balcony Bonus | Up to $400 Savings + $100 Onboard Credit | https://www.princess.com/cruise-deals-promotions/flash-sale | Solo wording found; ship/departure match needs manual checking.
+- Blue Friday | Up to 50% Off + $400 Savings | https://www.princess.com/cruise-deals-promotions/limited-time-offer | Solo wording found; ship/departure match needs manual checking.
 - Princess Cruises: 8 discovered links deferred by request limit.
 - Solo Cruises | https://www.rolcruise.co.uk:443/types-of-cruise/solo-travellers | Solo wording found; ship/departure match needs manual checking.
 - Cruise Deals | https://www.rolcruise.co.uk:443/cruise-deals | Solo wording found; ship/departure match needs manual checking.
@@ -142,12 +142,13 @@ None recorded.
 - Alleinreisende | https://travel-dealz.de/thema/alleinreisende/ | Solo wording found; ship/departure match needs manual checking.
 - WhatsApp | https://www.whatsapp.com/channel/0029VayIEui9cDDfsXxxNG08 | Solo wording found; ship/departure match needs manual checking.
 - Telegram | https://t.me/traveldealzde_alleinreisende | Solo wording found; ship/departure match needs manual checking.
+- Last Minute: 14 Nächte AIDA Gran Canaria → Kiel Kreuzfahrt inkl. Anreise ab 1.099€ p.P. (Alleinreisende ab 1.189€) | https://travel-dealz.de/deal/aidaprima-grancanaria-kiel-fahrt/ | Solo wording found; ship/departure match needs manual checking.
+- Thurgau Travel: 5 Nächte Flusskreuzfahrt von Basel ab 510€ (auch Alleinreisende) | https://travel-dealz.de/ticker/477929/ | Solo wording found; ship/departure match needs manual checking.
 - Explora II: 4 bis 10 Nächte Luxuskreuzfahrt von Athen über Santorin, Malta & Rom nach Barcelona ab 1.200€ ohne Einzelzuschlag | https://travel-dealz.de/deal/explora-ii-athen-rom-barcelona-dez26/ | Solo wording found; ship/departure match needs manual checking.
 - Costa Fascinosa: 14 Nächte Transatlantik-Kreuzfahrt von Barcelona in die Karibik ab 423€ p.P. (Alleinreisende ab 660€) | https://travel-dealz.de/deal/costa-fascinosa-barcelona-laromana/ | Solo wording found; ship/departure match needs manual checking.
 - Last Minute: 7 Nächte Costa Kanaren-Kreuzfahrt von Gran Canaria ab 399€ (auch Alleinreisende) | https://travel-dealz.de/deal/costasmeralda-kanaren-11-2026-lpa/ | Solo wording found; ship/departure match needs manual checking.
 - MSC Sinfonia: 7 Nächte Mittelmeer ab/bis Genua ab 389€ p. P. (Alleinreisende ab 541€) | https://travel-dealz.de/ticker/483124/ | Solo wording found; ship/departure match needs manual checking.
 - Last Minute: 7 Nächte AIDA Mittelmeer Kreuzfahrt von Mallorca ab 499€ p.P. (549€ für Alleinreisende) | https://travel-dealz.de/ticker/487725/ | Solo wording found; ship/departure match needs manual checking.
-- AIDAprima: 14 Nächte Gran Canaria → Kiel Kreuzfahrt inkl. Anreise ab 1.179€ p.P. (Alleinreisende ab 1.279€) | https://travel-dealz.de/deal/aidaprima-grancanaria-kiel-fahrt/ | Solo wording found; ship/departure match needs manual checking.
 - Ponant: Luxuskreuzfahrten ohne Einzelzuschlag, z.B. 6 Nächte Südamerika ab 1.850€ (All-inclusive) | https://travel-dealz.de/deal/ponant-all-inclusive-alleinreisende/ | Solo wording found; ship/departure match needs manual checking.
 - Dealz | https://travel-dealz.de/deal/ | Solo wording found; ship/departure match needs manual checking.
 - Luxuskreuzfahrten | https://travel-dealz.de/thema/luxuskreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
@@ -179,6 +180,7 @@ None recorded.
 - Read More  Best Solo Travel Tips for Women | https://trulysherry.com/best-solo-travel-tips-for-women/ | Solo wording found; ship/departure match needs manual checking.
 - Solo Travel | https://trulysherry.com/category/solo-travel/ | Solo wording found; ship/departure match needs manual checking.
 - My Best 14 Tips for Cruising Solo | https://trulysherry.com/solo-cruise-tips/ | Solo wording found; ship/departure match needs manual checking.
+- Truly Sherry: 1 discovered links deferred by request limit.
 
 ## Assessment
 All expected main sources were accounted for within the operational baseline. Offer quality still requires manual verification.
@@ -186,12 +188,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 71/3
+Consecutive baseline passes: 72/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
 - checked: 63 (previous 63, change +0)
 - blocked: 0 (previous 0, change +0)
 - failed: 0 (previous 0, change +0)
-- potential: 381 (previous 383, change -2)
+- potential: 382 (previous 381, change +1)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
