@@ -1,6 +1,29 @@
 import unittest
 import json
-from search import bounded_sailings, extract_page_leads, structured_solo_sailings, homepage_sailings
+import datetime
+from search import candidate_batch
+from search import bounded_sailings, extract_page_leads, structured_solo_sailings, homepage_sailings, travel_dealz_sailing
+
+class TravelDealzTests(unittest.TestCase):
+    def test_deferred_links_rotate_without_exceeding_budget(self):
+        links = list(range(44))
+        days = [candidate_batch(links, 20, datetime.date(2026, 11, 13)+datetime.timedelta(days=i)) for i in range(34)]
+        self.assertTrue(all(len(x) == len(set(x)) == 20 for x in days))
+        self.assertTrue(all(x[:10] == links[:10] for x in days))
+        self.assertEqual(set().union(*map(set, days)), set(links))
+    def test_departure_not_publication_or_itinerary_date(self):
+        raw = '<time>13 November 2026</time><div class="entry-content"><p>Die AIDAprima fährt nach Kiel.</p><p>Für Alleinreisende werden ab 1.189€ fällig.</p><h2>Route</h2><p>Die Kreuzfahrt beginnt am 5. Dezember 2026 auf Gran Canaria.</p><p>Am 7. Dezember 2026 erreicht sie Agadir.</p></div><aside>MSC Musica Abfahrt am 8. Dezember 2026</aside>'
+        records = travel_dealz_sailing(raw)
+        self.assertEqual([(x[1]['ship'], x[1]['departure_date']) for x in records], [('AIDAprima', '2026-12-05')])
+
+    def test_ambiguous_ships_or_departures_rejected(self):
+        for offer in ['AIDAprima und MSC Sinfonia', 'AIDAprima']:
+            raw = f'<div class="entry-content"><p>{offer}. Für Alleinreisende ab 541€.</p><p>Abfahrt am 5. Dezember 2026.</p><p>Abfahrt am 12. Dezember 2026.</p></div>'
+            self.assertEqual(travel_dealz_sailing(raw), [])
+
+    def test_solo_wording_outside_article_cannot_qualify(self):
+        raw = '<div class="entry-content"><p>MSC Sinfonia ab 389€ bei Doppelbelegung.</p><p>Abfahrt am 15. Dezember 2026.</p></div><aside>Alleinreisende ab 541€</aside>'
+        self.assertEqual(travel_dealz_sailing(raw), [])
 
 class OfferExtractionTests(unittest.TestCase):
     def test_destination_does_not_extend_ship(self):
