@@ -631,7 +631,7 @@
             "ises River Cruises Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exp",
             "Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world o",
             "s Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals!",
-            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11710 cruises Per Person Total Price"
+            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 11733 cruises Per Person Total Price"
           ]
         },
         {
@@ -869,63 +869,6 @@
           "classification": "qualified_for_manual_review",
           "review_status": "needs_manual_check",
           "warning": "Check the seller page and solo price before publishing."
-        },
-        {
-          "source_name": "Cruise118",
-          "source_id": 17,
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-          "ship": "Norwegian Dawn",
-          "departure_date": "2027-01-02",
-          "solo_evidence": "Solo Prices",
-          "evidence": "Solo Prices From: £270 £270 Bahamas: Great Stirrup Cay Jacksonville | Great Stirrup Cay | Freeport | Jacksonville 02 Jan 2027 5 Nights Norwegian Dawn Bahamas 02 Jan 2027 5 Nights Norwegian Dawn Bahamas Upgrade to Free at Sea from £ | Sailing: Solo Prices From: £270 £270 Bahamas: Great Stirrup Cay Jacksonville | Great Stirrup Cay | Freeport | Jacksonville 02 Jan 2027 5 Nights Norwegian Dawn Bahamas 02 Jan 2027 5 Nights Norwegian Dawn Bahamas Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £270 £270 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051341",
-          "prices_mentioned": [
-            "£270",
-            "£249"
-          ],
-          "durations_mentioned": [
-            "5 Nights"
-          ],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
-        },
-        {
-          "source_name": "Cruise118",
-          "source_id": 17,
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-          "ship": "Carnival Firenze",
-          "departure_date": "2026-11-30",
-          "solo_evidence": "Solo Prices",
-          "evidence": "Solo Prices From: Was £282 Now: £273 £273 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 30 Nov 2026 4 Nights Carnival Firenze Central America 30 Nov 2026 4 Nights Carnival Firenze Central America Live | Sailing: Solo Prices From: Was £282 Now: £273 £273 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 30 Nov 2026 4 Nights Carnival Firenze Central America 30 Nov 2026 4 Nights Carnival Firenze Central America Live availability and prices when you book online with Cruise118 Solo Prices From: Was £282 Now: £273 £273 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 017809",
-          "prices_mentioned": [
-            "£282",
-            "£273"
-          ],
-          "durations_mentioned": [
-            "4 Nights"
-          ],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
-        },
-        {
-          "source_name": "Cruise118",
-          "source_id": 17,
-          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
-          "ship": "Carnival Firenze",
-          "departure_date": "2026-12-07",
-          "solo_evidence": "Solo Prices",
-          "evidence": "Solo Prices From: Was £282 Now: £273 £273 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 07 Dec 2026 4 Nights Carnival Firenze Central America 07 Dec 2026 4 Nights Carnival Firenze Central America Live | Sailing: Solo Prices From: Was £282 Now: £273 £273 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 07 Dec 2026 4 Nights Carnival Firenze Central America 07 Dec 2026 4 Nights Carnival Firenze Central America Live availability and prices when you book online with Cruise118 Solo Prices From: Was £282 Now: £273 £273 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 017827",
-          "prices_mentioned": [
-            "£282",
-            "£273"
-          ],
-          "durations_mentioned": [
-            "4 Nights"
-          ],
-          "classification": "qualified_for_manual_review",
-          "review_status": "needs_manual_check",
-          "warning": "Check the seller page and solo price before publishing."
         }
       ],
       "duplicates_excluded": [
@@ -1014,7 +957,7 @@
       "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
       "source_name": "Cruise118",
       "checker_version": 21,
-      "checked_at": "2026-11-13T04:30:22.063722+00:00"
+      "checked_at": "2026-11-13T07:52:14.585343+00:00"
     },
     "18": {
       "status": "checked",
