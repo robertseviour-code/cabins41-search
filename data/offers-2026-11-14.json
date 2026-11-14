@@ -1,11 +1,11 @@
 {
   "date": "2026-11-14",
-  "sources_attempted": 49,
-  "sources_checked": 49,
+  "sources_attempted": 50,
+  "sources_checked": 50,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 377,
-  "candidate_sailings": 377,
+  "qualified_candidates": 381,
+  "candidate_sailings": 381,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 51,
   "existing_listings_status": {
@@ -139,6 +139,22 @@
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
     },
     {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/deal/aidaprima-grancanaria-kiel-fahrt/",
+      "ship": "AIDAprima",
+      "departure_date": "2026-12-05",
+      "solo_evidence": "Solo fare",
+      "evidence": "AIDAprima 2026-12-05 Solo fare: Für Alleinreisende werden ab 1.189€ | Sailing: AIDAprima 2026-12-05 Solo fare: Für Alleinreisende werden ab 1.189€",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing.",
+      "extraction_basis": "Single article opening offer plus explicit departure statement.",
+      "article_offer_evidence": "Die AIDAprima begibt sich im Dezember 2026 auf eine 15-tägige Reise von Gran Canaria nach Kiel und momentan gibt es ein gutes Angebot für diese Kreuzfahrt. Inklusive der Anreise mit Flug und Transfer gibt es die Innenkabine ab 1.099€, die Außenkabine ab 1.149€ oder die Balkonkabine ab 1.299€ (jeweils pro Person bei Doppelbelegung). Vollpension und Trinkgelder sind inklusive. Für Alleinreisende werden ab 1.189€ fällig. Habt ihr Fragen zu einem Angebot, zu der Buchung oder sucht ihr eine für euch passende Kreuzfahrt? Kontaktiert uns gerne über unser Anfrageformular , per Chat (rechts unten), Email anfrage@travel-dealz.de oder WhatsApp . Wir beraten euch gerne persönlich."
+    },
+    {
       "source_name": "Get That Cruise",
       "source_id": 30,
       "seller_url": "https://www.getthatcruise.co.uk/ambassador/a32652m",
@@ -241,6 +257,22 @@
       "advertised_solo_from": 1442,
       "fare_verification": "Published finder fare; final availability and total not independently verified.",
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/ticker/483124/",
+      "ship": "MSC Sinfonia",
+      "departure_date": "2026-12-15",
+      "solo_evidence": "Solo fare",
+      "evidence": "MSC Sinfonia 2026-12-15 Solo fare: für Alleinreisende ist das interessant: Die Innenkabine kostet bei Einzelbelegung 541€ | Sailing: MSC Sinfonia 2026-12-15 Solo fare: für Alleinreisende ist das interessant: Die Innenkabine kostet bei Einzelbelegung 541€",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing.",
+      "extraction_basis": "Single article opening offer plus explicit departure statement.",
+      "article_offer_evidence": "Mit der MSC Sinfonia geht es am 15. Dezember 2026 für 7 Nächte ab/bis Genua durchs westliche Mittelmeer. Die Innenkabine gibt es ab 389€ p. P. , Außenkabinen ab 409€ p. P. und Balkonkabinen ab 579€ p. P. Auch für Alleinreisende ist das interessant: Die Innenkabine kostet bei Einzelbelegung 541€ . Vollpension und Trinkgelder sind inklusive.  "
     },
     {
       "source_name": "Get That Cruise",
@@ -2785,6 +2817,22 @@
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
     },
     {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/deal/mscpreziosa-minikreuzfahrt-ham-sou-2027/",
+      "ship": "MSC Preziosa",
+      "departure_date": "2027-10-17",
+      "solo_evidence": "Solo fare",
+      "evidence": "MSC Preziosa 2027-10-17 Solo fare: Alleinreisende sind ab 282€ | Sailing: MSC Preziosa 2027-10-17 Solo fare: Alleinreisende sind ab 282€",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing.",
+      "extraction_basis": "Single article opening offer plus explicit departure statement.",
+      "article_offer_evidence": "Ihr seid euch nicht so richtig sicher, ob eine Kreuzfahrt das Richtige für euch ist? Auf einer Schnupperkreuzfahrt könnt ihr das gut testen. Im Oktober 2027 könnt ihr auf der MSC Preziosa über 2 Nächte Hamburg nach Southampton reisen und bezahlt dafür in der Innenkabine 153€ pro Person. Vollpension und Trinkgelder sind dabei inklusive. Die Außenkabine kostet 213€, die Balkonkabine 253€ – jeweils pro Person. Alleinreisende sind ab 282€ dabei. Ihr benötigt für die Einreise nach Großbritannien in jedem Fall einen gültigen Reisepass und seit dem 9. April 2025 dann ETA für 20 £ (~23 €) als deutscher Staatsangehöriger. Habt ihr Fragen zu einem Angebot, zu der Buchung oder sucht eine für euch passende Kreuzfahrt? Kontaktiert uns gerne über unser Anfrageformular , per Chat (rechts unten), Email anfrage@travel-dealz.de oder WhatsApp . Wir beraten euch gerne persönlich."
+    },
+    {
       "source_name": "Get That Cruise",
       "source_id": 30,
       "seller_url": "https://www.getthatcruise.co.uk/msc/pr20271019sousou",
@@ -4041,6 +4089,22 @@
       "advertised_solo_from": 2398,
       "fare_verification": "Published finder fare; final availability and total not independently verified.",
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/deal/aidablu-kapstadt-mallorca-kreuzfahrt/",
+      "ship": "AIDAblu",
+      "departure_date": "2028-03-14",
+      "solo_evidence": "Solo fare",
+      "evidence": "AIDAblu 2028-03-14 Solo fare: Alleinreisende sind ab 2.340€ | Sailing: AIDAblu 2028-03-14 Solo fare: Alleinreisende sind ab 2.340€",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing.",
+      "extraction_basis": "Single article opening offer plus explicit departure statement.",
+      "article_offer_evidence": "Die AIDAblu schippert im Frühjahr 2028 in drei Wochen von Kapstadt nach Mallorca und momentan gibt es ein ordentliches Frühbucherangebot für diese Reise. Ihr erhaltet die Innenkabine ab 1.220€, die Außenkabine ab 1.585€ und die Balkonkabine ab 2.035€ (jeweils pro Person bei Doppelbelegung). Alleinreisende sind ab 2.340€ dabei. Vollpension und Trinkgelder sind inklusive. Habt ihr Fragen zu einem Angebot, zu der Buchung oder sucht ihr eine für euch passende Kreuzfahrt? Kontaktiert uns gerne über unser Anfrageformular , per Chat (rechts unten), Email anfrage@travel-dealz.de oder WhatsApp . Wir beraten euch gerne persönlich. Bei AIDA sind im Reisepreis folgende Leistungen bereits standardmäßig inkludiert:"
     },
     {
       "source_name": "Get That Cruise",
