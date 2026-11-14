@@ -1,13 +1,13 @@
 {
   "date": "2026-11-14",
-  "sources_attempted": 3,
-  "sources_checked": 3,
+  "sources_attempted": 4,
+  "sources_checked": 4,
   "sources_blocked": 0,
   "sources_failed": 0,
   "qualified_candidates": 0,
   "candidate_sailings": 0,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 0,
+  "duplicate_sailings_excluded": 17,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
