@@ -1,13 +1,13 @@
 {
   "date": "2026-11-14",
-  "sources_attempted": 13,
-  "sources_checked": 13,
+  "sources_attempted": 14,
+  "sources_checked": 14,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 0,
-  "candidate_sailings": 0,
+  "qualified_candidates": 6,
+  "candidate_sailings": 6,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 17,
+  "duplicate_sailings_excluded": 38,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
@@ -16,7 +16,123 @@
   },
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
-  "offers": [],
+  "offers": [
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Carnival Firenze",
+      "departure_date": "2026-11-30",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: Was £282 Now: £273 £273 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 30 Nov 2026 4 Nights Carnival Firenze Central America 30 Nov 2026 4 Nights Carnival Firenze Central America Live | Sailing: Solo Prices From: Was £282 Now: £273 £273 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 30 Nov 2026 4 Nights Carnival Firenze Central America 30 Nov 2026 4 Nights Carnival Firenze Central America Live availability and prices when you book online with Cruise118 Solo Prices From: Was £282 Now: £273 £273 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 017809",
+      "prices_mentioned": [
+        "£282",
+        "£273"
+      ],
+      "durations_mentioned": [
+        "4 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Carnival Firenze",
+      "departure_date": "2026-12-07",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: Was £282 Now: £273 £273 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 07 Dec 2026 4 Nights Carnival Firenze Central America 07 Dec 2026 4 Nights Carnival Firenze Central America Live | Sailing: Solo Prices From: Was £282 Now: £273 £273 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 07 Dec 2026 4 Nights Carnival Firenze Central America 07 Dec 2026 4 Nights Carnival Firenze Central America Live availability and prices when you book online with Cruise118 Solo Prices From: Was £282 Now: £273 £273 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 017827",
+      "prices_mentioned": [
+        "£282",
+        "£273"
+      ],
+      "durations_mentioned": [
+        "4 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Jewel",
+      "departure_date": "2026-12-18",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: £274 £274 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 18 Dec 2026 5 Nights Norwegian Jewel Bahamas 18 Dec 2026 5 Nights Norwegian Jewel Bahamas Upgrade to Free at Sea from £249pp | Sailing: Solo Prices From: £274 £274 Bahamas: Great Stirrup Cay & Nassau Miami | Great Stirrup Cay | Nassau | Miami 18 Dec 2026 5 Nights Norwegian Jewel Bahamas 18 Dec 2026 5 Nights Norwegian Jewel Bahamas Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £274 £274 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 019606",
+      "prices_mentioned": [
+        "£274",
+        "£249"
+      ],
+      "durations_mentioned": [
+        "5 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Norwegian Dawn",
+      "departure_date": "2027-01-02",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: £270 £270 Bahamas: Great Stirrup Cay Jacksonville | Great Stirrup Cay | Freeport | Jacksonville 02 Jan 2027 5 Nights Norwegian Dawn Bahamas 02 Jan 2027 5 Nights Norwegian Dawn Bahamas Upgrade to Free at Sea from £ | Sailing: Solo Prices From: £270 £270 Bahamas: Great Stirrup Cay Jacksonville | Great Stirrup Cay | Freeport | Jacksonville 02 Jan 2027 5 Nights Norwegian Dawn Bahamas 02 Jan 2027 5 Nights Norwegian Dawn Bahamas Upgrade to Free at Sea from £249pp and receive Premium Beverages, Wi-Fi, Speciality Dining and more! Solo Prices From: £270 £270 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 051341",
+      "prices_mentioned": [
+        "£270",
+        "£249"
+      ],
+      "durations_mentioned": [
+        "5 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "Carnival Conquest",
+      "departure_date": "2027-03-01",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: Was £286 Now: £277 £277 4-Day Bahamas Miami | Half Moon Cay | Celebration Key | Miami 01 Mar 2027 4 Nights Carnival Conquest Bahamas 01 Mar 2027 4 Nights Carnival Conquest Bahamas Live availability and prices when | Sailing: Solo Prices From: Was £286 Now: £277 £277 4-Day Bahamas Miami | Half Moon Cay | Celebration Key | Miami 01 Mar 2027 4 Nights Carnival Conquest Bahamas 01 Mar 2027 4 Nights Carnival Conquest Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £286 Now: £277 £277 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 023904",
+      "prices_mentioned": [
+        "£286",
+        "£277"
+      ],
+      "durations_mentioned": [
+        "4 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    },
+    {
+      "source_name": "Cruise118",
+      "source_id": 17,
+      "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+      "ship": "MSC Preziosa United",
+      "departure_date": "2027-04-23",
+      "solo_evidence": "Solo Prices",
+      "evidence": "Solo Prices From: Was £288 Now: £273 £273 Northern Europe 2 Nights From Southampton Southampton | Hamburg 23 Apr 2027 2 Nights MSC Preziosa United Kingdom 23 Apr 2027 2 Nights MSC Preziosa United Kingdom FREE cabin upgrades on Summ | Sailing: Solo Prices From: Was £288 Now: £273 £273 Northern Europe 2 Nights From Southampton Southampton | Hamburg 23 Apr 2027 2 Nights MSC Preziosa United Kingdom 23 Apr 2027 2 Nights MSC Preziosa United Kingdom FREE cabin upgrades on Summer 2027 sailings - For a limited time only Interest free Monthly Payments from JUST £77pp Solo Prices From: Was £288 Now: £273 £273 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 049490",
+      "prices_mentioned": [
+        "£288",
+        "£273",
+        "£77"
+      ],
+      "durations_mentioned": [
+        "2 Nights"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    }
+  ],
   "blocked_sources": [],
   "blocked_candidate_pages": [],
   "failed_sources": []
