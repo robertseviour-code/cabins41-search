@@ -7924,6 +7924,24 @@
       "source_name": "Iglu Cruise",
       "checker_version": 21,
       "checked_at": "2026-11-14T03:24:25.158769+00:00"
+    },
+    "36": {
+      "status": "checked",
+      "url": "https://journeylatinamerica.com",
+      "lead_snippets": [
+        "america specialists A holiday in your style However you like to travel, whether you’re a solo traveller, travelling as a couple or a family, there’s a style to match. Join a group tour or create your own bespoke trip to hit the highlights or take an off the beate"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "candidate_links_deferred": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Journey Latin America",
+      "checker_version": 21,
+      "checked_at": "2026-11-14T03:24:47.350884+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
