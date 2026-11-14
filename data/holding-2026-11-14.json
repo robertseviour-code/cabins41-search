@@ -8392,6 +8392,65 @@
       "source_name": "Princess Cruises",
       "checker_version": 21,
       "checked_at": "2026-11-14T03:30:01.096324+00:00"
+    },
+    "56": {
+      "status": "checked",
+      "url": "https://www.rolcruise.co.uk:443/",
+      "lead_snippets": [
+        "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife Cru",
+        "utmost importance to us. So, whether you are planning a last-minute, honeymoon, family or solo cruise, we look after your cruise holiday as if it were our own. We are proud to work alongside such reputable cruise lines, offering our customers the opportunity to"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.rolcruise.co.uk:443/types-of-cruise/solo-travellers",
+          "label": "Solo Cruises",
+          "keyword_count": 23,
+          "snippets": [
+            "Solo Cruises: What to Expect & Why Choose One | ROL Cruise Black Friday Sale - Sitewide Savings - ends 8pm 30th November 2026 Request a call back Call 08082394989 Sign in t",
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife Cru",
+            "Exclusive Loyalty Programme UK's No. 1 Independent Cruise Specialist Home Types of Cruise Solo Cruises Solo Cruises On this page.. Overview Cruises Guide Request a callback Call us FREE 08082394989 Opening Hours - Office closed, we'll open at 8:30am Call us FREE",
+            "alty Programme UK's No. 1 Independent Cruise Specialist Home Types of Cruise Solo Cruises Solo Cruises On this page.. Overview Cruises Guide Request a callback Call us FREE 08082394989 Opening Hours - Office closed, we'll open at 8:30am Call us FREE 08082394989",
+            "am Browse cruises Sail the seven seas solo There is nothing quite like travelling solo! A solo cruise is an ideal getaway for solo adventurers, offering a safe and secure environment in which to visit new destinations, experience different cultures and make lif",
+            "estinations, experience different cultures and make lifelong friends. Learn more Featured Solo Cruises Black Friday Sale View Cruise 2027 No-Fly European Capitals Deal 2027 No-Fly European Capitals Majestic Princess 02 Jul 2027 10 nights No-Fly Cruise Southampto",
+            "ngland View Itinerary Inside from £2,129 Plus an extra £67pp off View Cruise Deal See all Solo Cruises Popular Solo Cruise Destinations Bangkok Barcelona Sydney Vancouver Venice What is a solo cruise? A solo cruise is simply a voyage that one sets off on alone.",
+            "Inside from £2,129 Plus an extra £67pp off View Cruise Deal See all Solo Cruises Popular Solo Cruise Destinations Bangkok Barcelona Sydney Vancouver Venice What is a solo cruise? A solo cruise is simply a voyage that one sets off on alone. As with every holida"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.rolcruise.co.uk/cruise-deals",
+          "label": "cruise deals",
+          "keyword_count": 3,
+          "snippets": [
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife Cru",
+            "s, Travel Insurance & INCLUDED Excursions view sale save up to 25% Exclusive Black Friday Solo Travellers Sale From Only £229 | Exclusive Savings! | Incredible No & Low Single Supplements VIEW SOLO OFFERS From Only £2,249pp Exclusive Norwegian Cruise Line Black Fri",
+            "rs Sale From Only £229 | Exclusive Savings! | Incredible No & Low Single Supplements VIEW SOLO OFFERS From Only £2,249pp Exclusive Norwegian Cruise Line Black Friday Sale Land Tours & Luxury Hotel Stays | Drinks, Speciality Dining, Wi-Fi & Gratuities | SAVE up"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.rolcruise.co.uk:443/blog/black-friday-cruise-deals-2026",
+          "label": "All the best 2026 Black Friday cruise deals in one place, updated daily \n     13 Nov 2026 \n     \n                    Making things easier for you by keeping all the best 2026 Black Friday cruise deals in one place - updated daily in the lea",
+          "keyword_count": 1,
+          "snippets": [
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife Cru"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 16,
+      "candidate_links_deferred": 13,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "ROL Cruise",
+      "checker_version": 21,
+      "checked_at": "2026-11-14T03:30:25.962895+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
