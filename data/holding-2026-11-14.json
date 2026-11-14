@@ -8130,6 +8130,45 @@
       "source_name": "Ocean World Travel",
       "checker_version": 21,
       "checked_at": "2026-11-14T03:26:25.219064+00:00"
+    },
+    "46": {
+      "status": "checked",
+      "url": "https://www.odysiacruise.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals",
+          "label": "Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals/december-cruises",
+          "label": "December Cruises",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals/2028",
+          "label": "2028 Cruises",
+          "keyword_count": 1,
+          "snippets": [
+            "fer voyages to the world's most popular and enriching destinations. Families, couples and solo travellers can book a 2028 cruise with every detail taken care of, so start planning early for your year of adventure at sea. Where to Sail: 2028’s Cruising Hotspots No m"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 31,
+      "candidate_links_deferred": 28,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Odysia Cruise",
+      "checker_version": 21,
+      "checked_at": "2026-11-14T03:26:49.083237+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
