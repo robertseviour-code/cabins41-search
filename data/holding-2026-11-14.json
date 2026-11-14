@@ -989,6 +989,62 @@
       "source_name": "Deluxe Cruises",
       "checker_version": 21,
       "checked_at": "2026-11-14T03:19:27.342619+00:00"
+    },
+    "24": {
+      "status": "checked",
+      "url": "https://www.e-hoi.de/",
+      "lead_snippets": [
+        "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.e-hoi.de/single-kreuzfahrten.html",
+          "label": "Kreuzfahrten für Alleinreisende",
+          "keyword_count": 17,
+          "snippets": [
+            "Kreuzfahrten für Alleinreisende - Single Kreuzfahrten auf e-hoi Cookie-Einstellungen e-hoi verwendet Cookies. Einige sind für die Funktionalität der Webseite grundlegend notwendig, andere die",
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
+            "Alle Kontaktmöglichkeiten e-hoi Newsletter Startseite Alle Empfehlungen Kreuzfahrten für Alleinreisende Kreuzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Re",
+            "oi Newsletter Startseite Alle Empfehlungen Kreuzfahrten für Alleinreisende Kreuzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzu",
+            "uzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit güns",
+            "ngles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit günstigen Preisen zu finden, da viele Reedereien",
+            "Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit günstigen Preisen zu finden, da viele Reedereien 50 – 100% Einzelkabinenaufschlag"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.e-hoi.de/kreuzfahrt-schiffe/aidamar-kreuzfahrten/schiffsdaten-815.html",
+          "label": "AIDAmar",
+          "keyword_count": 3,
+          "snippets": [
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +",
+            "15 3.000 € - 4.999 € 61 2.000 € - 2.999 € 80 1.000 € - 1.999 € 83 500 € - 999 € 31 Themen Alleinreisende 20 Bordsprache Deutsch 90 Familien 90 Schnupperkreuzfahrten 7 Top-Angebote 25 Topseller 1 Inklusivleistungen Trinkgelder 90 90 Angebote anzeigen Bitte warten.."
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.e-hoi.de/kreuzfahrt-schiffe.html",
+          "label": "Alle Schiffe von A - Z",
+          "keyword_count": 2,
+          "snippets": [
+            "r-Angebote Topseller-Angebote All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Die 80er live Cruise 2027 Stars del Mar 2027 90s Super Cruise Vol. 6 2027 Weihnachten + Silvester-Kreuzfahrten Mini- +"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 80,
+      "candidate_links_deferred": 77,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "e-hoi",
+      "checker_version": 21,
+      "checked_at": "2026-11-14T03:19:59.298606+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
