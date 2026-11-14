@@ -145,13 +145,7 @@ jobs:
               const content = fs.readFileSync(path, 'utf8');
               if (content.includes(runUrl)) report = content;
             }
-            report = report
-              .replace('**Potential solo sailings (unverified):**', '**Solo cruise offers found:**')
-              .replace('; **verified fares:** 0 (not independently checked)', '')
-              .replace('## Potential offers requiring manual checking', '## Solo cruise offers found')
-              .replace('No potential offers detected in this run.', 'No solo cruise offers found in this run.')
-              .replace('All expected main sources were accounted for within the operational baseline. Offer quality still requires manual verification.', 'All expected main sources were accounted for within the operational baseline.')
-              .replace('No offers have been approved for publication by this report.', '');
+            // Keep all verification and publication warnings intact in notifications.
             const body = [
               marker,
               '@robertseviour-code — Cabins41 search completed.',
