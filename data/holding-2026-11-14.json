@@ -7781,6 +7781,66 @@
       "source_name": "Holland America Line",
       "checker_version": 21,
       "checked_at": "2026-11-14T03:23:14.393429+00:00"
+    },
+    "33": {
+      "status": "checked",
+      "url": "https://www.hurtigruten.com/en-us",
+      "lead_snippets": [
+        "ffers Spring in Norway | Up to 30% off Ongoing offers Our Northern Lights Promise Reduced single supplement Ships Explore our fleet Find my ship Sailing plan for Original Cabins and suites Our ships MS Trollfjord MS Midnatsol MS Kong Harald MS Nordkapp MS Nordlys MS",
+        "t your onboard team Cruise types Northern Lights cruises Fjord cruises Small ship cruises Solo cruises Svalbard cruises Norway cruises in 2027 Norway cruises in 2028 Norway cruises in 2029 Explore Norway Explore Norway Northern Lights: Best time & place Midnight"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.hurtigruten.com/en-us/deals/solo-travel",
+          "label": "Reduced single supplement",
+          "keyword_count": 16,
+          "snippets": [
+            "Solo Cruise Deals | Cruising Solo in Norway | Hurtigruten US Solo cruise deals in Norway with reduced single supplement Valid until November 30 2026 Experience solo cruise",
+            "Solo Cruise Deals | Cruising Solo in Norway | Hurtigruten US Solo cruise deals in Norway with reduced single supplement Valid until November 30 2026 Experience solo cruises in Norway with a reduced single supplement and discover unf",
+            "Deals | Cruising Solo in Norway | Hurtigruten US Solo cruise deals in Norway with reduced single supplement Valid until November 30 2026 Experience solo cruises in Norway with a reduced single supplement and discover unforgettable fjords and authentic coastal adventu",
+            "se deals in Norway with reduced single supplement Valid until November 30 2026 Experience solo cruises in Norway with a reduced single supplement and discover unforgettable fjords and authentic coastal adventures. Show all voyages with this offer Discover solo c",
+            "supplement Valid until November 30 2026 Experience solo cruises in Norway with a reduced single supplement and discover unforgettable fjords and authentic coastal adventures. Show all voyages with this offer Discover solo cruises in Norway with a reduced single supp",
+            "ttable fjords and authentic coastal adventures. Show all voyages with this offer Discover solo cruises in Norway with a reduced single supplement and enjoy the freedom of having a cabin to yourself at a great price. Many of our sailings offer lowered single supp",
+            "ventures. Show all voyages with this offer Discover solo cruises in Norway with a reduced single supplement and enjoy the freedom of having a cabin to yourself at a great price. Many of our sailings offer lowered single supplements, making it easier than ever to expl",
+            "lements, making it easier than ever to explore Norway on your own terms. How to book your solo cruise: Since the 'from prices” on voyage cards are based on double occupancy, select '1' passenger when checking availability to view accurate solo pricing. Why choo"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.hurtigruten.com/en-us/deals/norway-cruises-2028-2029-low-deposit",
+          "label": "2 days left! Book select 2028 and 2029 cruises with 10% deposit Plan your 2028 or 2029 Norway cruise and secure your preferred date with just a 10% deposit.  See offer details",
+          "keyword_count": 2,
+          "snippets": [
+            "ffers Spring in Norway | Up to 30% off Ongoing offers Our Northern Lights Promise Reduced single supplement Ships Explore our fleet Find my ship Sailing plan for Original Cabins and suites Our ships MS Trollfjord MS Midnatsol MS Kong Harald MS Nordkapp MS Nordlys MS",
+            "t your onboard team Cruise types Northern Lights cruises Fjord cruises Small ship cruises Solo cruises Svalbard cruises Norway cruises in 2027 Norway cruises in 2028 Norway cruises in 2029 Explore Norway Explore Norway Northern Lights: Best time & place Midnight"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.hurtigruten.com/en-us/deals",
+          "label": "See complete list of offers",
+          "keyword_count": 3,
+          "snippets": [
+            "up to 30% Valid until March 31 2028 Northern Lights Promise Valid until November 30 2026 Solo cruise deals 2 days left Valid until November 16 2026 Book select 2028 and 2029 cruises with 10% deposit Don't miss out on exclusive offers; sign up for our newslette",
+            "ffers Spring in Norway | Up to 30% off Ongoing offers Our Northern Lights Promise Reduced single supplement Ships Explore our fleet Find my ship Sailing plan for Original Cabins and suites Our ships MS Trollfjord MS Midnatsol MS Kong Harald MS Nordkapp MS Nordlys MS",
+            "t your onboard team Cruise types Northern Lights cruises Fjord cruises Small ship cruises Solo cruises Svalbard cruises Norway cruises in 2027 Norway cruises in 2028 Norway cruises in 2029 Explore Norway Explore Norway Northern Lights: Best time & place Midnight"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 6,
+      "candidate_links_deferred": 3,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Hurtigruten",
+      "checker_version": 21,
+      "checked_at": "2026-11-14T03:23:36.929109+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
