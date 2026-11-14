@@ -1,29 +1,21 @@
 # Cabins41 — test report
-Run: 2026-11-13T10:25:03+00:00 to 2026-11-13T10:52:33.970491+00:00
-GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43408880952
+Run: 2026-11-14T03:12:23+00:00 to 2026-11-14T03:37:58.601001+00:00
+GitHub: https://github.com/robertseviour-code/cabins41-search/actions/runs/43550384923
 **Search exit code:** 0
 **Sources freshly attempted:** 63 of 63
 **Checked:** 63; **blocked:** 0; **other failures:** 0
-**Potential solo sailings (unverified):** 382; **verified fares:** 0 (not independently checked)
+**Potential solo sailings (unverified):** 381; **verified fares:** 0 (not independently checked)
 
 ## Blocked and failed sources
 None recorded.
 
 ## Potential offers requiring manual checking
-- Costa Smeralda | 2026-12-06 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- Costa Smeralda | 2027-01-31 | Atlantis Reisen and Seereisen | https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende | solo evidence: Zuschlag nur 0%
-- MSC Divina | 2027-03-14 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- MSC Virtuosa | 2027-04-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- MSC Musica | 2027-04-01 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- MSC Virtuosa | 2026-12-01 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- Borealis | 2027-05-12 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- MSC Sinfonia | 2027-01-12 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- MSC Seaside | 2027-02-22 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- MSC Seaside | 2027-03-08 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- Norwegian Getaway | 2027-03-08 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
-- Norwegian Dawn | 2027-02-03 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Norwegian Dawn | 2027-01-02 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Carnival Firenze | 2026-11-30 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- Carnival Firenze | 2026-12-07 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- MSC Preziosa United | 2027-04-23 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- Norwegian Jewel | 2026-12-18 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
+- Carnival Conquest | 2027-03-01 | Cruise118 | https://www.cruise118.com/cruise-deals/single-passengers | solo evidence: Solo Prices
 - Balmoral | 2026-11-19 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2638 | solo evidence: Solo fare
 - MSC Preziosa | 2026-11-20 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261120sousou | solo evidence: Solo fare
 - Bolette | 2026-11-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2628 | solo evidence: Solo fare
@@ -34,13 +26,18 @@ None recorded.
 - Balmoral | 2026-12-10 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2640 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-11 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261211sousou | solo evidence: Solo fare
 - Borealis | 2026-12-13 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2631a | solo evidence: Solo fare
+- Ambience | 2026-12-13 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a12634 | solo evidence: Solo fare
 - Balmoral | 2026-12-16 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2641 | solo evidence: Solo fare
 - Borealis | 2026-12-18 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2632 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-18 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261218sousou | solo evidence: Solo fare
 - Bolette | 2026-12-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2630 | solo evidence: Solo fare
 - MSC Preziosa | 2026-12-24 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20261224sousou | solo evidence: Solo fare
 - MSC Preziosa | 2027-01-01 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270101sousou | solo evidence: Solo fare
+- Bolette | 2027-01-05 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2701 | solo evidence: Solo fare
+- Balmoral | 2027-01-06 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2701 | solo evidence: Solo fare
 - Renaissance | 2027-01-17 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32702m | solo evidence: Solo fare
+- Bolette | 2027-01-18 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2702 | solo evidence: Solo fare
+- Balmoral | 2027-01-20 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2702 | solo evidence: Solo fare
 - Borealis | 2027-01-21 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/s2702 | solo evidence: Solo fare
 - MSC Preziosa | 2027-01-22 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270122sousou | solo evidence: Solo fare
 - Renaissance | 2027-01-31 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32703m | solo evidence: Solo fare
@@ -60,36 +57,43 @@ None recorded.
 - MSC Preziosa | 2027-03-05 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270305sousou | solo evidence: Solo fare
 - Ambition | 2027-03-08 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a22703 | solo evidence: Solo fare
 - MSC Preziosa | 2027-03-12 | Get That Cruise | https://www.getthatcruise.co.uk/msc/pr20270312sousou | solo evidence: Solo fare
+- Balmoral | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/l2706 | solo evidence: Solo fare
+- Bolette | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/fred-olsen/t2707 | solo evidence: Solo fare
+- Renaissance | 2027-03-14 | Get That Cruise | https://www.getthatcruise.co.uk/ambassador/a32706 | solo evidence: Solo fare
 
 ## Solo articles requiring ship/date review
 - Solo Travelers | https://www.amawaterways.com/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
 - Explore our latest solo cruise deals Enjoy Great-Value Fares View Solo Deals | https://www.ambassadorcruiseline.com/deals/solo-cruisers/ | Solo wording found; ship/departure match needs manual checking.
-- Solo Cruisers | https://www.ambassadorcruiseline.com/deals/solo-cruisers/ | Solo wording found; ship/departure match needs manual checking.
-- Affordable Quality An authentic and traditional cruise experience offering fantastically affordable quality and price. | https://www.ambassadorcruiseline.com/deals/late-deals/ | Solo wording found; ship/departure match needs manual checking.
+- Refer A Friend | https://www.ambassadorcruiseline.com/deals/refer-a-friend/ | Solo wording found; ship/departure match needs manual checking.
+- Ambassador Gift Vouchers | https://www.ambassadorcruiseline.com/deals/cruise-vouchers/ | Solo wording found; ship/departure match needs manual checking.
 - Ambassador Cruise Line: 5 discovered links deferred by request limit.
 - Aquotic: 86 discovered links deferred by request limit.
-- Alle Themen | https://www.seereisen.de/kreuzfahrt-themen | Solo wording found; ship/departure match needs manual checking.
-- Last Minute Kreuzfahrten Entdecken Sie jetzt unsere besten Kreuzfahrt Last Minute Restplätze und sichern Sie sich Ihre Traumreise zu Top-Konditionen! Jetzt entdecken | https://www.seereisen.de/kreuzfahrt-themen/last-minute-kreuzfahrten | Solo wording found; ship/departure match needs manual checking.
+- Mein Schiff  ® | https://www.seereisen.de/reederei/mein-schiff | Solo wording found; ship/departure match needs manual checking.
+- MSC Cruises | https://www.seereisen.de/reederei/msc-cruises | Solo wording found; ship/departure match needs manual checking.
 - Atlantis Reisen and Seereisen: 80 discovered links deferred by request limit.
 - View All Deals | https://www.azamara.com/deals | Solo wording found; ship/departure match needs manual checking.
-- Flights | https://barrheadtravel.co.uk/flightdeals | Solo wording found; ship/departure match needs manual checking.
+- Qatar Airways | https://barrheadtravel.co.uk/flightdeals/qatar-airways | Solo wording found; ship/departure match needs manual checking.
+- British Airways | https://barrheadtravel.co.uk/flightdeals/british-airways | Solo wording found; ship/departure match needs manual checking.
 - Barrhead Travel: 6 discovered links deferred by request limit.
 - BEA Kreuzfahrten: 1 discovered links deferred by request limit.
 - Single | https://www.celebritycruises.com/things-to-do-onboard/staterooms/single-stateroom | Solo wording found; ship/departure match needs manual checking.
 - Celebrity Cruises: 6 discovered links deferred by request limit.
 - /content/celestyal/intl/en/solo-cruises | https://celestyal.com/solo-cruises | Solo wording found; ship/departure match needs manual checking.
 - Solo Cruising | https://www.cruisespecialists.com/solo-cruising.aspx | Solo wording found; ship/departure match needs manual checking.
-- Cruise Deals | https://www.cruise118.com/cruise-deals | Solo wording found; ship/departure match needs manual checking.
-- Black Friday Cruise Deals | https://www.cruise118.com/cruise-deals/black-friday | Solo wording found; ship/departure match needs manual checking.
+- Seattle to Alaska cruise: Things to do before your cruise 
+
+
+If you're planning an Alaska cruise from Seattle, it’s tempting to arrive the day before your sailing, spend a night near the port and head straight onto your ship. But after spen | https://www.cruise118.com/blog/alaska/seattle-to-alaska | Solo wording found; ship/departure match needs manual checking.
+- Family Cruises | https://www.cruise118.com/cruise-deals/family-cruises | Solo wording found; ship/departure match needs manual checking.
 - Cruise118: 68 discovered links deferred by request limit.
-- Top 10 Cruise Deals | https://www.cruisebooking.com/cruise-deals/top-10-cruise-deals | Solo wording found; ship/departure match needs manual checking.
+- Celebrity Cruise Deals | https://www.cruisebooking.com/cruise-deals/celebrity | Solo wording found; ship/departure match needs manual checking.
 - CruiseBooking: 42 discovered links deferred by request limit.
 -  | https://www.cunard.com/en-us/cruise-deals/black-friday-sale | Solo wording found; ship/departure match needs manual checking.
 - Solo Supplement Deals | https://deluxecruises.co.uk/promotion/solo-supplement-deals/ | Solo wording found; ship/departure match needs manual checking.
 - Kreuzfahrten für Alleinreisende | https://www.e-hoi.de/single-kreuzfahrten.html | Solo wording found; ship/departure match needs manual checking.
-- Unsere Kreuzfahrtexperten | https://www.e-hoi.de/kreuzfahrtexperten/ | Solo wording found; ship/departure match needs manual checking.
-- Black Week Angebote | https://www.e-hoi.de/black-week-2026/ | Solo wording found; ship/departure match needs manual checking.
-- e-hoi: 76 discovered links deferred by request limit.
+- AIDAmar | https://www.e-hoi.de/kreuzfahrt-schiffe/aidamar-kreuzfahrten/schiffsdaten-815.html | Solo wording found; ship/departure match needs manual checking.
+- Alle Schiffe von A - Z | https://www.e-hoi.de/kreuzfahrt-schiffe.html | Solo wording found; ship/departure match needs manual checking.
+- e-hoi: 77 discovered links deferred by request limit.
 - Free Solo Supplement | https://emerald.cruises/US/en-US/offers/solo-travelers | Solo wording found; ship/departure match needs manual checking.
 - A Journey of One | https://explorajourneys.com/us/en/info/special-offers/solo-travellers | Solo wording found; ship/departure match needs manual checking.
 - Solo Traveller Cruises Discover More | https://www.fredolsencruises.com/cruise-deals/singles | Solo wording found; ship/departure match needs manual checking.
@@ -97,15 +101,15 @@ None recorded.
 - Discover our Cruise Deals | https://www.fredolsencruises.com/cruise-deals | Solo wording found; ship/departure match needs manual checking.
 - Fred Olsen Cruise Lines: 2 discovered links deferred by request limit.
 - Solo Cruise Holidays | https://www.friendshiptravel.com/holiday-type/cruise/ | Solo wording found; ship/departure match needs manual checking.
-- Short Breaks for Single Travellers | https://www.friendshiptravel.com/blog/category/short-break-single-travellers/ | Solo wording found; ship/departure match needs manual checking.
-- Why solo travellers should consider luxury North Pole cruises | https://www.friendshiptravel.com/blog/why-solo-travellers-should-consider-luxury-north-pole-cruises/ | Solo wording found; ship/departure match needs manual checking.
+- Singles Holidays Over 70s | https://www.friendshiptravel.com/singles-holidays-over-70/ | Solo wording found; ship/departure match needs manual checking.
+- Affordable Singles Holidays | https://www.friendshiptravel.com/affordable-singles-holidays/ | Solo wording found; ship/departure match needs manual checking.
 - Friendship Travel: 27 discovered links deferred by request limit.
 - Solo fares | https://www.getthatcruise.co.uk/cruises/solo-fares | Solo wording found; ship/departure match needs manual checking.
 - Read more :  Up to 40% solo discount | https://www.havilavoyages.com/en/offers/solo | Solo wording found; ship/departure match needs manual checking.
 - Holland America Line: 11 discovered links deferred by request limit.
 - Reduced single supplement | https://www.hurtigruten.com/en-us/deals/solo-travel | Solo wording found; ship/departure match needs manual checking.
-- Solo cruises | https://www.hurtigruten.com/en-us/why-hurtigruten/cruise-types/solo-cruises-in-norway | Solo wording found; ship/departure match needs manual checking.
-- 3 days left! Spring in Norway | Save up to 30% Experience spring in Norway with savings on select voyages sailing from fall 2026 through September 2027. See offer details | https://www.hurtigruten.com/en-us/deals/discount-norway-cruise | Solo wording found; ship/departure match needs manual checking.
+- 2 days left! Book select 2028 and 2029 cruises with 10% deposit Plan your 2028 or 2029 Norway cruise and secure your preferred date with just a 10% deposit.  See offer details | https://www.hurtigruten.com/en-us/deals/norway-cruises-2028-2029-low-deposit | Solo wording found; ship/departure match needs manual checking.
+- See complete list of offers | https://www.hurtigruten.com/en-us/deals | Solo wording found; ship/departure match needs manual checking.
 - Hurtigruten: 3 discovered links deferred by request limit.
 - Single cruises from Southampton | https://www.iglucruise.com:443/cruises/single/from-southampton | Solo wording found; ship/departure match needs manual checking.
 - Black Friday Deals | https://www.iglucruise.com/black-friday-cruise-deals | Solo wording found; ship/departure match needs manual checking.
@@ -114,23 +118,27 @@ None recorded.
 - Kreuzfahrtberater: 72 discovered links deferred by request limit.
 - Morr and Meer: 1 discovered links deferred by request limit.
 - Solo Cruises | https://www.ncl.com/cruise-deals/solo-cruising | Solo wording found; ship/departure match needs manual checking.
-- All Cruise Deals | https://www.ncl.com/cruise-deals | Solo wording found; ship/departure match needs manual checking.
-- full terms and conditions. | https://www.ncl.com/cruise-deals/promotion-terms | Solo wording found; ship/departure match needs manual checking.
+- Group Cruise Discounts | https://www.ncl.com/cruise-deals/group-cruises | Solo wording found; ship/departure match needs manual checking.
+- First Responder Cruise Discount | https://www.ncl.com/cruise-deals/first-responders | Solo wording found; ship/departure match needs manual checking.
 - Norwegian Cruise Line: 8 discovered links deferred by request limit.
 - Last Minute Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/last-minute/ | Solo wording found; ship/departure match needs manual checking.
-- Family Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/family/ | Solo wording found; ship/departure match needs manual checking.
-- Short Break Cruise Deals | https://www.oceanworldtravel.com/cruise-deals/short-breaks/ | Solo wording found; ship/departure match needs manual checking.
-- Ocean World Travel: 19 discovered links deferred by request limit.
+- View Deal | https://www.oceanworldtravel.com/cruises/2223573/mediterranean-spain-and-france/ | Solo wording found; ship/departure match needs manual checking.
+- View Deal | https://www.oceanworldtravel.com/cruises/2278519/greek-isles/ | Solo wording found; ship/departure match needs manual checking.
+- Ocean World Travel: 23 discovered links deferred by request limit.
+- 2028 Cruises | https://www.odysiacruise.com/cruise-deals/2028 | Solo wording found; ship/departure match needs manual checking.
 - Odysia Cruise: 28 discovered links deferred by request limit.
 - Panache Cruises: 5 discovered links deferred by request limit.
 - See 
 												 Seereisen | https://www.phoenixreisen.com/kreuzfahrten.html | Solo wording found; ship/departure match needs manual checking.
 - Phoenix Reisen: 130 discovered links deferred by request limit.
-- Blue Friday | Up to 50% Off + $400 Savings | https://www.princess.com/cruise-deals-promotions/limited-time-offer | Solo wording found; ship/departure match needs manual checking.
+- Cruise Deals Terms & Conditions | https://www.princess.com/cruise-deals-promotions/terms-and-conditions | Solo wording found; ship/departure match needs manual checking.
 - Princess Cruises: 8 discovered links deferred by request limit.
 - Solo Cruises | https://www.rolcruise.co.uk:443/types-of-cruise/solo-travellers | Solo wording found; ship/departure match needs manual checking.
-- Cruise Deals | https://www.rolcruise.co.uk:443/cruise-deals | Solo wording found; ship/departure match needs manual checking.
-- Last-Minute Cruise Deals | https://www.rolcruise.co.uk:443/types-of-cruise/last-minute-cruise-deals | Solo wording found; ship/departure match needs manual checking.
+- cruise deals | https://www.rolcruise.co.uk/cruise-deals | Solo wording found; ship/departure match needs manual checking.
+- All the best 2026 Black Friday cruise deals in one place, updated daily 
+     13 Nov 2026 
+     
+                    Making things easier for you by keeping all the best 2026 Black Friday cruise deals in one place - updated daily in the lea | https://www.rolcruise.co.uk:443/blog/black-friday-cruise-deals-2026 | Solo wording found; ship/departure match needs manual checking.
 - ROL Cruise: 13 discovered links deferred by request limit.
 - Royal Caribbean: 1 discovered links deferred by request limit.
 - Singles ocean cruises | https://travel.saga.co.uk/cruises/ocean/the-saga-cruise-experience/solo-travellers | Solo wording found; ship/departure match needs manual checking.
@@ -138,27 +146,27 @@ None recorded.
 - Ocean cruise offers | https://travel.saga.co.uk/cruises/ocean/ocean-cruise-deals | Solo wording found; ship/departure match needs manual checking.
 - Solo Travelers | https://www.seabourn.com/en/us/find-a-cruise?dealId=SBNSOLO_101724&csvFileName=SBNSOLO_101724 | Solo wording found; ship/departure match needs manual checking.
 - AIDA Kreuzfahrten | https://www.seereisedienst.de/reedereien/aida-kreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
+- Ostsee Kreuzfahrten | https://www.seereisedienst.de/reiseziel/ostsee-kreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
 - Seereisedienst: 39 discovered links deferred by request limit.
 - Alleinreisende | https://travel-dealz.de/thema/alleinreisende/ | Solo wording found; ship/departure match needs manual checking.
 - WhatsApp | https://www.whatsapp.com/channel/0029VayIEui9cDDfsXxxNG08 | Solo wording found; ship/departure match needs manual checking.
 - Telegram | https://t.me/traveldealzde_alleinreisende | Solo wording found; ship/departure match needs manual checking.
-- Last Minute: 14 Nächte AIDA Gran Canaria → Kiel Kreuzfahrt inkl. Anreise ab 1.099€ p.P. (Alleinreisende ab 1.189€) | https://travel-dealz.de/deal/aidaprima-grancanaria-kiel-fahrt/ | Solo wording found; ship/departure match needs manual checking.
-- Thurgau Travel: 5 Nächte Flusskreuzfahrt von Basel ab 510€ (auch Alleinreisende) | https://travel-dealz.de/ticker/477929/ | Solo wording found; ship/departure match needs manual checking.
-- Explora II: 4 bis 10 Nächte Luxuskreuzfahrt von Athen über Santorin, Malta & Rom nach Barcelona ab 1.200€ ohne Einzelzuschlag | https://travel-dealz.de/deal/explora-ii-athen-rom-barcelona-dez26/ | Solo wording found; ship/departure match needs manual checking.
 - Costa Fascinosa: 14 Nächte Transatlantik-Kreuzfahrt von Barcelona in die Karibik ab 423€ p.P. (Alleinreisende ab 660€) | https://travel-dealz.de/deal/costa-fascinosa-barcelona-laromana/ | Solo wording found; ship/departure match needs manual checking.
-- Last Minute: 7 Nächte Costa Kanaren-Kreuzfahrt von Gran Canaria ab 399€ (auch Alleinreisende) | https://travel-dealz.de/deal/costasmeralda-kanaren-11-2026-lpa/ | Solo wording found; ship/departure match needs manual checking.
-- MSC Sinfonia: 7 Nächte Mittelmeer ab/bis Genua ab 389€ p. P. (Alleinreisende ab 541€) | https://travel-dealz.de/ticker/483124/ | Solo wording found; ship/departure match needs manual checking.
 - Last Minute: 7 Nächte AIDA Mittelmeer Kreuzfahrt von Mallorca ab 499€ p.P. (549€ für Alleinreisende) | https://travel-dealz.de/ticker/487725/ | Solo wording found; ship/departure match needs manual checking.
 - Ponant: Luxuskreuzfahrten ohne Einzelzuschlag, z.B. 6 Nächte Südamerika ab 1.850€ (All-inclusive) | https://travel-dealz.de/deal/ponant-all-inclusive-alleinreisende/ | Solo wording found; ship/departure match needs manual checking.
 - Dealz | https://travel-dealz.de/deal/ | Solo wording found; ship/departure match needs manual checking.
-- Luxuskreuzfahrten | https://travel-dealz.de/thema/luxuskreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
-- Flusskreuzfahrten | https://travel-dealz.de/thema/flusskreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
-- Expeditionskreuzfahrten | https://travel-dealz.de/thema/expeditionskreuzfahrten/ | Solo wording found; ship/departure match needs manual checking.
-- Transatlanktik-Kreuzfahrten | https://travel-dealz.de/thema/transatlantik-kreuzfahrt/ | Solo wording found; ship/departure match needs manual checking.
-- Schnupperkreuzfahrten | https://travel-dealz.de/thema/schnupperkreuzfahrt/ | Solo wording found; ship/departure match needs manual checking.
+- Star Clipper: 20 Nächte Karibik → Malaga Segelreise ab 2.725€ p.P. (mit Azoren) | https://travel-dealz.de/deal/starclipper-karibik-spanien-segelfahrt-2027/ | Solo wording found; ship/departure match needs manual checking.
+- Mittelmeer mit Mein Schiff: Eine Woche von Mallorca ab 599€ p.P. | https://travel-dealz.de/deal/meinschiff4-ab-palma-11-26/ | Solo wording found; ship/departure match needs manual checking.
+- MS Compass Empress: 6 Nächte Flusskreuzfahrten von Passau ab 599€ p.P. (All-inclusive) | https://travel-dealz.de/deal/compassempress-adventsreise-2026/ | Solo wording found; ship/departure match needs manual checking.
+- Queen Anne: 5 Nächte Kreuzfahrt von Southampton nach Hamburg ab 390€ p.P. | https://travel-dealz.de/deal/queenanne-southampton-hamburg-winter/ | Solo wording found; ship/departure match needs manual checking.
+- Costa Diadema: 4 Nächte Kreuzfahrt von Dover nach Kiel ab 209€ p.P. | https://travel-dealz.de/deal/costa-diadema-dover-nach-kiel/ | Solo wording found; ship/departure match needs manual checking.
+- SH Vega: 14 Nächte Falklandinseln-Expeditionskreuzfahrt ab 8.400€ p.P. (inkl. Vorübernachtung und Inlandsflug) | https://travel-dealz.de/deal/shvega-expedition-ushuaia-montevideo/ | Solo wording found; ship/departure match needs manual checking.
+- 2 | https://travel-dealz.de/kategorie/kreuzfahrten/page/2/ | Solo wording found; ship/departure match needs manual checking.
+- 83 | https://travel-dealz.de/kategorie/kreuzfahrten/page/83/ | Solo wording found; ship/departure match needs manual checking.
 - Travel Dealz: 24 discovered links deferred by request limit.
 - Hosted Singles Cruises | https://www.VacationsToGo.com/login.cfm?retp=%2Fsingles%5Fcruises%2Ecfm | Solo wording found; ship/departure match needs manual checking.
-- Singles Cruises | https://www.VacationsToGo.com/cruises_for_singles.cfm | Solo wording found; ship/departure match needs manual checking.
+- Group Discounts & Deals | https://www.VacationsToGo.com/group_discount_cruises.cfm | Solo wording found; ship/departure match needs manual checking.
+- Singles | https://www.VacationsToGo.com/singles_discounts.cfm | Solo wording found; ship/departure match needs manual checking.
 - Vacations To Go: 3 discovered links deferred by request limit.
 - Virgin Voyages: 1 discovered links deferred by request limit.
 - Solo Traveller | https://viva-holidays.co.uk/type/solo-traveller/ | Solo wording found; ship/departure match needs manual checking.
@@ -168,19 +176,16 @@ None recorded.
 - MSC Seashore Yacht Club: A 3-Night Solo Birthday Cruise | https://carryontravelsolo.com/msc-seashore-yacht-club-review-a-3-night-solo-birthday-cruise/ | Solo wording found; ship/departure match needs manual checking.
 - Seven Safety Tips for Solo Cruising | https://www.cruisingforone.com/post/seven-safety-tips-for-solo-cruising | Solo wording found; ship/departure match needs manual checking.
 - Start Here — New to Solo Cruising? | https://solocruising.co.uk/start-here/ | Solo wording found; ship/departure match needs manual checking.
-- 🚢 
-         Getting Started 
-         New to solo cruising? Start with the basics — what it costs, where to book, and what to expect. | https://solocruising.co.uk/getting-started/solo-cruise-guide-beginners/ | Solo wording found; ship/departure match needs manual checking.
-- Getting Started · 07 Jun 2026 
-         First Solo Cruise — Where Do You Actually Start? 
-         Overwhelmed by the options for your first solo cruise? Here is the logical decision sequence — how to cut through... | https://solocruising.co.uk/getting-started/first-solo-cruise-where-to-start/ | Solo wording found; ship/departure match needs manual checking.
+- Annual vs Single-Trip | https://solocruising.co.uk/insurance/annual-vs-single-trip/ | Solo wording found; ship/departure match needs manual checking.
+- 🗺️ 
+         UK Departures 
+         No-fly cruises from Southampton and other UK ports — the complete guide. | https://solocruising.co.uk/uk-departures/solo-cruises-from-southampton/ | Solo wording found; ship/departure match needs manual checking.
 - Solo Cruising UK: 19 discovered links deferred by request limit.
 - New Solo Cruise Book | https://thesolocruise.com/new-solo-cruise-book | Solo wording found; ship/departure match needs manual checking.
 - Solo Adventures | https://thesolocruise.com/solo-adventures | Solo wording found; ship/departure match needs manual checking.
 - Read More  Best Solo Travel Tips for Women | https://trulysherry.com/best-solo-travel-tips-for-women/ | Solo wording found; ship/departure match needs manual checking.
 - Solo Travel | https://trulysherry.com/category/solo-travel/ | Solo wording found; ship/departure match needs manual checking.
 - My Best 14 Tips for Cruising Solo | https://trulysherry.com/solo-cruise-tips/ | Solo wording found; ship/departure match needs manual checking.
-- Truly Sherry: 1 discovered links deferred by request limit.
 
 ## Assessment
 All expected main sources were accounted for within the operational baseline. Offer quality still requires manual verification.
@@ -188,12 +193,12 @@ No offers have been approved for publication by this report.
 
 ## Comparison and reliability
 Operational baseline passed: YES
-Consecutive baseline passes: 72/3
+Consecutive baseline passes: 73/3
 Three-run reliability test complete: YES
 Changes from previous run:
 - attempted: 63 (previous 63, change +0)
 - checked: 63 (previous 63, change +0)
 - blocked: 0 (previous 0, change +0)
 - failed: 0 (previous 0, change +0)
-- potential: 382 (previous 381, change +1)
+- potential: 381 (previous 382, change -1)
 Baseline uses 63 main sources; Problem Sources are excluded. It allows at most one blocked source and one other source failure. This does not verify offer accuracy.
