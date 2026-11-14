@@ -8012,6 +8012,60 @@
       "source_name": "Morr and Meer",
       "checker_version": 21,
       "checked_at": "2026-11-14T03:25:36.667544+00:00"
+    },
+    "43": {
+      "status": "checked",
+      "url": "https://www.ncl.com:443/",
+      "lead_snippets": [
+        "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Air Program Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [
+        {
+          "url": "https://www.ncl.com/cruise-deals/solo-cruising",
+          "label": "Solo Cruises",
+          "keyword_count": 5,
+          "snippets": [
+            "Solo Cruising Deals and Dedicated Solo Staterooms | NCL Skip to main content Mobile Navigation Toggle Explore Cruises Cruise Destinations NCL Experience Ships Our Ships Stat",
+            "kages and Gifts Latitudes Rewards Manage My Booking Cruise Preparation FAQ 1-866-234-7350 Solo Cruiser Discounts Cruise Deals Solo Cruising View Cruises Me, Myself and I. Travel in style with your favorite person. Cruise solo with Norwegian and do what you want",
+            "nage My Booking Cruise Preparation FAQ 1-866-234-7350 Solo Cruiser Discounts Cruise Deals Solo Cruising View Cruises Me, Myself and I. Travel in style with your favorite person. Cruise solo with Norwegian and do what you want when you want. We now have more Solo",
+            "e money-traditional double occupancy rates do not apply. Accommodations for Every Type of Solo Traveler Now cruise with Norwegian in a Solo Balcony or Oceanview Stateroom on any award-winning ship. Solo Balcony If you’re traveling with a big family, cruising with",
+            "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Air Program Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.ncl.com/cruise-deals/group-cruises",
+          "label": "Group Cruise Discounts",
+          "keyword_count": 1,
+          "snippets": [
+            "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Air Program Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.ncl.com/cruise-deals/first-responders",
+          "label": "First Responder Cruise Discount",
+          "keyword_count": 2,
+          "snippets": [
+            "for everyone because they're family-friendly, group friendly, age friendly and great for solo travelers. With Norwegian Cruise Line, you can choose the escape that fits your style — whether that’s a week in the Caribbean, an Alaskan adventure, a bucket-list Europ",
+            "026 NCL (Bahamas) Ltd. Resources DEALS All Cruise Deals 2026-2027 Specials NCL Experience Solo Cruises Family Cruises Latitudes Rewards Air Program Military Appreciation Program Themed Cruises Meetings & Incentives Group Cruise Discounts Teacher Cruise Discount"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 11,
+      "candidate_links_deferred": 8,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Norwegian Cruise Line",
+      "checker_version": 21,
+      "checked_at": "2026-11-14T03:25:59.582199+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
