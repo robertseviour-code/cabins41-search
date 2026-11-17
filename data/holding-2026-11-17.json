@@ -848,6 +848,54 @@
       "source_name": "Cruise118",
       "checker_version": 21,
       "checked_at": "2026-11-17T03:18:18.831625+00:00"
+    },
+    "18": {
+      "status": "checked",
+      "url": "https://www.cruisebooking.com/",
+      "lead_snippets": [
+        "eBooking.com offers cruise vacation options to suit everyone’s lifestyle and budget. From single travelers to larger families, from luxury to budget-friendly, from shorter cruises to a world cruise. Whether it’s a family getaway, a honeymoon, a river cruise, or a lu"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/thanksgiving",
+          "label": "Thanksgiving Cruise Deals!",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/adult-only-cruises",
+          "label": "Adult Only Cruises",
+          "keyword_count": 22,
+          "snippets": [
+            "cluded? Adult-only cruises are becoming increasingly popular among couples, honeymooners, solo travelers, and friends looking for a quieter vacation at sea. Unlike traditional family cruises, these sailings focus on premium dining, relaxing spaces, adult entertain",
+            "ning, Wi-Fi, gratuities, drinks, or other onboard perks, helping you avoid extra charges. Solo traveler deals : Some cruise lines reduce or waive the single supplement, while others offer cabins designed for one guest. Booking early gives you the best choice of s",
+            "ping you avoid extra charges. Solo traveler deals : Some cruise lines reduce or waive the single supplement, while others offer cabins designed for one guest. Booking early gives you the best choice of solo cabins. Early booking deals: Reserve 9 to 18 months in advan",
+            "le others offer cabins designed for one guest. Booking early gives you the best choice of solo cabins. Early booking deals: Reserve 9 to 18 months in advance to secure lower fares, preferred cabins, and extras like onboard credit or complimentary shore excursio",
+            "ular Destinations: Mediterranean summer cruises, Alaska sailings, holiday departures, and solo cabins sell out quickly. Booking 12 to 18 months ahead usually delivers the lowest fares and the widest cabin selection, while most other itineraries can be booked 6",
+            "ns before booking. Save money with a guaranteed cabin if cabin location is not important. Solo travelers should also look for cruises with low or no single supplement. Join cruise loyalty programs, watch price drops, and book your next cruise onboard for extra sav",
+            "bin location is not important. Solo travelers should also look for cruises with low or no single supplement. Join cruise loyalty programs, watch price drops, and book your next cruise onboard for extra savings. Also, compare flight costs, nearby departure ports, and",
+            "usually 18 or older. The atmosphere stays quiet and focused on adults. Families, couples, solo travelers, and children of all ages sail together. Ship Atmosphere Peaceful pools, lounges, bars, and adult entertainment. Busier public areas with family activities and"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/alaska-cruise-deals",
+          "label": "Alaska Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 45,
+      "candidate_links_deferred": 42,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "CruiseBooking",
+      "checker_version": 21,
+      "checked_at": "2026-11-17T03:18:42.080315+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
