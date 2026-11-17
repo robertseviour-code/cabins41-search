@@ -7522,6 +7522,41 @@
       "source_name": "Havila Voyages",
       "checker_version": 21,
       "checked_at": "2026-11-17T03:23:16.086252+00:00"
+    },
+    "32": {
+      "status": "checked",
+      "url": "https://www.hollandamerica.com/en/us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals",
+          "label": "Exclusive Offers",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals/community-appreciation-cruise-offers?ICID=INTHWEB202405024TSHZRPTAI",
+          "label": "Community Appreciation Offers",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals/have-it-all-early-booking-bonus?ICID=INTHWEB2024050263L853UR1B",
+          "label": "Have It All Early Booking Bonus",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 14,
+      "candidate_links_deferred": 11,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Holland America Line",
+      "checker_version": 21,
+      "checked_at": "2026-11-17T03:23:38.432043+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
