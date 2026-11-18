@@ -7835,6 +7835,41 @@
       "source_name": "Ocean World Travel",
       "checker_version": 21,
       "checked_at": "2026-11-18T03:29:13.892826+00:00"
+    },
+    "46": {
+      "status": "checked",
+      "url": "https://www.odysiacruise.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals",
+          "label": "Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.odysiacruise.com/luxury-cruises",
+          "label": "Luxury Cruise Deals Experience sophisticated cruising, dine at gourmet restaurants, and receive the full royal treatment on board state-of-the-art luxury ships.",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals/black-friday-cruise-deals",
+          "label": "BLACK FRIDAY LOOKS BETTER AT SEA Swap the everyday for something extraordinary with fantastic cruise deals from MSC Cruises, Royal Caribbean, P&O Cruises and more. VIEW BLACK FRIDAY DEALS",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 31,
+      "candidate_links_deferred": 28,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Odysia Cruise",
+      "checker_version": 21,
+      "checked_at": "2026-11-18T03:29:38.788933+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
