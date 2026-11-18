@@ -8669,6 +8669,41 @@
       "source_name": "Vacations To Go",
       "checker_version": 21,
       "checked_at": "2026-11-18T03:37:18.262814+00:00"
+    },
+    "65": {
+      "status": "checked",
+      "url": "https://www.virginvoyages.com:443/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals",
+          "label": "Cruise Deals LEARN MORE",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals/flight-hotel-cruise-packages",
+          "label": "Fly & Stay",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.virginvoyages.com/cruise-deals/cruise-add-on-options",
+          "label": "Cruise Packages",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 4,
+      "candidate_links_deferred": 1,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Virgin Voyages",
+      "checker_version": 21,
+      "checked_at": "2026-11-18T03:37:44.075421+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
