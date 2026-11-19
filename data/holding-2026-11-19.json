@@ -104,6 +104,41 @@
       "source_name": "Ambassador Cruise Line",
       "checker_version": 21,
       "checked_at": "2026-11-19T03:16:26.287294+00:00"
+    },
+    "5": {
+      "status": "checked",
+      "url": "https://www.aquotic.com/es-es/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.aquotic.com/es-es/cruceros-con-ninos.6.187",
+          "label": "Cruceros con Niños",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.aquotic.com/es-es/cruceros-club-med-cruises.1.53",
+          "label": "Ver más",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.aquotic.com/es-es/cruceros-variety-cruises.1.58",
+          "label": "Ver más",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 89,
+      "candidate_links_deferred": 86,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Aquotic",
+      "checker_version": 21,
+      "checked_at": "2026-11-19T03:16:55.686069+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
