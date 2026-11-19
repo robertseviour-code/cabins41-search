@@ -7619,6 +7619,52 @@
       "source_name": "Journey Latin America",
       "checker_version": 21,
       "checked_at": "2026-11-19T03:28:46.775409+00:00"
+    },
+    "37": {
+      "status": "checked",
+      "url": "https://www.kreuzfahrtberater.de/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.kreuzfahrtberater.de/reedereien/costa-kreuzfahrten",
+          "label": "Costa Kreuzfahrten",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.kreuzfahrtberater.de/minikreuzfahrt",
+          "label": "Minikreuzfahrten",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.kreuzfahrtberater.de/single-kreuzfahrt",
+          "label": "Single-Kreuzfahrten",
+          "keyword_count": 28,
+          "snippets": [
+            "Single-Kreuzfahrt Angebote 2027-2028 | Günstige Einzelkabinen Zum Hauptinhalt springen 0 +49 40 524748 0 Erreichbar: Mo-Fr 09-20 Uhr, Sa/So/Feiertage 09-16 Uhr. Reedereien AIDA Cruises TUI Cruises - Mein Schiff MSC Cruise",
+            "Kreuzfahrt Über uns ... Alle Reisen Single Kreuzfahrten Singlekreuzfahrten: Angebote für Alleinreisende Auf dieser Seite finden Sie unsere Angebote für Single Kreuzfahrten. Wir zeigen Ihnen die besten Reedereien ohne oder mit möglichst geringem Einzelkabinenzusch",
+            "gle Kreuzfahrten. Wir zeigen Ihnen die besten Reedereien ohne oder mit möglichst geringem Einzelkabinenzuschlag. Single Kreuzfahrten entdecken Einzelkabinenzuschlag: Das sollten Alleinreisende wissen Wer eine Doppelkabine allein bucht, zahlt in der Regel einen Zuschlag a",
+            "ien ohne oder mit möglichst geringem Einzelkabinenzuschlag. Single Kreuzfahrten entdecken Einzelkabinenzuschlag: Das sollten Alleinreisende wissen Wer eine Doppelkabine allein bucht, zahlt in der Regel einen Zuschlag auf den Reisepreis. Je nach Reederei, Reisezeitraum un",
+            "m Einzelkabinenzuschlag. Single Kreuzfahrten entdecken Einzelkabinenzuschlag: Das sollten Alleinreisende wissen Wer eine Doppelkabine allein bucht, zahlt in der Regel einen Zuschlag auf den Reisepreis. Je nach Reederei, Reisezeitraum und Kabinenkategorie variiert",
+            "ie variiert dieser. Es gibt aber mehrere Wege, ihn zu vermeiden oder zu senken: Spezielle Einzelkabinen: Einige Schiffe, etwa bei Norwegian Cruise Line und Royal Caribbean, bieten Kabinen eigens für eine Person, oft ohne Zuschlag. Aktionen mit reduziertem Zuschla",
+            "en ihn ganz, besonders in der Nebensaison. Flexible Reisedaten: Außerhalb der Ferien sind Einzelkabinen deutlich günstiger. TOP Angebote für Alleinreisende Allein auf Kreuzfahrt zu gehen, bedeutet maximale Freiheit: Sie entscheiden selbst, wann Sie an Land gehen,",
+            "Reisedaten: Außerhalb der Ferien sind Einzelkabinen deutlich günstiger. TOP Angebote für Alleinreisende Allein auf Kreuzfahrt zu gehen, bedeutet maximale Freiheit: Sie entscheiden selbst, wann Sie an Land gehen, was Sie essen und wie Sie Ihren Tag gestalten. Dami"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 75,
+      "candidate_links_deferred": 72,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Kreuzfahrtberater",
+      "checker_version": 21,
+      "checked_at": "2026-11-19T03:29:12.636880+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
