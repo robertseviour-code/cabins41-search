@@ -1,13 +1,13 @@
 {
   "date": "2026-11-19",
-  "sources_attempted": 3,
-  "sources_checked": 3,
+  "sources_attempted": 4,
+  "sources_checked": 4,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 0,
-  "candidate_sailings": 0,
+  "qualified_candidates": 1,
+  "candidate_sailings": 1,
   "duplicate_check_required": false,
-  "duplicate_sailings_excluded": 0,
+  "duplicate_sailings_excluded": 14,
   "existing_listings_status": {
     "status": "loaded",
     "url": "https://cabins41.com/",
@@ -16,7 +16,24 @@
   },
   "verified_offers": 0,
   "publication_status": "REVIEW ONLY - DO NOT AUTO-PUBLISH",
-  "offers": [],
+  "offers": [
+    {
+      "source_name": "Atlantis Reisen and Seereisen",
+      "source_id": 6,
+      "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+      "ship": "AIDAcosma",
+      "departure_date": "2026-11-26",
+      "solo_evidence": "Zuschlag nur 9%",
+      "evidence": "Perlen am Mittelmeer ab Mallorca Deutschsprachig Inklusive Servicegebühr mit Flug buchbar ab 819 € Zuschlag nur 9% 7 Nächte an Bord der AIDAcosma 26. Nov. 2026 – 03. Dez. 2026 Mittelmeer Routenverlauf ansehen Palma de Mallorca → Palma de Mallorca Innenkabine ab 549 € Meerblickkabine ab 609 € Balkonkabine ab 659 € Suite Nicht verfügb | Sailing: Perlen am Mittelmeer ab Mallorca Deutschsprachig Inklusive Servicegebühr mit Flug buchbar ab 819 € Zuschlag nur 9% 7 Nächte an Bord der AIDAcosma 26. Nov. 2026 – 03. Dez. 2026 Mittelmeer Routenverlauf ansehen Palma de Mallorca → Palma de Mallorca Innenkabine ab 549 € Meerblickkabine ab 609 € Balkonkabine ab 659 € Suite Nicht verfügbar Zum Angebot",
+      "prices_mentioned": [],
+      "durations_mentioned": [
+        "7 Nächte"
+      ],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing."
+    }
+  ],
   "blocked_sources": [],
   "blocked_candidate_pages": [],
   "failed_sources": []
