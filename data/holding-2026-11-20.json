@@ -1190,6 +1190,83 @@
       "source_name": "Fred Olsen Cruise Lines",
       "checker_version": 21,
       "checked_at": "2026-11-20T03:19:29.052223+00:00"
+    },
+    "29": {
+      "status": "checked",
+      "url": "https://www.friendshiptravel.com/",
+      "lead_snippets": [
+        "ts £1995 - All inclusive Read More Browse our chat room - message board and chat to other single travellers Find your type of singles holidays Whether you want a relaxing beach holiday in the Caribbean or a painting adventure in Italy, we have a range of escorted hol",
+        "the Caribbean or a painting adventure in Italy, we have a range of escorted holidays for single travellers that will satisfy every holiday desire. Houseparty: Group Holidays for Singles Late Breaks Luxury New Year & Christmas Breaks for Singles Painting Holidays Pot",
+        "ery Reading Holidays for Singles Sightseeing Singles Walking Holidays Solo Beach Holidays Solo Cruise Holidays Solo Ski & Snowboarding Holidays Award-winning escorted singles holidays Why choose Friendship Travel We specialise in escorted singles holidays for s",
+        "gles holidays Why choose Friendship Travel We specialise in escorted singles holidays for solo travellers. If you want to travel solo but not alone, our escorted tours for small groups are the perfect choice. Our expert Friendship Travel tour managers will be with",
+        "with you throughout your solo holiday , sharing their knowledge with you and your fellow single travellers. Combine the freedom to explore and the company of like-minded guests on our escorted holidays for solo travellers. Read Our FAQs We look after single travelle",
+        "the freedom to explore and the company of like-minded guests on our escorted holidays for solo travellers. Read Our FAQs We look after single travellers better than any other company. We know this because we are single travellers too, and everything is based on our",
+        "e-minded guests on our escorted holidays for solo travellers. Read Our FAQs We look after single travellers better than any other company. We know this because we are single travellers too, and everything is based on our own solo travel experience. Our holidays for s",
+        "e look after single travellers better than any other company. We know this because we are single travellers too, and everything is based on our own solo travel experience. Our holidays for single travellers continue to win multiple awards, and most importantly, the a"
+      ],
+      "lead_count": 20,
+      "candidate_pages": [
+        {
+          "url": "https://www.friendshiptravel.com/holiday-type/cruise/",
+          "label": "Solo Cruise Holidays",
+          "keyword_count": 43,
+          "snippets": [
+            "Solo Cruise Holidays 2026/27 | Friendship Travel Prefer to chat? Call us on 0289 446 2211 or email Our Holidays UK & Europe Holidays Canary Islands Croatia Cyprus France G",
+            "ew Year Beach Under 50’s Late Breaks What’s New Solo Holidays Brochures FAQs Your Booking Solo Cruise Holidays Home Type of Holiday Solo Cruise Holidays A solo cruise holiday is the perfect way for single travellers to experience stunning global destinations wi",
+            "s New Solo Holidays Brochures FAQs Your Booking Solo Cruise Holidays Home Type of Holiday Solo Cruise Holidays A solo cruise holiday is the perfect way for single travellers to experience stunning global destinations with like-minded people. If you want to set",
+            "chures FAQs Your Booking Solo Cruise Holidays Home Type of Holiday Solo Cruise Holidays A solo cruise holiday is the perfect way for single travellers to experience stunning global destinations with like-minded people. If you want to set sail on a memorable voy",
+            "ys Home Type of Holiday Solo Cruise Holidays A solo cruise holiday is the perfect way for single travellers to experience stunning global destinations with like-minded people. If you want to set sail on a memorable voyage as a single traveller, book one of our relaxi",
+            "destinations with like-minded people. If you want to set sail on a memorable voyage as a single traveller, book one of our relaxing solo cruise holidays today. PONANT Explorations - sailings available for 2026 & 2027 PONANT Explorations has sailings departing from",
+            "ou want to set sail on a memorable voyage as a single traveller, book one of our relaxing solo cruise holidays today. PONANT Explorations - sailings available for 2026 & 2027 PONANT Explorations has sailings departing from ports all across the globe including N",
+            "ith highly attentive service and personalized support. Over 50 % of the cruises have zero single cabin supplement for solo travellers. It appeals to those who appreciate the “French Touch,” fine gastronomy, and prestigious partnerships for a refined onboard expe"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.friendshiptravel.com/holiday-type/ski-snowboarding/",
+          "label": "Solo Ski & Snowboarding Holidays",
+          "keyword_count": 10,
+          "snippets": [
+            "or solos Our solo ski holidays and singles snowboarding holidays are an excellent way for single travellers to enjoy an exciting activity in great company. Those travelling solo can look forward to all this and more on one of our fantastic solo holidays . You can enj",
+            "of our fantastic solo holidays . You can enjoy solo runs or fun on the slopes with fellow single travellers. If you are new to skiing, ski lessons are available. If you’re a more experienced skier, you can look forward to a hassle-free holiday with plenty of time to",
+            "oarding holiday goes perfectly. Our solo ski holidays for singles are designed for mature single travellers who want to hit the slopes. These group ski trips provide the opportunity to meet like-minded travellers while enjoying the resort and après-ski activities. So",
+            "p Travel. Read Our FAQs About Friendship Travel What’s included in a solo ski holiday for single travellers? On one of our solo ski holidays, you will have everything you need for a memorable break. Our skiing holidays for solos include: Half-board accommodation Dail",
+            "e holiday, a range of options are available for your room. There are rooms available with single occupancy, including rooms with single, twin, and double beds. You can book rooms with an en-suite or a shared bathroom. There is also the option to share a twin room wi",
+            "ravellers who want to relax and have fun at top-class ski resorts. Our guests are usually solo travellers between 35 and 65 but there is no upper age limit. Our skiing holidays for solos are a fantastic option for those who love to ski or want to book an exciting w",
+            "love to ski or want to book an exciting winter break. Do your solo ski holidays include a single supplement? Single supplements can be a frustrating reality for solo travellers. This is why we do our best to ensure that single supplements are not charged on our holid",
+            "holidays include a single supplement? Single supplements can be a frustrating reality for solo travellers. This is why we do our best to ensure that single supplements are not charged on our holidays. However, when this is not possible, we strive to keep the supple"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.friendshiptravel.com/late-breaks/",
+          "label": "Book Last-Minute Singles Holidays",
+          "keyword_count": 11,
+          "snippets": [
+            "e fantastic range of last minute singles holidays available from Friendship Travel offers single travellers the chance to make significant savings on some truly idyllic itineraries. Browse Last Minute Holidays for Solo Travellers BodyHoliday Castries St Lucia Various",
+            "ke significant savings on some truly idyllic itineraries. Browse Last Minute Holidays for Solo Travellers BodyHoliday Castries St Lucia Various dates - 5/7/10 nights £3995 - All inclusive Read More Christmas in Chester Chester, Cheshire UK 24 Dec 26 - 2/3 nights £5",
+            "Read More Our reviews Our customers love our expertly crafted singles holidays. Read what solo travellers have been saying about our award-winning breaks. Read all Friendship Travel reviews Reasons to book with Friendship Travel As singles holiday specialists, solo",
+            "hip Travel reviews Reasons to book with Friendship Travel As singles holiday specialists, solo travellers benefit from our years of expertise. We visit every destination we offer so we can share in-depth knowledge. Our last minute singles holidays are ATOL-bonded –",
+            "o help make your trip easier. Our signature ‘ house parties ‘ allow groups of like-minded single travellers to stay in their own villa. About Friendship Travel Looking to grab a bargain and secure your Summer 2027 holiday now? Click here for some great early booking",
+            "fers for 2027! About our last minute singles holidays Our award-winning solo holidays for single travellers provide fantastic accommodation at a range of high-quality hotels. Our holidays also offer the opportunity to meet like-minded people in a relaxed setting, and",
+            "ers of the world to short domestic walking breaks, every one of our last-minute deals for single travellers benefits from the same exacting standards we demand of each one of our itineraries. You will not have to worry about being hidden away in a small single room,",
+            "Frequently Asked Questions about last minute singles holidays What is the average age of solo travellers on your last minute holidays? The average age of solo travellers on our last minute holidays is between 35 and 65. Our holidays are for mature travellers, and"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 30,
+      "candidate_links_deferred": 27,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Friendship Travel",
+      "checker_version": 21,
+      "checked_at": "2026-11-20T03:19:56.869481+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
