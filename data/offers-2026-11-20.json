@@ -1,11 +1,11 @@
 {
   "date": "2026-11-20",
-  "sources_attempted": 49,
-  "sources_checked": 49,
+  "sources_attempted": 50,
+  "sources_checked": 50,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 352,
-  "candidate_sailings": 352,
+  "qualified_candidates": 353,
+  "candidate_sailings": 353,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 68,
   "existing_listings_status": {
@@ -84,6 +84,22 @@
       "advertised_solo_from": 1499,
       "fare_verification": "Published finder fare; final availability and total not independently verified.",
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/deal/meinschiffflow-westeuropa-dez26/",
+      "ship": "Mein Schiff Flow",
+      "departure_date": "2026-12-16",
+      "solo_evidence": "Solo fare",
+      "evidence": "Mein Schiff Flow 2026-12-16 Solo fare: Alleinreisende sind ab 1.348€ | Sailing: Mein Schiff Flow 2026-12-16 Solo fare: Alleinreisende sind ab 1.348€",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing.",
+      "extraction_basis": "Single article opening offer plus explicit departure statement.",
+      "article_offer_evidence": "Die Mein Schiff Flow schippert mit Abfahrt von Hamburg am 16. Dezember 2026 für 8 Tage durch die Nordsee und aktuell gibt es eine ansprechende Offerte für diese Kreuzfahrt. Ihr erhaltet die Innenkabine ab 749€, die Außenkabine ab 779€ und die Balkonkabine ab 799€ (jeweils pro Person bei Doppelbelegung). Alleinreisende sind ab 1.348€ dabei. Die genannten Preise beinhalten neben der Vollpension auch eine große Auswahl an Markengetränken sowie die Nutzung des Sauna- und Wellnessbereiches sowie verschiedene Sportkurse. Des Weiteren sind auch die Trinkgelder enthalten. Habt ihr Fragen zu dieser Kreuzfahrt, zu der Buchung oder sucht eine für euch passende Kreuzfahrt? Kontaktiert uns gerne über unser Anfrageformular , per Chat (rechts unten), Email anfrage@travel-dealz.de oder WhatsApp . Wir beraten euch gerne persönlich."
     },
     {
       "source_name": "Get That Cruise",
