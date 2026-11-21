@@ -9199,6 +9199,22 @@
       "source_name": "Truly Sherry",
       "checker_version": 21,
       "checked_at": "2026-11-21T03:35:46.549771+00:00"
+    },
+    "85": {
+      "status": "checked",
+      "url": "https://www.facebook.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "candidate_links_deferred": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Zero or LOW Single Supplement Cruises",
+      "checker_version": 21,
+      "checked_at": "2026-11-21T03:36:08.831978+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
