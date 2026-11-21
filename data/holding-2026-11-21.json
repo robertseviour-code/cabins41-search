@@ -143,6 +143,126 @@
       "source_name": "Aquotic",
       "checker_version": 21,
       "checked_at": "2026-11-21T03:11:01.719634+00:00"
+    },
+    "6": {
+      "status": "checked",
+      "url": "https://www.seereisen.de/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende",
+          "label": "Singles",
+          "keyword_count": 15,
+          "snippets": [
+            "n Cloudflare Turnstile und unsere Datenschutzerklärung . Home Kreuzfahrt Themen Singles & Alleinreisende Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten",
+            "utzerklärung . Home Kreuzfahrt Themen Singles & Alleinreisende Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten buchen Solo-Kreuzfahrten buchen Allein zu",
+            "rten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Kreuzfahrten für Singles & Alleinreisende Reisen ganz ohne Kompromisse Solo-Kreuzfahrten buchen Solo-Kreuzfahrten buchen Allein zu reisen bedeutet maximale Freiheit Sie gestalten jeden Moment genau nac",
+            "en. Alleine reisen, gemeinsam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transpare",
+            "insam Urlaub machen. Unser Service für Sie: Volle Transparenz bei Einzelkabinen Was viele Alleinreisende kennen: Begrenzte Verfügbarkeiten und oft schwer nachvollziehbare Zuschläge für Kabinen zur Alleinnutzung Wir machen für Sie transparent: Welche Kabinen verfüg",
+            "ng Wir machen für Sie transparent: Welche Kabinen verfügbar sind - speziell für Singles & Alleinreisende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen Si",
+            "isende Welche Preise aktuell gelten - tagesaktuell und immer im besten Tarif Wie hoch der Einzelkabinenzuschlag ist - klar ausgewiesen und nachvollziehbar So sehen Sie auf einen Blick, welche Angebote wirklich attraktiv sind, ohne versteckte Kosten oder aufwendige Recher",
+            "Cloud Cruises TUI Cruises VIVA Cruises Celebrity Cruises Personenanzahl in Kabine Kinder Einzelkabinenzuschlag Egal max. 50% max. 40% max. 30% max. 20% max. 10% 0% Reisedauer Schiff Max. Anzahl Passagiere Abfahrtshafen Zwischenhafen Zielhafen Anreise Kabinen Reisethemen"
+          ]
+        },
+        {
+          "url": "https://www.seereisen.de/wochenangebote",
+          "label": "Wochenangebote Jede Woche neue Reisen zum Angebotspreis! Limitierte Kreuzfahrt-Deals von AIDA,   Mein Schiff  ®  , MSC Cruises & nicko cruises. Alle Angebote",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.seereisen.de/seereisen-de-whatsapp-kanal",
+          "label": "seereisen.de WhatsApp Kanal Exklusive Last-Minute-Schnäppchen, attraktive Sonderaktionen, Frühbucherangebote und inspirierende Reiseideen direkt aufs Smartphone. Jetzt abonnieren",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 85,
+      "candidate_links_deferred": 82,
+      "possible_offers": [],
+      "duplicates_excluded": [
+        {
+          "ship": "Norwegian Epic",
+          "departure_date": "2026-12-13",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-13",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2027-01-25",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-11-30",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-07",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-06",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2027-01-18",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2027-01-17",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-14",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2027-02-01",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Toscana",
+          "departure_date": "2026-11-27",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2027-01-31",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Costa Smeralda",
+          "departure_date": "2026-12-03",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Norwegian Epic",
+          "departure_date": "2026-11-29",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        },
+        {
+          "ship": "Norwegian Epic",
+          "departure_date": "2026-12-06",
+          "seller_url": "https://www.seereisen.de/kreuzfahrt-themen/singles-alleinreisende"
+        }
+      ],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Atlantis Reisen and Seereisen",
+      "checker_version": 21,
+      "checked_at": "2026-11-21T03:11:32.516821+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
