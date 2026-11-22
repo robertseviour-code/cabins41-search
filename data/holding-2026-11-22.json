@@ -7405,6 +7405,48 @@
       "source_name": "Havila Voyages",
       "checker_version": 21,
       "checked_at": "2026-11-22T03:24:01.924912+00:00"
+    },
+    "32": {
+      "status": "checked",
+      "url": "https://www.hollandamerica.com/en/us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals",
+          "label": "Exclusive Offers",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals/standby-program?ICID=INTHWEB20240808J5QV3MMTYN",
+          "label": "Standby Program",
+          "keyword_count": 4,
+          "snippets": [
+            "d in a stateroom with guests confirmed through the Standby List. Can I travel solo with a single occupancy room? Yes! Solo travelers can be added to the Standby List. Fares are based on double occupancy and a single supplement up to 200% may apply. Can I still add a",
+            "confirmed through the Standby List. Can I travel solo with a single occupancy room? Yes! Solo travelers can be added to the Standby List. Fares are based on double occupancy and a single supplement up to 200% may apply. Can I still add a cancellation protection p",
+            "olo travelers can be added to the Standby List. Fares are based on double occupancy and a single supplement up to 200% may apply. Can I still add a cancellation protection plan to my booking? Yes. Cancellation Protection Plans must be added at the time of sign up for",
+            "me you are placed on the Cruise’s standby list. Fares are based on double occupancy and a single supplement up to 200% may apply. If a guest is on the Verandah Standby List and no Verandah staterooms are available , they will be offered an Inside or Ocean View stater"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals/referral-program?ICID=INTHWEB202405023EZAC7IILM",
+          "label": "Refer a Friend, Get $50",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 14,
+      "candidate_links_deferred": 11,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Holland America Line",
+      "checker_version": 21,
+      "checked_at": "2026-11-22T03:24:25.116993+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
