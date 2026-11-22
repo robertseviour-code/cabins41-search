@@ -863,6 +863,48 @@
       "source_name": "Cruise118",
       "checker_version": 21,
       "checked_at": "2026-11-22T03:18:56.627230+00:00"
+    },
+    "18": {
+      "status": "checked",
+      "url": "https://www.cruisebooking.com/",
+      "lead_snippets": [
+        "eBooking.com offers cruise vacation options to suit everyone’s lifestyle and budget. From single travelers to larger families, from luxury to budget-friendly, from shorter cruises to a world cruise. Whether it’s a family getaway, a honeymoon, a river cruise, or a lu"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/black-friday",
+          "label": "Black Friday Cruise Deals!",
+          "keyword_count": 2,
+          "snippets": [
+            "e onboard credit, complimentary airfare, and stateroom to higher stateroom upgrades. Even solo travelers aren't left out of Black Friday deals: some deals can reduce or eliminate single supplements for solo travelers. Are Black Friday and Cyber Monday cruise deals",
+            "left out of Black Friday deals: some deals can reduce or eliminate single supplements for solo travelers. Are Black Friday and Cyber Monday cruise deals different? There was a difference between Black Friday and Cyber Monday, with the former being more associated"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/2027-cruise-deals",
+          "label": "2027 Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.cruisebooking.com/cruise-deals/fall-cruises",
+          "label": "Fall Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 45,
+      "candidate_links_deferred": 42,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "CruiseBooking",
+      "checker_version": 21,
+      "checked_at": "2026-11-22T03:19:19.207790+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
