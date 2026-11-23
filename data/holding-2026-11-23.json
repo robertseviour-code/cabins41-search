@@ -7965,6 +7965,50 @@
       "source_name": "PONANT",
       "checker_version": 21,
       "checked_at": "2026-11-23T03:38:54.725430+00:00"
+    },
+    "54": {
+      "status": "checked",
+      "url": "https://www.princess.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions/compare-cruise-packages",
+          "label": "Compare Cruise Packages",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions/plus-premier-cruise-packages",
+          "label": "Plus & Premier Packages",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.princess.com/cruise-deals-promotions/standby-program",
+          "label": "Standby Program",
+          "keyword_count": 6,
+          "snippets": [
+            "and will be charged the Standby Program’s prevailing daily rate. Can I travel solo with a single occupancy room? Yes. Solo travelers may participate in the Standby Program. Standby fares are based on double occupancy, and a 200% single supplement applies to solo tra",
+            "dby Program’s prevailing daily rate. Can I travel solo with a single occupancy room? Yes. Solo travelers may participate in the Standby Program. Standby fares are based on double occupancy, and a 200% single supplement applies to solo travelers. How will I be noti",
+            "rticipate in the Standby Program. Standby fares are based on double occupancy, and a 200% single supplement applies to solo travelers. How will I be notified if I am confirmed? Princess Cruises will notify you and/or your travel advisor by email and/or phone from 7 d",
+            "ram. Standby fares are based on double occupancy, and a 200% single supplement applies to solo travelers. How will I be notified if I am confirmed? Princess Cruises will notify you and/or your travel advisor by email and/or phone from 7 days and up to 48 hours pri",
+            "s required at the time of enrollment. Standby fares are based on double occupancy. A 200% single supplement applies to solo travelers. Participation in the Standby Program does not guarantee a confirmed booking. Guests will be confirmed only upon receiving official c",
+            "ollment. Standby fares are based on double occupancy. A 200% single supplement applies to solo travelers. Participation in the Standby Program does not guarantee a confirmed booking. Guests will be confirmed only upon receiving official confirmation from Princess."
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 11,
+      "candidate_links_deferred": 8,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Princess Cruises",
+      "checker_version": 21,
+      "checked_at": "2026-11-23T03:39:17.942549+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
