@@ -7682,6 +7682,72 @@
       "source_name": "Norwegian Cruise Line",
       "checker_version": 21,
       "checked_at": "2026-11-23T03:35:18.858983+00:00"
+    },
+    "44": {
+      "status": "checked",
+      "url": "https://www.oceanworldtravel.com/",
+      "lead_snippets": [
+        "s Awe-Inspiring Adventures Antarctica Arctic Galapagos Alaska Greenland Solo Popular with Solo Travellers Fred. Olsen Cruise Lines Ambassador Cruise Line Norwegian Cruise Line Riviera Travel Virgin Voyages View Our Solo Page Solo Tips & Advice What is a solo supple",
+        "w Our Solo Page Solo Tips & Advice What is a solo supplement? Do I have to dine alone? Is solo travel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook.",
+        "avel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises f",
+        "upplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises from the UK The South Cruises fro",
+        "ines and itineraries worldwide, unlocking exclusive discounts and access to in-demand and solo cabins as soon as they are released. You enjoy personalised guidance on cabin and deck choice, motion sensitivity, and destination planning across oceans and rivers a"
+      ],
+      "lead_count": 5,
+      "candidate_pages": [
+        {
+          "url": "https://www.oceanworldtravel.com/cruise-deals/last-minute/",
+          "label": "Last Minute Cruise Deals",
+          "keyword_count": 4,
+          "snippets": [
+            "s Awe-Inspiring Adventures Antarctica Arctic Galapagos Alaska Greenland Solo Popular with Solo Travellers Fred. Olsen Cruise Lines Ambassador Cruise Line Norwegian Cruise Line Riviera Travel Virgin Voyages View Our Solo Page Solo Tips & Advice What is a solo supple",
+            "w Our Solo Page Solo Tips & Advice What is a solo supplement? Do I have to dine alone? Is solo travel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook.",
+            "avel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises f",
+            "upplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises from the UK The South Cruises fro"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.oceanworldtravel.com/solo-cruises/",
+          "label": "View Our Solo Page",
+          "keyword_count": 18,
+          "snippets": [
+            "Solo Cruises - Ocean World Travel Black Friday Sale – Save up to 50% Off Trustpilot 02380 714 790 OPEN 7 DAYS A WEEK phone_in_talk phone_in_talk Home Cruise Deals Deals by",
+            "s Awe-Inspiring Adventures Antarctica Arctic Galapagos Alaska Greenland Solo Popular with Solo Travellers Fred. Olsen Cruise Lines Ambassador Cruise Line Norwegian Cruise Line Riviera Travel Virgin Voyages View Our Solo Page Solo Tips & Advice What is a solo supple",
+            "w Our Solo Page Solo Tips & Advice What is a solo supplement? Do I have to dine alone? Is solo travel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook.",
+            "avel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises f",
+            "upplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises from the UK The South Cruises fro",
+            "pagne & Chocolates Book On Board & Save More Already Booked? Leave Us A Review 💬 Join Our Solo Cruise Community If you’re new to cruising alone, connecting with others can make all the difference. We run a dedicated Solo Cruise Facebook Group, now with over 2,0",
+            "to cruising alone, connecting with others can make all the difference. We run a dedicated Solo Cruise Facebook Group, now with over 2,000 members, created specifically for solo cruise travellers. In our community, members: • Share real solo cruising experiences",
+            "dicated Solo Cruise Facebook Group, now with over 2,000 members, created specifically for solo cruise travellers. In our community, members: • Share real solo cruising experiences • Ask questions about travelling alone on a cruise • Get tips and reassurance bef"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.oceanworldtravel.com/cruise-deals/2026-cruises/",
+          "label": "2026 Cruises",
+          "keyword_count": 4,
+          "snippets": [
+            "s Awe-Inspiring Adventures Antarctica Arctic Galapagos Alaska Greenland Solo Popular with Solo Travellers Fred. Olsen Cruise Lines Ambassador Cruise Line Norwegian Cruise Line Riviera Travel Virgin Voyages View Our Solo Page Solo Tips & Advice What is a solo supple",
+            "w Our Solo Page Solo Tips & Advice What is a solo supplement? Do I have to dine alone? Is solo travel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook.",
+            "avel lonely? How do I avoid solo supplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises f",
+            "upplements? FACEBOOK COMMUNITY GROUP JOIN 27,000+ OTHER SOLO CRUISERS We have a dedicated Solo Cruise Community group on Facebook. Join now to find the best deals, meet new friends and share your experiences. View Offer Cruises from the UK The South Cruises fro"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 26,
+      "candidate_links_deferred": 23,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Ocean World Travel",
+      "checker_version": 21,
+      "checked_at": "2026-11-23T03:35:43.849875+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
