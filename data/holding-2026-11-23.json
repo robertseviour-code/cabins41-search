@@ -8625,6 +8625,22 @@
       "source_name": "Virgin Voyages",
       "checker_version": 21,
       "checked_at": "2026-11-23T03:43:35.224792+00:00"
+    },
+    "66": {
+      "status": "checked",
+      "url": "https://www.viva-cruises.com/en-us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [],
+      "candidate_links_found": 0,
+      "candidate_links_deferred": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "VIVA Cruises",
+      "checker_version": 21,
+      "checked_at": "2026-11-23T03:43:59.655262+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
