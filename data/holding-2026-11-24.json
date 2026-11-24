@@ -7816,6 +7816,41 @@
       "source_name": "P and O Cruises",
       "checker_version": 21,
       "checked_at": "2026-11-24T03:31:57.049764+00:00"
+    },
+    "48": {
+      "status": "checked",
+      "url": "https://www.panachecruises.com/en-us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.panachecruises.com/en-us/latest-deals/black-friday",
+          "label": "",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.panachecruises.com/en-us/oceania-cruises/deals",
+          "label": "",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.panachecruises.com/en-us/azamara/deals",
+          "label": "",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 8,
+      "candidate_links_deferred": 5,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Panache Cruises",
+      "checker_version": 21,
+      "checked_at": "2026-11-24T03:32:20.667137+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
