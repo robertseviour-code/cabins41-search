@@ -8174,6 +8174,58 @@
       "source_name": "Seabourn",
       "checker_version": 21,
       "checked_at": "2026-11-24T03:38:31.733681+00:00"
+    },
+    "60": {
+      "status": "checked",
+      "url": "https://www.seereisedienst.de/",
+      "lead_snippets": [
+        "ienst Vorteil: Inkl. EXTRA-Rabatt! Bordsprache Deutsch! VERFÜGBARKEIT & PREISE Sparen für Alleinreisende Entdecken Sie ausgewählte Kreuzfahrten, bei denen Alleinreisende von einem besonders niedrigen oder teilweise sogar ganz entfallenden Einzelbelegungszuschlag p",
+        "KEIT & PREISE Sparen für Alleinreisende Entdecken Sie ausgewählte Kreuzfahrten, bei denen Alleinreisende von einem besonders niedrigen oder teilweise sogar ganz entfallenden Einzelbelegungszuschlag profitieren. Kreuzfahrten mit geringem Zuschlag Außergewöhnliche R",
+        "in den wechselnden Angebotshinweisen sind im Fotoverzeichnis des Impressums genannt. Foto Alleinreisende: © MSC Cruises Foto Weihnachten: © Michael Abid / fotolia.com Foto Nordkap mit Nordlicht: © Tor Even Mathisen / Gettyimages Auszeichnungen Bereits mehr als 70-"
+      ],
+      "lead_count": 3,
+      "candidate_pages": [
+        {
+          "url": "https://www.seereisedienst.de/reedereien/aida-kreuzfahrten/",
+          "label": "AIDA Kreuzfahrten",
+          "keyword_count": 1,
+          "snippets": [
+            "Suiten – der Kabinenfinder AIDA Kabinen: Übersicht AIDA Innenkabine AIDA Außenkabine AIDA Einzelkabine AIDA Balkonkabine AIDA Verandakabine AIDA Panoramakabine AIDA Junior Suite AIDA Suiten AIDA Panorama Suite AIDA Premium Suite AIDA Deluxe Suite AIDA Penthouse-"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.seereisedienst.de/reedereien/viva-cruises-kreuzfahrten/",
+          "label": "VIVA Cruises Kreuzfahrten",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.seereisedienst.de/kreuzfahrt-angebote/",
+          "label": "Kreuzfahrt-Sonderangebote & Aktionen",
+          "keyword_count": 6,
+          "snippets": [
+            "e Seereisedienst Sonderpreise Fjorde Mittelmeer Fluss Karibik Inkl. Flug Für Familien Für Alleinreisende Aktuelle Angebote Bis 18% unter Vorpreis Frühbucher Angebot 11 Tage Höhepunkte Großbritanniens Routenhighlights: Edinburgh, Orkney Inseln, Äußere Hebriden, Bel",
+            "hsten Urlaub buchen können. » Viele weitere Angebote für Familien Kreuzfahrt Angebote für Alleinreisende Einzelkabinen-Zuschlag ab nur 33% 2 Tage Südamerika ab Santos/ bis Rio de Janeiro MSC Divina 14.03.2027 bis 15.03.2027 Preis für Kabinenbelegung: Einzelbelegun",
+            "chen können. » Viele weitere Angebote für Familien Kreuzfahrt Angebote für Alleinreisende Einzelkabinen-Zuschlag ab nur 33% 2 Tage Südamerika ab Santos/ bis Rio de Janeiro MSC Divina 14.03.2027 bis 15.03.2027 Preis für Kabinenbelegung: Einzelbelegung Einzelbelegu",
+            "P. Einzelbelegung Suite ab 441 € p.P. TARIFE & PREISE ANZEIGEN TARIFE & PREISE AUSBLENDEN Einzelkabinen-Zuschlag ab nur 24% 7 Tage vom Mittelmeer zu den Kanarische Inseln Routenhighlights: Gran Canaria, La Palma ab Civitavecchia/ bis Santa Cruz MSC Fantasia 07.12",
+            "nen ausgewählte Reisen mit besonders niedrigen Zuschlägen und attraktiven Konditionen für Alleinreisende. » Zu unserem Special mit günstigen Kreuzfahrten für Alleinreisende Kreuzfahrt Angebote – die besten Reisen zum attraktiven Preis Wer auf der Suche nach attrak",
+            "tiven Konditionen für Alleinreisende. » Zu unserem Special mit günstigen Kreuzfahrten für Alleinreisende Kreuzfahrt Angebote – die besten Reisen zum attraktiven Preis Wer auf der Suche nach attraktiven Kreuzfahrt Angeboten ist, findet hier eine große Auswahl für u"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 41,
+      "candidate_links_deferred": 38,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Seereisedienst",
+      "checker_version": 21,
+      "checked_at": "2026-11-24T03:39:00.822300+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
