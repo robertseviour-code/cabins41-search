@@ -1168,6 +1168,64 @@
       "source_name": "Fjord Line",
       "checker_version": 21,
       "checked_at": "2026-11-24T03:25:46.945052+00:00"
+    },
+    "28": {
+      "status": "checked",
+      "url": "https://www.fredolsencruises.com/",
+      "lead_snippets": [
+        "nu Menu Close Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departur",
+        "e brochure Where we sail from Order a brochure 2027 World Cruise with Japan Find out more Solo Traveller Cruises Discover More Northern Lights Cruises Read More Mediterranean Fly Cruises Read More 2027 cruises Find out more Winter Sun Cruises Find out more Search",
+        "rd credit Discover our on board credit deals Find out more Fly Cruise Deals Discover More Solo Traveller Offers Find out more Explore our 2026 cruises Mediterranean & Canary Islands Warmth, prices from £CALL German Christmas Markets, prices from £999pp Caribbean C",
+        "your cruise × Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departur",
+        "lands & Madeira T2629 Sail from Liverpool Bolette 07 Dec 2026 14 nights Available Offers: Solo traveller offer available From £1,999 pp Festive France & Belgium L2640 Sail from Southampton Balmoral 10 Dec 2026 6 nights From £1,799 pp Last few cabins A Festive Cele",
+        "stmas Markets L2641 Sail from Southampton Balmoral 16 Dec 2026 6 nights Available Offers: Solo traveller offer available From £999 pp Caribbean Christmas Island-Hopping S2632 Sail from Southampton Borealis 18 Dec 2026 31 nights Call for details Last few cabins Can"
+      ],
+      "lead_count": 12,
+      "candidate_pages": [
+        {
+          "url": "https://www.fredolsencruises.com/cruise-deals/singles",
+          "label": "Solo Traveller Cruises Discover More",
+          "keyword_count": 35,
+          "snippets": [
+            "Singles Cruises, 2027 & 2028 | Solo Cruise Deals Access Key Information See details 0 Skip to Main content s Destination Key Homepage 1 Ocean Cruises p Destinations u Cruise B",
+            "Singles Cruises, 2027 & 2028 | Solo Cruise Deals Access Key Information See details 0 Skip to Main content s Destination Key Homepage 1 Ocean Cruises p Destinations u Cruise Brochures r Terms & Conditio",
+            "nu Menu Close Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departur",
+            "e brochure Where we sail from Order a brochure 2027 World Cruise with Japan Find out more Solo Traveller Cruises Discover More Northern Lights Cruises Read More Mediterranean Fly Cruises Read More 2027 cruises Find out more Winter Sun Cruises Find out more Search",
+            "rd credit Discover our on board credit deals Find out more Fly Cruise Deals Discover More Solo Traveller Offers Find out more Explore our 2026 cruises Mediterranean & Canary Islands Warmth, prices from £CALL German Christmas Markets, prices from £999pp Caribbean C",
+            "your cruise × Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departur"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.fredolsencruises.com/cruise-deals/on-board-credit",
+          "label": "On board credit Discover our on board credit deals Find out more",
+          "keyword_count": 11,
+          "snippets": [
+            "nu Menu Close Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departur",
+            "e brochure Where we sail from Order a brochure 2027 World Cruise with Japan Find out more Solo Traveller Cruises Discover More Northern Lights Cruises Read More Mediterranean Fly Cruises Read More 2027 cruises Find out more Winter Sun Cruises Find out more Search",
+            "rd credit Discover our on board credit deals Find out more Fly Cruise Deals Discover More Solo Traveller Offers Find out more Explore our 2026 cruises Mediterranean & Canary Islands Warmth, prices from £CALL German Christmas Markets, prices from £999pp Caribbean C",
+            "your cruise × Find your cruise Cruises Collections 2026 Cruises 2027 Cruises 2028 Cruises Solo Traveller Cruises Grand Voyage Cruises 2026 Fly Cruise First Cruises Winter Cruises Northern Lights Cruises Christmas Cruises Search All Cruises Long Cruises UK Departur",
+            "withdraw at any time. Choose your cruise Loading results... Filter By Apply Filters Show Solo Prices Sort by Toggle Facets Menu Filters 0 Toggle Facets Menu Filters 0 Back To Top Contact us? Opening Hours: Mon-Fri 08:30am - 06:00pm Saturday 09:00am - 05:00pm S",
+            "we use your data. Cruises 2026 Cruises 2027 Cruises 2028 Cruises Fly Cruises Cruise Deals Solo Cruise Deals View All Destinations Group Travel Satisfaction Guarantee Sitemap Before You Cruise Pre Cruise Information Enhance Your Cruise Singles Cruise Information"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.fredolsencruises.com/cruises?DeparturePort=Fly%20Cruise&Offer=Coach%20Transfers&Offer=Solo%20Traveller&Offer=Free%20Flight%2Fs&Offer=£150%20On%20Board%20Credit&Offer=£25%20On%20Board%20Credit&Offer=£50%20On%20Board%20Credit",
+          "error": "'ascii' codec can't encode character '\\xa3' in position 117: ordinal not in range(128)"
+        }
+      ],
+      "candidate_links_found": 6,
+      "candidate_links_deferred": 3,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Fred Olsen Cruise Lines",
+      "checker_version": 21,
+      "checked_at": "2026-11-24T03:26:12.727390+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
