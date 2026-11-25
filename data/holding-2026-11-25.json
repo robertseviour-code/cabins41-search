@@ -1023,6 +1023,63 @@
       "source_name": "Deluxe Cruises",
       "checker_version": 21,
       "checked_at": "2026-11-25T03:31:06.019996+00:00"
+    },
+    "24": {
+      "status": "checked",
+      "url": "https://www.e-hoi.de/",
+      "lead_snippets": [
+        "027 Die 80er live Cruise 2027 All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Weihnachten + Silvester-Kreuzfahrten Mini- + Schnupper Kreuzfahrt Familien-Kreuzfahrten Segel-Kreuzfahrten Kreuzfahrten"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.e-hoi.de/single-kreuzfahrten.html",
+          "label": "Kreuzfahrten für Alleinreisende",
+          "keyword_count": 17,
+          "snippets": [
+            "Kreuzfahrten für Alleinreisende - Single Kreuzfahrten auf e-hoi Cookie-Einstellungen e-hoi verwendet Cookies. Einige sind für die Funktionalität der Webseite grundlegend notwendig, andere die",
+            "027 Die 80er live Cruise 2027 All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Weihnachten + Silvester-Kreuzfahrten Mini- + Schnupper Kreuzfahrt Familien-Kreuzfahrten Segel-Kreuzfahrten Kreuzfahrten",
+            "Alle Kontaktmöglichkeiten e-hoi Newsletter Startseite Alle Empfehlungen Kreuzfahrten für Alleinreisende Kreuzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Re",
+            "oi Newsletter Startseite Alle Empfehlungen Kreuzfahrten für Alleinreisende Kreuzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzu",
+            "uzfahrt für Alleinreisende Kreuzfahrt für Singles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit güns",
+            "ngles ohne oder nur mit geringem Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit günstigen Preisen zu finden, da viele Reedereien",
+            "Zuschlag für Einzelkabinen Zu den Angeboten Für Singles, Alleinreisende oder Reisende mit Einzelkabinen-Nutzung ist es nicht immer einfach, ein gutes Angebot für eine Kreuzfahrt mit günstigen Preisen zu finden, da viele Reedereien 50 – 100% Einzelkabinenaufschlag"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.e-hoi.de/kreuzfahrt/japan-61.html",
+          "label": "Japan",
+          "keyword_count": 3,
+          "snippets": [
+            "027 Die 80er live Cruise 2027 All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Weihnachten + Silvester-Kreuzfahrten Mini- + Schnupper Kreuzfahrt Familien-Kreuzfahrten Segel-Kreuzfahrten Kreuzfahrten",
+            "2.000 € - 2.999 € 276 1.000 € - 1.999 € 197 500 € - 999 € 49 weniger als 500 € 15 Themen Alleinreisende 75 Bordsprache Deutsch 43 e-hoi Kombipaket 9 Expeditionskreuzfahrten 19 Familien 133 LNG-Antrieb 37 Luxuskreuzfahrten 343 Neues Schiff 37 Schnupperkreuzfahrten"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.e-hoi.de/kreuzfahrt/portugal-32.html",
+          "label": "Portugal",
+          "keyword_count": 3,
+          "snippets": [
+            "027 Die 80er live Cruise 2027 All Inclusive Kreuzfahrten Flusskreuzfahrt Kreuzfahrten für Alleinreisende Kreuzfahrten mit Flug e-hoi Kombipakete Weihnachten + Silvester-Kreuzfahrten Mini- + Schnupper Kreuzfahrt Familien-Kreuzfahrten Segel-Kreuzfahrten Kreuzfahrten",
+            "2.000 € - 2.999 € 740 1.000 € - 1.999 € 619 500 € - 999 € 194 weniger als 500 € 24 Themen Alleinreisende 334 Bordsprache Deutsch 410 e-hoi Kombipaket 14 Expeditionskreuzfahrten 67 Familien 582 Golfkreuzfahrten 6 LNG-Antrieb 177 Luxuskreuzfahrten 551 Neues Schiff 8"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 79,
+      "candidate_links_deferred": 76,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "e-hoi",
+      "checker_version": 21,
+      "checked_at": "2026-11-25T03:31:39.837889+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
