@@ -1,11 +1,11 @@
 {
   "date": "2026-11-25",
-  "sources_attempted": 49,
-  "sources_checked": 49,
+  "sources_attempted": 50,
+  "sources_checked": 50,
   "sources_blocked": 0,
   "sources_failed": 0,
-  "qualified_candidates": 348,
-  "candidate_sailings": 348,
+  "qualified_candidates": 349,
+  "candidate_sailings": 349,
   "duplicate_check_required": false,
   "duplicate_sailings_excluded": 75,
   "existing_listings_status": {
@@ -49,6 +49,22 @@
       "advertised_solo_from": 1699,
       "fare_verification": "Published finder fare; final availability and total not independently verified.",
       "extraction_basis": "Ship, departure date and soloFrom in the same structured sailing record."
+    },
+    {
+      "source_name": "Travel Dealz",
+      "source_id": 61,
+      "seller_url": "https://travel-dealz.de/deal/aidaprima-grancanaria-kiel-fahrt/",
+      "ship": "AIDAprima",
+      "departure_date": "2026-12-05",
+      "solo_evidence": "Solo fare",
+      "evidence": "AIDAprima 2026-12-05 Solo fare: Alleinreisende sind ab 1.139€ | Sailing: AIDAprima 2026-12-05 Solo fare: Alleinreisende sind ab 1.139€",
+      "prices_mentioned": [],
+      "durations_mentioned": [],
+      "classification": "qualified_for_manual_review",
+      "review_status": "needs_manual_check",
+      "warning": "Check the seller page and solo price before publishing.",
+      "extraction_basis": "Single article opening offer plus explicit departure statement.",
+      "article_offer_evidence": "Die AIDAprima begibt sich im Dezember 2026 auf eine 15-tägige Reise von Gran Canaria nach Kiel und momentan gibt es ein gutes Angebot für diese Kreuzfahrt. Inklusive der Anreise mit Flug und Transfer gibt es die Innenkabine ab 1.049€, die Außenkabine ab 1.099€ oder die Balkonkabine ab 1.199€ (jeweils pro Person bei Doppelbelegung). Vollpension und Trinkgelder sind inklusive. Alleinreisende sind ab 1.139€ dabei. Habt ihr Fragen zu einem Angebot, zu der Buchung oder sucht ihr eine für euch passende Kreuzfahrt? Kontaktiert uns gerne über unser Anfrageformular , per Chat (rechts unten), Email anfrage@travel-dealz.de oder WhatsApp . Wir beraten euch gerne persönlich. Zur Einreise nach Großbritannien benötigt ihr einen gültigen Reisepass sowie eine bestätigte ETA (Electronic Travel Authorisation). Diese kann online für 20 £ (~23 €) beantragt und ist anschließend maximal 2 Jahre gültig. Weitere Informationen könnt ihr auch beim Auswärtigen Amt abrufen."
     },
     {
       "source_name": "Get That Cruise",
