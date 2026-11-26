@@ -7745,6 +7745,41 @@
       "source_name": "Ocean World Travel",
       "checker_version": 21,
       "checked_at": "2026-11-26T03:36:04.396245+00:00"
+    },
+    "46": {
+      "status": "checked",
+      "url": "https://www.odysiacruise.com/",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.odysiacruise.com/cruise-deals",
+          "label": "Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.odysiacruise.com/travels/ambassador-cruise-line-ambition-northern-europe-3-nights-A22731?productCode=A22731_20271206&type=DynamicPackage",
+          "label": "View deal",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.odysiacruise.com/destinations/canary-islands",
+          "label": "Canary Islands Experience a Canary Islands cruise and enjoy scorching weather in idealistic locations as you explore all the volcanic islands offer up.",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 32,
+      "candidate_links_deferred": 29,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Odysia Cruise",
+      "checker_version": 21,
+      "checked_at": "2026-11-26T03:36:29.751718+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
