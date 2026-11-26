@@ -7360,6 +7360,41 @@
       "source_name": "Havila Voyages",
       "checker_version": 21,
       "checked_at": "2026-11-26T03:32:20.712472+00:00"
+    },
+    "32": {
+      "status": "checked",
+      "url": "https://www.hollandamerica.com/en/us",
+      "lead_snippets": [],
+      "lead_count": 0,
+      "candidate_pages": [
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals",
+          "label": "Exclusive Offers",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals/last-minute-cruise-deals",
+          "label": "Last Minute Cruise Deals",
+          "keyword_count": 0,
+          "snippets": []
+        },
+        {
+          "url": "https://www.hollandamerica.com/en/us/cruise-deals/best-price-guarantee?ICID=INTHWEB20250630I23T4XVMYF",
+          "label": "Best Price Guarantee",
+          "keyword_count": 0,
+          "snippets": []
+        }
+      ],
+      "candidate_links_found": 14,
+      "candidate_links_deferred": 11,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Holland America Line",
+      "checker_version": 21,
+      "checked_at": "2026-11-26T03:32:44.463040+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
