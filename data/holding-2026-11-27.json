@@ -7491,6 +7491,67 @@
       "source_name": "HX Expeditions",
       "checker_version": 21,
       "checked_at": "2026-11-27T03:36:35.044328+00:00"
+    },
+    "35": {
+      "status": "checked",
+      "url": "https://www.iglucruise.com:443/",
+      "lead_snippets": [
+        "inute Short Breaks Mini Cruises All Inclusive Cruises Family Cruises Cheap Luxury Cruises Solo Cruise & Stay Fly Cruises Adult Only Cruises Repositioning Cruises River Cruises All Cruise Deals By year 2026 cruises 2027 cruises 2028 cruises Cruise calendar Cruis",
+        "verpool From Newcastle From Tilbury From Greenock From Dover From Scotland No fly cruises Single cruises from Southampton View all cruises from UK Cruise ships Cruise ships Celebrity Millennium Arvia Anthem of the Seas Celebrity Solstice Iona Enchanted Princess MS"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.iglucruise.com:443/cruises/single/from-southampton",
+          "label": "Single cruises from Southampton",
+          "keyword_count": 20,
+          "snippets": [
+            "Solo Cruises From Southampton | Compare Prices, Destinations & Cruise Lines | Iglu Cruise Discover Destinations, cruise lines, ports, IDs... Black Friday Deals 0203 848 360",
+            "inute Short Breaks Mini Cruises All Inclusive Cruises Family Cruises Cheap Luxury Cruises Solo Cruise & Stay Fly Cruises Adult Only Cruises Repositioning Cruises River Cruises All Cruise Deals By year 2026 cruises 2027 cruises 2028 cruises Cruise calendar Cruis",
+            "verpool From Newcastle From Tilbury From Greenock From Dover From Scotland No fly cruises Single cruises from Southampton View all cruises from UK Cruise ships Cruise ships Celebrity Millennium Arvia Anthem of the Seas Celebrity Solstice Iona Enchanted Princess MS",
+            "r anything, like destination, ship or cruise line... Search Home Cruise deals Singles and Solo cruises deals Solo cruises from Southampton Singles Cruises From Southampton - 2026/2027/2028 Popular with solo cruisers from the UK, single cruises from Southampton o",
+            "stination, ship or cruise line... Search Home Cruise deals Singles and Solo cruises deals Solo cruises from Southampton Singles Cruises From Southampton - 2026/2027/2028 Popular with solo cruisers from the UK, single cruises from Southampton offer a great way to",
+            "... Search Home Cruise deals Singles and Solo cruises deals Solo cruises from Southampton Singles Cruises From Southampton - 2026/2027/2028 Popular with solo cruisers from the UK, single cruises from Southampton offer a great way to visit wonderful destinations wit",
+            "o cruises from Southampton Singles Cruises From Southampton - 2026/2027/2028 Popular with solo cruisers from the UK, single cruises from Southampton offer a great way to visit wonderful destinations without the hassle of flying or sharing cabins. When it comes to",
+            "Singles Cruises From Southampton - 2026/2027/2028 Popular with solo cruisers from the UK, single cruises from Southampton offer a great way to visit wonderful destinations without the hassle of flying or sharing cabins. When it comes to choosing where to go or whi"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.iglucruise.com:443/norwegian-epic/20th-june-2027_c426860",
+          "label": "DEAL OF THE DAY! \r\n                         \r\n\r\n\r\n\r\n                                 \r\n                                     \r\n                                     \r\n\r\n                                     \r\n                                  ",
+          "keyword_count": 4,
+          "snippets": [
+            "inute Short Breaks Mini Cruises All Inclusive Cruises Family Cruises Cheap Luxury Cruises Solo Cruise & Stay Fly Cruises Adult Only Cruises Repositioning Cruises River Cruises All Cruise Deals By year 2026 cruises 2027 cruises 2028 cruises Cruise calendar Cruis",
+            "verpool From Newcastle From Tilbury From Greenock From Dover From Scotland No fly cruises Single cruises from Southampton View all cruises from UK Cruise ships Cruise ships Celebrity Millennium Arvia Anthem of the Seas Celebrity Solstice Iona Enchanted Princess MS",
+            "y BF Balcony BX Balcony View images Studio from £1,449 per person Cosy cabins perfect for solo travellers, found in an exclusive stateroom complex onboard, with access to the Studio Lounge. 100 square feet Norwegian Epic deck plan Deck 11 Deck 12 Key T1 Studio View",
+            "s Deal or no deal etc to go to. Overall I thoroughly enjoyed it and would recommend it to solo travellers or couples read more user 10+ cruises 18 Nov 2026 This was an American-fest, with nothing Norwegian about it! The entertainment, music, food, casino, etc leani"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.iglucruise.com/black-friday-cruise-deals",
+          "label": "Black Friday Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "inute Short Breaks Mini Cruises All Inclusive Cruises Family Cruises Cheap Luxury Cruises Solo Cruise & Stay Fly Cruises Adult Only Cruises Repositioning Cruises River Cruises All Cruise Deals By year 2026 cruises 2027 cruises 2028 cruises Cruise calendar Cruis",
+            "verpool From Newcastle From Tilbury From Greenock From Dover From Scotland No fly cruises Single cruises from Southampton View all cruises from UK Cruise ships Cruise ships Celebrity Millennium Arvia Anthem of the Seas Celebrity Solstice Iona Enchanted Princess MS"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 6,
+      "candidate_links_deferred": 3,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Iglu Cruise",
+      "checker_version": 21,
+      "checked_at": "2026-11-27T03:37:03.429148+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
