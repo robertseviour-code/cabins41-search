@@ -604,6 +604,345 @@
       "source_name": "Cruise Travel Netherlands",
       "checker_version": 21,
       "checked_at": "2026-11-27T03:30:13.400469+00:00"
+    },
+    "17": {
+      "status": "checked",
+      "url": "https://www.cruise118.com/",
+      "lead_snippets": [
+        "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liv",
+        "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only UK Only Cruises from the UK Cruises from Southampton Cruises",
+        "the maximum occupancy, bed configuration and connecting cabin options before booking. For solo travellers An inside cabin can be an economical choice for solo travellers, although some cruise lines offer dedicated solo cabins with different pricing arrangements. If",
+        "tions before booking. For solo travellers An inside cabin can be an economical choice for solo travellers, although some cruise lines offer dedicated solo cabins with different pricing arrangements. If you prefer a brighter room, an ocean view cabin may be worth th",
+        "n be an economical choice for solo travellers, although some cruise lines offer dedicated solo cabins with different pricing arrangements. If you prefer a brighter room, an ocean view cabin may be worth the upgrade. A balcony can also be appealing if you value",
+        "ou value having your own outdoor space. Remember to compare the total fare, including any single supplement, rather than judging value by the advertised per-person price alone. For first-time cruisers If this is your first cruise, an ocean view cabin can offer a usef"
+      ],
+      "lead_count": 6,
+      "candidate_pages": [
+        {
+          "url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "label": "Solo Cruise Deals",
+          "keyword_count": 90,
+          "snippets": [
+            "Solo Cruise Deals | Solo Cruise Deals UK | Cruise118 Freephone 8am - 9pm 08081234118 Our sales team are here to help 7 days a week. For international Callers call 02072064",
+            "Solo Cruise Deals | Solo Cruise Deals UK | Cruise118 Freephone 8am - 9pm 08081234118 Our sales team are here to help 7 days a week. For international Callers call 02072064176 Cruise Deals Pop",
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liv",
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only UK Only Cruises from the UK Cruises from Southampton Cruises",
+            "ises River Cruises Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exp",
+            "Expedition My Booking My Booking Manage Booking FAQ Contact Us Home -> Solo Cruise Deals Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world o",
+            "s Solo Cruise Deals Looking to set sail solo? Set sail on a journey that’s all about you. Solo cruises are designed for independent traveler's who love exploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals!",
+            "ploring the world on their own terms. Save big on solo occupancy cabins with our range of solo cruise deals! Call our Cruise Concierge for more information and discover your deal today See All Cruise Deals Showing 30 out of 12358 cruises Per Person Total Price"
+          ]
+        },
+        {
+          "url": "https://www.cruise118.com/cruise-deals/last-minute",
+          "label": "Last Minute Cruise Deals \n                                     \n                                     Take advantage of huge savings on cancellation cabins.",
+          "keyword_count": 2,
+          "snippets": [
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liv",
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only UK Only Cruises from the UK Cruises from Southampton Cruises"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.cruise118.com/cruise-deals/999pp",
+          "label": "Cheap Cruise Deals",
+          "keyword_count": 2,
+          "snippets": [
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only Cruises from the UK Cruises from Southampton Cruises from Liv",
+            "ises All Inclusive Deals Balcony Cruise Deals Last Minute Cruise Deals Cheap Cruise Deals Solo Cruise Deals Family Cruises 7 Night Cruises Short Cruises Adult Only Cruises Online Cruise Deals UK Only UK Only Cruises from the UK Cruises from Southampton Cruises"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 69,
+      "candidate_links_deferred": 66,
+      "possible_offers": [
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Conquest",
+          "departure_date": "2028-09-04",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £238 Now: £230 £230 4-Day Eastern Caribbean Miami | Grand Turk Island | Miami 04 Sep 2028 4 Nights Carnival Conquest Caribbean 04 Sep 2028 4 Nights Carnival Conquest Caribbean Live availability and prices when | Sailing: Solo Prices From: Was £238 Now: £230 £230 4-Day Eastern Caribbean Miami | Grand Turk Island | Miami 04 Sep 2028 4 Nights Carnival Conquest Caribbean 04 Sep 2028 4 Nights Carnival Conquest Caribbean Live availability and prices when you book online with Cruise118 Solo Prices From: Was £238 Now: £230 £230 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 115558",
+          "prices_mentioned": [
+            "£238",
+            "£230"
+          ],
+          "durations_mentioned": [
+            "4 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Conquest",
+          "departure_date": "2027-01-25",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £239 Now: £231 £231 4-Day Bahamas Miami | Half Moon Cay | Celebration Key | Miami 25 Jan 2027 4 Nights Carnival Conquest Bahamas 25 Jan 2027 4 Nights Carnival Conquest Bahamas Live availability and prices when | Sailing: Solo Prices From: Was £239 Now: £231 £231 4-Day Bahamas Miami | Half Moon Cay | Celebration Key | Miami 25 Jan 2027 4 Nights Carnival Conquest Bahamas 25 Jan 2027 4 Nights Carnival Conquest Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £239 Now: £231 £231 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 015863",
+          "prices_mentioned": [
+            "£239",
+            "£231"
+          ],
+          "durations_mentioned": [
+            "4 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Sunrise",
+          "departure_date": "2027-02-06",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £262 Now: £254 £254 5-Day Bahamas Miami | Nassau | Half Moon Cay | Celebration Key | Miami 06 Feb 2027 5 Nights Carnival Sunrise Bahamas 06 Feb 2027 5 Nights Carnival Sunrise Bahamas Live availability and pric | Sailing: Solo Prices From: Was £262 Now: £254 £254 5-Day Bahamas Miami | Nassau | Half Moon Cay | Celebration Key | Miami 06 Feb 2027 5 Nights Carnival Sunrise Bahamas 06 Feb 2027 5 Nights Carnival Sunrise Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £262 Now: £254 £254 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014627",
+          "prices_mentioned": [
+            "£262",
+            "£254"
+          ],
+          "durations_mentioned": [
+            "5 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Conquest",
+          "departure_date": "2027-02-15",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £262 Now: £254 £254 4-Day Bahamas Miami | Half Moon Cay | Celebration Key | Miami 15 Feb 2027 4 Nights Carnival Conquest Bahamas 15 Feb 2027 4 Nights Carnival Conquest Bahamas Live availability and prices when | Sailing: Solo Prices From: Was £262 Now: £254 £254 4-Day Bahamas Miami | Half Moon Cay | Celebration Key | Miami 15 Feb 2027 4 Nights Carnival Conquest Bahamas 15 Feb 2027 4 Nights Carnival Conquest Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £262 Now: £254 £254 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 015841",
+          "prices_mentioned": [
+            "£262",
+            "£254"
+          ],
+          "durations_mentioned": [
+            "4 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Elation",
+          "departure_date": "2027-01-18",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £264 Now: £256 £256 5-Day Bahamas Jacksonville | Celebration Key | Half Moon Cay | Jacksonville 18 Jan 2027 5 Nights Carnival Elation Bahamas 18 Jan 2027 5 Nights Carnival Elation Bahamas Live availability and | Sailing: Solo Prices From: Was £264 Now: £256 £256 5-Day Bahamas Jacksonville | Celebration Key | Half Moon Cay | Jacksonville 18 Jan 2027 5 Nights Carnival Elation Bahamas 18 Jan 2027 5 Nights Carnival Elation Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £264 Now: £256 £256 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013975",
+          "prices_mentioned": [
+            "£264",
+            "£256"
+          ],
+          "durations_mentioned": [
+            "5 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Elation",
+          "departure_date": "2027-01-23",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £272 Now: £263 £263 5-Day Bahamas Jacksonville | Half Moon Cay | Celebration Key | Jacksonville 23 Jan 2027 5 Nights Carnival Elation Bahamas 23 Jan 2027 5 Nights Carnival Elation Bahamas Live availability and | Sailing: Solo Prices From: Was £272 Now: £263 £263 5-Day Bahamas Jacksonville | Half Moon Cay | Celebration Key | Jacksonville 23 Jan 2027 5 Nights Carnival Elation Bahamas 23 Jan 2027 5 Nights Carnival Elation Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £272 Now: £263 £263 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 013942",
+          "prices_mentioned": [
+            "£272",
+            "£263"
+          ],
+          "durations_mentioned": [
+            "5 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Sunrise",
+          "departure_date": "2027-01-27",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £274 Now: £265 £265 5-Day Bahamas Miami | Nassau | Half Moon Cay | Celebration Key | Miami 27 Jan 2027 5 Nights Carnival Sunrise Bahamas 27 Jan 2027 5 Nights Carnival Sunrise Bahamas Live availability and pric | Sailing: Solo Prices From: Was £274 Now: £265 £265 5-Day Bahamas Miami | Nassau | Half Moon Cay | Celebration Key | Miami 27 Jan 2027 5 Nights Carnival Sunrise Bahamas 27 Jan 2027 5 Nights Carnival Sunrise Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £274 Now: £265 £265 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 014671",
+          "prices_mentioned": [
+            "£274",
+            "£265"
+          ],
+          "durations_mentioned": [
+            "5 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Firenze",
+          "departure_date": "2026-12-14",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £274 Now: £265 £265 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 14 Dec 2026 4 Nights Carnival Firenze Central America 14 Dec 2026 4 Nights Carnival Firenze Central America Live | Sailing: Solo Prices From: Was £274 Now: £265 £265 4-Day Baja Mexico Long Beach | Santa Catalina Island | Ensenada | Long Beach 14 Dec 2026 4 Nights Carnival Firenze Central America 14 Dec 2026 4 Nights Carnival Firenze Central America Live availability and prices when you book online with Cruise118 Solo Prices From: Was £274 Now: £265 £265 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 017810",
+          "prices_mentioned": [
+            "£274",
+            "£265"
+          ],
+          "durations_mentioned": [
+            "4 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        },
+        {
+          "source_name": "Cruise118",
+          "source_id": 17,
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers",
+          "ship": "Carnival Conquest",
+          "departure_date": "2026-12-14",
+          "solo_evidence": "Solo Prices",
+          "evidence": "Solo Prices From: Was £275 Now: £266 £266 4-Day Bahamas Miami | Half Moon Cay | Celebration Key | Miami 14 Dec 2026 4 Nights Carnival Conquest Bahamas 14 Dec 2026 4 Nights Carnival Conquest Bahamas Live availability and prices when | Sailing: Solo Prices From: Was £275 Now: £266 £266 4-Day Bahamas Miami | Half Moon Cay | Celebration Key | Miami 14 Dec 2026 4 Nights Carnival Conquest Bahamas 14 Dec 2026 4 Nights Carnival Conquest Bahamas Live availability and prices when you book online with Cruise118 Solo Prices From: Was £275 Now: £266 £266 View cruise CRUISE ONLY BOOK ONLINE Holiday ID: 015824",
+          "prices_mentioned": [
+            "£275",
+            "£266"
+          ],
+          "durations_mentioned": [
+            "4 Nights"
+          ],
+          "classification": "qualified_for_manual_review",
+          "review_status": "needs_manual_check",
+          "warning": "Check the seller page and solo price before publishing."
+        }
+      ],
+      "duplicates_excluded": [
+        {
+          "ship": "MSC World Asia",
+          "departure_date": "2026-12-04",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Encore",
+          "departure_date": "2028-04-15",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Borealis",
+          "departure_date": "2027-05-12",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Dawn",
+          "departure_date": "2026-12-05",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Dawn",
+          "departure_date": "2026-12-10",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Dawn",
+          "departure_date": "2027-01-07",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Dawn",
+          "departure_date": "2027-01-11",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Joy",
+          "departure_date": "2027-01-08",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Getaway",
+          "departure_date": "2027-01-11",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Carnival Conquest",
+          "departure_date": "2027-03-08",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Dawn",
+          "departure_date": "2026-12-14",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Getaway",
+          "departure_date": "2027-01-25",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Getaway",
+          "departure_date": "2026-12-09",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "MSC Seaside",
+          "departure_date": "2027-02-08",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "MSC Seaside",
+          "departure_date": "2027-02-22",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "MSC Seaside",
+          "departure_date": "2027-03-01",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Dawn",
+          "departure_date": "2027-02-03",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Carnival Firenze",
+          "departure_date": "2026-12-07",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Joy",
+          "departure_date": "2026-12-14",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Carnival Conquest",
+          "departure_date": "2027-03-01",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        },
+        {
+          "ship": "Norwegian Getaway",
+          "departure_date": "2027-04-10",
+          "seller_url": "https://www.cruise118.com/cruise-deals/single-passengers"
+        }
+      ],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Cruise118",
+      "checker_version": 21,
+      "checked_at": "2026-11-27T03:30:39.759650+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
