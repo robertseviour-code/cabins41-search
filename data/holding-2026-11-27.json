@@ -8012,6 +8012,72 @@
       "source_name": "Princess Cruises",
       "checker_version": 21,
       "checked_at": "2026-11-27T03:42:34.122929+00:00"
+    },
+    "56": {
+      "status": "checked",
+      "url": "https://www.rolcruise.co.uk:443/",
+      "lead_snippets": [
+        "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife Cru",
+        "utmost importance to us. So, whether you are planning a last-minute, honeymoon, family or solo cruise, we look after your cruise holiday as if it were our own. We are proud to work alongside such reputable cruise lines, offering our customers the opportunity to"
+      ],
+      "lead_count": 2,
+      "candidate_pages": [
+        {
+          "url": "https://www.rolcruise.co.uk:443/types-of-cruise/solo-travellers",
+          "label": "Solo Cruises",
+          "keyword_count": 23,
+          "snippets": [
+            "Solo Cruises: What to Expect & Why Choose One | ROL Cruise EXCLUSIVE Black Friday Sitewide Savings up to 65%! Offer will end 8pm 30th November 2026 T&C's apply Request a ca",
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife Cru",
+            "Exclusive Loyalty Programme UK's No. 1 Independent Cruise Specialist Home Types of Cruise Solo Cruises Solo Cruises On this page.. Overview Cruises Guide Request a callback Call us FREE 08082394989 Opening Hours - Office closed, we'll open at 8:30am Call us FREE",
+            "alty Programme UK's No. 1 Independent Cruise Specialist Home Types of Cruise Solo Cruises Solo Cruises On this page.. Overview Cruises Guide Request a callback Call us FREE 08082394989 Opening Hours - Office closed, we'll open at 8:30am Call us FREE 08082394989",
+            "am Browse cruises Sail the seven seas solo There is nothing quite like travelling solo! A solo cruise is an ideal getaway for solo adventurers, offering a safe and secure environment in which to visit new destinations, experience different cultures and make lif",
+            "estinations, experience different cultures and make lifelong friends. Learn more Featured Solo Cruises Black Friday Sale View Cruise 2027 No-Fly European Capitals Deal 2027 No-Fly European Capitals Majestic Princess 02 Jul 2027 10 nights No-Fly Cruise Southampto",
+            "Southampton View Itinerary (full fare £1,549) Inside from £1,389 View Cruise Deal See all Solo Cruises Popular Solo Cruise Destinations Bangkok Barcelona Sydney Vancouver Venice What is a solo cruise? A solo cruise is simply a voyage that one sets off on alone.",
+            "erary (full fare £1,549) Inside from £1,389 View Cruise Deal See all Solo Cruises Popular Solo Cruise Destinations Bangkok Barcelona Sydney Vancouver Venice What is a solo cruise? A solo cruise is simply a voyage that one sets off on alone. As with every holida"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.rolcruise.co.uk:443/cruise-detail/2367522-bahamas-puerto-rico-bermuda-the-virg-2028-02-13",
+          "label": "View Cruise 2028 No-Fly Islands of Bermuda, Bahamas & Puerto Rico Deal",
+          "keyword_count": 9,
+          "snippets": [
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife Cru",
+            "r Single Inside Cabin) on Balmoral offers a spacious 160-square-foot retreat designed for solo travellers. Located on Bridge Deck 9, these well-positioned cabins are close to lifts and stairs, allowing easy access to the ship’s public areas. Each features a configu",
+            "nfo The N (Single Interior Room) on Balmoral is a cosy 130-square-foot space designed for solo travellers seeking comfort and convenience. Located on Marina Deck 3 and Main Deck 6, these well-placed cabins are close to lifts and stairs, ensuring easy access to the",
+            "ngle Ocean View Cabin) on Balmoral offers a spacious 165-square-foot retreat designed for solo travellers. Located on Coral Deck 4 and Lido Deck 8, these well-positioned cabins feature a large picture window for natural light and sea views. Some cabins in this cate",
+            "r natural light and sea views. Some cabins in this category have two beds but are sold as single occupancy. Each includes an en-suite bathroom with a bath and shower (unless stated otherwise), air conditioning, a vanity desk, a fridge, tea and coffee-making faciliti",
+            "he K (Single Ocean View Cabin) on Balmoral is a cosy 140-square-foot retreat designed for solo travellers. Located on Marina Deck 3, these well-positioned cabins feature a single porthole window, allowing natural light and ocean views. Each cabin includes a comfort",
+            "JB (Single Balcony Suite) on Balmoral is a spacious 270 square feet retreat designed for solo travellers seeking extra comfort and style. Located on Bridge Deck 9, these well-appointed suites feature a private balcony with comfortable seating, a separate sitting a",
+            "te bathroom with a bath and/or shower. Some JB-grade suites have two beds but are sold as single occupancy. Amenities include a configurable double or twin bed, air conditioning, a vanity desk, a fridge, tea and coffee-making facilities, an interactive TV, a hairdry"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        },
+        {
+          "url": "https://www.rolcruise.co.uk:443/cruise-detail/2371154-caribbean-2029-01-12",
+          "label": "View Cruise 2029 No-Fly Grand Caribbean Deal",
+          "keyword_count": 3,
+          "snippets": [
+            "ses All-Inclusive Cruises 6★ & Ultra-Luxury Cruising World Cruises Cruise & Stay Packages Solo Cruises Small Ship Cruising All Cruises Christmas Cruises Cruise & Rail Northern Lights Cruises Family Cruises Honeymoon Cruises New to Cruising Scenery & Wildlife Cru",
+            "ngle Oceanview More Info The KB cabin category on Queen Mary 2 is a thoughtfully designed solo cabin, offering 178 square feet of comfortable space for one guest. Positioned midship on Deck 2, the cabin features a picture window with a sea view and a cosy loun",
+            "quire now Single Oceanview More Info The KC cabin category on Queen Mary 2 is a luxurious solo cabin, offering 178 square feet of space designed for one guest. Located mid-aft on Deck 3, this cabin features a picture window with a sea view and a comfortable lo"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 18,
+      "candidate_links_deferred": 15,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "ROL Cruise",
+      "checker_version": 21,
+      "checked_at": "2026-11-27T03:45:59.175168+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
