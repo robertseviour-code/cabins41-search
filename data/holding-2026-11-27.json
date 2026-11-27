@@ -8155,6 +8155,35 @@
       "source_name": "Saga Cruises",
       "checker_version": 21,
       "checked_at": "2026-11-27T03:46:48.579448+00:00"
+    },
+    "59": {
+      "status": "checked",
+      "url": "https://www.seabourn.com/en/us",
+      "lead_snippets": [
+        "MORE Offers Back to main menu Offers Special Offers All Special Offers Black Friday Sale Solo Travelers Finale Sail Combo Sailings Seabourn Club Members Enjoy a Two Category Veranda Suite Upgrade, up to $2,000 USD Shipboard Credit per suite, and a 15% Reduced Dep"
+      ],
+      "lead_count": 1,
+      "candidate_pages": [
+        {
+          "url": "https://www.seabourn.com/en/us/find-a-cruise?dealId=SBNSOLO_101724&csvFileName=SBNSOLO_101724",
+          "label": "Solo Travelers",
+          "keyword_count": 1,
+          "snippets": [
+            "MORE Offers Back to main menu Offers Special Offers All Special Offers Black Friday Sale Solo Travelers Finale Sail Combo Sailings Seabourn Club Members Enjoy a Two Category Veranda Suite Upgrade, up to $2,000 USD Shipboard Credit per suite, and a 15% Reduced Dep"
+          ],
+          "review_required": true,
+          "review_reason": "Solo wording found; ship/departure match needs manual checking."
+        }
+      ],
+      "candidate_links_found": 1,
+      "candidate_links_deferred": 0,
+      "possible_offers": [],
+      "duplicates_excluded": [],
+      "blocked_candidate_pages": [],
+      "note": "Candidates require explicit solo offer wording, ship and departure date; prices still need manual verification.",
+      "source_name": "Seabourn",
+      "checker_version": 21,
+      "checked_at": "2026-11-27T03:47:10.607651+00:00"
     }
   },
   "description": "Qualified solo offer candidates; not verified offers"
